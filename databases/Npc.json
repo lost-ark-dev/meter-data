@@ -1075,7 +1075,7 @@
     },
     "641004": {
         "id": 641004,
-        "name": "Essence of Avarice",
+        "name": "Covetous Essence",
         "grade": "boss",
         "type": "monster"
     },
@@ -10727,6 +10727,12 @@
         "grade": "none",
         "type": "monster"
     },
+    "620160": {
+        "id": 620160,
+        "name": "Caliligos",
+        "grade": "raid",
+        "type": "monster"
+    },
     "620161": {
         "id": 620161,
         "name": "Lightning Dragon Jade",
@@ -17225,6 +17231,18 @@
         "grade": "normal",
         "type": "monster"
     },
+    "807032": {
+        "id": 807032,
+        "name": "Tikatika Peak",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807033": {
+        "id": 807033,
+        "name": "Moguro",
+        "grade": "normal",
+        "type": "monster"
+    },
     "807500": {
         "id": 807500,
         "name": "Celestial Knight",
@@ -17263,7 +17281,7 @@
     },
     "807506": {
         "id": 807506,
-        "name": "Evil-struck Belled",
+        "name": "Demon-Struck Belled",
         "grade": "normal",
         "type": "monster"
     },
@@ -17567,6 +17585,72 @@
         "grade": "normal",
         "type": "monster"
     },
+    "807559": {
+        "id": 807559,
+        "name": "Tikatika Peak",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807560": {
+        "id": 807560,
+        "name": "Tikatika Peak",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807561": {
+        "id": 807561,
+        "name": "Mayhem Swordfighter",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807562": {
+        "id": 807562,
+        "name": "Mayhem Warrior",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807563": {
+        "id": 807563,
+        "name": "Moguro",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807564": {
+        "id": 807564,
+        "name": "Mutated Orangutan",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807565": {
+        "id": 807565,
+        "name": "Mad Nia Tribe Militia",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807566": {
+        "id": 807566,
+        "name": "Mad Nia Tribe Militia",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807567": {
+        "id": 807567,
+        "name": "Onyx Knight Soldier",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807568": {
+        "id": 807568,
+        "name": "Mutated Onyx Knight",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "807569": {
+        "id": 807569,
+        "name": "Onyx Knight Hound",
+        "grade": "normal",
+        "type": "monster"
+    },
     "808000": {
         "id": 808000,
         "name": "Celestial Priest",
@@ -17702,6 +17786,54 @@
     "808022": {
         "id": 808022,
         "name": "Crossbow Assassin",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "808023": {
+        "id": 808023,
+        "name": "Mayhem Archer",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "808024": {
+        "id": 808024,
+        "name": "Tikatika Peak",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "808025": {
+        "id": 808025,
+        "name": "Tikatika Peak",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "808026": {
+        "id": 808026,
+        "name": "Moguro",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "808027": {
+        "id": 808027,
+        "name": "Mutated Orangutan",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "808028": {
+        "id": 808028,
+        "name": "Mad Nia Tribe Militia",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "808029": {
+        "id": 808029,
+        "name": "Mad Nia Tribe Militia",
+        "grade": "normal",
+        "type": "monster"
+    },
+    "808030": {
+        "id": 808030,
+        "name": "Onyx Knight Soldier",
         "grade": "normal",
         "type": "monster"
     },
@@ -17939,6 +18071,30 @@
         "grade": "named",
         "type": "monster"
     },
+    "808539": {
+        "id": 808539,
+        "name": "Redhaired Mayhem Warrior",
+        "grade": "named",
+        "type": "monster"
+    },
+    "808540": {
+        "id": 808540,
+        "name": "Corpse Tailor",
+        "grade": "named",
+        "type": "monster"
+    },
+    "808541": {
+        "id": 808541,
+        "name": "Moguro Captain",
+        "grade": "named",
+        "type": "monster"
+    },
+    "808542": {
+        "id": 808542,
+        "name": "Mutated Onyx Knight Commander",
+        "grade": "named",
+        "type": "monster"
+    },
     "809000": {
         "id": 809000,
         "name": "Exiled Warlock",
@@ -18005,6 +18161,18 @@
         "grade": "named",
         "type": "monster"
     },
+    "809011": {
+        "id": 809011,
+        "name": "Tikatika Peak Elite",
+        "grade": "named",
+        "type": "monster"
+    },
+    "809012": {
+        "id": 809012,
+        "name": "Mutated Orangutan Elite",
+        "grade": "named",
+        "type": "monster"
+    },
     "809500": {
         "id": 809500,
         "name": "Phantom Legion Queen",
@@ -18062,6 +18230,30 @@
     "809509": {
         "id": 809509,
         "name": "Distorted Dark Sigmund",
+        "grade": "boss",
+        "type": "monster"
+    },
+    "809510": {
+        "id": 809510,
+        "name": "Broken Mayhem Piñata",
+        "grade": "boss",
+        "type": "monster"
+    },
+    "809511": {
+        "id": 809511,
+        "name": "Mutated Orangutan Captain",
+        "grade": "boss",
+        "type": "monster"
+    },
+    "809512": {
+        "id": 809512,
+        "name": "Mayhem Cicerra",
+        "grade": "boss",
+        "type": "monster"
+    },
+    "809513": {
+        "id": 809513,
+        "name": "Onyx Knight Commander",
         "grade": "boss",
         "type": "monster"
     },
@@ -23263,7 +23455,7 @@
     },
     "834260": {
         "id": 834260,
-        "name": "Essence of Avarice",
+        "name": "Covetous Essence",
         "grade": "named",
         "type": "monster"
     },
@@ -23743,7 +23935,7 @@
     },
     "835260": {
         "id": 835260,
-        "name": "Essence of Avarice",
+        "name": "Covetous Essence",
         "grade": "seed",
         "type": "monster"
     },
@@ -24685,7 +24877,7 @@
     },
     "810301": {
         "id": 810301,
-        "name": "Essence of Avarice",
+        "name": "Covetous Essence",
         "grade": "boss",
         "type": "monster"
     },
@@ -44509,7 +44701,7 @@
     },
     "173100": {
         "id": 173100,
-        "name": "Witch of Desire",
+        "name": "Covetous Witch",
         "grade": "normal",
         "type": "monster"
     },
@@ -44833,7 +45025,7 @@
     },
     "174190": {
         "id": 174190,
-        "name": "Witch of Desire",
+        "name": "Covetous Witch",
         "grade": "normal",
         "type": "monster"
     },
@@ -47833,7 +48025,7 @@
     },
     "502009": {
         "id": 502009,
-        "name": "Rekiel of Avarice",
+        "name": "Covetous Rekiel",
         "grade": "boss",
         "type": "monster"
     },
@@ -50581,7 +50773,7 @@
     },
     "502012": {
         "id": 502012,
-        "name": "Witch of Desire",
+        "name": "Covetous Witch",
         "grade": "normal",
         "type": "monster"
     },
@@ -60811,7 +61003,7 @@
     },
     "480205": {
         "id": 480205,
-        "name": "Rekiel of Avarice",
+        "name": "Covetous Rekiel",
         "grade": "seed",
         "type": "monster"
     },
@@ -60907,55 +61099,55 @@
     },
     "480221": {
         "id": 480221,
-        "name": "Monster of Desire",
+        "name": "Covetous Monster",
         "grade": "normal",
         "type": "monster"
     },
     "480222": {
         "id": 480222,
-        "name": "Monster of Desire",
+        "name": "Covetous Monster",
         "grade": "normal",
         "type": "monster"
     },
     "480223": {
         "id": 480223,
-        "name": "Monster of Desire",
+        "name": "Covetous Monster",
         "grade": "normal",
         "type": "monster"
     },
     "480224": {
         "id": 480224,
-        "name": "Monster of Desire",
+        "name": "Covetous Monster",
         "grade": "normal",
         "type": "monster"
     },
     "480225": {
         "id": 480225,
-        "name": "Monster of Desire",
+        "name": "Covetous Monster",
         "grade": "normal",
         "type": "monster"
     },
     "480226": {
         "id": 480226,
-        "name": "Monster of Desire",
+        "name": "Covetous Monster",
         "grade": "normal",
         "type": "monster"
     },
     "480227": {
         "id": 480227,
-        "name": "Monster of Desire",
+        "name": "Covetous Monster",
         "grade": "normal",
         "type": "monster"
     },
     "480228": {
         "id": 480228,
-        "name": "Monster of Desire",
+        "name": "Covetous Monster",
         "grade": "normal",
         "type": "monster"
     },
     "480229": {
         "id": 480229,
-        "name": "Monster of Desire",
+        "name": "Covetous Monster",
         "grade": "normal",
         "type": "monster"
     },
@@ -61015,7 +61207,7 @@
     },
     "480239": {
         "id": 480239,
-        "name": "Monster of Desire",
+        "name": "Covetous Monster",
         "grade": "normal",
         "type": "monster"
     },
@@ -69943,7 +70135,7 @@
     },
     "419471801": {
         "id": 419471801,
-        "name": "Delerium Spiritual Echo",
+        "name": "Mayhem Spiritual Echo",
         "grade": "normal",
         "type": "monster"
     },
@@ -70363,7 +70555,7 @@
     },
     "419470168": {
         "id": 419470168,
-        "name": "Giant Delerium Spiritual Echo",
+        "name": "Giant Mayhem Residue",
         "grade": "named",
         "type": "monster"
     },
@@ -74809,19 +75001,19 @@
     },
     "10102603": {
         "id": 10102603,
-        "name": "Snickering Toto",
+        "name": "Snickering Froggy",
         "grade": "underling",
         "type": "pet"
     },
     "10102604": {
         "id": 10102604,
-        "name": "The Cute Girl",
+        "name": "Cute Froggy",
         "grade": "underling",
         "type": "pet"
     },
     "10102605": {
         "id": 10102605,
-        "name": "Captain Froggy",
+        "name": "Chic Froggy",
         "grade": "underling",
         "type": "pet"
     },
@@ -74839,19 +75031,19 @@
     },
     "10102613": {
         "id": 10102613,
-        "name": "Snickering Toto",
+        "name": "Snickering Froggy",
         "grade": "underling",
         "type": "pet"
     },
     "10102614": {
         "id": 10102614,
-        "name": "The Cute Girl",
+        "name": "Cute Froggy",
         "grade": "underling",
         "type": "pet"
     },
     "10102615": {
         "id": 10102615,
-        "name": "Captain Froggy",
+        "name": "Chic Froggy",
         "grade": "underling",
         "type": "pet"
     },
@@ -90367,7 +90559,7 @@
     },
     "19087": {
         "id": 19087,
-        "name": "Book of Secret",
+        "name": "Book of Secrets",
         "grade": "normal",
         "type": "townsfolk"
     },
@@ -91921,7 +92113,7 @@
     },
     "19446": {
         "id": 19446,
-        "name": "Mariner Rosa",
+        "name": "Navigator Rosa",
         "grade": "normal",
         "type": "townsfolk"
     },
@@ -116071,7 +116263,7 @@
     },
     "50672": {
         "id": 50672,
-        "name": "Papunika_BRANDY",
+        "name": "Brandy",
         "grade": "normal",
         "type": "townsfolk"
     },
@@ -119651,6 +119843,48 @@
         "grade": "normal",
         "type": "townsfolk"
     },
+    "51427": {
+        "id": 51427,
+        "name": "Father Joytide Fairy Merhen",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "51428": {
+        "id": 51428,
+        "name": "Father Joytide Fairy Baika",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "51429": {
+        "id": 51429,
+        "name": "Father Joytide Fairy Conte",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "51430": {
+        "id": 51430,
+        "name": "Father Joytide Fairy Pavela",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "51431": {
+        "id": 51431,
+        "name": "Sneg the Ice Bear",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "51432": {
+        "id": 51432,
+        "name": "스네구로치카",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "51433": {
+        "id": 51433,
+        "name": "검은 곰 비에체르",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
     "51438": {
         "id": 51438,
         "name": "Allegro",
@@ -121061,6 +121295,24 @@
         "grade": "normal",
         "type": "townsfolk"
     },
+    "51791": {
+        "id": 51791,
+        "name": "Snowflake Reindeer Geloti",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "51792": {
+        "id": 51792,
+        "name": "Polar Bear Turry",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "51793": {
+        "id": 51793,
+        "name": "Father Joytide",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
     "51810": {
         "id": 51810,
         "name": "Nuni",
@@ -122141,93 +122393,9 @@
         "grade": "normal",
         "type": "townsfolk"
     },
-    "80133": {
-        "id": 80133,
-        "name": "Merchant Esti",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80134": {
-        "id": 80134,
-        "name": "예약 기다리는 상인1",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80135": {
-        "id": 80135,
-        "name": "예약 기다리는 상인2",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80136": {
-        "id": 80136,
-        "name": "예약 기다리는 상인3",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80137": {
-        "id": 80137,
-        "name": "예약 기다리는 상인4",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80138": {
-        "id": 80138,
-        "name": "예약 기다리는 상인5",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80139": {
-        "id": 80139,
-        "name": "예약 기다리는 상인6",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80140": {
-        "id": 80140,
-        "name": "예약 기다리는 상인7",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80141": {
-        "id": 80141,
-        "name": "Reservation Manager",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80142": {
-        "id": 80142,
-        "name": "Meat Merchant",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80143": {
-        "id": 80143,
-        "name": "Candy Merchant",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80144": {
-        "id": 80144,
-        "name": "Vegetable Merchant",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80145": {
-        "id": 80145,
-        "name": "Morimototo",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80146": {
-        "id": 80146,
-        "name": "Rodney",
-        "grade": "normal",
-        "type": "townsfolk"
-    },
-    "80147": {
-        "id": 80147,
-        "name": "Warne",
+    "80121": {
+        "id": 80121,
+        "name": "Riana",
         "grade": "normal",
         "type": "townsfolk"
     },
@@ -123635,12 +123803,6 @@
         "grade": "normal",
         "type": "townsfolk"
     },
-    "85000": {
-        "id": 85000,
-        "name": "Limited Time Gold Event Shop",
-        "grade": "lucky",
-        "type": "townsfolk"
-    },
     "89999": {
         "id": 89999,
         "name": "",
@@ -124723,13 +124885,13 @@
     },
     "28169": {
         "id": 28169,
-        "name": "Delerium Spiritual Echo",
+        "name": "Mayhem Spiritual Echo",
         "grade": "normal",
         "type": "townsfolk"
     },
     "28170": {
         "id": 28170,
-        "name": "Delerium Spiritual Echo",
+        "name": "Mayhem Spiritual Echo",
         "grade": "normal",
         "type": "townsfolk"
     },
@@ -132527,6 +132689,48 @@
         "grade": "none",
         "type": "townsfolk"
     },
+    "42339": {
+        "id": 42339,
+        "name": "Senior Mage Pelon",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "42340": {
+        "id": 42340,
+        "name": "베른_군단장레이드_몽환_마법사_정답",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "42341": {
+        "id": 42341,
+        "name": "베른_군단장레이드_몽환_마법사_전기",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "42342": {
+        "id": 42342,
+        "name": "베른_군단장레이드_몽환_마법사_스턴",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "42343": {
+        "id": 42343,
+        "name": "Book of Chaos",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "42344": {
+        "id": 42344,
+        "name": "Phantomstruck Soldier",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "42345": {
+        "id": 42345,
+        "name": "Phantomstruck Soldier",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
     "42800": {
         "id": 42800,
         "name": "Xereon",
@@ -134233,7 +134437,7 @@
     },
     "43611": {
         "id": 43611,
-        "name": "Magick Scholar Lapian",
+        "name": "Magick Scholar Rafion",
         "grade": "normal",
         "type": "townsfolk"
     },
@@ -134299,7 +134503,7 @@
     },
     "43631": {
         "id": 43631,
-        "name": "Magick Scholar Lapian",
+        "name": "Magick Scholar Rafion",
         "grade": "normal",
         "type": "townsfolk"
     },
@@ -135440,6 +135644,12 @@
     "46814": {
         "id": 46814,
         "name": "Crimson Mirror",
+        "grade": "normal",
+        "type": "townsfolk"
+    },
+    "46822": {
+        "id": 46822,
+        "name": "Oniro",
         "grade": "normal",
         "type": "townsfolk"
     },

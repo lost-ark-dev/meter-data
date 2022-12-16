@@ -98561,7 +98561,7 @@
     },
     "29270": {
         "id": 29270,
-        "name": "Perfect Shot",
+        "name": "Perfect Zone",
         "desc": "Fire a high-speed large-caliber bullet that inflicts <$MACRO physic @1:292700/> Damage. Hit the Perfect Zone to inflict <$MACRO physic @1:292701/> Damage and knock back foes.",
         "classid": 503,
         "icon": "DH_Skill_01_26.png"
@@ -99149,7 +99149,7 @@
     },
     "38270": {
         "id": 38270,
-        "name": "Perfect Shot",
+        "name": "Perfect Zone",
         "desc": "Fires a high-speed large-caliber bullet to inflict <$MACRO physic @1:382700/> Damage. Hit the Perfect Zone to inflict <$MACRO physic @1:382701/> Damage and knock back foes.",
         "classid": 512,
         "icon": "DH_Skill_01_26.png"
@@ -99877,7 +99877,7 @@
     },
     "19287": {
         "id": 19287,
-        "name": "Royal",
+        "name": "Empress",
         "desc": "For <$MACRO bufftime @1:192834/>s, Damage of Normal skills increases by <FONT COLOR='#99ff99'>50%</FONT>.<BR>This card can be used upon activating the <FONT COLOR='#ffff99'>Order of the Emperor</FONT> engraving.",
         "classid": 202,
         "icon": "AR_CardDeck_ToolTip_14.png"
@@ -100102,14 +100102,14 @@
     "20080": {
         "id": 20080,
         "name": "Jahia & Ligheas",
-        "desc": "Summon Water Elementals Jahia and Ligheas, inflicting up to <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 200801/>/10000)+((<$TABLE_SKILLEFFECT ValueA 200801/> + <$TABLE_SKILLEFFECT ValueB 200801/>)/2))*4/></FONT> Water Elemental Damage to all nearby foes. Afterwards, temporarily freeze the whirlpool, freezing foes for <$MACRO bufftime @1:200803/>s inflicting <$MACRO magic @1:200802/> [Water] Damage.\nComplete the Awakening quest to learn this skill.",
+        "desc": "Summon Water Elementals Jahia & Ligheas, inflicting up to <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 200801/>/10000)+((<$TABLE_SKILLEFFECT ValueA 200801/> + <$TABLE_SKILLEFFECT ValueB 200801/>)/2))*4/></FONT> Water Elemental Damage to all nearby foes. Afterwards, temporarily freeze the whirlpool, freezing foes for <$MACRO bufftime @1:200803/>s inflicting <$MACRO magic @1:200802/> [Water] Damage.\nComplete the Awakening quest to learn this skill.",
         "classid": 203,
         "icon": "SM_Skill_01_13.png"
     },
     "20081": {
         "id": 20081,
         "name": "Jahia & Ligheas",
-        "desc": "Summon Water Elementals Jahia and Ligheas, inflicting up to <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 200805/>/10000)+((<$TABLE_SKILLEFFECT ValueA 200805/> + <$TABLE_SKILLEFFECT ValueB 200805/>)/2))*4/></FONT> [Water] Damage to all nearby foes. Afterwards, temporarily freeze the whirlpool, freezing foes for <$MACRO bufftime @1:200803/>s inflicting <$MACRO magic @1:200806/> [Water] Damage. After using the skill, receive Jahia and Ligheas's protection to gain a shield that absorbs Damage equal to <$MACRO shield @1:200808/> of Max HP for <$MACRO bufftime @1:200808/>s.\nComplete the Awakening quest to learn this skill.",
+        "desc": "Summon Water Elementals Jahia & Ligheas, inflicting up to <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 200805/>/10000)+((<$TABLE_SKILLEFFECT ValueA 200805/> + <$TABLE_SKILLEFFECT ValueB 200805/>)/2))*4/></FONT> [Water] Damage to all nearby foes. Afterwards, temporarily freeze the whirlpool, freezing foes for <$MACRO bufftime @1:200803/>s inflicting <$MACRO magic @1:200806/> [Water] Damage. After using the skill, receive Jahia & Ligheas's protection to gain a shield that absorbs Damage equal to <$MACRO shield @1:200808/> of Max HP for <$MACRO bufftime @1:200808/>s.\nComplete the Awakening quest to learn this skill.",
         "classid": 203,
         "icon": "SM_Skill_01_13.png"
     },
@@ -100578,7 +100578,7 @@
     "20240": {
         "id": 20240,
         "name": "Earth Collapse",
-        "desc": "Cause a powerful earthquake at the target location, launching foes into the air inflicting<$MACRO magic @1:202401/> Earth Damage.",
+        "desc": "Cause a powerful earthquake at the target location, launching foes into the air inflicting <$MACRO magic @1:202401/> Earth Damage.",
         "classid": 203,
         "icon": "SM_Skill_01_18.png"
     },
@@ -100599,7 +100599,7 @@
     "20270": {
         "id": 20270,
         "name": "Electric Storm",
-        "desc": "Concentrate energy for <FONT COLOR='#ffff99'>1.5s</FONT> and create an electric storm at the target location. The storm lasts for <FONT COLOR='#ffff99'>5s</FONT>, inflicting <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 202701/>/10000)+((<$TABLE_SKILLEFFECT ValueA 202701/> + <$TABLE_SKILLEFFECT ValueB 202701/>)/2))*10/></FONT>[Lightning] Damage over </FONT>10<FONT COLOR='#ffff99'> hits.",
+        "desc": "Concentrate energy for <FONT COLOR='#ffff99'>1.5s</FONT> and create an electric storm at the target location. The storm lasts for <FONT COLOR='#ffff99'>5s</FONT>, inflicting <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 202701/>/10000)+((<$TABLE_SKILLEFFECT ValueA 202701/> + <$TABLE_SKILLEFFECT ValueB 202701/>)/2))*10/></FONT> [Lightning] Damage over </FONT>10<FONT COLOR='#ffff99'> hits.",
         "classid": 203,
         "icon": "SM_Skill_01_21.png"
     },
@@ -102538,7 +102538,7 @@
     "17080": {
         "id": 17080,
         "name": "Dash Upper Fire",
-        "desc": "Advance </FONT>3 meters<$MACRO physic @1:170800/> forward, striking foes with your gunlance to inflict <FONT COLOR='#ffff99'> Damage, launching them into the air. Use the skill again to fire a shell and inflict <$MACRO physic @1:170810/> Damage.",
+        "desc": "Advance <FONT COLOR='#ffff99'>3 meters</FONT> forward, striking foes with your gunlance to inflict <$MACRO physic @1:170800/> Damage, launching them into the air. Use the skill again to fire a shell and inflict <$MACRO physic @1:170810/> Damage.",
         "classid": 104,
         "icon": "GL_Skill_01_8.png"
     },
@@ -102867,7 +102867,7 @@
     "18230": {
         "id": 18230,
         "name": "Big Bang",
-        "desc": "Gather Gravitational Energy then explode it, inflicting <$MACRO physic_pvp @1:182300/> Damage to foes in a <FONT COLOR='#ffff99'>3.2meter</FONT> radius and knocking them away. All incoming Damage -<FONT COLOR='#99ff99'>50%</FONT> and gain immunity against Status Ailments, Pushes, and Move Speed reductions. Ignore collisions with adventurers and normal monsters while gathering energy. You can move while gathering Gravitational Energy. Damage up to +<FONT COLOR='#ffbb00'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>*(<$TABLE_SKILLEFFECT ValueF 182300/>/10000)+((<$TABLE_SKILLEFFECT ValueA 182300/> + <$TABLE_SKILLEFFECT ValueB 182300/>)/2))*2) * (<$TABLE_SKILLEFFECT PvPDamageCoefficient 182300/>/10000)/></FONT> and the explosion radius up to +<FONT COLOR='#ffff99'>8 meters</FONT>, depending on how long you gathered energy.",
+        "desc": "Gather Gravitational Energy then explode it, inflicting <$MACRO physic @1:182300/> Damage to foes in a <FONT COLOR='#ffff99'>3.2meter</FONT> radius and knocking them away. All incoming Damage -<FONT COLOR='#99ff99'>50%</FONT> and gain immunity against Status Ailments, Pushes, and Move Speed reductions. Ignore collisions with adventurers and normal monsters while gathering energy. You can move while gathering Gravitational Energy. Damage up to +<FONT COLOR='#ffbb00'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>*(<$TABLE_SKILLEFFECT ValueF 182300/>/10000)+((<$TABLE_SKILLEFFECT ValueA 182300/> + <$TABLE_SKILLEFFECT ValueB 182300/>)/2))*2/></FONT> and the explosion radius up to +<FONT COLOR='#ffff99'>8 meters</FONT>, depending on how long you gathered energy.",
         "classid": 103,
         "icon": "DT_Skill_01_21.png"
     },
@@ -104301,43 +104301,43 @@
     },
     "42911": {
         "id": 42911,
-        "name": "[우거진갈대섬] 보물 사냥꾼_폭탄설치_Q_RED",
-        "desc": "",
+        "name": "Set Up Bomb",
+        "desc": "Set up a bomb that explodes after 1m.\nSetting up the bomb will disable Stealth.\nThe bomb will expose stealthy foes and knock them down if they step on it.",
         "classid": 0,
         "icon": "PO_Skill_01_94.png"
     },
     "42912": {
         "id": 42912,
-        "name": "[우거진갈대섬] 보물 사냥꾼_전력질주_W",
-        "desc": "",
+        "name": "Sprint",
+        "desc": "Sprint.\nYou will move much faster, but using Sprint will cancel your Stealth.",
         "classid": 0,
         "icon": "PO_Skill_01_92.png"
     },
     "42913": {
         "id": 42913,
-        "name": "[우거진갈대섬] 보물 사냥꾼_탐지_E",
+        "name": "Detect",
         "desc": "",
         "classid": 0,
         "icon": "Buff_482.png"
     },
     "42914": {
         "id": 42914,
-        "name": "[우거진갈대섬] 보물 사냥꾼_보물사냥_R",
-        "desc": "",
+        "name": "Treasure Hunt",
+        "desc": "Available upon obtaining Treasure Hunter's Nausea Cure.\nAttack foes while spinning like a whirlwind.\nYou gain Super Armor while casting and knock down foes upon hit.",
         "classid": 0,
         "icon": "PO_Skill_01_37.png"
     },
     "42915": {
         "id": 42915,
-        "name": "[우거진갈대섬] 보물 사냥꾼_은신_A",
+        "name": "Stealth",
         "desc": "",
         "classid": 0,
         "icon": "Buff_243.png"
     },
     "42916": {
         "id": 42916,
-        "name": "[우거진갈대섬] 보물 사냥꾼_폭탄설치_Q_BLUE",
-        "desc": "",
+        "name": "Set Up Bomb",
+        "desc": "Set up a bomb that explodes after 1m.\nSetting up the bomb will disable Stealth.\nThe bomb will expose stealthy foes and knock them down if they step on it.",
         "classid": 0,
         "icon": "PO_Skill_01_94.png"
     },

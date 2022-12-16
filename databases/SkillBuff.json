@@ -12618,7 +12618,7 @@
     "9249": {
         "id": 9249,
         "name": "Wound",
-        "desc": "Incoming Physical Damage +<FONT COLOR='#ff9999'>10%</FONT> and Incoming Magick Damage +<FONT COLOR='#ff9999'>10%</FONT>.",
+        "desc": "Incoming Phy. Damage +<FONT COLOR='#ff9999'>10%</FONT> and Incoming Mag. Damage +<FONT COLOR='#ff9999'>10%</FONT>.",
         "icon": "Buff_61.png",
         "duration": 74500,
         "overlapflag": 0
@@ -13705,7 +13705,7 @@
     },
     "90001114": {
         "id": 90001114,
-        "name": "Light of Desitny",
+        "name": "Light of Destiny",
         "desc": "A light that shines upon the power of fate.",
         "icon": "Buff_218.png",
         "duration": -1,
@@ -17410,7 +17410,7 @@
     "900611": {
         "id": 900611,
         "name": "Procyon's Protection",
-        "desc": "Receive Prycyon's protection.\nDamage to foes +<FONT COLOR='#99ff99'>10%</FONT>. Damage received -<FONT COLOR='#99ff99'>20%</FONT>.",
+        "desc": "Receive Procyon's protection.\nDamage to foes +<FONT COLOR='#99ff99'>10%</FONT>. Damage received -<FONT COLOR='#99ff99'>20%</FONT>.",
         "icon": "Buff_527.png",
         "duration": -1,
         "overlapflag": 0
@@ -20746,7 +20746,7 @@
     "900118": {
         "id": 900118,
         "name": "Incoming Damage Reduction",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:900118/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:900118/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -20882,7 +20882,7 @@
     "900146": {
         "id": 900146,
         "name": "Damage Increase (Minor)",
-        "desc": "Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:900146/>%</FONT>. Mag. Damage received  +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:900146/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:900146/>%</FONT>. Incoming Mag. Damage received  +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:900146/>%</FONT>.",
         "icon": "Buff_26.png",
         "duration": -1,
         "overlapflag": 0
@@ -20890,7 +20890,7 @@
     "900147": {
         "id": 900147,
         "name": "Damage Increase (Major)",
-        "desc": "Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:900147/>%</FONT>. Mag. Damage received  +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:900147/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:900147/>%</FONT>. Incoming Mag. Damage received  +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:900147/>%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -20930,7 +20930,7 @@
     "900152": {
         "id": 900152,
         "name": "Atk. Power and Incoming Damage Reduction",
-        "desc": "Atk. Power -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:900152/>%</FONT>. Phy. Damage received -<FONT COLOR='#99ff99'><$MACRO buffstat1_100 @1:900152/>%</FONT>.",
+        "desc": "Atk. Power -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:900152/>%</FONT>. Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$MACRO buffstat1_100 @1:900152/>%</FONT>.",
         "icon": "Buff_31.png",
         "duration": -1,
         "overlapflag": 0
@@ -20938,7 +20938,7 @@
     "900153": {
         "id": 900153,
         "name": "Atk. Power Increase, Incoming Damage Increase",
-        "desc": "<$MACRO buffkey0 @1:900153/> <FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:900153/>%</FONT>. Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:900153/>%</FONT>.",
+        "desc": "<$MACRO buffkey0 @1:900153/> <FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:900153/>%</FONT>. Incoming Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:900153/>%</FONT>.",
         "icon": "Buff_32.png",
         "duration": -1,
         "overlapflag": 0
@@ -21098,7 +21098,7 @@
     "901028": {
         "id": 901028,
         "name": "Damage Increase (Minor)",
-        "desc": "Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:901028/>%</FONT>. Mag. Damage received  +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:901028/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:901028/>%</FONT>. Incoming Mag. Damage received  +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:901028/>%</FONT>.",
         "icon": "Buff_26.png",
         "duration": -1,
         "overlapflag": 0
@@ -21106,7 +21106,7 @@
     "901029": {
         "id": 901029,
         "name": "Damage Increase (Major)",
-        "desc": "Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:901029/>%</FONT>. Mag. Damage received  +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:901029/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:901029/>%</FONT>. Incoming Mag. Damage received  +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:901029/>%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -21114,7 +21114,7 @@
     "901030": {
         "id": 901030,
         "name": "Atk. Power Increase, Incoming Damage Increase",
-        "desc": "Atk. Power +<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:901030/>%</FONT> Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:901030/>%</FONT>.",
+        "desc": "Atk. Power +<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:901030/>%</FONT> Incoming Phy. Damage received +<FONT COLOR='#ff9999'><$MACRO buffstat1_100 @1:901030/>%</FONT>.",
         "icon": "Buff_32.png",
         "duration": -1,
         "overlapflag": 0
@@ -30394,7 +30394,7 @@
     "250600": {
         "id": 250600,
         "name": "Incoming Damage Reduction",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 250600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 25060 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 250600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 25060 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 250600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 25060 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 250600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 25060 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 0,
         "overlapflag": 0
@@ -30474,7 +30474,7 @@
     "251193": {
         "id": 251193,
         "name": "Incoming Damage Reduction",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 0,
         "overlapflag": 0
@@ -30490,7 +30490,7 @@
     "251240": {
         "id": 251240,
         "name": "Incoming Damage Reduction",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 251240/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 25120 4 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 251240/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 25120 4 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 251240/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 25120 4 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 251240/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 25120 4 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 0,
         "overlapflag": 0
@@ -31466,7 +31466,7 @@
     "268000": {
         "id": 268000,
         "name": "Black Mist",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>20%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>20%</FONT>.",
         "icon": "RP_Skill_01_13.png",
         "duration": -1,
         "overlapflag": 0
@@ -32434,7 +32434,7 @@
     "120500": {
         "id": 120500,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 120500/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 22180 4 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 120500/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 22180 4 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 120500/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 22180 4 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 120500/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 22180 4 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -32642,7 +32642,7 @@
     "221221": {
         "id": 221221,
         "name": "Warrior's Courage",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 221221/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 22120 4 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 221221/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 22120 4 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 221221/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 22120 4 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 221221/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 22120 4 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 6000,
         "overlapflag": 0
@@ -32778,7 +32778,7 @@
     "222903": {
         "id": 222903,
         "name": "Combustible Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 222903/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 22290 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 222903/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 22290 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 222903/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 22290 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 222903/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 22290 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 20000,
         "overlapflag": 0
@@ -32930,7 +32930,7 @@
     "223207": {
         "id": 223207,
         "name": "Pure Excellence",
-        "desc": "Phy. Damage received +<FONT COLOR='#ff9999'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 223207/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 22320 7 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>.  Mag. Damage received +<FONT COLOR='#ff9999'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 223207/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 22320 7 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received +<FONT COLOR='#ff9999'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 223207/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 22320 7 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>.  Incoming Mag. Damage received +<FONT COLOR='#ff9999'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 223207/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 22320 7 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -32938,7 +32938,7 @@
     "223208": {
         "id": 223208,
         "name": "Pure Excellence",
-        "desc": "Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -32962,7 +32962,7 @@
     "223300": {
         "id": 223300,
         "name": "Ultimate Skill: Fist of Dominance",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>80%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>80%</FONT>.",
         "icon": "BM_Skill_01_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -33106,7 +33106,7 @@
     "231023": {
         "id": 231023,
         "name": "Skillfulness",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 231023/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 23100 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 231023/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 23100 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 231023/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 23100 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 231023/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 23100 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -33218,7 +33218,7 @@
     "232600": {
         "id": 232600,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 232600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 23260 6 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 232600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 23260 6 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 232600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 23260 6 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 232600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 23260 6 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -33242,7 +33242,7 @@
     "230004": {
         "id": 230004,
         "name": "Continuous Push",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>5%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>5%</FONT>.",
         "icon": "IF_Skill_01_15.png",
         "duration": 1000,
         "overlapflag": 10
@@ -33258,7 +33258,7 @@
     "232300": {
         "id": 232300,
         "name": "Enhanced Fist",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>30%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>30%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -33322,7 +33322,7 @@
     "241701": {
         "id": 241701,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 241701/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 24170 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 241701/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 24170 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 241701/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 24170 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 241701/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 24170 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -33578,7 +33578,7 @@
     "242401": {
         "id": 242401,
         "name": "Smooth Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 242401/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 24240 5 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 242401/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 24240 5 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 242401/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 24240 5 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 242401/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 24240 5 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 3000,
         "overlapflag": 0
@@ -33802,7 +33802,7 @@
     "241400": {
         "id": 241400,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 241400/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 24140 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 241400/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 24140 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 241400/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 24140 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 241400/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 24140 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -33834,7 +33834,7 @@
     "241101": {
         "id": 241101,
         "name": "Aggressiveness",
-        "desc": "Phy. Damage received +<FONT COLOR='#ff9999'><$CALC %1 <$MACRO buffstat0_100 @1:241101/>- <$MACRO buffstat0_100 @1:241101/> * <$TABLE_SKILLFEATURE ParamValue3 24110 6 CHANGE_BUFF_STAT {0} />/100 />%</FONT>. Mag. Damage received +<FONT COLOR='#ff9999'><$CALC %1 <$MACRO buffstat1_100 @1:241101/>- <$MACRO buffstat1_100 @1:241101/> * <$TABLE_SKILLFEATURE ParamValue5 24110 6 CHANGE_BUFF_STAT {1} />/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received +<FONT COLOR='#ff9999'><$CALC %1 <$MACRO buffstat0_100 @1:241101/>- <$MACRO buffstat0_100 @1:241101/> * <$TABLE_SKILLFEATURE ParamValue3 24110 6 CHANGE_BUFF_STAT {0} />/100 />%</FONT>. Incoming Mag. Damage received +<FONT COLOR='#ff9999'><$CALC %1 <$MACRO buffstat1_100 @1:241101/>- <$MACRO buffstat1_100 @1:241101/> * <$TABLE_SKILLFEATURE ParamValue5 24110 6 CHANGE_BUFF_STAT {1} />/100 />%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -33842,7 +33842,7 @@
     "241419": {
         "id": 241419,
         "name": "Keen Judgment",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 241419/>/100)/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 241419/>/100)/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 241419/>/100)/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 241419/>/100)/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -33986,7 +33986,7 @@
     "341005": {
         "id": 341005,
         "name": "Incoming Damage Reduction",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 341005/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 34100 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 341005/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 34100 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 341005/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 34100 1 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 341005/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 34100 1 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 0,
         "overlapflag": 0
@@ -34018,7 +34018,7 @@
     "341507": {
         "id": 341507,
         "name": "Unyielding Spirit",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 341507/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 34150 7 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 341507/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 34150 7 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 341507/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 34150 7 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 341507/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 34150 7 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -34138,7 +34138,7 @@
     "341302": {
         "id": 341302,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 341302/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 34130 3 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 341302/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 34130 3 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 341302/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 34130 3 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 341302/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 34130 3 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -34146,7 +34146,7 @@
     "341600": {
         "id": 341600,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 341600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 34160 5 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 341600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 34160 5 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 341600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 34160 5 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 341600/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 34160 5 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -34250,7 +34250,7 @@
     "390500": {
         "id": 390500,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 390500/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 39180 4 CHANGE_BUFF_STAT {0} />/100))/>%</FONT> Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 390500/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 39180 4 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 390500/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 39180 4 CHANGE_BUFF_STAT {0} />/100))/>%</FONT> Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 390500/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 39180 4 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -34458,7 +34458,7 @@
     "393207": {
         "id": 393207,
         "name": "Pure Excellence",
-        "desc": "Phy. Damage received +<FONT COLOR='#ff9999'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 393207/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 39320 7 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Mag. Damage received +<FONT COLOR='#ff9999'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 393207/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 39320 7 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received +<FONT COLOR='#ff9999'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 393207/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 39320 7 CHANGE_BUFF_STAT {0} />/100))/>%</FONT>. Incoming Mag. Damage received +<FONT COLOR='#ff9999'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 393207/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 39320 7 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -34466,7 +34466,7 @@
     "393208": {
         "id": 393208,
         "name": "Pure Excellence",
-        "desc": "Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -34514,7 +34514,7 @@
     "390400": {
         "id": 390400,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 390400/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 39290 2 CHANGE_BUFF_STAT {0} />/100))/>%</FONT> Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 390400/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 39290 2 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 390400/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 39290 2 CHANGE_BUFF_STAT {0} />/100))/>%</FONT> Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 390400/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 39290 2 CHANGE_BUFF_STAT {1} />/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -35882,7 +35882,7 @@
     "301706": {
         "id": 301706,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 301706/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 30170 6 CHANGE_BUFF_STAT {0}/>/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 301706/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 30170 6 CHANGE_BUFF_STAT {1}/>/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 301706/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 30170 6 CHANGE_BUFF_STAT {0}/>/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 301706/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 30170 6 CHANGE_BUFF_STAT {1}/>/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -35938,7 +35938,7 @@
     "302102": {
         "id": 302102,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 302102/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 30210 2 CHANGE_BUFF_STAT {0}/>/100))/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 302102/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 30210 2 CHANGE_BUFF_STAT {1}/>/100))/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 302102/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 30210 2 CHANGE_BUFF_STAT {0}/>/100))/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 302102/>/100) * (1+(<$TABLE_SKILLFEATURE ParamValue5 30210 2 CHANGE_BUFF_STAT {1}/>/100))/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -36138,7 +36138,7 @@
     "361208": {
         "id": 361208,
         "name": "Protection",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:361208/> + <$MACRO buffstat0_100 @1:361208/> * <$TABLE_SKILLFEATURE ParamValue3 36120 6 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:361208/> + <$MACRO buffstat1_100 @1:361208/> * <$TABLE_SKILLFEATURE ParamValue3 36120 6 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:361208/> + <$MACRO buffstat0_100 @1:361208/> * <$TABLE_SKILLFEATURE ParamValue3 36120 6 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:361208/> + <$MACRO buffstat1_100 @1:361208/> * <$TABLE_SKILLFEATURE ParamValue3 36120 6 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 1000,
         "overlapflag": 0
@@ -36146,7 +36146,7 @@
     "361301": {
         "id": 361301,
         "name": "Sturdy Armor",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:361301/> + <$MACRO buffstat0_100 @1:361301/> * <$TABLE_SKILLFEATURE ParamValue3 36130 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:361301/> + <$MACRO buffstat1_100 @1:361301/> * <$TABLE_SKILLFEATURE ParamValue3 36130 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:361301/> + <$MACRO buffstat0_100 @1:361301/> * <$TABLE_SKILLFEATURE ParamValue3 36130 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:361301/> + <$MACRO buffstat1_100 @1:361301/> * <$TABLE_SKILLFEATURE ParamValue3 36130 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -36274,7 +36274,7 @@
     "361507": {
         "id": 361507,
         "name": "Protection",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:361507/>/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:361507/>/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:361507/>/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:361507/>/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 1000,
         "overlapflag": 0
@@ -36330,7 +36330,7 @@
     "362000": {
         "id": 362000,
         "name": "Heavenly Blessings",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>20%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>20%</FONT>.",
         "icon": "HK_Skill_01_17.png",
         "duration": 8000,
         "overlapflag": 0
@@ -41330,7 +41330,7 @@
     "501038": {
         "id": 501038,
         "name": "Order of the Emperor I",
-        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Royal Cards to the deck.",
+        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Empress Cards to the deck.",
         "icon": "Ability_34.png",
         "duration": -1,
         "overlapflag": 0
@@ -41338,7 +41338,7 @@
     "502038": {
         "id": 502038,
         "name": "Order of the Emperor II",
-        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Royal Cards to the deck.",
+        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Empress Cards to the deck.",
         "icon": "Ability_34.png",
         "duration": -1,
         "overlapflag": 0
@@ -41346,7 +41346,7 @@
     "503038": {
         "id": 503038,
         "name": "Order of the Emperor III",
-        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Royal Cards to the deck.",
+        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Empress Cards to the deck.",
         "icon": "Ability_34.png",
         "duration": -1,
         "overlapflag": 0
@@ -48879,6 +48879,54 @@
         "duration": 1200000,
         "overlapflag": 0
     },
+    "40617496": {
+        "id": 40617496,
+        "name": "달콤한 프레이야 수제 쿠키 - 3T 40617490과 동일",
+        "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>6000</FONT>. Crit Rate +<FONT COLOR='#99ff99'>1%</FONT>.",
+        "icon": "Use_4_88.png",
+        "duration": 3600000,
+        "overlapflag": 0
+    },
+    "40617497": {
+        "id": 40617497,
+        "name": "고소한 프레이야 수제 쿠키 - 3T 40617491과 동일",
+        "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>3000</FONT>. Combat Resource Natural Recovery +<FONT COLOR='#99ff99'>24%</FONT>. Atk. Speed +<FONT COLOR='#99ff99'>2%</FONT>.",
+        "icon": "Use_4_87.png",
+        "duration": 3600000,
+        "overlapflag": 0
+    },
+    "40617498": {
+        "id": 40617498,
+        "name": "바삭한 프레이야 수제 쿠키 - 3T 40617492와 동일",
+        "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>3000</FONT>. Vitality +<FONT COLOR='#99ff99'>4500</FONT>. Move Speed +<FONT COLOR='#99ff99'>3%</FONT>.",
+        "icon": "Use_4_86.png",
+        "duration": 3600000,
+        "overlapflag": 0
+    },
+    "40617773": {
+        "id": 40617773,
+        "name": "Sweet Homemade Cookie",
+        "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>6000</FONT>. Crit Rate +<FONT COLOR='#99ff99'>1%</FONT>.",
+        "icon": "Use_4_88.png",
+        "duration": 1200000,
+        "overlapflag": 0
+    },
+    "40617774": {
+        "id": 40617774,
+        "name": "Savory Homemade Cookie",
+        "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>3000</FONT>. Combat Resource Natural Recovery +<FONT COLOR='#99ff99'>24%</FONT>. Atk. Speed +<FONT COLOR='#99ff99'>2%</FONT>.",
+        "icon": "Use_4_87.png",
+        "duration": 1200000,
+        "overlapflag": 0
+    },
+    "40617775": {
+        "id": 40617775,
+        "name": "Crunchy Homemade Cookie",
+        "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>3000</FONT>. Vitality +<FONT COLOR='#99ff99'>4500</FONT>. Move Speed +<FONT COLOR='#99ff99'>3%</FONT>.",
+        "icon": "Use_4_86.png",
+        "duration": 1200000,
+        "overlapflag": 0
+    },
     "111300": {
         "id": 111300,
         "name": "Slow",
@@ -49169,7 +49217,7 @@
     },
     "192834": {
         "id": 192834,
-        "name": "Royal",
+        "name": "Empress",
         "desc": "Damage dealt by normal skills +<FONT COLOR='#99ff99'>50%</FONT> for <$MACRO bufftime @1:192834/>s.",
         "icon": "AC_Skill_01_38.png",
         "duration": 4000,
@@ -50002,7 +50050,7 @@
     "202502": {
         "id": 202502,
         "name": "Strong Robe",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 202502 />/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 20250 2 CHANGE_BUFF_STAT {0}/>/100)) />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 202502 />/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 20250 2 CHANGE_BUFF_STAT {1}/>/100)) />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 202502 />/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 20250 2 CHANGE_BUFF_STAT {0}/>/100)) />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 202502 />/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 20250 2 CHANGE_BUFF_STAT {1}/>/100)) />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 3000,
         "overlapflag": 0
@@ -50082,7 +50130,7 @@
     "202703": {
         "id": 202703,
         "name": "N/A",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 202703 />/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 20270 3 CHANGE_BUFF_STAT {0}/>/100)) />%</FONT>and Mag. Damage received by <FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 202703 />/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 20270 3 CHANGE_BUFF_STAT {1}/>/100)) />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 202703 />/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 20270 3 CHANGE_BUFF_STAT {0}/>/100)) />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue1 202703 />/100) * (1+(<$TABLE_SKILLFEATURE ParamValue3 20270 3 CHANGE_BUFF_STAT {1}/>/100)) />%</FONT>.",
         "icon": "SM_Skill_01_21.png",
         "duration": -1,
         "overlapflag": 0
@@ -50138,7 +50186,7 @@
     "203104": {
         "id": 203104,
         "name": "Jahia & Ligheas",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
         "icon": "SM_Skill_01_13.png",
         "duration": -1,
         "overlapflag": 0
@@ -50314,7 +50362,7 @@
     "210513": {
         "id": 210513,
         "name": "Endurance Wave",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:210513/> + <$MACRO buffstat0_100 @1:210513/> * <$TABLE_SKILLFEATURE ParamValue3 21050 5 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:210513/> + <$MACRO buffstat0_100 @1:210513/> * <$TABLE_SKILLFEATURE ParamValue3 21050 5 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:210513/> + <$MACRO buffstat0_100 @1:210513/> * <$TABLE_SKILLFEATURE ParamValue3 21050 5 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:210513/> + <$MACRO buffstat0_100 @1:210513/> * <$TABLE_SKILLFEATURE ParamValue3 21050 5 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 4000,
         "overlapflag": 0
@@ -50338,7 +50386,7 @@
     "210702": {
         "id": 210702,
         "name": "Damage Reduction",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:210702/> + <$MACRO buffstat0_100 @1:210702/> * <$TABLE_SKILLFEATURE ParamValue3 21070 6 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:210702/> + <$MACRO buffstat0_100 @1:210702/> * <$TABLE_SKILLFEATURE ParamValue3 21070 6 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:210702/> + <$MACRO buffstat0_100 @1:210702/> * <$TABLE_SKILLFEATURE ParamValue3 21070 6 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:210702/> + <$MACRO buffstat0_100 @1:210702/> * <$TABLE_SKILLFEATURE ParamValue3 21070 6 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -50418,7 +50466,7 @@
     "211127": {
         "id": 211127,
         "name": "Damage Reduction",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:211127/> + <$MACRO buffstat0_100 @1:211127/> * <$TABLE_SKILLFEATURE ParamValue3 21110 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:211127/> + <$MACRO buffstat0_100 @1:211127/> * <$TABLE_SKILLFEATURE ParamValue3 21110 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:211127/> + <$MACRO buffstat0_100 @1:211127/> * <$TABLE_SKILLFEATURE ParamValue3 21110 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:211127/> + <$MACRO buffstat0_100 @1:211127/> * <$TABLE_SKILLFEATURE ParamValue3 21110 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 3000,
         "overlapflag": 3
@@ -50954,7 +51002,7 @@
     "212611": {
         "id": 212611,
         "name": "Light Protection",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:212611/>/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:212611/>/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:212611/>/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:212611/>/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -50962,7 +51010,7 @@
     "212612": {
         "id": 212612,
         "name": "Light Protection",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:212612/>/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:212612/>/>%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:212612/>/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:212612/>/>%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 3000,
         "overlapflag": 0
@@ -52370,7 +52418,7 @@
     "1600052": {
         "id": 1600052,
         "name": "Damage Reduction",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'>10%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'>10%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 5000,
         "overlapflag": 10
@@ -52386,7 +52434,7 @@
     "1608300": {
         "id": 1608300,
         "name": "Phy. Damage Increase",
-        "desc": "Phy. Damage received +<FONT COLOR='#ff9999'>30%</FONT>.",
+        "desc": "Incoming Phy. Damage received +<FONT COLOR='#ff9999'>30%</FONT>.",
         "icon": "Buff_27.png",
         "duration": 10000,
         "overlapflag": 3
@@ -52698,7 +52746,7 @@
     "4441032": {
         "id": 4441032,
         "name": "Increase Damage Received",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#ff9999'>200%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#ff9999'>200%</FONT>.",
         "icon": "Buff_27.png",
         "duration": 6000,
         "overlapflag": 0
@@ -52722,7 +52770,7 @@
     "4900140": {
         "id": 4900140,
         "name": "Increase Damage Received",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#ff9999'>150%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#ff9999'>150%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -52746,7 +52794,7 @@
     "4900192": {
         "id": 4900192,
         "name": "Damage Increase",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#ff9999'>40%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#ff9999'>40%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -53490,7 +53538,7 @@
     "4316123": {
         "id": 4316123,
         "name": "Enhance",
-        "desc": "Atk. Power +<FONT COLOR='#99ff99'>100%</FONT>. Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
+        "desc": "Atk. Power +<FONT COLOR='#99ff99'>100%</FONT>. Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
         "icon": "Buff_15.png",
         "duration": 30000,
         "overlapflag": 0
@@ -53498,7 +53546,7 @@
     "4316124": {
         "id": 4316124,
         "name": "Increase Damage Received",
-        "desc": "Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
         "icon": "Buff_27.png",
         "duration": 20000,
         "overlapflag": 0
@@ -53674,7 +53722,7 @@
     "4003841": {
         "id": 4003841,
         "name": "Heal",
-        "desc": "Recovers <FONT COLOR='#99ff99'>1%</FONT> HP every <FONT COLOR='#ffff99'>2s</FONT>. Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
+        "desc": "Recovers <FONT COLOR='#99ff99'>1%</FONT> HP every <FONT COLOR='#ffff99'>2s</FONT>. Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
         "icon": "Buff_8.png",
         "duration": -1,
         "overlapflag": 0
@@ -54882,7 +54930,7 @@
     "416500703": {
         "id": 416500703,
         "name": "Corrode Armor",
-        "desc": "Destroys Phy. Defense. Phy./Mag. Damage received +<FONT COLOR='#ff9999'>200%</FONT>.",
+        "desc": "Destroys Phy. Defense. Incoming Phy./Mag. Damage received +<FONT COLOR='#ff9999'>200%</FONT>.",
         "icon": "Buff_61.png",
         "duration": 7000,
         "overlapflag": 0
@@ -54914,7 +54962,7 @@
     "416500707": {
         "id": 416500707,
         "name": "Corrode Armor",
-        "desc": "Destroys Phy. Defense. Phy. Damage received +<FONT COLOR='#ff9999'>100%</FONT>. Mag. Damage received +<FONT COLOR='#ff9999'>200%</FONT>.",
+        "desc": "Destroys Phy. Defense. Incoming Phy. Damage received +<FONT COLOR='#ff9999'>100%</FONT>. Incoming Mag. Damage received +<FONT COLOR='#ff9999'>200%</FONT>.",
         "icon": "Buff_61.png",
         "duration": 7000,
         "overlapflag": 0
@@ -54930,7 +54978,7 @@
     "41230302": {
         "id": 41230302,
         "name": "Incoming Damage Reduction",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>70%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>70%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -55066,7 +55114,7 @@
     "42950103": {
         "id": 42950103,
         "name": "Heavy Bleeding",
-        "desc": "Receives Phy. Damage every <FONT COLOR='#ffff99'>1.5s</FONT>. Phy. Damage received +<FONT COLOR='#ff9999'>50%</FONT>.",
+        "desc": "Receives Phy. Damage every <FONT COLOR='#ffff99'>1.5s</FONT>. Incoming Phy. Damage received +<FONT COLOR='#ff9999'>50%</FONT>.",
         "icon": "Buff_165.png",
         "duration": 15000,
         "overlapflag": 1
@@ -55338,7 +55386,7 @@
     "45632502": {
         "id": 45632502,
         "name": "Damage Increase",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>10%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>10%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 5
@@ -55426,7 +55474,7 @@
     "41770301": {
         "id": 41770301,
         "name": "Protection Field",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>20%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>20%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -59210,7 +59258,7 @@
     "7480": {
         "id": 7480,
         "name": "Increase Damage Received",
-        "desc": "Phy. Damage received +<FONT COLOR='#ff9999'>50%</FONT>.",
+        "desc": "Incoming Phy. Damage received +<FONT COLOR='#ff9999'>50%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -59770,7 +59818,7 @@
     "53952903": {
         "id": 53952903,
         "name": "Shield",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>80%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>80%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 15000,
         "overlapflag": 0
@@ -60066,7 +60114,7 @@
     "4611080": {
         "id": 4611080,
         "name": "Increase Damage Received",
-        "desc": "Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -60234,7 +60282,7 @@
     "414845003": {
         "id": 414845003,
         "name": "Shield",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>80%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>80%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 15000,
         "overlapflag": 0
@@ -60730,7 +60778,7 @@
     "4006343": {
         "id": 4006343,
         "name": "Absorbing Prisoner",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>.",
         "icon": "Buff_0.png",
         "duration": -1,
         "overlapflag": 0
@@ -60962,7 +61010,7 @@
     "4453210": {
         "id": 4453210,
         "name": "Elemental Shield",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>.",
         "icon": "Buff_172.png",
         "duration": -1,
         "overlapflag": 0
@@ -61202,7 +61250,7 @@
     "44453305": {
         "id": 44453305,
         "name": "Electric Field",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>70%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>70%</FONT>.",
         "icon": "Buff_172.png",
         "duration": 15000,
         "overlapflag": 0
@@ -61826,7 +61874,7 @@
     "53881617": {
         "id": 53881617,
         "name": "All Damage Reduction",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 60000,
         "overlapflag": 0
@@ -61850,7 +61898,7 @@
     "53886310": {
         "id": 53886310,
         "name": "Brand of Windfury",
-        "desc": "Mag. Damage taken +<FONT COLOR='#ff9999'>10%</FONT> per stack.",
+        "desc": "Incoming Mag. Damage taken +<FONT COLOR='#ff9999'>10%</FONT> per stack.",
         "icon": "Buff_27.png",
         "duration": 60000,
         "overlapflag": 10
@@ -61858,7 +61906,7 @@
     "53886320": {
         "id": 53886320,
         "name": "Brand of Windfury",
-        "desc": "Mag. Damage taken +<FONT COLOR='#ff9999'>50%</FONT> per stack.",
+        "desc": "Incoming Mag. Damage taken +<FONT COLOR='#ff9999'>50%</FONT> per stack.",
         "icon": "Buff_27.png",
         "duration": 60000,
         "overlapflag": 10
@@ -61866,7 +61914,7 @@
     "53886360": {
         "id": 53886360,
         "name": "Brand of Windfury",
-        "desc": "Mag. Damage taken +<FONT COLOR='#ff9999'>50%</FONT> per stack.",
+        "desc": "Incoming Mag. Damage taken +<FONT COLOR='#ff9999'>50%</FONT> per stack.",
         "icon": "Buff_27.png",
         "duration": 60000,
         "overlapflag": 10
@@ -62098,7 +62146,7 @@
     "7616451": {
         "id": 7616451,
         "name": "0",
-        "desc": "Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -62354,7 +62402,7 @@
     "7603402": {
         "id": 7603402,
         "name": "Defense Reduction",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#ff9999'>5,000%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#ff9999'>5,000%</FONT>.",
         "icon": "Buff_27.png",
         "duration": 60000,
         "overlapflag": 0
@@ -62514,7 +62562,7 @@
     "760737": {
         "id": 760737,
         "name": "Damage Reduction",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 1
@@ -62722,7 +62770,7 @@
     "7604600": {
         "id": 7604600,
         "name": "Damage Reduction",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99.99%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99.99%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 1
@@ -62930,7 +62978,7 @@
     "44871802": {
         "id": 44871802,
         "name": "Covetous Barrier",
-        "desc": "Overflowing with the power of avarice. Gains Atk. Power boost and becomes immune to Stagger.",
+        "desc": "Overflowing with covetous power. Gains Atk. Power boost and becomes immune to Stagger.",
         "icon": "Buff_134.png",
         "duration": -1,
         "overlapflag": 0
@@ -66689,7 +66737,7 @@
     },
     "424960005": {
         "id": 424960005,
-        "name": "Plague Cocoon Shield Ⅰ",
+        "name": "Plague Cocoon Shield I",
         "desc": "<FONT COLOR='#ffff99'>First</FONT> shield that <FONT COLOR='#d4ff88'>protects</FONT> the Plague Cocoon.",
         "icon": "Buff_533.png",
         "duration": -1,
@@ -66697,7 +66745,7 @@
     },
     "424960006": {
         "id": 424960006,
-        "name": "Plague Cocoon Shield Ⅱ",
+        "name": "Plague Cocoon Shield II",
         "desc": "<FONT COLOR='#ffff99'>Second</FONT> shield that <FONT COLOR='#d4ff88'>protects</FONT> the Plague Cocoon.",
         "icon": "Buff_565.png",
         "duration": -1,
@@ -66705,7 +66753,7 @@
     },
     "424960007": {
         "id": 424960007,
-        "name": "Plague Cocoon Shield Ⅲ",
+        "name": "Plague Cocoon Shield III",
         "desc": "<FONT COLOR='#ffff99'>Third</FONT> shield that <FONT COLOR='#d4ff88'>protects</FONT> the Plague Cocoon.",
         "icon": "Buff_566.png",
         "duration": -1,
@@ -66713,7 +66761,7 @@
     },
     "424960008": {
         "id": 424960008,
-        "name": "Plague Cocoon Shield Ⅳ",
+        "name": "Plague Cocoon Shield IV",
         "desc": "<FONT COLOR='#ffff99'>Fourth</FONT> shield that <FONT COLOR='#d4ff88'>protects</FONT> the Plague Cocoon.",
         "icon": "Buff_567.png",
         "duration": -1,
@@ -72996,7 +73044,7 @@
         "name": "Eroded Shackles",
         "desc": "Reduces sight and Move Speed.",
         "icon": "Buff_0.png",
-        "duration": 20000,
+        "duration": 22000,
         "overlapflag": 0
     },
     "42912202": {
@@ -73004,7 +73052,7 @@
         "name": "Eroded Shackles",
         "desc": "Reduces sight and Move Speed.",
         "icon": "Buff_189.png",
-        "duration": 20000,
+        "duration": 22000,
         "overlapflag": 5
     },
     "422165300": {
@@ -73060,7 +73108,7 @@
         "name": "Light's Breath",
         "desc": "Physical ability increases dramatically.",
         "icon": "Buff_67.png",
-        "duration": 20000,
+        "duration": 25000,
         "overlapflag": 0
     },
     "422166800": {
@@ -73317,6 +73365,14 @@
         "desc": "",
         "icon": "Buff_0.png",
         "duration": 12000,
+        "overlapflag": 0
+    },
+    "422320032": {
+        "id": 422320032,
+        "name": "하드 체크버프",
+        "desc": "",
+        "icon": "Buff_0.png",
+        "duration": -1,
         "overlapflag": 0
     },
     "422321207": {
@@ -74407,6 +74463,14 @@
         "duration": 16000,
         "overlapflag": 0
     },
+    "422361770": {
+        "id": 422361770,
+        "name": "",
+        "desc": "",
+        "icon": "Buff_0.png",
+        "duration": 60000,
+        "overlapflag": 0
+    },
     "422361801": {
         "id": 422361801,
         "name": "내부 전이 빔파티클",
@@ -74898,7 +74962,7 @@
     "422131403": {
         "id": 422131403,
         "name": "Shield",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 15000,
         "overlapflag": 0
@@ -74970,7 +75034,7 @@
     "422131412": {
         "id": 422131412,
         "name": "Armor Destruction",
-        "desc": "Incoming Physical Damage +<FONT COLOR='#ff9999'>8%</FONT>, and Incoming Magick Damage +<FONT COLOR='#ff9999'>8%</FONT>.",
+        "desc": "Incoming Phy. Damage +<FONT COLOR='#ff9999'>8%</FONT>, and Incoming Mag. Damage +<FONT COLOR='#ff9999'>8%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 10
@@ -75300,7 +75364,15 @@
         "name": "",
         "desc": "",
         "icon": "Buff_0.png",
-        "duration": 5000,
+        "duration": 8000,
+        "overlapflag": 0
+    },
+    "422131454": {
+        "id": 422131454,
+        "name": "",
+        "desc": "",
+        "icon": "Buff_0.png",
+        "duration": 60000,
         "overlapflag": 0
     },
     "422450700": {
@@ -77252,7 +77324,7 @@
         "name": "피날레 시작 PP",
         "desc": "",
         "icon": "Buff_0.png",
-        "duration": 60000,
+        "duration": 30000,
         "overlapflag": 0
     },
     "422295420": {
@@ -77413,7 +77485,7 @@
         "desc": "Each stack triggers Nightfall status, gradually reducing sight. Receive Damage based on the number of stacks.",
         "icon": "Buff_11.png",
         "duration": 300500,
-        "overlapflag": 10
+        "overlapflag": 11
     },
     "422210030": {
         "id": 422210030,
@@ -78445,7 +78517,7 @@
         "desc": "",
         "icon": "Buff_0.png",
         "duration": 60000,
-        "overlapflag": 4
+        "overlapflag": 6
     },
     "422219942": {
         "id": 422219942,
@@ -78453,7 +78525,7 @@
         "desc": "",
         "icon": "Buff_0.png",
         "duration": 60000,
-        "overlapflag": 4
+        "overlapflag": 6
     },
     "422219944": {
         "id": 422219944,
@@ -78461,7 +78533,7 @@
         "desc": "",
         "icon": "Buff_0.png",
         "duration": 60000,
-        "overlapflag": 4
+        "overlapflag": 6
     },
     "422219669": {
         "id": 422219669,
@@ -79866,7 +79938,7 @@
     "422145300": {
         "id": 422145300,
         "name": "Phantom Resistance",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99.9%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99.9%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -79874,7 +79946,7 @@
     "422145301": {
         "id": 422145301,
         "name": "Phantom Resistance",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -79882,7 +79954,7 @@
     "422145314": {
         "id": 422145314,
         "name": "Phantom Resistance",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99.9%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99.9%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 16000,
         "overlapflag": 0
@@ -83514,7 +83586,7 @@
     "9900002": {
         "id": 9900002,
         "name": "Effect_Unused",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
         "icon": "Buff_24.png",
         "duration": -1,
         "overlapflag": 0
@@ -83602,7 +83674,7 @@
     "9910062": {
         "id": 9910062,
         "name": "Effect_Used",
-        "desc": "Gain Push Immunity. Phy./Mag. Damage received -<FONT COLOR='#99ff99'>70%</FONT>.",
+        "desc": "Gain Push Immunity. Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>70%</FONT>.",
         "icon": "Buff_21.png",
         "duration": 30000,
         "overlapflag": 0
@@ -88530,7 +88602,7 @@
     "415145400": {
         "id": 415145400,
         "name": "Shield",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 15000,
         "overlapflag": 0
@@ -88618,7 +88690,7 @@
     "414849206": {
         "id": 414849206,
         "name": "Shield",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 15000,
         "overlapflag": 0
@@ -88714,7 +88786,7 @@
     "43490402": {
         "id": 43490402,
         "name": "Bleed",
-        "desc": "Receives Phy. Damage every <FONT COLOR='#ffff99'>1s</FONT>. Phy. Damage received +<FONT COLOR='#ff9999'>2%</FONT>. Mag. Damage received +<FONT COLOR='#ff9999'>2%</FONT>.",
+        "desc": "Receives Phy. Damage every <FONT COLOR='#ffff99'>1s</FONT>. Incoming Phy. Damage received +<FONT COLOR='#ff9999'>2%</FONT>. Incoming Mag. Damage received +<FONT COLOR='#ff9999'>2%</FONT>.",
         "icon": "Buff_165.png",
         "duration": 10000,
         "overlapflag": 10
@@ -89338,7 +89410,7 @@
     "44782104": {
         "id": 44782104,
         "name": "Empty Buff",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>75%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>75%</FONT>.",
         "icon": "Buff_27.png",
         "duration": 5000,
         "overlapflag": 0
@@ -89434,7 +89506,7 @@
     "419131607": {
         "id": 419131607,
         "name": "Freeze",
-        "desc": "Becomes Incapacitated while Frozen. Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>. ",
+        "desc": "Becomes Incapacitated while Frozen. Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>. ",
         "icon": "Buff_35.png",
         "duration": 3000,
         "overlapflag": 0
@@ -89458,7 +89530,7 @@
     "419131309": {
         "id": 419131309,
         "name": "Defense Increase",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 20000,
         "overlapflag": 0
@@ -89706,7 +89778,7 @@
     "419124202": {
         "id": 419124202,
         "name": "Defense Increase",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 40000,
         "overlapflag": 0
@@ -89714,7 +89786,7 @@
     "419124203": {
         "id": 419124203,
         "name": "Defense Increase",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>80%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>80%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 20000,
         "overlapflag": 0
@@ -89730,7 +89802,7 @@
     "419240200": {
         "id": 419240200,
         "name": "Defense Increase",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99.9%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99.9%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -90850,7 +90922,7 @@
     "419541100": {
         "id": 419541100,
         "name": "Hardness",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>90%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -90858,7 +90930,7 @@
     "419531803": {
         "id": 419531803,
         "name": "Hardness",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 10000,
         "overlapflag": 0
@@ -91354,7 +91426,7 @@
     "418940909": {
         "id": 418940909,
         "name": "Incoming Damage Reduction",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>70%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>70%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 8000,
         "overlapflag": 0
@@ -91370,7 +91442,7 @@
     "414000702": {
         "id": 414000702,
         "name": "Increase Damage Received",
-        "desc": "Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
         "icon": "Buff_27.png",
         "duration": 6000,
         "overlapflag": 0
@@ -92826,7 +92898,7 @@
     "43066401": {
         "id": 43066401,
         "name": "All Damage Reduction",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>99%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 60000,
         "overlapflag": 0
@@ -94362,7 +94434,7 @@
     "66700071": {
         "id": 66700071,
         "name": "Freeze",
-        "desc": "Becomes Incapacitated while Frozen. Phy./Mag. Damage received -<FONT COLOR='#99ff99'>40%</FONT>.",
+        "desc": "Becomes Incapacitated while Frozen. Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>40%</FONT>.",
         "icon": "Buff_35.png",
         "duration": 2000,
         "overlapflag": 0
@@ -94866,7 +94938,7 @@
     "401701": {
         "id": 401701,
         "name": "Dullify",
-        "desc": "Damage reflection rate +<FONT COLOR='#99ff99'>9,000%</FONT>. Phy./Mag. Damage received -<FONT COLOR='#99ff99'>75%</FONT>.",
+        "desc": "Damage reflection rate +<FONT COLOR='#99ff99'>9,000%</FONT>. Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>75%</FONT>.",
         "icon": "Buff_18.png",
         "duration": -1,
         "overlapflag": 0
@@ -96841,16 +96913,16 @@
     },
     "423806": {
         "id": 423806,
-        "name": "은신감지",
-        "desc": "",
+        "name": "Stealth Detection",
+        "desc": "Detecting Stealth.",
         "icon": "Buff_482.png",
         "duration": 5000,
         "overlapflag": 1
     },
     "423808": {
         "id": 423808,
-        "name": "은신",
-        "desc": "",
+        "name": "Stealth",
+        "desc": "Invisible.",
         "icon": "Buff_35.png",
         "duration": -1,
         "overlapflag": 1
@@ -98706,7 +98778,7 @@
     "576000": {
         "id": 576000,
         "name": "Ice",
-        "desc": "Enter Ice status. Although you are unable to move, you'll be immune to the Snowkin Curse. Your allies must use the Tap! skill or restart to become free.",
+        "desc": "Enter Ice status. Although you are unable to move, you'll be immune to the Snowkin Curse. Your allies must use the Tap! skill, or you must return to the character selection screen to break yourself free.",
         "icon": "Buff_35.png",
         "duration": 600000,
         "overlapflag": 1
@@ -100026,7 +100098,7 @@
     "417212001": {
         "id": 417212001,
         "name": "Armor Destruction",
-        "desc": "Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received +<FONT COLOR='#ff9999'>100%</FONT>.",
         "icon": "Buff_27.png",
         "duration": 75000,
         "overlapflag": 0
@@ -104970,7 +105042,7 @@
     "171003": {
         "id": 171003,
         "name": "Ready Defense",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:171003/> + <$MACRO buffstat0_100 @1:171003/> * <$TABLE_SKILLFEATURE ParamValue3 17100 6 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:171003/> + <$MACRO buffstat0_100 @1:171003/> * <$TABLE_SKILLFEATURE ParamValue3 17100 6 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:171003/> + <$MACRO buffstat0_100 @1:171003/> * <$TABLE_SKILLFEATURE ParamValue3 17100 6 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:171003/> + <$MACRO buffstat0_100 @1:171003/> * <$TABLE_SKILLFEATURE ParamValue3 17100 6 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 10000,
         "overlapflag": 0
@@ -105002,7 +105074,7 @@
     "171300": {
         "id": 171300,
         "name": "Nellasia's Energy",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>25%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>25%</FONT>.",
         "icon": "GL_Skill_01_15.png",
         "duration": 6000,
         "overlapflag": 0
@@ -105050,7 +105122,7 @@
     "171501": {
         "id": 171501,
         "name": "Ready Defense",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:160504/> + <$MACRO buffstat0_100 @1:160504/> * <$TABLE_SKILLFEATURE ParamValue3 16050 6 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:160504/> + <$MACRO buffstat0_100 @1:160504/> * <$TABLE_SKILLFEATURE ParamValue3 16050 6 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:160504/> + <$MACRO buffstat0_100 @1:160504/> * <$TABLE_SKILLFEATURE ParamValue3 16050 6 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:160504/> + <$MACRO buffstat0_100 @1:160504/> * <$TABLE_SKILLFEATURE ParamValue3 16050 6 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 5000,
         "overlapflag": 0
@@ -105082,7 +105154,7 @@
     "171702": {
         "id": 171702,
         "name": "Guardian's Protection",
-        "desc": "Gain Push Immunity. Phy./Mag. Damage received -<FONT COLOR='#99ff99'>40%</FONT>.",
+        "desc": "Gain Push Immunity. Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>40%</FONT>.",
         "icon": "GL_Skill_01_28.png",
         "duration": -1,
         "overlapflag": 0
@@ -105106,7 +105178,7 @@
     "171802": {
         "id": 171802,
         "name": "Ready Defense",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:171802/> + <$MACRO buffstat0_100 @1:171802/> * <$TABLE_SKILLFEATURE ParamValue3 17180 3 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:171802/> + <$MACRO buffstat0_100 @1:171802/> * <$TABLE_SKILLFEATURE ParamValue3 17180 3 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:171802/> + <$MACRO buffstat0_100 @1:171802/> * <$TABLE_SKILLFEATURE ParamValue3 17180 3 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:171802/> + <$MACRO buffstat0_100 @1:171802/> * <$TABLE_SKILLFEATURE ParamValue3 17180 3 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 6000,
         "overlapflag": 0
@@ -105282,7 +105354,7 @@
     "180105": {
         "id": 180105,
         "name": "Hypergravity Zone",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>30%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>30%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -105378,7 +105450,7 @@
     "180604": {
         "id": 180604,
         "name": "Tough Mind",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180604/> + <$MACRO buffstat0_100 @1:180604/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180604/> + <$MACRO buffstat0_100 @1:180604/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180604/> + <$MACRO buffstat0_100 @1:180604/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180604/> + <$MACRO buffstat0_100 @1:180604/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 5000,
         "overlapflag": 0
@@ -105386,7 +105458,7 @@
     "180605": {
         "id": 180605,
         "name": "Tough Mind",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180605/> + <$MACRO buffstat0_100 @1:180605/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180605/> + <$MACRO buffstat0_100 @1:180605/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180605/> + <$MACRO buffstat0_100 @1:180605/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180605/> + <$MACRO buffstat0_100 @1:180605/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 5000,
         "overlapflag": 0
@@ -105394,7 +105466,7 @@
     "180606": {
         "id": 180606,
         "name": "Tough Mind",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180606/> + <$MACRO buffstat0_100 @1:180606/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180606/> + <$MACRO buffstat0_100 @1:180606/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180606/> + <$MACRO buffstat0_100 @1:180606/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180606/> + <$MACRO buffstat0_100 @1:180606/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 5000,
         "overlapflag": 0
@@ -105402,7 +105474,7 @@
     "180607": {
         "id": 180607,
         "name": "Tough Mind",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180607/> + <$MACRO buffstat0_100 @1:180607/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180607/> + <$MACRO buffstat0_100 @1:180607/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180607/> + <$MACRO buffstat0_100 @1:180607/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180607/> + <$MACRO buffstat0_100 @1:180607/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 5000,
         "overlapflag": 0
@@ -105410,7 +105482,7 @@
     "180608": {
         "id": 180608,
         "name": "Tough Mind",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180608/> + <$MACRO buffstat0_100 @1:180608/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180608/> + <$MACRO buffstat0_100 @1:180608/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180608/> + <$MACRO buffstat0_100 @1:180608/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180608/> + <$MACRO buffstat0_100 @1:180608/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 5000,
         "overlapflag": 0
@@ -105418,7 +105490,7 @@
     "180609": {
         "id": 180609,
         "name": "Tough Mind",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180609/> + <$MACRO buffstat0_100 @1:180609/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180609/> + <$MACRO buffstat0_100 @1:180609/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180609/> + <$MACRO buffstat0_100 @1:180609/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180609/> + <$MACRO buffstat0_100 @1:180609/> * <$TABLE_SKILLFEATURE ParamValue3 18060 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 5000,
         "overlapflag": 0
@@ -105442,7 +105514,7 @@
     "180700": {
         "id": 180700,
         "name": "Tough Heart",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180700/> + <$MACRO buffstat0_100 @1:180700/> * <$TABLE_SKILLFEATURE ParamValue3 18070 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180700/> + <$MACRO buffstat0_100 @1:180700/> * <$TABLE_SKILLFEATURE ParamValue3 18070 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180700/> + <$MACRO buffstat0_100 @1:180700/> * <$TABLE_SKILLFEATURE ParamValue3 18070 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180700/> + <$MACRO buffstat0_100 @1:180700/> * <$TABLE_SKILLFEATURE ParamValue3 18070 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -105466,7 +105538,7 @@
     "180802": {
         "id": 180802,
         "name": "Toughened Body",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180802/> + <$MACRO buffstat0_100 @1:180802/> * <$TABLE_SKILLFEATURE ParamValue3 18080 2 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180802/> + <$MACRO buffstat0_100 @1:180802/> * <$TABLE_SKILLFEATURE ParamValue3 18080 2 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180802/> + <$MACRO buffstat0_100 @1:180802/> * <$TABLE_SKILLFEATURE ParamValue3 18080 2 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:180802/> + <$MACRO buffstat0_100 @1:180802/> * <$TABLE_SKILLFEATURE ParamValue3 18080 2 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -105506,7 +105578,7 @@
     "181104": {
         "id": 181104,
         "name": "Toughened Body",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181104/> + <$MACRO buffstat0_100 @1:181104/> * <$TABLE_SKILLFEATURE ParamValue3 18110 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181104/> + <$MACRO buffstat0_100 @1:181104/> * <$TABLE_SKILLFEATURE ParamValue3 18110 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181104/> + <$MACRO buffstat0_100 @1:181104/> * <$TABLE_SKILLFEATURE ParamValue3 18110 4 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181104/> + <$MACRO buffstat0_100 @1:181104/> * <$TABLE_SKILLFEATURE ParamValue3 18110 4 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -105538,7 +105610,7 @@
     "181406": {
         "id": 181406,
         "name": "Hidden Pain",
-        "desc": "Gain Push Immunity. Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181406/>/>%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:181406/>/>%</FONT>.",
+        "desc": "Gain Push Immunity. Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181406/>/>%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:181406/>/>%</FONT>.",
         "icon": "Buff_21.png",
         "duration": 5000,
         "overlapflag": 0
@@ -105578,7 +105650,7 @@
     "181620": {
         "id": 181620,
         "name": "Toughened Body",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181620/> + <$MACRO buffstat0_100 @1:181620/> * <$TABLE_SKILLFEATURE ParamValue3 18200 2 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:181620/> + <$MACRO buffstat1_100 @1:181620/> * <$TABLE_SKILLFEATURE ParamValue3 18200 2 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181620/> + <$MACRO buffstat0_100 @1:181620/> * <$TABLE_SKILLFEATURE ParamValue3 18200 2 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:181620/> + <$MACRO buffstat1_100 @1:181620/> * <$TABLE_SKILLFEATURE ParamValue3 18200 2 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -105602,7 +105674,7 @@
     "181801": {
         "id": 181801,
         "name": "Reckless Attack",
-        "desc": "Phy. Damage received +<FONT COLOR='#ff9999'><$CALC %1 <$MACRO buffstat0_100 @1:181801/> + <$MACRO buffstat0_100 @1:181801/> * <$TABLE_SKILLFEATURE ParamValue3 18180 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#ff9999'><$CALC %1 <$MACRO buffstat1_100 @1:181801/> + <$MACRO buffstat1_100 @1:181801/> * <$TABLE_SKILLFEATURE ParamValue3 18180 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received +<FONT COLOR='#ff9999'><$CALC %1 <$MACRO buffstat0_100 @1:181801/> + <$MACRO buffstat0_100 @1:181801/> * <$TABLE_SKILLFEATURE ParamValue3 18180 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#ff9999'><$CALC %1 <$MACRO buffstat1_100 @1:181801/> + <$MACRO buffstat1_100 @1:181801/> * <$TABLE_SKILLFEATURE ParamValue3 18180 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_27.png",
         "duration": -1,
         "overlapflag": 0
@@ -105618,7 +105690,7 @@
     "181901": {
         "id": 181901,
         "name": "Tough Heart",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181901/> + <$MACRO buffstat0_100 @1:181901/> * <$TABLE_SKILLFEATURE ParamValue3 18190 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:181901/> + <$MACRO buffstat1_100 @1:181901/> * <$TABLE_SKILLFEATURE ParamValue3 18190 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181901/> + <$MACRO buffstat0_100 @1:181901/> * <$TABLE_SKILLFEATURE ParamValue3 18190 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:181901/> + <$MACRO buffstat1_100 @1:181901/> * <$TABLE_SKILLFEATURE ParamValue3 18190 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -105626,7 +105698,7 @@
     "181902": {
         "id": 181902,
         "name": "Tough Heart",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181902/> + <$MACRO buffstat0_100 @1:181902/> * <$TABLE_SKILLFEATURE ParamValue3 18190 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:181902/> + <$MACRO buffstat1_100 @1:181902/> * <$TABLE_SKILLFEATURE ParamValue3 18190 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:181902/> + <$MACRO buffstat0_100 @1:181902/> * <$TABLE_SKILLFEATURE ParamValue3 18190 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:181902/> + <$MACRO buffstat1_100 @1:181902/> * <$TABLE_SKILLFEATURE ParamValue3 18190 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -105682,7 +105754,7 @@
     "182201": {
         "id": 182201,
         "name": "Toughened Body",
-        "desc": "Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:182201/> + <$MACRO buffstat0_100 @1:182201/> * <$TABLE_SKILLFEATURE ParamValue3 18220 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:182201/> + <$MACRO buffstat1_100 @1:182201/> * <$TABLE_SKILLFEATURE ParamValue3 18220 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
+        "desc": "Incoming Phy. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:182201/> + <$MACRO buffstat0_100 @1:182201/> * <$TABLE_SKILLFEATURE ParamValue3 18220 1 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>. Incoming Mag. Damage received -<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat1_100 @1:182201/> + <$MACRO buffstat1_100 @1:182201/> * <$TABLE_SKILLFEATURE ParamValue3 18220 1 CHANGE_BUFF_STAT {1}/>/100 />%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
@@ -105706,7 +105778,7 @@
     "182300": {
         "id": 182300,
         "name": "Big Bang",
-        "desc": "Become immune to slowing effects. Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
+        "desc": "Become immune to slowing effects. Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
         "icon": "DT_Skill_01_21.png",
         "duration": -1,
         "overlapflag": 0
@@ -106154,7 +106226,7 @@
     "322360": {
         "id": 322360,
         "name": "Face to Face",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>50%</FONT>.",
         "icon": "Buff_19.png",
         "duration": 500,
         "overlapflag": 0
@@ -106162,7 +106234,7 @@
     "322380": {
         "id": 322380,
         "name": "Face to Face",
-        "desc": "Phy./Mag. Damage received -<FONT COLOR='#99ff99'>75%</FONT>.",
+        "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>75%</FONT>.",
         "icon": "Buff_19.png",
         "duration": -1,
         "overlapflag": 0
