@@ -1,22 +1,22 @@
 {
     "55000": {
         "id": 55000,
-        "name": "로나운의 랜턴 스킬",
-        "desc": "",
+        "name": "Soul Orb",
+        "desc": "Raise the lantern in front of you to launch a Soul Orb.",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "55010": {
         "id": 55010,
-        "name": "로나운의 랜턴 스킬",
-        "desc": "",
+        "name": "Light of Purification",
+        "desc": "Raise the lantern in front of you to spread the cleansing light.",
         "classid": 0,
         "icon": "Vehicle_4.png"
     },
     "55020": {
         "id": 55020,
-        "name": "로나운의 랜턴 스킬",
-        "desc": "",
+        "name": "Soul Bind",
+        "desc": "Launch a soul-binding energy that travels straight, paralyzing foes with minimal Damage.",
         "classid": 0,
         "icon": "Vehicle_5.png"
     },
@@ -36,36 +36,36 @@
     },
     "55050": {
         "id": 55050,
-        "name": "황금 거울 스킬",
-        "desc": "",
+        "name": "Light Reflection",
+        "desc": "Reflect the light with the golden mirror to set Thanatos on fire.",
         "classid": 0,
         "icon": "Vehicle_8.png"
     },
     "55051": {
         "id": 55051,
-        "name": "황금 거울 스킬",
-        "desc": "",
+        "name": "Light Reflection",
+        "desc": "Reflect the light with the golden mirror to set Thanatos on fire.",
         "classid": 0,
         "icon": "Vehicle_8.png"
     },
     "55052": {
         "id": 55052,
-        "name": "마법 거울_기억의 오르골",
-        "desc": "",
+        "name": "Taking In the Scenery",
+        "desc": "Contains the scenery in a mirror that you can take out to see at any time.",
         "classid": 0,
         "icon": "Vehicle_8.png"
     },
     "55060": {
         "id": 55060,
-        "name": "얼음조각 드릴 Q",
-        "desc": "",
+        "name": "Microcontrol",
+        "desc": "Control the drill delicately and inflict minimal Damage.",
         "classid": 0,
         "icon": "Vehicle_8.png"
     },
     "55061": {
         "id": 55061,
-        "name": "얼음조각 드릴 W",
-        "desc": "",
+        "name": "Overload Control",
+        "desc": "Drill for an extended period of time, but with caution not to break the old drill.",
         "classid": 0,
         "icon": "Vehicle_14.png"
     },
@@ -85,50 +85,50 @@
     },
     "55150": {
         "id": 55150,
-        "name": "카양겔 시네마틱 아르콘 방패 Q 스킬 (던전진행용)",
-        "desc": "",
+        "name": "Brilliant Light",
+        "desc": "Activating the Brilliant Shield creates the impenetrable Brilliant Light.",
         "classid": 0,
         "icon": "Vehicle_388.png"
     },
     "55151": {
         "id": 55151,
-        "name": "카양겔 시네마틱 아르콘 방패 Q 스킬 (놀이용 종 막기)",
-        "desc": "",
+        "name": "Brilliant Light",
+        "desc": "Activating the Brilliant Shield creates the impenetrable Brilliant Light.",
         "classid": 0,
         "icon": "Vehicle_388.png"
     },
     "55152": {
         "id": 55152,
-        "name": "카양겔 시네마틱 아르콘 방패 Q 스킬 (놀이용 횡 막기)",
-        "desc": "",
+        "name": "Brilliant Light",
+        "desc": "Activating the Brilliant Shield creates the impenetrable Brilliant Light.",
         "classid": 0,
         "icon": "Vehicle_388.png"
     },
     "55153": {
         "id": 55153,
-        "name": "카양겔 어비스 아르콘 방패 Q 스킬 (던전진행용)",
-        "desc": "",
+        "name": "Brilliant Light",
+        "desc": "Activating the Brilliant Shield creates the impenetrable Brilliant Light.",
         "classid": 0,
         "icon": "Vehicle_388.png"
     },
     "55200": {
         "id": 55200,
-        "name": "엔비스카의 지팡이_파괴의 섬광",
-        "desc": "",
+        "name": "Light of Destruction",
+        "desc": "Launch a holy ray of light.",
         "classid": 0,
         "icon": "Vehicle_9.png"
     },
     "55210": {
         "id": 55210,
-        "name": "엔비스카의 지팡이_별빛 부르기",
-        "desc": "",
+        "name": "Call Starlight",
+        "desc": "Summon a sacred starlight at the target location that continuously inflicts Damage to foes.",
         "classid": 0,
         "icon": "Vehicle_10.png"
     },
     "55220": {
         "id": 55220,
-        "name": "엔비스카의 지팡이_폭발하는 빛",
-        "desc": "",
+        "name": "Explosive Light",
+        "desc": "Launch a sacred light orb that explodes on impact.",
         "classid": 0,
         "icon": "Vehicle_11.png"
     },
@@ -141,57 +141,57 @@
     },
     "55300": {
         "id": 55300,
-        "name": "잰걸음(플래티넘 채집물 픽업 시 사용)",
-        "desc": "",
+        "name": "Trot",
+        "desc": "Move faster while holding down the key. (Max. 3s)",
         "classid": 0,
         "icon": "Buff_10.png"
     },
     "55400": {
         "id": 55400,
-        "name": "화엄의 팔괘경_구미호 탐지",
-        "desc": "",
+        "name": "Detect Shapeshifter",
+        "desc": "Search for the traces of the Shapeshifter.",
         "classid": 0,
         "icon": "Vehicle_12.png"
     },
     "55410": {
         "id": 55410,
-        "name": "화엄의 팔괘경_악귀 퇴치",
-        "desc": "",
+        "name": "Exorcise",
+        "desc": "Launch a powerful light that purges all things evil.",
         "classid": 0,
         "icon": "Vehicle_13.png"
     },
     "55500": {
         "id": 55500,
-        "name": "샤브나크의 가시_이독제독",
-        "desc": "",
+        "name": "Poison against Poison",
+        "desc": "Throw Savnak's spine.",
         "classid": 0,
         "icon": "Vehicle_14.png"
     },
     "55600": {
         "id": 55600,
-        "name": "아크투르스의 거울_광물 정제",
-        "desc": "",
+        "name": "Absorb Finest Medeia",
+        "desc": "Use the power of Arcturus to absorb the finest Medeia.",
         "classid": 0,
         "icon": "Vehicle_5.png"
     },
     "55610": {
         "id": 55610,
-        "name": "아크투르스의 거울_정제 에너지 방출",
-        "desc": "",
+        "name": "Arcturus's Light",
+        "desc": "Release the energy that the mirror bears.",
         "classid": 0,
         "icon": "Vehicle_4.png"
     },
     "55650": {
         "id": 55650,
-        "name": "아크투르스의 거울_광물 정제",
-        "desc": "",
+        "name": "Absorb Medeia",
+        "desc": "Use the power of Arcturus to absorb Medeia.",
         "classid": 0,
         "icon": "Vehicle_5.png"
     },
     "55660": {
         "id": 55660,
-        "name": "아크투르스의 거울_정제 에너지 방출",
-        "desc": "",
+        "name": "Arcturus's Wave",
+        "desc": "Release the energy that the mirror bears.",
         "classid": 0,
         "icon": "Vehicle_4.png"
     },
@@ -218,148 +218,148 @@
     },
     "55750": {
         "id": 55750,
-        "name": "사진기_촬영",
-        "desc": "",
+        "name": "Photo Shooting",
+        "desc": "Press and hold the camera shutter and let go at the right time to take a photo of an Elemental.",
         "classid": 0,
         "icon": "Vehicle_76.png"
     },
     "55760": {
         "id": 55760,
-        "name": "[일리아칸] 일리아칸의 랜턴_파괴적인 주시_Q",
-        "desc": "",
+        "name": "Destructive Gaze",
+        "desc": "Unleash a destruction ray containing Akkan's power.",
         "classid": 0,
         "icon": "Vehicle_412.png"
     },
     "55770": {
         "id": 55770,
-        "name": "[일리아칸] 일리아칸의 랜턴_저주내린 응시_W",
-        "desc": "",
+        "name": "Cursed Stare",
+        "desc": "Petrifies foes with Akkan's powerful gaze.",
         "classid": 0,
         "icon": "Vehicle_413.png"
     },
     "55780": {
         "id": 55780,
-        "name": "[일리아칸] 빛나는 해골_거대 해골 던지기_Q",
-        "desc": "",
+        "name": "Splendid Skeleton Throw",
+        "desc": "Throw a Splendid Skeleton to the front.",
         "classid": 0,
         "icon": "Vehicle_414.png"
     },
     "55790": {
         "id": 55790,
-        "name": "[일리아칸] 빛나는 해골_거대 해골 던지기_Q",
-        "desc": "",
+        "name": "Splendid Skeleton Throw",
+        "desc": "Throw a Splendid Skeleton to the front.",
         "classid": 0,
         "icon": "Vehicle_414.png"
     },
     "55800": {
         "id": 55800,
-        "name": "몽환의 실험 랜턴_평타",
-        "desc": "",
+        "name": "Phantom Experiment Lantern Basic Attack",
+        "desc": "Launch an orb of light from the Phantom Experiment Lantern.",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "55810": {
         "id": 55810,
-        "name": "몽환의 실험 랜턴_실험체 유혹장막",
-        "desc": "",
+        "name": "Curtain of Seduction",
+        "desc": "Create an spellbinding curtain of energy with the Phantom Experiment Lantern, attacking foes and making them unable to move for a while.",
         "classid": 0,
         "icon": "Vehicle_78.png"
     },
     "55820": {
         "id": 55820,
-        "name": "몽환의 실험 랜턴_실험체 삭제 광선",
-        "desc": "",
+        "name": "Eradication Beam",
+        "desc": "Fire a ray of light from the Phantom Experiment Lantern.",
         "classid": 0,
         "icon": "Vehicle_79.png"
     },
     "55830": {
         "id": 55830,
-        "name": "[2022여름] 물풍이_물풍이 흡입_Q",
-        "desc": "",
+        "name": "Water Balloon Absorption",
+        "desc": "Gather water bombs with powerful wind pressure.",
         "classid": 0,
         "icon": "Vehicle_419.png"
     },
     "55840": {
         "id": 55840,
-        "name": "[2022여름] 물풍이_물풍이 물풍선 연속 발사_W",
-        "desc": "",
+        "name": "Water Balloon Barrage",
+        "desc": "Quickly fire the gathered water bombs in succession.",
         "classid": 0,
         "icon": "Vehicle_420.png"
     },
     "55850": {
         "id": 55850,
-        "name": "[2022여름] 물풍이_물풍이 물풍선 유탄 발사_E",
-        "desc": "",
+        "name": "Giant Water Balloon Throw",
+        "desc": "Fire a giant water bomb to the front.",
         "classid": 0,
         "icon": "Vehicle_210.png"
     },
     "55860": {
         "id": 55860,
-        "name": "[영지놀이] 모래삽 스킬Q",
-        "desc": "",
+        "name": "Small Scoop",
+        "desc": "Inflicts 1 Damage to the sand pile.",
         "classid": 0,
         "icon": "PO_Skill_01_111.png"
     },
     "55870": {
         "id": 55870,
-        "name": "[영지놀이] 모래삽 스킬W",
-        "desc": "",
+        "name": "Scoop",
+        "desc": "Inflicts 5 Damage to the sand pile.",
         "classid": 0,
         "icon": "PO_Skill_01_112.png"
     },
     "55880": {
         "id": 55880,
-        "name": "[영지놀이] 모래삽 스킬E",
-        "desc": "",
+        "name": "Big Scoop",
+        "desc": "Inflicts 10 Damage to the sand pile.",
         "classid": 0,
         "icon": "PO_Skill_01_113.png"
     },
     "55900": {
         "id": 55900,
-        "name": "이그렉시온_코어파편_코어파괴광선",
-        "desc": "",
+        "name": "Core Destruction Ray",
+        "desc": "Use the power of a core fragment to fire a ray that can destroy the core.\n<FONT COLOR='#FA5D00'>※ Successfully hit the Perfect Zone to weaken the core. Destroy the core by stacking 4 times. ",
         "classid": 0,
         "icon": "Vehicle_79.png"
     },
     "55901": {
         "id": 55901,
-        "name": "이그렉시온_코어파편_코어버프",
-        "desc": "",
+        "name": "Core Shield",
+        "desc": "Use the power of a core fragment to create a barrier for yourself.\nYou are immune to all Pushes while the barrier lasts.",
         "classid": 0,
         "icon": "Vehicle_4.png"
     },
     "55910": {
         "id": 55910,
-        "name": "이그렉시온_부서진코어파편_코어파괴광선",
-        "desc": "",
+        "name": "Core Destruction Ray",
+        "desc": "Use the power of a broken core fragment to fire a ray that can destroy the core.\n<FONT COLOR='#FA5D00'>※ Successfully hit the Perfect Zone to weaken the core. Destroy the core by stacking 4 times. ",
         "classid": 0,
         "icon": "Vehicle_79.png"
     },
     "55920": {
         "id": 55920,
-        "name": "이그렉시온_온전한코어파편_코어파괴광선",
-        "desc": "",
+        "name": "Core Destruction Ray",
+        "desc": "Use the power of a whole core fragment to fire a ray that can destroy the core.\n<FONT COLOR='#FA5D00'>※ Successfully hit the Perfect Zone to weaken the core. Destroy the core by stacking 4 times. ",
         "classid": 0,
         "icon": "Vehicle_79.png"
     },
     "55921": {
         "id": 55921,
-        "name": "이그렉시온_온전한코어파편_코어버프",
-        "desc": "",
+        "name": "Core Shield",
+        "desc": "Use the power of a whole core fragment to create a barrier for yourself.\nYou are immune to all Pushes while the barrier lasts.",
         "classid": 0,
         "icon": "Vehicle_4.png"
     },
     "55950": {
         "id": 55950,
-        "name": "요새전_실마엘의 분노",
-        "desc": "",
+        "name": "Elysium's Rage",
+        "desc": "Discharge the concentrated energy of Elysium, inflicting massive Damage to foes. Heavy Walkers will also receive a significant amount of Damage.",
         "classid": 0,
         "icon": "Vehicle_79.png"
     },
     "55951": {
         "id": 55951,
-        "name": "요새전_실마엘의 축복",
-        "desc": "",
+        "name": "Elysium's Blessing",
+        "desc": "Release the concentrated energy of Elysium and invoke a blessing. Incoming Damage for all nearby party members -<FONT COLOR='#99ff99'>50%</FONT> for <FONT COLOR='#ffff99'>5s</FONT>.",
         "classid": 0,
         "icon": "Vehicle_4.png"
     },
@@ -386,15 +386,15 @@
     },
     "56110": {
         "id": 56110,
-        "name": "공속 상승",
-        "desc": "",
+        "name": "Atk. Speed Increase",
+        "desc": "Temporarily increases Atk. Speed.",
         "classid": 0,
         "icon": "Buff_66.png"
     },
     "56120": {
         "id": 56120,
-        "name": "이속 상승",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Temporarily increases Move Speed.",
         "classid": 0,
         "icon": "Vehicle_23.png"
     },
@@ -407,36 +407,36 @@
     },
     "56210": {
         "id": 56210,
-        "name": "법봉의머리파편_스킬1_회복의빛",
-        "desc": "",
+        "name": "Light of Recovery",
+        "desc": "Shine a healing light in front of you and slightly recover the target's HP.",
         "classid": 0,
         "icon": "Vehicle_163.png"
     },
     "56220": {
         "id": 56220,
-        "name": "법봉의머리파편_스킬2_심판의빛",
-        "desc": "",
+        "name": "Light of Judgment",
+        "desc": "Drop a powerful ray of light to inflict harsh Stagger Damage.",
         "classid": 0,
         "icon": "Vehicle_164.png"
     },
     "56230": {
         "id": 56230,
-        "name": "법봉의머리파편_스킬3_정화의구슬",
-        "desc": "",
+        "name": "Orb of Purification",
+        "desc": "Temporarily paralyzes impure souls.",
         "classid": 0,
         "icon": "Vehicle_165.png"
     },
     "56300": {
         "id": 56300,
-        "name": "추석 이벤트 토끼발 스킬_뿅망치",
-        "desc": "",
+        "name": "Toy Hammer",
+        "desc": "Strike down with a cute rabbit foot hammer. Use it to quickly capture Slimes. ",
         "classid": 0,
         "icon": "Vehicle_168.png"
     },
     "56310": {
         "id": 56310,
-        "name": "추석 이벤트 토끼발 스킬_그물 던지기",
-        "desc": "",
+        "name": "Master of Beekeeping",
+        "desc": "Toss a net toward the target location to catch bees.",
         "classid": 0,
         "icon": "Vehicle_169.png"
     },
@@ -456,8 +456,8 @@
     },
     "56411": {
         "id": 56411,
-        "name": "군단장_뿅망치_Q스킬",
-        "desc": "",
+        "name": "Toy Hammer Down Strike",
+        "desc": "Jump and strike down with the Toy Hammer.",
         "classid": 0,
         "icon": "Vehicle_277.png"
     },
@@ -470,8 +470,8 @@
     },
     "56430": {
         "id": 56430,
-        "name": "[이벤트] 콜라보_미스터피자_모코코 토끼발_뿅망치_공속상승",
-        "desc": "",
+        "name": "Atk. Speed Increase",
+        "desc": "Temporarily increases Atk. Speed.",
         "classid": 0,
         "icon": "Buff_66.png"
     },
@@ -484,8 +484,8 @@
     },
     "56441": {
         "id": 56441,
-        "name": "[마하라카 파라다이스] 뿅망치 Q스킬",
-        "desc": "",
+        "name": "Toy Hammer Down Strike",
+        "desc": "Jump and strike down with the Toy Hammer.",
         "classid": 0,
         "icon": "Vehicle_277.png"
     },
@@ -519,43 +519,43 @@
     },
     "56510": {
         "id": 56510,
-        "name": "스노우팡 아일랜드 눈덩이 공속 상승",
-        "desc": "",
+        "name": "Atk. Speed Increase",
+        "desc": "Temporarily increases Atk. Speed.",
         "classid": 0,
         "icon": "Buff_66.png"
     },
     "56520": {
         "id": 56520,
-        "name": "스노우팡 아일랜드 눈덩이 이속 상승",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Temporarily increases Move Speed.",
         "classid": 0,
         "icon": "Buff_243.png"
     },
     "56530": {
         "id": 56530,
-        "name": "스노우팡 아일랜드 거대 눈덩이 던지기(이벤트)",
-        "desc": "",
+        "name": "Toss Giant Snowballs",
+        "desc": "Toss a giant snowball toward the target location. Hit foes instantly turn into a snowkin.",
         "classid": 0,
         "icon": "Vehicle_189.png"
     },
     "56531": {
         "id": 56531,
-        "name": "스노우팡 아일랜드 거대 눈덩이 던지기_PVE(정규)",
-        "desc": "",
+        "name": "Toss Giant Snowballs",
+        "desc": "Toss a giant snowball toward the target location. Hit foes instantly turn into a snowkin.",
         "classid": 0,
         "icon": "Vehicle_189.png"
     },
     "56532": {
         "id": 56532,
-        "name": "스노우팡 아일랜드 거대 눈덩이 던지기_(정규)",
-        "desc": "",
+        "name": "Toss Giant Snowballs",
+        "desc": "Toss a giant snowball toward the target location. Hit foes instantly turn into a snowkin.",
         "classid": 0,
         "icon": "Vehicle_189.png"
     },
     "56533": {
         "id": 56533,
-        "name": "스노우팡 아일랜드 거대 눈덩이 던지기_(점령)",
-        "desc": "",
+        "name": "Toss Giant Snowballs",
+        "desc": "Toss a giant snowball toward the target location. Hit foes instantly turn into a snowkin.",
         "classid": 0,
         "icon": "Vehicle_189.png"
     },
@@ -568,57 +568,57 @@
     },
     "56610": {
         "id": 56610,
-        "name": "막대사탕 - 공속 상승",
-        "desc": "",
+        "name": "Sweet Swing",
+        "desc": "Temporarily increases Atk. Speed.",
         "classid": 0,
         "icon": "Vehicle_187.png"
     },
     "56620": {
         "id": 56620,
-        "name": "막대사탕 - 이속 상승",
-        "desc": "",
+        "name": "Sweet Running",
+        "desc": "Temporarily increases Move Speed.",
         "classid": 0,
         "icon": "Vehicle_188.png"
     },
     "56700": {
         "id": 56700,
-        "name": "건조용 집광기 - 건조 광선",
-        "desc": "",
+        "name": "Heat Ray",
+        "desc": "Fire a powerful heat ray at your foe.",
         "classid": 0,
         "icon": "Vehicle_8.png"
     },
     "56800": {
         "id": 56800,
-        "name": "환영 판독",
-        "desc": "",
+        "name": "Phantom Reading",
+        "desc": "Figure out if the target is a phantom or not.",
         "classid": 0,
         "icon": "Vehicle_76.png"
     },
     "56801": {
         "id": 56801,
-        "name": "사진 찍기",
-        "desc": "",
+        "name": "Take Picture",
+        "desc": "Figure out if the target is a phantom or not.",
         "classid": 0,
         "icon": "Vehicle_76.png"
     },
     "56900": {
         "id": 56900,
-        "name": "워터풀 아일랜드_Q스킬_연발 발사",
-        "desc": "",
+        "name": "Serial Shot",
+        "desc": "Fire a powerful water gun multiple times.",
         "classid": 0,
         "icon": "Vehicle_212.png"
     },
     "56910": {
         "id": 56910,
-        "name": "워터풀 아일랜드_W스킬_전방 물폭탄 발사",
-        "desc": "",
+        "name": "Water Bomb",
+        "desc": "Toss a water bomb in front of you.",
         "classid": 0,
         "icon": "Vehicle_210.png"
     },
     "56920": {
         "id": 56920,
-        "name": "워터풀 아일랜드_E스킬_이속증가",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Temporarily increases Move Speed.",
         "classid": 0,
         "icon": "Vehicle_211.png"
     },
@@ -631,22 +631,22 @@
     },
     "57000": {
         "id": 57000,
-        "name": "워터풀 아일랜드_Q스킬_한방! 발사",
-        "desc": "",
+        "name": "Multishot",
+        "desc": "Fire a powerful water gun with three streams.",
         "classid": 0,
         "icon": "Vehicle_209.png"
     },
     "57010": {
         "id": 57010,
-        "name": "워터풀 아일랜드_W스킬_물 지뢰 발사",
-        "desc": "",
+        "name": "Rabbit",
+        "desc": "Use to transform into a rabbit.",
         "classid": 0,
         "icon": "Vehicle_213.png"
     },
     "57020": {
         "id": 57020,
-        "name": "워터풀 아일랜드_E스킬_이속증가",
-        "desc": "",
+        "name": "Red Sunglasses Tooki",
+        "desc": "Use to transform into a Tooki wearing red sunglasses.",
         "classid": 0,
         "icon": "Vehicle_211.png"
     },
@@ -659,43 +659,43 @@
     },
     "56901": {
         "id": 56901,
-        "name": "워터풀 아일랜드_Q스킬_연발 발사[아이템용]",
-        "desc": "",
+        "name": "Serial Shot",
+        "desc": "Fire a powerful water gun multiple times.",
         "classid": 0,
         "icon": "Vehicle_212.png"
     },
     "57001": {
         "id": 57001,
-        "name": "워터풀 아일랜드_Q스킬_한방! 발사[아이템용]",
-        "desc": "",
+        "name": "Multishot",
+        "desc": "Fire a powerful water gun with three streams.",
         "classid": 0,
         "icon": "Vehicle_209.png"
     },
     "56903": {
         "id": 56903,
-        "name": "콜라보_이디아_프리징건_Q스킬",
-        "desc": "",
+        "name": "Ice Placement",
+        "desc": "Fires a large number of ice missiles and pours them over coffee and shaved ice.",
         "classid": 0,
         "icon": "Vehicle_212.png"
     },
     "56913": {
         "id": 56913,
-        "name": "콜라보_이디아_프리징건_W스킬",
-        "desc": "",
+        "name": "Ice Flood",
+        "desc": "Give Hotoikis an ice bath so that they may cool down.",
         "classid": 0,
         "icon": "Vehicle_210.png"
     },
     "56914": {
         "id": 56914,
-        "name": "콜라보_이디아_프리징건_W스킬_물폭탄용",
-        "desc": "",
+        "name": "Water Bomb",
+        "desc": "Toss a water bomb in front of you.",
         "classid": 0,
         "icon": "Vehicle_210.png"
     },
     "56923": {
         "id": 56923,
-        "name": "콜라보_이디아_프리징건_E스킬",
-        "desc": "",
+        "name": "Quick, Quick",
+        "desc": "Run fast to make cold drinks.",
         "classid": 0,
         "icon": "Vehicle_211.png"
     },
@@ -708,22 +708,22 @@
     },
     "56902": {
         "id": 56902,
-        "name": "워터풀 아일랜드_Q스킬_연발 발사_마하라카 파라다이스(57009)",
-        "desc": "",
+        "name": "Serial Shot",
+        "desc": "Fire a powerful water gun multiple times.",
         "classid": 0,
         "icon": "Vehicle_212.png"
     },
     "56912": {
         "id": 56912,
-        "name": "워터풀 아일랜드_W스킬_전방 물폭탄 발사_마하라카 파라다이스(57009)",
-        "desc": "",
+        "name": "Water Bomb",
+        "desc": "Toss a water bomb in front of you.",
         "classid": 0,
         "icon": "Vehicle_210.png"
     },
     "56922": {
         "id": 56922,
-        "name": "워터풀 아일랜드_E스킬_이속증가_마하라카 파라다이스(57009)",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Temporarily increases Move Speed.",
         "classid": 0,
         "icon": "Vehicle_211.png"
     },
@@ -736,22 +736,22 @@
     },
     "57002": {
         "id": 57002,
-        "name": "워터풀 아일랜드_Q스킬_한방! 발사_마하라카 파라다이스(57009)",
-        "desc": "",
+        "name": "Multishot",
+        "desc": "Fire a powerful water gun with three streams.",
         "classid": 0,
         "icon": "Vehicle_209.png"
     },
     "57012": {
         "id": 57012,
-        "name": "워터풀 아일랜드_W스킬_물 지뢰 발사_마하라카 파라다이스(57009)",
-        "desc": "",
+        "name": "Rabbit",
+        "desc": "Use to transform into a rabbit.",
         "classid": 0,
         "icon": "Vehicle_213.png"
     },
     "57022": {
         "id": 57022,
-        "name": "워터풀 아일랜드_E스킬_이속증가_마하라카 파라다이스(57009)",
-        "desc": "",
+        "name": "Red Sunglasses Tooki",
+        "desc": "Use to transform into a Tooki wearing red sunglasses.",
         "classid": 0,
         "icon": "Vehicle_211.png"
     },
@@ -764,127 +764,127 @@
     },
     "57100": {
         "id": 57100,
-        "name": "쿵덕쿵아일랜드_토끼발 스킬_뿅망치",
-        "desc": "",
+        "name": "Toy Hammer",
+        "desc": "Strike down with a cute rabbit foot hammer. Use it to quickly capture Slimes. ",
         "classid": 0,
         "icon": "Vehicle_168.png"
     },
     "57101": {
         "id": 57101,
-        "name": "쿵덕쿵아일랜드 토끼발 스킬_그물 던지기",
-        "desc": "",
+        "name": "Master of Beekeeping",
+        "desc": "Toss a net toward the target location to catch bees.",
         "classid": 0,
         "icon": "Vehicle_169.png"
     },
     "57200": {
         "id": 57200,
-        "name": "물뿌리기",
-        "desc": "",
+        "name": "Spray Water",
+        "desc": "Spray water in front.",
         "classid": 0,
         "icon": "Vehicle_315.png"
     },
     "57201": {
         "id": 57201,
-        "name": "물뿌리기_기억의 오르골",
-        "desc": "",
+        "name": "Sprinkling Water",
+        "desc": "Wash away all your worries, struggles, and dirt with refreshing water!",
         "classid": 0,
         "icon": "Vehicle_315.png"
     },
     "57300": {
         "id": 57300,
-        "name": "거대 빨래방망이_다듬이질",
-        "desc": "",
+        "name": "Walloping",
+        "desc": "Vigorously slams the huge laundry bat.",
         "classid": 0,
         "icon": "Vehicle_348.png"
     },
     "57400": {
         "id": 57400,
-        "name": "세이크리아 석판_성스러운 빛",
-        "desc": "",
+        "name": "Sacred Light",
+        "desc": "Collects light and fires it in a powerful ray.",
         "classid": 0,
         "icon": "Vehicle_349.png"
     },
     "57500": {
         "id": 57500,
-        "name": "2021추석이벤트_터치펜 스킬1",
-        "desc": "",
+        "name": "Reservation Login",
+        "desc": "Log in to the Ocean Liner reservation system.",
         "classid": 0,
         "icon": "Buff_166.png"
     },
     "57510": {
         "id": 57510,
-        "name": "2021추석이벤트_터치펜 스킬2",
-        "desc": "",
+        "name": "Select Destination Area",
+        "desc": "Select the Ocean Liner's destination.",
         "classid": 0,
         "icon": "Buff_133.png"
     },
     "57520": {
         "id": 57520,
-        "name": "2021추석이벤트_터치펜 스킬3",
-        "desc": "",
+        "name": "Make Payment",
+        "desc": "Proceed with payment.",
         "classid": 0,
         "icon": "Vehicle_330.png"
     },
     "57530": {
         "id": 57530,
-        "name": "[밈섬] 재련용 망치_두드리기",
-        "desc": "",
+        "name": "Tap",
+        "desc": "Strike with your hammer.",
         "classid": 0,
         "icon": "Vehicle_277.png"
     },
     "57531": {
         "id": 57531,
-        "name": "[밈섬] 염원을 담은 망치질",
-        "desc": "",
+        "name": "Wishful Hammering",
+        "desc": "Make a wish for success and strike with your hammer.",
         "classid": 0,
         "icon": "PO_Skill_01_90.png"
     },
     "57540": {
         "id": 57540,
-        "name": "[2021겨울이벤트]크리스마스 요술 랜턴 Q",
-        "desc": "",
+        "name": "Joytide Light",
+        "desc": "Use a magical lantern to fix the torn doll,\nthen stun the transformed doll.",
         "classid": 0,
         "icon": "Vehicle_15.png"
     },
     "57541": {
         "id": 57541,
-        "name": "[2021겨울이벤트]크리스마스 요술 랜턴_W_은신",
-        "desc": "",
+        "name": "Stealth",
+        "desc": "Use stealth and become invincible for <FONT COLOR='#ffff99'>3s</FONT> while stealth is active.",
         "classid": 0,
         "icon": "Buff_148.png"
     },
     "57542": {
         "id": 57542,
-        "name": "[2021겨울이벤트]크리스마스 요술 랜턴_E_이속증가",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Increases Move Speed.",
         "classid": 0,
         "icon": "Buff_10.png"
     },
     "57545": {
         "id": 57545,
-        "name": "[달콤살벌 미로정원]프레이 요술 랜턴 Q",
-        "desc": "",
+        "name": "Freja the Fairy's Energy",
+        "desc": "Use a magical lantern to fix the torn doll,\nthen stun the transformed toy doll.",
         "classid": 0,
         "icon": "Vehicle_15.png"
     },
     "57546": {
         "id": 57546,
-        "name": "[달콤살벌 미로정원]프레이 요술 랜턴_W_은신",
-        "desc": "",
+        "name": "Stealth",
+        "desc": "Use stealth and become invincible for <FONT COLOR='#ffff99'>3s</FONT> while stealth is active.",
         "classid": 0,
         "icon": "Buff_148.png"
     },
     "57547": {
         "id": 57547,
-        "name": "[달콤살벌 미로정원]프레이 요술 랜턴_E_이속증가",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Increases Move Speed.",
         "classid": 0,
         "icon": "Buff_10.png"
     },
     "57548": {
         "id": 57548,
-        "name": "[달콤살벌 미로정원]프레이 요술 랜턴_E_이속증가_퀘스트용(10922가젯용)",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Increases Move Speed.",
         "classid": 0,
         "icon": "Buff_10.png"
     },
@@ -911,43 +911,43 @@
     },
     "57561": {
         "id": 57561,
-        "name": "[2021 겨울이벤트]_오리 망치_Q스킬",
-        "desc": "",
+        "name": "Charging Crash",
+        "desc": "Strike down with the Hot Spring Duck Hammer with all your strength.",
         "classid": 0,
         "icon": "Vehicle_377.png"
     },
     "57562": {
         "id": 57562,
-        "name": "[2021 겨울이벤트]_오리 망치_W스킬",
-        "desc": "",
+        "name": "Jumping Crash",
+        "desc": "Jump to the target location and strike down with the Hot Spring Duck Hammer. On skill use, gain a shield for <FONT COLOR='#ffff99'>5</FONT>s.",
         "classid": 0,
         "icon": "Vehicle_378.png"
     },
     "57563": {
         "id": 57563,
-        "name": "[2021 겨울이벤트]_오리 망치_E스킬",
-        "desc": "",
+        "name": "Dash",
+        "desc": "Raise the Hot Spring Duck Hammer and charge in the target direction. On skill use, Move Speed +<FONT COLOR='#ffff99'>3</FONT>s.",
         "classid": 0,
         "icon": "Vehicle_379.png"
     },
     "57570": {
         "id": 57570,
-        "name": "[2021 겨울이벤트]오리물총_Q스킬_연발 발사",
-        "desc": "",
+        "name": "Hot Water Shooter",
+        "desc": "Fire hot water in succession.",
         "classid": 0,
         "icon": "Vehicle_380.png"
     },
     "57571": {
         "id": 57571,
-        "name": "[2021 겨울이벤트]오리물총_W스킬_전방 물폭탄 발사",
-        "desc": "",
+        "name": "Hot Water Bomb",
+        "desc": "Throw a hot water bomb in the target direction.",
         "classid": 0,
         "icon": "Vehicle_381.png"
     },
     "57572": {
         "id": 57572,
-        "name": "[2021 겨울이벤트]오리물총_E스킬_이속증가",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Move Speed +<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:575720/>%</FONT>.",
         "classid": 0,
         "icon": "Vehicle_211.png"
     },
@@ -960,22 +960,22 @@
     },
     "57600": {
         "id": 57600,
-        "name": "얼음!",
-        "desc": "",
+        "name": "Ice!",
+        "desc": "Enter Ice status and make sure the tagger's attack never reaches you. Your allies must use the Tap! skill or restart to become free.",
         "classid": 0,
         "icon": "Buff_145.png"
     },
     "57601": {
         "id": 57601,
-        "name": "땡!",
-        "desc": "",
+        "name": "Tap!",
+        "desc": "Free allies who are in Ice status.",
         "classid": 0,
         "icon": "Buff_166.png"
     },
     "57602": {
         "id": 57602,
-        "name": "구르기",
-        "desc": "",
+        "name": "Roll",
+        "desc": "Roll in the target direction.",
         "classid": 0,
         "icon": "Buff_453.png"
     },
@@ -1002,8 +1002,8 @@
     },
     "57631": {
         "id": 57631,
-        "name": "[모험섬] 토마토 건_토마토 연속 발사",
-        "desc": "",
+        "name": "Rapid Tomato Fire",
+        "desc": "Fires tomatoes in succession.",
         "classid": 0,
         "icon": "All_Quest_04_174.png"
     },
@@ -1107,43 +1107,43 @@
     },
     "58010": {
         "id": 58010,
-        "name": "태초의 섬 해머_Q 스킬",
-        "desc": "",
+        "name": "Charging Crash",
+        "desc": "Gathers power to strike the ground and inflict Damage.\nInflicts additional Damage to stunned foes.\nEach charge level generates a stun-inflicting stack, at 1, 2, and 3 per level.",
         "classid": 0,
         "icon": "Vehicle_285.png"
     },
     "58020": {
         "id": 58020,
-        "name": "태초의 섬 해머_W 스킬",
-        "desc": "",
+        "name": "Jumping Crash",
+        "desc": "Jump to the target location and strike down with the hammer, dealing Damage and reducing Move Speed.\nA shield is granted when using the skill.\nOn hit, create 3 stun-inflicting stacks.",
         "classid": 0,
         "icon": "Vehicle_286.png"
     },
     "58021": {
         "id": 58021,
         "name": "태초의 섬 해머_W 스킬_실버",
-        "desc": "",
+        "desc": "Jump to the target location and strike down with the hammer, dealing Damage and reducing Move Speed.\nA shield is granted when using the skill and Move Speed increases.\nOn hit, create 3 stun-inflicting stacks.",
         "classid": 0,
         "icon": "Vehicle_286.png"
     },
     "58022": {
         "id": 58022,
         "name": "태초의 섬 해머_W 스킬_골드",
-        "desc": "",
+        "desc": "Jump to the target location and strike down with the hammer, dealing Damage and reducing Move Speed. Create a Shockwave that inflicts damage.\nA shield is granted when using the skill, and Move Speed increases\nOn hit, create 3 stun-inflicting stacks.",
         "classid": 0,
         "icon": "Vehicle_286.png"
     },
     "58030": {
         "id": 58030,
-        "name": "태초의 섬 해머_E 스킬",
-        "desc": "",
+        "name": "Dash",
+        "desc": "Holds a hammer while charging forward, dealing Damage.",
         "classid": 0,
         "icon": "Vehicle_287.png"
     },
     "58031": {
         "id": 58031,
         "name": "태초의 섬 해머_E 스킬_골드",
-        "desc": "",
+        "desc": "Holds a hammer while charging forward, dealing Damage.",
         "classid": 0,
         "icon": "Vehicle_287.png"
     },
@@ -1156,43 +1156,43 @@
     },
     "58110": {
         "id": 58110,
-        "name": "태초의 섬 유탄발사기_Q 스킬",
-        "desc": "",
+        "name": "Great Bomb",
+        "desc": "Throws a grenade, dealing Damage in the target area, and dealing Damage to the surrounding area with an additional explosion.",
         "classid": 0,
         "icon": "Vehicle_294.png"
     },
     "58120": {
         "id": 58120,
-        "name": "태초의 섬 유탄발사기_W 스킬",
-        "desc": "",
+        "name": "B4 Grenade",
+        "desc": "Throws a grenade to the selected area. It is a combo skill, so use up to 3 times by moving to different locations.",
         "classid": 0,
         "icon": "Vehicle_295.png"
     },
     "58121": {
         "id": 58121,
         "name": "태초의 섬 유탄발사기_W 스킬_실버",
-        "desc": "",
+        "desc": "Throws a grenade to the selected area. It is a combo skill, so use up to 3 times by moving to different locations.",
         "classid": 0,
         "icon": "Vehicle_295.png"
     },
     "58122": {
         "id": 58122,
         "name": "태초의 섬 유탄발사기_W 스킬_골드",
-        "desc": "",
+        "desc": "Throws a grenade to the selected area. It is a combo skill, so use up to 3 times by moving to different locations.\nThe last hit knocks down foes.",
         "classid": 0,
         "icon": "Vehicle_295.png"
     },
     "58130": {
         "id": 58130,
-        "name": "태초의 섬 유탄발사기_E 스킬",
-        "desc": "",
+        "name": "Escape Bomb",
+        "desc": "Throws a grenade forward, and moves backward from the recoil.",
         "classid": 0,
         "icon": "Vehicle_296.png"
     },
     "58131": {
         "id": 58131,
         "name": "태초의 섬 유탄발사기_E 스킬_골드",
-        "desc": "",
+        "desc": "Throws a grenade forward, and moves backward from the recoil.",
         "classid": 0,
         "icon": "Vehicle_296.png"
     },
@@ -1205,43 +1205,43 @@
     },
     "58210": {
         "id": 58210,
-        "name": "태초의 섬 석궁_Q스킬",
-        "desc": "",
+        "name": "The Last Arrow",
+        "desc": "Turns around once and shoots powerful poison arrows from a kneeling position.\nInflicts a poison debuff on the target. When the target is poisoned, Crit Damage is guaranteed.",
         "classid": 0,
         "icon": "Vehicle_291.png"
     },
     "58220": {
         "id": 58220,
-        "name": "태초의 섬 석궁_W스킬",
-        "desc": "",
+        "name": "Wave of Arrows",
+        "desc": "Turns around once in a standing position, and shoots with the crossbow.\nThe arrow spreads into 3 pieces and knocks back the hit enemy.\nIf the target is poisoned, it knocks them back and stuns them for 2s.",
         "classid": 0,
         "icon": "Vehicle_292.png"
     },
     "58221": {
         "id": 58221,
         "name": "태초의 섬 석궁_W스킬_실버",
-        "desc": "",
+        "desc": "Turns around once in a standing position, and shoots with the crossbow.\nThe arrow spreads into 5 pieces and knocks back the hit enemy.\nIf the target is poisoned, it knocks them back and stuns them for 2s.",
         "classid": 0,
         "icon": "Vehicle_292.png"
     },
     "58222": {
         "id": 58222,
         "name": "태초의 섬 석궁_W스킬_골드",
-        "desc": "",
+        "desc": "Turns around once in a standing position, and shoots with the crossbow.\nThe arrow spreads into 7 pieces and knocks back the hit enemy.\nIf the target is poisoned, it knocks them back and stuns them for 2s.",
         "classid": 0,
         "icon": "Vehicle_292.png"
     },
     "58230": {
         "id": 58230,
-        "name": "태초의 섬 석궁_E스킬",
-        "desc": "",
+        "name": "Time to Hunt",
+        "desc": "Quickly roll forward. Become Stealthed.",
         "classid": 0,
         "icon": "Vehicle_293.png"
     },
     "58231": {
         "id": 58231,
-        "name": "태초의 섬 석궁_E스킬_골드",
-        "desc": "",
+        "name": "Time to Hunt",
+        "desc": "Quickly roll forward. Move Speed increases for a set time. Become Stealthed.",
         "classid": 0,
         "icon": "Vehicle_293.png"
     },
@@ -1254,43 +1254,43 @@
     },
     "58310": {
         "id": 58310,
-        "name": "태초의 섬 파이어백_Q스킬",
-        "desc": "",
+        "name": "Fireball",
+        "desc": "Throws a fireball, which explodes on the ground and creates a Flame Area.\nThe Flame Area lasts for 3-5s, dealing Damage to foes every second.\nThe fireball and Flame Area have a chance to inflict Burn debuff.",
         "classid": 0,
         "icon": "Vehicle_288.png"
     },
     "58320": {
         "id": 58320,
-        "name": "태초의 섬 파이어백_W스킬",
-        "desc": "",
+        "name": "Hellfire",
+        "desc": "Spews out flames forward, dealing Damage.",
         "classid": 0,
         "icon": "Vehicle_289.png"
     },
     "58321": {
         "id": 58321,
         "name": "태초의 섬 파이어백_W스킬_실버",
-        "desc": "",
+        "desc": "Spews flames forward, dealing Damage.\nHas a chance to inflict the Burn debuff.",
         "classid": 0,
         "icon": "Vehicle_289.png"
     },
     "58322": {
         "id": 58322,
         "name": "태초의 섬 파이어백_W스킬_골드",
-        "desc": "",
+        "desc": "Spews flames forward over a wide range, dealing Damage.\nHas a chance to inflict the Burn debuff.",
         "classid": 0,
         "icon": "Vehicle_289.png"
     },
     "58330": {
         "id": 58330,
-        "name": "태초의 섬 파이어백_E스킬",
-        "desc": "",
+        "name": "Flame Rush",
+        "desc": "A movement skill. Lowers stance and moves quickly while the glove spews fire toward the ground.\nSets fire to the path, creating a Flame Area for 3-5s.\nFoes hit in the Flame Area will be slowed and have a chance to receive Burn effect.",
         "classid": 0,
         "icon": "Vehicle_290.png"
     },
     "58331": {
         "id": 58331,
         "name": "태초의 섬 파이어백_E스킬_골드",
-        "desc": "",
+        "desc": "A movement skill. Lowers stance and moves quickly while the glove spews fire toward the ground.\nSets fire to the path, creating a Flame Area for 3-5s.\nFoes hit in the Flame Area will be slowed and have a chance to receive Burn effect.\nSkill type is now Combo, allowing you to use it once more.\n",
         "classid": 0,
         "icon": "Vehicle_290.png"
     },
@@ -1317,92 +1317,92 @@
     },
     "59610": {
         "id": 59610,
-        "name": "메데이아 점령전 테스트용 스킬Q",
-        "desc": "",
+        "name": "Absorb Medeia",
+        "desc": "Use the power of Arcturus to absorb Medeia.",
         "classid": 0,
         "icon": "Vehicle_5.png"
     },
     "59611": {
         "id": 59611,
-        "name": "메데이아 점령전 테스트용 스킬W",
-        "desc": "",
+        "name": "Arcturus's Wave",
+        "desc": "Release the energy that the mirror bears.",
         "classid": 0,
         "icon": "Vehicle_4.png"
     },
     "59612": {
         "id": 59612,
-        "name": "메데이아 점령전 테스트용 스킬Q_2번_가젯B",
-        "desc": "",
+        "name": "Absorb Medeia",
+        "desc": "Use the power of Arcturus to absorb Medeia.",
         "classid": 0,
         "icon": "Vehicle_5.png"
     },
     "59613": {
         "id": 59613,
-        "name": "메데이아 점령전 테스트용 스킬Q_3번_가젯C",
-        "desc": "",
+        "name": "Absorb Medeia",
+        "desc": "Use the power of Arcturus to absorb Medeia.",
         "classid": 0,
         "icon": "Vehicle_5.png"
     },
     "59700": {
         "id": 59700,
-        "name": "테스트 - 수라도 토끼발 스킬_뿅망치",
-        "desc": "",
+        "name": "Toy Hammer",
+        "desc": "Strike down with a cute rabbit foot hammer. Use it to quickly capture Slimes. ",
         "classid": 0,
         "icon": "Vehicle_168.png"
     },
     "59701": {
         "id": 59701,
-        "name": "테스트 - 수라도 토끼발 스킬_그물 던지기",
-        "desc": "",
+        "name": "Master of Beekeeping",
+        "desc": "Toss a net toward the target location to catch bees.",
         "classid": 0,
         "icon": "Vehicle_169.png"
     },
     "59702": {
         "id": 59702,
-        "name": "테스트 - 수라도 토끼발 스킬_신호탄 던지기",
-        "desc": "",
+        "name": "Master of Beekeeping",
+        "desc": "Toss a net toward the target location to catch bees.",
         "classid": 0,
         "icon": "Vehicle_4.png"
     },
     "59800": {
         "id": 59800,
-        "name": "모코코 워터파크_Q스킬_연발 발사",
-        "desc": "",
+        "name": "Serial Shot",
+        "desc": "Fire a powerful water gun multiple times.",
         "classid": 0,
         "icon": "Vehicle_212.png"
     },
     "59801": {
         "id": 59801,
-        "name": "모코코 워터파크_Q스킬_연발 발사 (연습용)",
-        "desc": "",
+        "name": "Serial Shot",
+        "desc": "Fire a powerful water gun multiple times.",
         "classid": 0,
         "icon": "Vehicle_212.png"
     },
     "59810": {
         "id": 59810,
-        "name": "모코코 워터파크_W스킬_전방 물폭탄 발사",
-        "desc": "",
+        "name": "Water Bomb",
+        "desc": "Toss a water bomb in front of you.",
         "classid": 0,
         "icon": "Vehicle_210.png"
     },
     "59811": {
         "id": 59811,
-        "name": "모코코 워터파크_W스킬_전방 물폭탄 발사 (연습용)",
-        "desc": "",
+        "name": "Water Bomb",
+        "desc": "Toss a water bomb in front of you.",
         "classid": 0,
         "icon": "Vehicle_210.png"
     },
     "59820": {
         "id": 59820,
-        "name": "모코코 워터파크_E스킬_이속증가",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Temporarily increases Move Speed.",
         "classid": 0,
         "icon": "Vehicle_211.png"
     },
     "59821": {
         "id": 59821,
-        "name": "모코코 워터파크_E스킬_이속증가 (연습용)",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Temporarily increases Move Speed.",
         "classid": 0,
         "icon": "Vehicle_211.png"
     },
@@ -1422,43 +1422,43 @@
     },
     "59900": {
         "id": 59900,
-        "name": "모코코 워터파크_Q스킬_한방! 발사",
-        "desc": "",
+        "name": "Multishot",
+        "desc": "Fire a powerful water gun with three streams.",
         "classid": 0,
         "icon": "Vehicle_209.png"
     },
     "59901": {
         "id": 59901,
-        "name": "모코코 워터파크_Q스킬_한방! 발사 (연습용)",
-        "desc": "",
+        "name": "Multishot",
+        "desc": "Fire a powerful water gun with three streams.",
         "classid": 0,
         "icon": "Vehicle_209.png"
     },
     "59910": {
         "id": 59910,
-        "name": "모코코 워터파크_W스킬_물 지뢰 발사",
-        "desc": "",
+        "name": "Water Mine",
+        "desc": "Plant a water mine that creates a powerful water explosion.",
         "classid": 0,
         "icon": "Vehicle_213.png"
     },
     "59911": {
         "id": 59911,
-        "name": "모코코 워터파크_W스킬_물 지뢰 발사 (연습용)",
-        "desc": "",
+        "name": "Water Mine",
+        "desc": "Plant a water mine that creates a powerful water explosion.",
         "classid": 0,
         "icon": "Vehicle_213.png"
     },
     "59920": {
         "id": 59920,
-        "name": "모코코 워터파크_E스킬_이속증가",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Temporarily increases Move Speed.",
         "classid": 0,
         "icon": "Vehicle_211.png"
     },
     "59921": {
         "id": 59921,
-        "name": "모코코 워터파크_E스킬_이속증가 (연습용)",
-        "desc": "",
+        "name": "Move Speed Increase",
+        "desc": "Temporarily increases Move Speed.",
         "classid": 0,
         "icon": "Vehicle_211.png"
     },
@@ -105617,176 +105617,176 @@
     },
     "95100": {
         "id": 95100,
-        "name": "호버 보드_부스트",
-        "desc": "",
+        "name": "Boost",
+        "desc": "Hold to activate the nitro booster and move faster for a while.",
         "classid": 0,
         "icon": "SM_Skill_01_19.png"
     },
     "95200": {
         "id": 95200,
-        "name": "켈피온_돌진",
-        "desc": "",
+        "name": "Charge",
+        "desc": "Charge at foes, pushing them away and knocking them down.",
         "classid": 0,
         "icon": "Vehicle_17.png"
     },
     "95300": {
         "id": 95300,
-        "name": "켈피온_점프",
-        "desc": "",
+        "name": "Jump",
+        "desc": "Jump to move, knocking down foes in the nearby area.",
         "classid": 0,
         "icon": "Vehicle_18.png"
     },
     "95310": {
         "id": 95310,
-        "name": "캘피온_아자란 폭격 지원",
-        "desc": "",
+        "name": "Azaran Bombardment Support",
+        "desc": "Call forth a rain of holy arrows at the target location.",
         "classid": 0,
         "icon": "Vehicle_10.png"
     },
     "95400": {
         "id": 95400,
-        "name": "헤비워커 방어형1_화염방사기",
-        "desc": "",
+        "name": "Flaming Flamethrower",
+        "desc": "Shoot a flame thrower while circling toward the target location.",
         "classid": 0,
         "icon": "Vehicle_23.png"
     },
     "95403": {
         "id": 95403,
-        "name": "헤비워커 방어형1_화염방사기_혼돈의권좌",
-        "desc": "",
+        "name": "Flaming Flamethrower",
+        "desc": "Shoot a flame thrower while circling toward the target location.",
         "classid": 0,
         "icon": "Vehicle_23.png"
     },
     "95410": {
         "id": 95410,
-        "name": "헤비워커 방어형1_파워 밤",
-        "desc": "",
+        "name": "Power Bomb",
+        "desc": "Smash the ground with both arms.",
         "classid": 0,
         "icon": "Vehicle_24.png"
     },
     "95420": {
         "id": 95420,
-        "name": "헤비워커 방어형1_에너지 포",
-        "desc": "",
+        "name": "Energy Cannon",
+        "desc": "Focus energy in the launcher on the chest, then shoot explosive energy toward the target location.",
         "classid": 0,
         "icon": "Vehicle_25.png"
     },
     "95430": {
         "id": 95430,
-        "name": "헤비워커 방어형1_에너지 포_혼돈의권좌",
-        "desc": "",
+        "name": "Energy Cannon",
+        "desc": "Focus energy in the launcher on the chest, then shoot explosive energy toward the target location.",
         "classid": 0,
         "icon": "Vehicle_25.png"
     },
     "95440": {
         "id": 95440,
-        "name": "헤비워커 방어형2_파워 밤(콤보)",
-        "desc": "",
+        "name": "Doubled Power Bomb",
+        "desc": "Smash the ground with both arms. Use the skill again to perform another downward smash.",
         "classid": 0,
         "icon": "Vehicle_24.png"
     },
     "95450": {
         "id": 95450,
-        "name": "헤비워커 방어형2_파워 밤(콤보)_혼돈의권좌",
-        "desc": "",
+        "name": "Doubled Power Bomb",
+        "desc": "Smash the ground with both arms. Use the skill again to perform another downward smash.",
         "classid": 0,
         "icon": "Vehicle_24.png"
     },
     "95510": {
         "id": 95510,
-        "name": "헤비워커 원거리형_기관총",
-        "desc": "",
+        "name": "Shark Machine Gun",
+        "desc": "Hold the skill hotkey to fire a machine gun while circling toward the target location.",
         "classid": 0,
         "icon": "Vehicle_26.png"
     },
     "95520": {
         "id": 95520,
-        "name": "헤비워커 원거리형_미사일 런처",
-        "desc": "",
+        "name": "Missile Launcher",
+        "desc": "Cause an explosion in the target area.",
         "classid": 0,
         "icon": "Vehicle_27.png"
     },
     "95401": {
         "id": 95401,
-        "name": "헤비워커 방어형1_화염방사기_고립된영원의섬",
-        "desc": "",
+        "name": "Flaming Flamethrower",
+        "desc": "Shoot a flame thrower while circling toward the target location.",
         "classid": 0,
         "icon": "Vehicle_23.png"
     },
     "95411": {
         "id": 95411,
-        "name": "헤비워커 방어형1_파워 밤_고립된영원의섬",
-        "desc": "",
+        "name": "Power Bomb",
+        "desc": "Smash the ground with both arms.",
         "classid": 0,
         "icon": "Vehicle_24.png"
     },
     "95421": {
         "id": 95421,
-        "name": "헤비워커 방어형1_에너지 포_고립된영원의섬",
-        "desc": "",
+        "name": "Energy Cannon",
+        "desc": "Focus energy in the launcher on the chest, then shoot explosive energy toward the target location.",
         "classid": 0,
         "icon": "Vehicle_25.png"
     },
     "95441": {
         "id": 95441,
-        "name": "헤비워커 방어형2_파워 밤(콤보)_고립된영원의섬",
-        "desc": "",
+        "name": "Powerful Power Bomb",
+        "desc": "Smash the ground with both arms. Use the skill again to perform another downward smash.",
         "classid": 0,
         "icon": "Vehicle_24.png"
     },
     "95511": {
         "id": 95511,
-        "name": "헤비워커 원거리형_기관총_고립된영원의섬",
-        "desc": "",
+        "name": "Shark Machine Gun",
+        "desc": "Hold the skill hotkey to fire a machine gun while circling toward the target location.",
         "classid": 0,
         "icon": "Vehicle_26.png"
     },
     "95521": {
         "id": 95521,
-        "name": "헤비워커 원거리형_미사일 런처_고립된영원의섬",
-        "desc": "",
+        "name": "Missile Launcher",
+        "desc": "Cause an explosion in the target area.",
         "classid": 0,
         "icon": "Vehicle_27.png"
     },
     "95402": {
         "id": 95402,
-        "name": "헤비워커 방어형1_화염방사기_크라테르심장_헬모드",
-        "desc": "",
+        "name": "Flaming Flamethrower",
+        "desc": "Shoot a flame thrower while circling toward the target location.",
         "classid": 0,
         "icon": "Vehicle_23.png"
     },
     "95412": {
         "id": 95412,
-        "name": "헤비워커 방어형1_파워 밤_크라테르심장_헬모드",
-        "desc": "",
+        "name": "Power Bomb",
+        "desc": "Smash the ground with both arms.",
         "classid": 0,
         "icon": "Vehicle_24.png"
     },
     "95422": {
         "id": 95422,
-        "name": "헤비워커 방어형1_에너지 포_크라테르심장_헬모드",
-        "desc": "",
+        "name": "Energy Cannon",
+        "desc": "Focus energy in the launcher on the chest, then shoot explosive energy toward the target location.",
         "classid": 0,
         "icon": "Vehicle_25.png"
     },
     "95442": {
         "id": 95442,
-        "name": "헤비워커 방어형2_파워 밤(콤보)_크라테르심장_헬모드",
-        "desc": "",
+        "name": "Doubled Power Bomb",
+        "desc": "Smash the ground with both arms. Use the skill again to perform another downward smash.",
         "classid": 0,
         "icon": "Vehicle_24.png"
     },
     "95512": {
         "id": 95512,
-        "name": "헤비워커 원거리형_기관총_크라테르심장_헬모드",
-        "desc": "",
+        "name": "Shark Machine Gun",
+        "desc": "Hold the skill hotkey to fire a machine gun while circling toward the target location.",
         "classid": 0,
         "icon": "Vehicle_26.png"
     },
     "95522": {
         "id": 95522,
-        "name": "헤비워커 원거리형_미사일 런처_크라테르심장_헬모드",
-        "desc": "",
+        "name": "Missile Launcher",
+        "desc": "Cause an explosion in the target area.",
         "classid": 0,
         "icon": "Vehicle_27.png"
     },
@@ -105820,596 +105820,596 @@
     },
     "95600": {
         "id": 95600,
-        "name": "대포_곡사포(광기의 축제)",
-        "desc": "",
+        "name": "Howitzer",
+        "desc": "Fire cannon shells at the target location. Repeated hits can make Kranterus groggy. ",
         "classid": 0,
         "icon": "Vehicle_20.png"
     },
     "95610": {
         "id": 95610,
-        "name": "대포_작살 공격",
-        "desc": "",
+        "name": "Furious Harpoon Attack",
+        "desc": "Shoot harpoons in a straight line from both sides of the cannon. You can change the attack direction while shooting harpoons. Repeated hits can make Kranterus groggy. ",
         "classid": 0,
         "icon": "Vehicle_21.png"
     },
     "95620": {
         "id": 95620,
-        "name": "대포_폭발 공격",
-        "desc": "",
+        "name": "Critical Explosion Attack",
+        "desc": "Cause a powerful explosion at close range to make Kranterus groggy with a single hit.",
         "classid": 0,
         "icon": "Vehicle_22.png"
     },
     "95630": {
         "id": 95630,
-        "name": "대포_곡사포(볼라르 전용 대포)",
-        "desc": "",
+        "name": "Howitzer",
+        "desc": "Fire cannon shells at the target location. Requires Cannonballs.",
         "classid": 0,
         "icon": "Vehicle_20.png"
     },
     "95640": {
         "id": 95640,
-        "name": "대포_작살 공격(볼라르 전용 대포)",
-        "desc": "",
+        "name": "Furious Harpoon Attack",
+        "desc": "Shoot harpoons from the sides of your cannon in straight lines. Requires Harpoons.",
         "classid": 0,
         "icon": "Vehicle_21.png"
     },
     "95650": {
         "id": 95650,
-        "name": "대포_곡사포(실마엘 토벌전 대포)",
-        "desc": "",
+        "name": "Howitzer",
+        "desc": "Fire cannon shells at the target location. Requires Cannonballs.",
         "classid": 0,
         "icon": "Vehicle_20.png"
     },
     "95651": {
         "id": 95651,
-        "name": "대포_작살 공격(실마엘 토벌전 대포)",
-        "desc": "",
+        "name": "Harpoon Attack",
+        "desc": "Shoot harpoons from the sides of your cannon in straight lines. Requires Harpoons.",
         "classid": 0,
         "icon": "Vehicle_21.png"
     },
     "95670": {
         "id": 95670,
-        "name": "흰 고래 대포 미사일",
-        "desc": "",
+        "name": "Bombardment",
+        "desc": "Fire cannon shells toward the front and inflict Damage to foes.",
         "classid": 0,
         "icon": "Vehicle_20.png"
     },
     "95660": {
         "id": 95660,
-        "name": "대포_곡사포(실마엘 전장 요새전 전용 대포)",
-        "desc": "",
+        "name": "Large Howitzer",
+        "desc": "Fire large cannon shells at the target location. Requires Cannonballs.",
         "classid": 0,
         "icon": "Vehicle_20.png"
     },
     "95661": {
         "id": 95661,
-        "name": "대포_곡사포2(실마엘 전장 요새전 전용 대포)",
-        "desc": "",
+        "name": "Howitzer",
+        "desc": "Fire cannon shells at the target location. ",
         "classid": 0,
         "icon": "Vehicle_167.png"
     },
     "95662": {
         "id": 95662,
-        "name": "대포_곡사포(실마엘 전장 요새전 전용 대포)_스턴7초",
-        "desc": "",
+        "name": "Large Howitzer",
+        "desc": "Fire large cannon shells at the target location. Requires Cannonballs.",
         "classid": 0,
         "icon": "Vehicle_20.png"
     },
     "95663": {
         "id": 95663,
-        "name": "대포_곡사포2(실마엘 전장 요새전 전용 대포)_스턴7초",
-        "desc": "",
+        "name": "Howitzer",
+        "desc": "Fire cannon shells at the target location. ",
         "classid": 0,
         "icon": "Vehicle_167.png"
     },
     "95664": {
         "id": 95664,
-        "name": "대포_곡사포_로웬_스킬W_실명탄 (일반대포)",
-        "desc": "",
+        "name": "Dark Explosive",
+        "desc": "Fire a darkness-infused explosive to inflict Damage equal to <FONT COLOR='#99ff99'>20%</FONT> of foe's Max Vitality and cast Darkness upon them.",
         "classid": 0,
         "icon": "Vehicle_20.png"
     },
     "95665": {
         "id": 95665,
-        "name": "대포_곡사포_로웬_스킬Q_일반공격 (일반대포)",
-        "desc": "",
+        "name": "Explosive",
+        "desc": "Fire an explosive to inflict Damage equal to <FONT COLOR='#99ff99'>15%</FONT> of foe's Max Vitality.",
         "classid": 0,
         "icon": "Vehicle_22.png"
     },
     "95666": {
         "id": 95666,
-        "name": "대포_곡사포_로웬_스킬W_실명탄 (본진대포)",
-        "desc": "",
+        "name": "Improved Dark Bomb",
+        "desc": "Fire a darkness-infused explosive to inflict Damage equal to <FONT COLOR='#99ff99'>35%</FONT> of the foe's Max Vitality and cast Darkness upon them. Afterwards, inflict the target with a Shred effect which increases Incoming Damage by <FONT COLOR='#99ff99'>10%</FONT>. This effect stacks up to 3 times.",
         "classid": 0,
         "icon": "Vehicle_20.png"
     },
     "95667": {
         "id": 95667,
-        "name": "대포_곡사포_로웬_스킬Q_일반공격 (본진대포)",
-        "desc": "",
+        "name": "Improved Explosive",
+        "desc": "Fire an explosive to inflict Damage equal to <FONT COLOR='#99ff99'>30%</FONT> of the foe's Max Vitality. Afterwards, inflict the target with a Shred effect which increases Incoming Damage by <FONT COLOR='#99ff99'>10%</FONT>. This effect stacks up to 3 times.",
         "classid": 0,
         "icon": "Vehicle_22.png"
     },
     "95668": {
         "id": 95668,
-        "name": "대포_곡사포_로웬_스킬W_실명탄 (블루팀 긴 사거리)",
-        "desc": "",
+        "name": "Dark Explosive",
+        "desc": "Fire a darkness-infused explosive to inflict Damage equal to <FONT COLOR='#99ff99'>20%</FONT> of the foe's Max Vitality and cast Darkness upon them.",
         "classid": 0,
         "icon": "Vehicle_20.png"
     },
     "95669": {
         "id": 95669,
-        "name": "대포_곡사포_로웬_스킬Q_일반공격 (블루팀 긴 사거리)",
-        "desc": "",
+        "name": "Explosive",
+        "desc": "Fire an explosive to inflict Damage equal to <FONT COLOR='#99ff99'>15%</FONT> of the foe's Max Vitality.",
         "classid": 0,
         "icon": "Vehicle_22.png"
     },
     "95671": {
         "id": 95671,
-        "name": "대포_곡사포_로웬_스킬Q_일반공격 (레드팀 긴 사거리)",
-        "desc": "",
+        "name": "Explosive",
+        "desc": "Fire an explosive to inflict Damage equal to <FONT COLOR='#99ff99'>15%</FONT> of the foe's Max Vitality.",
         "classid": 0,
         "icon": "Vehicle_22.png"
     },
     "95672": {
         "id": 95672,
-        "name": "대포_곡사포_로웬_스킬W_실명탄 (레드팀 긴 사거리)",
-        "desc": "",
+        "name": "Dark Explosive",
+        "desc": "Fire a darkness-infused explosive to inflict Damage equal to <FONT COLOR='#99ff99'>20%</FONT> of the foe's Max Vitality and cast Darkness upon them.",
         "classid": 0,
         "icon": "Vehicle_20.png"
     },
     "95700": {
         "id": 95700,
-        "name": "말 이동기 점프",
-        "desc": "",
+        "name": "Jump",
+        "desc": "Jump forward.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "95710": {
         "id": 95710,
-        "name": "무당벌레 이동기 대쉬",
-        "desc": "",
+        "name": "Charge",
+        "desc": "Move quickly.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "95720": {
         "id": 95720,
-        "name": "호버보드 이동기 부스트_3초",
-        "desc": "",
+        "name": "Boost",
+        "desc": "Move fast for up to <FONT COLOR='#ffff99'>3s</FONT>.",
         "classid": 0,
         "icon": "Vehicle_19.png"
     },
     "95721": {
         "id": 95721,
-        "name": "호버보드 이동기 부스트_3.5초",
-        "desc": "",
+        "name": "Booster",
+        "desc": "Use the engine booster built with cutting-edge technology.",
         "classid": 0,
         "icon": "Vehicle_19.png"
     },
     "95722": {
         "id": 95722,
-        "name": "모코보드 이동기_기분좋은 질주",
-        "desc": "",
+        "name": "Pleasant Sprint",
+        "desc": "As the wind blows, a gentle and pleasing aroma wafts from all around.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "95730": {
         "id": 95730,
-        "name": "늑대 이동기 점프",
-        "desc": "",
+        "name": "Jump",
+        "desc": "Jump forward.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "95740": {
         "id": 95740,
-        "name": "거북이 이동기 대쉬",
-        "desc": "",
+        "name": "Slide",
+        "desc": "Move quickly.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "95750": {
         "id": 95750,
-        "name": "랩터 이동기 부스트_3.5초",
-        "desc": "",
+        "name": "Run",
+        "desc": "The raptor sprints for a short time.",
         "classid": 0,
         "icon": "Vehicle_61.png"
     },
     "95760": {
         "id": 95760,
-        "name": "랩터 이동기 부스트_3초",
-        "desc": "",
+        "name": "Run",
+        "desc": "The raptor sprints for a short time.",
         "classid": 0,
         "icon": "Vehicle_61.png"
     },
     "96761": {
         "id": 96761,
-        "name": "랩터 이동기_질주",
-        "desc": "",
+        "name": "Sprint",
+        "desc": "Quickly sprint forward.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "96762": {
         "id": 96762,
-        "name": "랩터 이동기_질주",
-        "desc": "",
+        "name": "Sprint",
+        "desc": "Quickly sprint forward.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "96770": {
         "id": 96770,
-        "name": "로웬랩터_준비자세_프라이겔리",
-        "desc": "",
+        "name": "Ready Stance",
+        "desc": "Crouch and get ready to rush forward.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96771": {
         "id": 96771,
-        "name": "로웬랩터_경계_프라이겔리",
-        "desc": "",
+        "name": "Threat Check",
+        "desc": "Search the surroundings for possible threats.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "96772": {
         "id": 96772,
-        "name": "로웬랩터_위협_프라이겔리",
-        "desc": "",
+        "name": "Roar",
+        "desc": "Let out a roar to taunt foes in the nearby area.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "96773": {
         "id": 96773,
-        "name": "로웬랩터_이동기_질주_프라이겔리",
-        "desc": "",
+        "name": "Sprint",
+        "desc": "Quickly sprint forward.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "96780": {
         "id": 96780,
-        "name": "로웬랩터_준비자세_리베르탄",
-        "desc": "",
+        "name": "Ready Stance",
+        "desc": "Crouch and get ready to rush forward.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96781": {
         "id": 96781,
-        "name": "로웬랩터_경계_리베르탄",
-        "desc": "",
+        "name": "Threat Check",
+        "desc": "Search the surroundings for possible threats.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "96782": {
         "id": 96782,
-        "name": "로웬랩터_위협_리베르탄",
-        "desc": "",
+        "name": "Roar",
+        "desc": "Let out a roar to taunt foes in the nearby area.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "96783": {
         "id": 96783,
-        "name": "로웬랩터_이동기_질주_리베르탄",
-        "desc": "",
+        "name": "Sprint",
+        "desc": "Quickly sprint forward.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "95800": {
         "id": 95800,
-        "name": "황금장수풍뎅이 승리포즈",
-        "desc": "",
+        "name": "Victory Pose",
+        "desc": "The beetle threateningly lifts its head, basking in the victory.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "95810": {
         "id": 95810,
-        "name": "황금장수풍뎅이 흔들기",
-        "desc": "",
+        "name": "Shake",
+        "desc": "The beetle shakes its buttocks.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "95820": {
         "id": 95820,
-        "name": "황금장수풍뎅이 날고싶어",
-        "desc": "",
+        "name": "I Want to Fly",
+        "desc": "The beetle quickly flaps its wings in the air, and then lands.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "95830": {
         "id": 95830,
-        "name": "황금장수풍뎅이 이동기 대쉬",
-        "desc": "",
+        "name": "Movement Skill",
+        "desc": "The beetle quickly flaps its wings to gain thrust as it moves forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "95900": {
         "id": 95900,
-        "name": "디오리카 명마 스킬 흥분",
-        "desc": "",
+        "name": "Thrilled",
+        "desc": "The Dyorika warhorse shakes its head and paws the ground.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "95910": {
         "id": 95910,
-        "name": "디오리카 명마 스킬 찍기",
-        "desc": "",
+        "name": "Hack",
+        "desc": "The Dyorika warhorse lifts its forelegs and slams them down onto the ground.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "95920": {
         "id": 95920,
-        "name": "디오리카 명마 스킬 풍차 돌리기",
-        "desc": "",
+        "name": "Windmill Spin",
+        "desc": "The Dyorika warhorse lifts its forelegs, pawing the air.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "95930": {
         "id": 95930,
-        "name": "디오리카 명마 이동기 질주",
-        "desc": "",
+        "name": "Sprint",
+        "desc": "The Dyorika warhorse crouches, and then springs forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "95901": {
         "id": 95901,
-        "name": "로웬군마_ 스킬 흥분",
-        "desc": "",
+        "name": "Thrilled",
+        "desc": "It shakes its head and stomps the ground.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "95911": {
         "id": 95911,
-        "name": "로웬군마_스킬 찍기",
-        "desc": "",
+        "name": "Hack",
+        "desc": "It lifts its forelegs and slams them down onto the ground.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "95921": {
         "id": 95921,
-        "name": "로웬군마_스킬 풍차 돌리기",
-        "desc": "",
+        "name": "Windmill Spin",
+        "desc": "It lifts its forelegs, pawing at the air.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "95931": {
         "id": 95931,
-        "name": "로웬군마_이동기 질주",
-        "desc": "",
+        "name": "Sprint",
+        "desc": "It crouches, and then springs forward.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "95940": {
         "id": 95940,
-        "name": "유니콘_질주",
-        "desc": "",
+        "name": "Sprint",
+        "desc": "Quick sprint forward. ",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "95941": {
         "id": 95941,
-        "name": "유니콘_포효",
-        "desc": "",
+        "name": "Roar",
+        "desc": "After gathering the power of purification in the horn, it is released into the surrounding area. ",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96000": {
         "id": 96000,
-        "name": "테르페이온 스킬 승리포즈",
-        "desc": "",
+        "name": "Victory Pose",
+        "desc": "Terpeion lifts its forelegs with its wings spread wide.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96010": {
         "id": 96010,
-        "name": "테르페이온 스킬 휴식",
-        "desc": "",
+        "name": "Rest",
+        "desc": "Terpeion rests with its wings wrapped around its body.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "96020": {
         "id": 96020,
-        "name": "테르페이온 스킬 뒷발차기",
-        "desc": "",
+        "name": "Back Kick",
+        "desc": "Terpeion does a back kick with its hind legs while standing still.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "96030": {
         "id": 96030,
-        "name": "테르페이온 이동기 대쉬",
-        "desc": "",
+        "name": "Dash",
+        "desc": "Terpeion takes a leap, flapping its wings.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "96100": {
         "id": 96100,
-        "name": "베른 엘크 스킬 신령한 집중",
-        "desc": "",
+        "name": "Divine Concentration",
+        "desc": "The Vernese Elk lifts its head, concentrating its mind.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96110": {
         "id": 96110,
-        "name": "베른 엘크 스킬 사슴은 잘 놀래",
-        "desc": "",
+        "name": "Deer Are Easily Startled",
+        "desc": "The Vernese Elk jumps with a start.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "96120": {
         "id": 96120,
-        "name": "베른 엘크 스킬 위협",
-        "desc": "",
+        "name": "Threaten",
+        "desc": "The Vernese Elk moves its antlers in a threatening manner.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "96130": {
         "id": 96130,
-        "name": "베른 엘크 이동기 대쉬",
-        "desc": "",
+        "name": "Dash",
+        "desc": "The Vernese Elk moves in smooth jumping motions.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "96200": {
         "id": 96200,
-        "name": "흰구름 백마 스킬 점프",
-        "desc": "",
+        "name": "Jump",
+        "desc": "The Cloud Steed jumps and attacks.",
         "classid": 0,
         "icon": "Vehicle_18.png"
     },
     "96210": {
         "id": 96210,
-        "name": "흰구름 백마 스킬 돌진",
-        "desc": "",
+        "name": "Charge",
+        "desc": "The Cloud Steed charges at foes.",
         "classid": 0,
         "icon": "Vehicle_17.png"
     },
     "96220": {
         "id": 96220,
-        "name": "흰구름 백마 스킬 매 공격",
-        "desc": "",
+        "name": "Hawk Attack",
+        "desc": "The Cloud Steed summons a ferocious hawk.",
         "classid": 0,
         "icon": "Vehicle_78.png"
     },
     "96300": {
         "id": 96300,
-        "name": "바람갈기 야생마 스킬 점프",
-        "desc": "",
+        "name": "Jump",
+        "desc": "The Wind Mane Mustang jumps and attacks.",
         "classid": 0,
         "icon": "Vehicle_18.png"
     },
     "96310": {
         "id": 96310,
-        "name": "바람갈기 야생마 스킬 돌진",
-        "desc": "",
+        "name": "Charge",
+        "desc": "The Wind Mane Mustang charges at foes.",
         "classid": 0,
         "icon": "Vehicle_17.png"
     },
     "96320": {
         "id": 96320,
-        "name": "바람갈기 야생마 스킬 매 공격",
-        "desc": "",
+        "name": "Hawk Attack",
+        "desc": "The Wind Mane Mustang summons a ferocious hawk.",
         "classid": 0,
         "icon": "Vehicle_78.png"
     },
     "96400": {
         "id": 96400,
-        "name": "금빛 전투 갑옷 늑대 하울링",
-        "desc": "",
+        "name": "Howl",
+        "desc": "The Gold Combat Armor Wolf lets out a howl.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96410": {
         "id": 96410,
-        "name": "금빛 전투 갑옷 늑대 금빛 점프",
-        "desc": "",
+        "name": "Golden Jump",
+        "desc": "The Gold Combat Armor Wolf quickly jumps forward.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "96500": {
         "id": 96500,
-        "name": "황금 톱니 거북 조금만 쉬었다 가자",
-        "desc": "",
+        "name": "Let's Take a Short Break",
+        "desc": "The Golden Sawtooth Turtle flaps down on the ground and takes a break.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96510": {
         "id": 96510,
-        "name": "황금 톱니 거북 스핀 러시",
-        "desc": "",
+        "name": "Spin Rush",
+        "desc": "The Golden Sawtooth Turtle spins in a circle as it glides forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "96600": {
         "id": 96600,
-        "name": "눈꽃 사슴 꽃송이가",
-        "desc": "",
+        "name": "Snowflake",
+        "desc": "The Icebloom Reindeer lowers its head and shakes its body, scattering snowflakes.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96610": {
         "id": 96610,
-        "name": "눈꽃 사슴 얼음축제",
-        "desc": "",
+        "name": "Frost Festival",
+        "desc": "The Icebloom Reindeer hops and bounces, popping snowflakes like fireworks.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "96620": {
         "id": 96620,
-        "name": "눈꽃 사슴 멋진 포즈",
-        "desc": "",
+        "name": "Cool Pose",
+        "desc": "The Icebloom Reindeer strikes a pose.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "96630": {
         "id": 96630,
-        "name": "눈꽃 사슴 점프",
-        "desc": "",
+        "name": "Snowflake Jump",
+        "desc": "The Icebloom Reindeer leaps forward in rapid succession.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "96631": {
         "id": 96631,
-        "name": "얼음꽃 사슴_꽃송이가",
-        "desc": "",
+        "name": "Snowflake",
+        "desc": "It lowers its head and shakes its body, scattering snowflakes.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96632": {
         "id": 96632,
-        "name": "얼음꽃 사슴_얼음 축제",
-        "desc": "",
+        "name": "Frost Festival",
+        "desc": "It hops and bounces, popping snowflakes like fireworks.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "96633": {
         "id": 96633,
-        "name": "얼음꽃 사슴_멋진 포즈",
-        "desc": "",
+        "name": "Cool Pose",
+        "desc": "It strikes a pose.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "96634": {
         "id": 96634,
-        "name": "얼음꽃 사슴_점프",
-        "desc": "",
+        "name": "Snowflake Jump",
+        "desc": "It leaps forward in rapid succession.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
     "96700": {
         "id": 96700,
-        "name": "참크리 이동기 러닝_3초",
-        "desc": "",
+        "name": "Run",
+        "desc": "The Chamkuri sprints for a limited time.",
         "classid": 0,
         "icon": "Vehicle_17.png"
     },
     "96710": {
         "id": 96710,
-        "name": "참크리 이동기 러닝_3.5초",
-        "desc": "",
+        "name": "Run",
+        "desc": "The Chamkuri sprints for a limited time.",
         "classid": 0,
         "icon": "Vehicle_17.png"
     },
     "96701": {
         "id": 96701,
-        "name": "참크리 이동기 마법 질주",
-        "desc": "",
+        "name": "Magick Sprint",
+        "desc": "Use the power of magick to quickly dash forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "96702": {
         "id": 96702,
-        "name": "참크리 날 수 있어!",
-        "desc": "",
+        "name": "I Can Fly!",
+        "desc": "Flap your wings to fly. You can do it with a little more practice.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96703": {
         "id": 96703,
-        "name": "참크리 초! 능력",
-        "desc": "",
+        "name": "Superpowers",
+        "desc": "Summon your favorite fruit and eat it.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "96704": {
         "id": 96704,
-        "name": "참크리 마법의 춤",
-        "desc": "",
+        "name": "Magick Dance",
+        "desc": "Chamkuri dances with joy.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
@@ -106429,778 +106429,778 @@
     },
     "96800": {
         "id": 96800,
-        "name": "근두운 이동기 비행",
-        "desc": "",
+        "name": "Flight",
+        "desc": "The Flying Nimbus moves at a high speed for a limited time.",
         "classid": 0,
         "icon": "Vehicle_17.png"
     },
     "96801": {
         "id": 96801,
-        "name": "황금 근두운 이동기 빠른 비행",
-        "desc": "",
+        "name": "Glide",
+        "desc": "The Flying Nimbus glides forward, leaving a trace in the air.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "96802": {
         "id": 96802,
-        "name": "황금 근두운 재주넘기",
-        "desc": "",
+        "name": "Cool Trick",
+        "desc": "The Flying Nimbus shows off its skills, moving in a dynamic fashion.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96803": {
         "id": 96803,
-        "name": "황금 근두운 방출",
-        "desc": "",
+        "name": "Discharge",
+        "desc": "The Flying Nimbus releases energy in all directions.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "96804": {
         "id": 96804,
-        "name": "황금 근두운 아기구름",
-        "desc": "",
+        "name": "Baby Nimbus",
+        "desc": "The Flying Nimbus produces a baby cloud.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "96810": {
         "id": 96810,
-        "name": "근두운_가속",
-        "desc": "",
+        "name": "Acceleration",
+        "desc": "The speed of the Flying Nimbus increases for a set time.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "96811": {
         "id": 96811,
-        "name": "근두운_재주넘기",
-        "desc": "",
+        "name": "Cool Trick",
+        "desc": "The Flying Nimbus shows off its skills, moving in a dynamic fashion.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "96900": {
         "id": 96900,
-        "name": "정령마 승리의 비행",
-        "desc": "",
+        "name": "Victory Stunt",
+        "desc": "The Elemental horse spreads its wings and flies.",
         "classid": 0,
         "icon": "Vehicle_17.png"
     },
     "96910": {
         "id": 96910,
-        "name": "정령마 승리의 질주",
-        "desc": "",
+        "name": "Victorious Sprint",
+        "desc": "The Elemental horse gallops forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97000": {
         "id": 97000,
-        "name": "슈타이페 브리제 이동기 부스터",
-        "desc": "",
+        "name": "Booster",
+        "desc": "Glide forward using the booster.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97010": {
         "id": 97010,
-        "name": "슈타이페 브리제 바닥 파기",
-        "desc": "",
+        "name": "Dig Ground",
+        "desc": "Dig the ground using front paws.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97020": {
         "id": 97020,
-        "name": "슈타이페 브리제 광자포 발사",
-        "desc": "",
+        "name": "Photon Shooter",
+        "desc": "Bring out the photon shooter from the mouth and shoot it in the air.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97030": {
         "id": 97030,
-        "name": "슈타이페 브리제 매트릭스",
-        "desc": "",
+        "name": "Matrix",
+        "desc": "Send out the signal with the matrix monitor.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97100": {
         "id": 97100,
-        "name": "플라밍고 이동기 파도 타기",
-        "desc": "",
+        "name": "Ride the Wave",
+        "desc": "When a cool wave rises up, ride it to glide forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97110": {
         "id": 97110,
-        "name": "플라밍고 시원 시원 물방울",
-        "desc": "",
+        "name": "Refreshing Droplet",
+        "desc": "Break the water droplets with your beak to beat the heat.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97120": {
         "id": 97120,
-        "name": "플라밍고 행복한 한때",
-        "desc": "",
+        "name": "Happy Times",
+        "desc": "Remember happy times and fall into a sweet daydream. ",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97130": {
         "id": 97130,
-        "name": "플라밍고 일광욕",
-        "desc": "",
+        "name": "Sunbathe",
+        "desc": "Stretch out under the hot sun and sunbathe.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97200": {
         "id": 97200,
-        "name": "러시아 탈것 이동기 에어쇼",
-        "desc": "",
+        "name": "Air Show",
+        "desc": "Fly forward across the sky while creating blue clouds.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97210": {
         "id": 97210,
-        "name": "러시아 탈것 엔진 예열",
-        "desc": "",
+        "name": "Preheat the Engine",
+        "desc": "Turn on the engine and create sparks at the exhaust pipes.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97220": {
         "id": 97220,
-        "name": "러시아 탈것 문워크",
-        "desc": "",
+        "name": "Moonwalk",
+        "desc": "Play a groovy melody and dance to the beat.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97230": {
         "id": 97230,
-        "name": "러시아 탈것 자동 수리",
-        "desc": "",
+        "name": "Automatic Repairs",
+        "desc": "The engine explodes, but a drone appears to fix it.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97300": {
         "id": 97300,
-        "name": "헤비워커 이동기 돌격명령",
-        "desc": "",
+        "name": "Order to Charge",
+        "desc": "Turn on the booster and glide forward at an incredible speed.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97310": {
         "id": 97310,
-        "name": "헤비워커 안녕, 친구!",
-        "desc": "",
+        "name": "Hello, Friend!",
+        "desc": "Mari appears as a hologram and says hello.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97320": {
         "id": 97320,
-        "name": "헤비워커 수줍음",
-        "desc": "",
+        "name": "Shy",
+        "desc": "Mari appears as a hologram and acts shy.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97330": {
         "id": 97330,
-        "name": "헤비워커 힘내, 친구야!",
-        "desc": "",
+        "name": "Keep Going, Friend!",
+        "desc": "Mari appears as a hologram and cheers you on.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97400": {
         "id": 97400,
-        "name": "호박마차 이동기 유령질주",
-        "desc": "",
+        "name": "Phantom Sprint",
+        "desc": "3 phantoms appear and push the carriage.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97410": {
         "id": 97410,
-        "name": "호박마차 할로윈 사탕 파티",
-        "desc": "",
+        "name": "Halloween Candy Party",
+        "desc": "Phantoms appear to scatter candy all around.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97420": {
         "id": 97420,
-        "name": "호박마차 호박 세례",
-        "desc": "",
+        "name": "Pumpkin Christening",
+        "desc": "The witch's hat creates magick pumpkin firewords in the sky.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97430": {
         "id": 97430,
-        "name": "호박마차 놀래키기",
-        "desc": "",
+        "name": "Scare",
+        "desc": "The area around the carriage becomes dark, then light to scare off the bats.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97500": {
         "id": 97500,
-        "name": "스노우바이크 이동기 달리는 기분",
-        "desc": "",
+        "name": "Wind In My Hair",
+        "desc": "Turn on the engine to quickly rush forward.\n\nGet a taste of that <FONT COLOR='#2E2E2E'>power booster!</FONT>",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97510": {
         "id": 97510,
-        "name": "스노우바이크 흰 눈 사이로",
-        "desc": "",
+        "name": "Between the Snow",
+        "desc": "A blizzard appears.\n",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97520": {
         "id": 97520,
-        "name": "스노우바이크 썰매를 타고",
-        "desc": "",
+        "name": "Sleigh Ride",
+        "desc": "Lift the front of your skis to do tricks.\n\n<FONT COLOR='#2E2E2E'>Cowabunga!</FONT>",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97530": {
         "id": 97530,
-        "name": "스노우바이크 종소리 울려라",
-        "desc": "",
+        "name": "Jingle Bells",
+        "desc": "The car floats off the ground and music starts to play.\n\n<FONT COLOR='#2E2E2E'>Encore!</FONT>",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97600": {
         "id": 97600,
-        "name": "유령마 이동기 혼령 질주",
-        "desc": "",
+        "name": "Spirit Sprint",
+        "desc": "Charge forward and the spirits run away behind you. ",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97610": {
         "id": 97610,
-        "name": "유령마 유령 소환",
-        "desc": "",
+        "name": "Summon Ghosts",
+        "desc": "Unleash your energy to summon ghosts.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97620": {
         "id": 97620,
-        "name": "유령마 흥분",
-        "desc": "",
+        "name": "Thrilled",
+        "desc": "Scratch the floor with a horse's hoof.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97630": {
         "id": 97630,
-        "name": "유령마 뒷발차기",
-        "desc": "",
+        "name": "Back Kick",
+        "desc": "Perform a powerful backward kick.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97700": {
         "id": 97700,
-        "name": "서핑보드_파도타기",
-        "desc": "",
+        "name": "Ride the Wave",
+        "desc": "Ride the waves with a surfboard.\nIf you're good enough, you might be able to ride multiple waves.",
         "classid": 0,
         "icon": "Vehicle_203.png"
     },
     "97710": {
         "id": 97710,
-        "name": "서핑보드_잠수",
-        "desc": "",
+        "name": "Underwater",
+        "desc": "Ride the waves with a surfboard.\nGo under the waves to move even faster.",
         "classid": 0,
         "icon": "Vehicle_204.png"
     },
     "97730": {
         "id": 97730,
-        "name": "유니콘튜브_물놀이 시즌 (이동기)",
-        "desc": "",
+        "name": "Water Play Season",
+        "desc": "Ride the current to move quickly.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97731": {
         "id": 97731,
-        "name": "유니콘튜브_빙글빙글",
-        "desc": "",
+        "name": "Spiral",
+        "desc": "Spin slowly in place with the current.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97732": {
         "id": 97732,
-        "name": "유니콘튜브_하늘 높이!",
-        "desc": "",
+        "name": "Into the Sky!",
+        "desc": "The tube rises up through the water pillar. Press the skill hotkey when the last current is released to make it rise even higher.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97733": {
         "id": 97733,
-        "name": "유니콘튜브_인공 폭포",
-        "desc": "",
+        "name": "Artificial Waterfall",
+        "desc": "A sudden gush of water falls down.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97740": {
         "id": 97740,
-        "name": "나루니_폴짝폴짝 (이동기)",
-        "desc": "",
+        "name": "Splish Splash",
+        "desc": "Naruni jumps up and down and splashes around. ",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97741": {
         "id": 97741,
-        "name": "나루니_교감",
-        "desc": "",
+        "name": "Small Talk",
+        "desc": "Naruni talks to the passenger.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97742": {
         "id": 97742,
-        "name": "나루니_빛무리",
-        "desc": "",
+        "name": "Pool of Light",
+        "desc": "Create a pool of light in the sky that makes Naruni stare in awe.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97743": {
         "id": 97743,
-        "name": "나루니_섬의 마음",
-        "desc": "",
+        "name": "Island Soul",
+        "desc": "The soul of the island creates power that spews from your mouth.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97750": {
         "id": 97750,
-        "name": "피냐타_돌진 (이동기)",
-        "desc": "",
+        "name": "Charge",
+        "desc": "The piñata rushes forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97751": {
         "id": 97751,
-        "name": "피냐타_종이털기",
-        "desc": "",
+        "name": "Paper Dusting",
+        "desc": "Dust yourself off and remove the papers stuck to your body.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97752": {
         "id": 97752,
-        "name": "피냐타_축제의 춤",
-        "desc": "",
+        "name": "Festival Dance",
+        "desc": "Enjoy the festival and bounce up and down with excitement.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97753": {
         "id": 97753,
-        "name": "피냐타_선물상자",
-        "desc": "",
+        "name": "Gift Chest",
+        "desc": "I wonder what's inside?",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97760": {
         "id": 97760,
-        "name": "비눗방울_비행 (이동기)",
-        "desc": "",
+        "name": "Flight",
+        "desc": "Bubbles float away with the wind.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97761": {
         "id": 97761,
-        "name": "비눗방울_회전",
-        "desc": "",
+        "name": "Spin",
+        "desc": "Round and Around",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97762": {
         "id": 97762,
-        "name": "비눗방울_거품 샤워",
-        "desc": "",
+        "name": "Bubble Shower",
+        "desc": "Who doesn't like bubbles?",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97763": {
         "id": 97763,
-        "name": "비눗방울_공중제비",
-        "desc": "",
+        "name": "Somersault",
+        "desc": "Buoyant",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97780": {
         "id": 97780,
-        "name": "눈덩이 날리기 (이동기)",
-        "desc": "",
+        "name": "Roll Snowball",
+        "desc": "The snowball rolls forward fast. ",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97781": {
         "id": 97781,
-        "name": "눈덩이_연주 - 눈사람",
-        "desc": "",
+        "name": "Snowkin's Performance",
+        "desc": "The snowkin appears and starts performing.\n\n<FONT COLOR='#ffff99'>It seems the snowkin can play together with others.</FONT>",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97782": {
         "id": 97782,
-        "name": "눈덩이_연주 - 진저맨",
-        "desc": "",
+        "name": "Gingerman's Performance",
+        "desc": "The gingerman appears and starts performing.\n\n<FONT COLOR='#ffff99'>It seems the snowkin can play together with others.</FONT>",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97783": {
         "id": 97783,
-        "name": "눈덩이_연주 - 루돌프",
-        "desc": "",
+        "name": "Rudolph's Performance",
+        "desc": "Rudolph appears and starts riding the rhythm.\n\n<FONT COLOR='#ffff99'>It seems the snowkin can play together with others.</FONT>",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97790": {
         "id": 97790,
-        "name": "호랑이_도약 (이동기)",
-        "desc": "",
+        "name": "Leap",
+        "desc": "The tiger swiftly leaps forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97791": {
         "id": 97791,
-        "name": "호랑이_어흥!",
-        "desc": "",
+        "name": "Roar!",
+        "desc": "The tiger lets out a menacing roar toward the battlefield. ",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97792": {
         "id": 97792,
-        "name": "호랑이_호랑이 기운",
-        "desc": "",
+        "name": "Tiger Energy",
+        "desc": "The tiger releases powerful energy to the vicinity. ",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97793": {
         "id": 97793,
-        "name": "호랑이_떡 먹기",
-        "desc": "",
+        "name": "Eating",
+        "desc": "Devour the rice cakes that appeared in the battlefield. ",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97795": {
         "id": 97795,
-        "name": "트론 바이크_기동 부스터 (이동기)",
-        "desc": "",
+        "name": "Mobility Booster",
+        "desc": "Activate the booster to quickly run forward . ",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97796": {
         "id": 97796,
-        "name": "트론 바이크_바이크 점검",
-        "desc": "",
+        "name": "Maintenance",
+        "desc": "Use a virtual panel to perform vehicle maintenance. ",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97797": {
         "id": 97797,
-        "name": "트론 바이크_가상 모니터 운전",
-        "desc": "",
+        "name": "Virtual Drive",
+        "desc": "Control a virtual monitor to drive virtually. ",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97798": {
         "id": 97798,
-        "name": "트론 바이크_스포트라이트",
-        "desc": "",
+        "name": "Spotlight",
+        "desc": "Create a spotlight nearby.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97810": {
         "id": 97810,
-        "name": "소라게_대쉬 (이동기)",
-        "desc": "",
+        "name": "Dash",
+        "desc": "Quickly hides within its shell then quickly dashes forward. ",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97811": {
         "id": 97811,
-        "name": "소라게_미끼 도발",
-        "desc": "",
+        "name": "Bait Taunt",
+        "desc": "Shake the bait to taunt the hermit crabs. ",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97812": {
         "id": 97812,
-        "name": "소라게_물대포",
-        "desc": "",
+        "name": "Water Cannon",
+        "desc": "Hermit crab shoots a stream of water from its mouth. ",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97813": {
         "id": 97813,
-        "name": "소라게_집게발 두드리기",
-        "desc": "",
+        "name": "Claw Tapping",
+        "desc": "Hermit crab taps its claws on the ground.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97820": {
         "id": 97820,
-        "name": "가이츠 로더_부스터 (이동기)",
-        "desc": "",
+        "name": "Booster",
+        "desc": "Activate the booster to quickly dash forward.\n\n<FONT COLOR='#ffff99'>Hold to use an additional booster.</FONT>",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97821": {
         "id": 97821,
-        "name": "가이츠 로더_라이트",
-        "desc": "",
+        "name": "Light",
+        "desc": "Activates the light system.\n\n<FONT COLOR='#ffff99'> Hold to turn off the light system.</FONT>",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97822": {
         "id": 97822,
-        "name": "가이츠 로더_번아웃",
-        "desc": "",
+        "name": "Burnout",
+        "desc": "Accelerates the rear wheel while in place to shoot sparks.\n\n<FONT COLOR='#ffff99'>Hold to maintain acceleration.</FONT>",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97823": {
         "id": 97823,
-        "name": "가이츠 로더_윌리 (세컨 이동기)",
-        "desc": "",
+        "name": "Willy",
+        "desc": "Pop a wheelie.\n\n<FONT COLOR='#ffff99'>Hold to keep moving.</FONT>",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97830": {
         "id": 97830,
-        "name": "케르베로스_점프 (이동기)",
-        "desc": "",
+        "name": "Jump",
+        "desc": "Leap lightly forward.\nPress once more during the jump, to leap again. ",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97831": {
         "id": 97831,
-        "name": "케르베로스_전방 경계",
-        "desc": "",
+        "name": "Frontal Security",
+        "desc": "Lower the upper body and take an offensive posture, then guard the front. ",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97832": {
         "id": 97832,
-        "name": "케르베로스_개방",
-        "desc": "",
+        "name": "Unlocked",
+        "desc": "By unleashing power, flames are generated on the tail and feet.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97833": {
         "id": 97833,
-        "name": "케르베로스_영혼 탐지",
-        "desc": "",
+        "name": "Detect Souls",
+        "desc": "The 6 eyes shine, detecting nearby souls. ",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97840": {
         "id": 97840,
-        "name": "침대_전방 이동 (이동기)",
-        "desc": "",
+        "name": "Go Forward",
+        "desc": "Blow wind and move forward. ",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97841": {
         "id": 97841,
-        "name": "침대_마법 회전",
-        "desc": "",
+        "name": "Magick Spin",
+        "desc": "The bed spins with the power of magick. ",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97842": {
         "id": 97842,
-        "name": "침대_공중 부양",
-        "desc": "",
+        "name": "Float",
+        "desc": "The bed rises with the power of magick.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97843": {
         "id": 97843,
-        "name": "침대_선물 폭탄",
-        "desc": "",
+        "name": "Gift Bomb",
+        "desc": "A magick explosion occurs at the edge of the bed. ",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97850": {
         "id": 97850,
-        "name": "스토르호른_점프 (이동기)",
-        "desc": "",
+        "name": "Jump",
+        "desc": "Jump forward 2 times. ",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97851": {
         "id": 97851,
-        "name": "스토르호른_공격 준비",
-        "desc": "",
+        "name": "Ready Attack",
+        "desc": "Expel your breath with force to threaten foes in front of you. ",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97860": {
         "id": 97860,
-        "name": "정령마_뽐내기",
-        "desc": "",
+        "name": "Proud",
+        "desc": "Whistle and show off your skills.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97861": {
         "id": 97861,
-        "name": "정령마_휴식",
-        "desc": "",
+        "name": "Rest",
+        "desc": "Rest with wings folded.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97862": {
         "id": 97862,
-        "name": "정령마_승리의 비행",
-        "desc": "",
+        "name": "Victory Stunt",
+        "desc": "The Elemental horse spreads its wings and flies.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97863": {
         "id": 97863,
-        "name": "정령마 승리의 질주_2",
-        "desc": "",
+        "name": "Victorious Sprint",
+        "desc": "The Elemental horse gallops forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97870": {
         "id": 97870,
-        "name": "날개 스킬_대쉬 (이동기)",
-        "desc": "",
+        "name": "Dash",
+        "desc": "Quickly run forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97871": {
         "id": 97871,
-        "name": "날개 스킬_광휘",
-        "desc": "",
+        "name": "Brilliant",
+        "desc": "Spread wings and stare at the sky. ",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97872": {
         "id": 97872,
-        "name": "날개 스킬_깃털 세례",
-        "desc": "",
+        "name": "Feather Shower",
+        "desc": "Use wings to pelt the ground with feathers. ",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97873": {
         "id": 97873,
-        "name": "날개 스킬_성역 선포",
-        "desc": "",
+        "name": "Declare Sanctuary",
+        "desc": "Spin on the spot while spreading wings, declaring the area a sanctuary. ",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97891": {
         "id": 97891,
-        "name": "프리스트 군마_박쥐 변신(이동기)",
-        "desc": "",
+        "name": "Bat Storm",
+        "desc": "Transform into a flock of bats and move quickly.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97892": {
         "id": 97892,
-        "name": "프리스트 군마_광란",
-        "desc": "",
+        "name": "Frenzy",
+        "desc": "The warhorse gets agitated and jumps up and down.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97893": {
         "id": 97893,
-        "name": "프리스트 군마_혼령 소환",
-        "desc": "",
+        "name": "Spirit Summon",
+        "desc": "Call the spirits of the land.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97894": {
         "id": 97894,
-        "name": "프리스트 군마_악령 퇴치",
-        "desc": "",
+        "name": "Wraith Elimination",
+        "desc": "Crush and eliminate the malicious souls.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97754": {
         "id": 97754,
-        "name": "풍선 포니_돌진 (이동기)",
-        "desc": "",
+        "name": "Charge",
+        "desc": "The balloon pony rushes forward.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97755": {
         "id": 97755,
-        "name": "풍선 포니_몸털기",
-        "desc": "",
+        "name": "Brush Off",
+        "desc": "Move your body to brush off the bubbles.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97756": {
         "id": 97756,
-        "name": "풍선 포니_축제의 춤",
-        "desc": "",
+        "name": "Festival Dance",
+        "desc": "Enjoy the music and bounce up and down with excitement.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97757": {
         "id": 97757,
-        "name": "풍선 포니_깜짝 풍선",
-        "desc": "",
+        "name": "Surprise Balloon",
+        "desc": "Should I pop it? My heart is pounding...",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "97900": {
         "id": 97900,
-        "name": "윈드 서핑_윈드 서핑 (이동기)",
-        "desc": "",
+        "name": "Windsurfing",
+        "desc": "If I get the timing right, I think I can ride the wind and fly far away.",
         "classid": 0,
         "icon": "Vehicle_60.png"
     },
     "97901": {
         "id": 97901,
-        "name": "윈드 서핑_제자리 돌기",
-        "desc": "",
+        "name": "Back in Position",
+        "desc": "Spin in place while jumping.",
         "classid": 0,
         "icon": "Vehicle_63.png"
     },
     "97902": {
         "id": 97902,
-        "name": "윈드 서핑_파도타기",
-        "desc": "",
+        "name": "Ride the Wave",
+        "desc": "Ride a large tide and move comfortably.",
         "classid": 0,
         "icon": "Vehicle_64.png"
     },
     "97903": {
         "id": 97903,
-        "name": "윈드 서핑_공중제비",
-        "desc": "",
+        "name": "Somersault",
+        "desc": "Jump up and do a somersault.",
         "classid": 0,
         "icon": "Vehicle_65.png"
     },
     "98000": {
         "id": 98000,
-        "name": "헤비워커 방어형1_화염방사기",
-        "desc": "",
+        "name": "Flaming Flamethrower",
+        "desc": "Shoot a flame thrower while circling toward the target location.\n<FONT COLOR='#FFFFFFAC'>※ Inflicts effective Damage to the PC.",
         "classid": 0,
         "icon": "Vehicle_23.png"
     },
     "98010": {
         "id": 98010,
-        "name": "헤비워커 방어형1_파워 밤",
-        "desc": "",
+        "name": "Power Bomb",
+        "desc": "Smash the ground with both arms.\n<FONT COLOR='#FFFFFFAC'>※ Inflicts powerful Damage on towers, statues, and gates.",
         "classid": 0,
         "icon": "Vehicle_24.png"
     },
     "98020": {
         "id": 98020,
-        "name": "헤비워커 방어형1_에너지 포",
-        "desc": "",
+        "name": "Energy Cannon",
+        "desc": "Focus energy in the launcher on the chest, then shoot explosive energy toward the target location.",
         "classid": 0,
         "icon": "Vehicle_25.png"
     },
     "98030": {
         "id": 98030,
-        "name": "헤비워커 방어형2_파워 밤(콤보)",
-        "desc": "",
+        "name": "Doubled Power Bomb",
+        "desc": "Smash the ground with both arms. Use the skill again to perform another downward smash.\n<FONT COLOR='#FFFFFFAC'>※ Inflicts powerful Damage on towers, statues, and gates.",
         "classid": 0,
         "icon": "Vehicle_24.png"
     },
     "98040": {
         "id": 98040,
-        "name": "헤비워커 원거리형_기관총",
-        "desc": "",
+        "name": "Shark Machine Gun",
+        "desc": "Hold the skill hotkey to fire a machine gun while circling toward the target location.",
         "classid": 0,
         "icon": "Vehicle_26.png"
     },
     "98050": {
         "id": 98050,
-        "name": "헤비워커 원거리형_미사일 런처",
-        "desc": "",
+        "name": "Missile Launcher",
+        "desc": "Cause an explosion in the target area.",
         "classid": 0,
         "icon": "Vehicle_27.png"
     },
@@ -107213,8 +107213,8 @@
     },
     "98103": {
         "id": 98103,
-        "name": "[로웬] 정령늑대_W_마력탄_노모션_블루",
-        "desc": "",
+        "name": "Domination Shot",
+        "desc": "Shoot an arrow of Sylmael energy, causing Stun.",
         "classid": 0,
         "icon": "Vehicle_78.png"
     },
@@ -107227,29 +107227,29 @@
     },
     "98105": {
         "id": 98105,
-        "name": "[로웬] 정령늑대_Q_돌진공격",
-        "desc": "",
+        "name": "Charge",
+        "desc": "Charge forward and push foes back.",
         "classid": 0,
         "icon": "Voyage_Skill_27.png"
     },
     "98106": {
         "id": 98106,
-        "name": "[로웬] 정령늑대_W_마력탄_노모션",
-        "desc": "",
+        "name": "Domination Shot",
+        "desc": "Shoot an arrow of Sylmael energy, causing Stun.",
         "classid": 0,
         "icon": "Vehicle_78.png"
     },
     "98107": {
         "id": 98107,
-        "name": "[로웬] 정령늑대_E_자폭",
-        "desc": "",
+        "name": "Self-Destruct",
+        "desc": "Dismount as you discharge Sylmael energy to inflict Damage equal to <FONT COLOR='#99ff99'>70%</FONT> of foe's Max Vitality.",
         "classid": 0,
         "icon": "SM_Skill_01_27.png"
     },
     "98108": {
         "id": 98108,
-        "name": "[로웬] 정령늑대_이동기",
-        "desc": "",
+        "name": "Quick Move",
+        "desc": "Quickly move forward. This skill can be used 3 times in a row.",
         "classid": 0,
         "icon": "Vehicle_62.png"
     },
@@ -107290,1303 +107290,1303 @@
     },
     "99000": {
         "id": 99000,
-        "name": "데몬 스팅어_베른의 창",
-        "desc": "",
+        "name": "Vern's Spear",
+        "desc": "Obtain \"Messenger's Demon Spear\" to use the skill. Use the skill again to launch the spear. Hit the Perfect Zone to launch a spear that inflicts even more powerful Damage.",
         "classid": 0,
         "icon": "Vehicle_160.png"
     },
     "99001": {
         "id": 99001,
-        "name": "데몬 스팅어_보호막",
-        "desc": "",
+        "name": "Vern's Shield",
+        "desc": "The cannon opens, spreads, and closes its wings to generate a protective energy. When you're at the energy veil, you and party members receive <FONT COLOR='#99ff99'>50%</FONT> less Damage and become immune to Paralysis and Pushes.",
         "classid": 0,
         "icon": "Vehicle_159.png"
     },
     "99010": {
         "id": 99010,
-        "name": "헬파이어_집중포화",
-        "desc": "",
+        "name": "Cannonball Hellfire",
+        "desc": "Fire powerful bullets into the sky to reduce the area to ashes. Fire bullets from multiple gun barrels to display your might and inflict harsh Damage on your foe. ",
         "classid": 0,
         "icon": "Vehicle_162.png"
     },
     "99020": {
         "id": 99020,
-        "name": "갓핸즈_마력 탄환 발사",
-        "desc": "",
+        "name": "Magick Bullet Fire",
+        "desc": "Gather magick energy in the palm of your hands to unleash a powerful magick ball at the selected area. The orb explodes and inflicts Damage to foes in addition to Stagger Damage to boss foes.",
         "classid": 0,
         "icon": "Vehicle_157.png"
     },
     "99021": {
         "id": 99021,
-        "name": "갓핸즈_포스필드",
-        "desc": "",
+        "name": "Force Field",
+        "desc": "Bring both hands to your heart and gather magick in the palm of your hands. Spread an energy that restores the HP of part members at the selection area.",
         "classid": 0,
         "icon": "Vehicle_158.png"
     },
     "99022": {
         "id": 99022,
-        "name": "갓핸즈_보호막",
-        "desc": "",
+        "name": "Heavenly Blessings",
+        "desc": "Stretch out your arms and open up your hands to receive a temporarily immunity effect from Heavenly Blessings.",
         "classid": 0,
         "icon": "Vehicle_161.png"
     },
     "99030": {
         "id": 99030,
-        "name": "산호 발리스타_조화의 창",
-        "desc": "",
+        "name": "Spear of Harmony",
+        "desc": "Imbue the energy of the surrounding corals into your arrows and launch a flurry of magick arrows at the target location. Hit the Perfect Zone to fire even more powerful arrows and inflict harsh Damage.",
         "classid": 0,
         "icon": "Vehicle_198.png"
     },
     "99040": {
         "id": 99040,
-        "name": "술통 이동장치_술통 떨어뜨리기",
-        "desc": "",
+        "name": "Keg Drop",
+        "desc": "Drop the liquor keg and knock down your foe at the target area.",
         "classid": 0,
         "icon": "Vehicle_202.png"
     },
     "99041": {
         "id": 99041,
-        "name": "술통 이동장치_술통 떨어뜨리기",
-        "desc": "",
+        "name": "Keg Drop",
+        "desc": "Drop the liquor keg and knock down your foe at the target area.",
         "classid": 0,
         "icon": "Vehicle_202.png"
     },
     "99042": {
         "id": 99042,
-        "name": "술통 이동장치_술통 떨어뜨리기",
-        "desc": "",
+        "name": "Keg Drop",
+        "desc": "Drop the liquor keg and knock down your foe at the target area.",
         "classid": 0,
         "icon": "Vehicle_202.png"
     },
     "84008": {
         "id": 84008,
-        "name": "부스터 스킬_루테란호",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "84010": {
         "id": 84010,
-        "name": "부스터 스킬_애니츠호",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "84020": {
         "id": 84020,
-        "name": "부스터 스킬_애니츠호",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "84012": {
         "id": 84012,
-        "name": "부스터 스킬_루테란호",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "84030": {
         "id": 84030,
-        "name": "부스터 스킬_루테란호",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "84530": {
         "id": 84530,
-        "name": "부스터 스킬_루테란호",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "84809": {
         "id": 84809,
-        "name": "부스터 스킬_루테란호",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "84815": {
         "id": 84815,
-        "name": "부스터 스킬_루테란호",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "84108": {
         "id": 84108,
-        "name": "부스터 스킬_성능1단계_8초",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "84112": {
         "id": 84112,
-        "name": "부스터 스킬_성능1단계_15초",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "84208": {
         "id": 84208,
-        "name": "부스터 스킬_성능2단계_8초",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "84212": {
         "id": 84212,
-        "name": "부스터 스킬_성능2단계_15초",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "84508": {
         "id": 84508,
-        "name": "부스터 스킬_성능1단계_8초_취소",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "84512": {
         "id": 84512,
-        "name": "부스터 스킬_성능1단계_15초_취소",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "84608": {
         "id": 84608,
-        "name": "부스터 스킬_성능2단계_8초_취소",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "84612": {
         "id": 84612,
-        "name": "부스터 스킬_성능2단계_15초_취소",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "Vehicle_3.png"
     },
     "8200080": {
         "id": 8200080,
-        "name": "쾌속운항_에스토크 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8200083": {
         "id": 8200083,
-        "name": "쾌속운항_에스토크 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8200087": {
         "id": 8200087,
-        "name": "쾌속운항_에스토크 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8200091": {
         "id": 8200091,
-        "name": "쾌속운항_에스토크 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8200096": {
         "id": 8200096,
-        "name": "쾌속운항_에스토크 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8200102": {
         "id": 8200102,
-        "name": "쾌속운항_에스토크 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8200108": {
         "id": 8200108,
-        "name": "쾌속운항_에스토크 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8200114": {
         "id": 8200114,
-        "name": "쾌속운항_에스토크 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8200121": {
         "id": 8200121,
-        "name": "쾌속운항_에스토크 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8200128": {
         "id": 8200128,
-        "name": "쾌속운항_에스토크 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8201085": {
         "id": 8201085,
-        "name": "쾌속운항_풍백 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8201090": {
         "id": 8201090,
-        "name": "쾌속운항_풍백 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8201097": {
         "id": 8201097,
-        "name": "쾌속운항_풍백 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8201104": {
         "id": 8201104,
-        "name": "쾌속운항_풍백 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8201113": {
         "id": 8201113,
-        "name": "쾌속운항_풍백 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8201122": {
         "id": 8201122,
-        "name": "쾌속운항_풍백 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8201131": {
         "id": 8201131,
-        "name": "쾌속운항_풍백 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8201142": {
         "id": 8201142,
-        "name": "쾌속운항_풍백 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8201153": {
         "id": 8201153,
-        "name": "쾌속운항_풍백 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8201166": {
         "id": 8201166,
-        "name": "쾌속운항_풍백 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8203070": {
         "id": 8203070,
-        "name": "쾌속운항_쇄빙선 바크스툼 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8203072": {
         "id": 8203072,
-        "name": "쾌속운항_쇄빙선 바크스툼 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8203074": {
         "id": 8203074,
-        "name": "쾌속운항_쇄빙선 바크스툼 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8203076": {
         "id": 8203076,
-        "name": "쾌속운항_쇄빙선 바크스툼 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8203079": {
         "id": 8203079,
-        "name": "쾌속운항_쇄빙선 바크스툼 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8203082": {
         "id": 8203082,
-        "name": "쾌속운항_쇄빙선 바크스툼 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8203085": {
         "id": 8203085,
-        "name": "쾌속운항_쇄빙선 바크스툼 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8203088": {
         "id": 8203088,
-        "name": "쾌속운항_쇄빙선 바크스툼 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8203091": {
         "id": 8203091,
-        "name": "쾌속운항_쇄빙선 바크스툼 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8203095": {
         "id": 8203095,
-        "name": "쾌속운항_쇄빙선 바크스툼 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8207085": {
         "id": 8207085,
-        "name": "쾌속운항_쾌속정 프뉴마 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8207089": {
         "id": 8207089,
-        "name": "쾌속운항_쾌속정 프뉴마 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8207094": {
         "id": 8207094,
-        "name": "쾌속운항_쾌속정 프뉴마 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8207099": {
         "id": 8207099,
-        "name": "쾌속운항_쾌속정 프뉴마 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8207105": {
         "id": 8207105,
-        "name": "쾌속운항_쾌속정 프뉴마 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8207111": {
         "id": 8207111,
-        "name": "쾌속운항_쾌속정 프뉴마 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8207117": {
         "id": 8207117,
-        "name": "쾌속운항_쾌속정 프뉴마 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8207124": {
         "id": 8207124,
-        "name": "쾌속운항_쾌속정 프뉴마 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8207131": {
         "id": 8207131,
-        "name": "쾌속운항_쾌속정 프뉴마 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8207139": {
         "id": 8207139,
-        "name": "쾌속운항_쾌속정 프뉴마 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8205070": {
         "id": 8205070,
-        "name": "쾌속운항_브람스 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8205074": {
         "id": 8205074,
-        "name": "쾌속운항_브람스 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8205080": {
         "id": 8205080,
-        "name": "쾌속운항_브람스 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8205086": {
         "id": 8205086,
-        "name": "쾌속운항_브람스 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8205094": {
         "id": 8205094,
-        "name": "쾌속운항_브람스 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8205102": {
         "id": 8205102,
-        "name": "쾌속운항_브람스 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8205110": {
         "id": 8205110,
-        "name": "쾌속운항_브람스 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8205120": {
         "id": 8205120,
-        "name": "쾌속운항_브람스 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8205130": {
         "id": 8205130,
-        "name": "쾌속운항_브람스 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8205142": {
         "id": 8205142,
-        "name": "쾌속운항_브람스 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8206085": {
         "id": 8206085,
-        "name": "쾌속운항_강철함 트라곤 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8206089": {
         "id": 8206089,
-        "name": "쾌속운항_강철함 트라곤 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8206095": {
         "id": 8206095,
-        "name": "쾌속운항_강철함 트라곤 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8206101": {
         "id": 8206101,
-        "name": "쾌속운항_강철함 트라곤 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8206109": {
         "id": 8206109,
-        "name": "쾌속운항_강철함 트라곤 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8206117": {
         "id": 8206117,
-        "name": "쾌속운항_강철함 트라곤 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8206125": {
         "id": 8206125,
-        "name": "쾌속운항_강철함 트라곤 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8206135": {
         "id": 8206135,
-        "name": "쾌속운항_강철함 트라곤 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8206145": {
         "id": 8206145,
-        "name": "쾌속운항_강철함 트라곤 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8206157": {
         "id": 8206157,
-        "name": "쾌속운항_강철함 트라곤 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8202100": {
         "id": 8202100,
-        "name": "쾌속운항_해적선 아스트레이 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8202103": {
         "id": 8202103,
-        "name": "쾌속운항_해적선 아스트레이 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8202107": {
         "id": 8202107,
-        "name": "쾌속운항_해적선 아스트레이 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8202111": {
         "id": 8202111,
-        "name": "쾌속운항_해적선 아스트레이 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8202116": {
         "id": 8202116,
-        "name": "쾌속운항_해적선 아스트레이 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8202122": {
         "id": 8202122,
-        "name": "쾌속운항_해적선 아스트레이 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8202128": {
         "id": 8202128,
-        "name": "쾌속운항_해적선 아스트레이 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8202134": {
         "id": 8202134,
-        "name": "쾌속운항_해적선 아스트레이 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8202141": {
         "id": 8202141,
-        "name": "쾌속운항_해적선 아스트레이 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8202148": {
         "id": 8202148,
-        "name": "쾌속운항_해적선 아스트레이 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8204075": {
         "id": 8204075,
-        "name": "쾌속운항_유령선 에이번의 상처 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8204077": {
         "id": 8204077,
-        "name": "쾌속운항_유령선 에이번의 상처 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8204080": {
         "id": 8204080,
-        "name": "쾌속운항_유령선 에이번의 상처 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8204083": {
         "id": 8204083,
-        "name": "쾌속운항_유령선 에이번의 상처 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8204087": {
         "id": 8204087,
-        "name": "쾌속운항_유령선 에이번의 상처 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8204091": {
         "id": 8204091,
-        "name": "쾌속운항_유령선 에이번의 상처 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8204095": {
         "id": 8204095,
-        "name": "쾌속운항_유령선 에이번의 상처 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8204100": {
         "id": 8204100,
-        "name": "쾌속운항_유령선 에이번의 상처 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8204105": {
         "id": 8204105,
-        "name": "쾌속운항_유령선 에이번의 상처 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8204111": {
         "id": 8204111,
-        "name": "쾌속운항_유령선 에이번의 상처 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8300080": {
         "id": 8300080,
-        "name": "운항취소_에스토크 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8300083": {
         "id": 8300083,
-        "name": "운항취소_에스토크 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8300087": {
         "id": 8300087,
-        "name": "운항취소_에스토크 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8300091": {
         "id": 8300091,
-        "name": "운항취소_에스토크 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8300096": {
         "id": 8300096,
-        "name": "운항취소_에스토크 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8300102": {
         "id": 8300102,
-        "name": "운항취소_에스토크 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8300108": {
         "id": 8300108,
-        "name": "운항취소_에스토크 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8300114": {
         "id": 8300114,
-        "name": "운항취소_에스토크 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8300121": {
         "id": 8300121,
-        "name": "운항취소_에스토크 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8300128": {
         "id": 8300128,
-        "name": "운항취소_에스토크 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8301085": {
         "id": 8301085,
-        "name": "운항취소_풍백 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8301090": {
         "id": 8301090,
-        "name": "운항취소_풍백 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8301097": {
         "id": 8301097,
-        "name": "운항취소_풍백 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8301104": {
         "id": 8301104,
-        "name": "운항취소_풍백 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8301113": {
         "id": 8301113,
-        "name": "운항취소_풍백 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8301122": {
         "id": 8301122,
-        "name": "운항취소_풍백 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8301131": {
         "id": 8301131,
-        "name": "운항취소_풍백 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8301142": {
         "id": 8301142,
-        "name": "운항취소_풍백 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8301153": {
         "id": 8301153,
-        "name": "운항취소_풍백 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8301166": {
         "id": 8301166,
-        "name": "운항취소_풍백 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8303070": {
         "id": 8303070,
-        "name": "운항취소_쇄빙선 바크스툼 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8303072": {
         "id": 8303072,
-        "name": "운항취소_쇄빙선 바크스툼 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8303074": {
         "id": 8303074,
-        "name": "운항취소_쇄빙선 바크스툼 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8303076": {
         "id": 8303076,
-        "name": "운항취소_쇄빙선 바크스툼 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8303079": {
         "id": 8303079,
-        "name": "운항취소_쇄빙선 바크스툼 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8303082": {
         "id": 8303082,
-        "name": "운항취소_쇄빙선 바크스툼 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8303085": {
         "id": 8303085,
-        "name": "운항취소_쇄빙선 바크스툼 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8303088": {
         "id": 8303088,
-        "name": "운항취소_쇄빙선 바크스툼 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8303091": {
         "id": 8303091,
-        "name": "운항취소_쇄빙선 바크스툼 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8303095": {
         "id": 8303095,
-        "name": "운항취소_쇄빙선 바크스툼 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8307085": {
         "id": 8307085,
-        "name": "운항취소_쾌속정 프뉴마 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8307089": {
         "id": 8307089,
-        "name": "운항취소_쾌속정 프뉴마 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8307094": {
         "id": 8307094,
-        "name": "운항취소_쾌속정 프뉴마 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8307099": {
         "id": 8307099,
-        "name": "운항취소_쾌속정 프뉴마 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8307105": {
         "id": 8307105,
-        "name": "운항취소_쾌속정 프뉴마 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8307111": {
         "id": 8307111,
-        "name": "운항취소_쾌속정 프뉴마 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8307117": {
         "id": 8307117,
-        "name": "운항취소_쾌속정 프뉴마 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8307124": {
         "id": 8307124,
-        "name": "운항취소_쾌속정 프뉴마 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8307131": {
         "id": 8307131,
-        "name": "운항취소_쾌속정 프뉴마 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8307139": {
         "id": 8307139,
-        "name": "운항취소_쾌속정 프뉴마 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8305070": {
         "id": 8305070,
-        "name": "운항취소_브람스 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8305074": {
         "id": 8305074,
-        "name": "운항취소_브람스 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8305080": {
         "id": 8305080,
-        "name": "운항취소_브람스 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8305086": {
         "id": 8305086,
-        "name": "운항취소_브람스 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8305094": {
         "id": 8305094,
-        "name": "운항취소_브람스 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8305102": {
         "id": 8305102,
-        "name": "운항취소_브람스 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8305110": {
         "id": 8305110,
-        "name": "운항취소_브람스 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8305120": {
         "id": 8305120,
-        "name": "운항취소_브람스 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8305130": {
         "id": 8305130,
-        "name": "운항취소_브람스 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8305142": {
         "id": 8305142,
-        "name": "운항취소_브람스 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8306085": {
         "id": 8306085,
-        "name": "운항취소_강철함 트라곤 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8306089": {
         "id": 8306089,
-        "name": "운항취소_강철함 트라곤 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8306095": {
         "id": 8306095,
-        "name": "운항취소_강철함 트라곤 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8306101": {
         "id": 8306101,
-        "name": "운항취소_강철함 트라곤 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8306109": {
         "id": 8306109,
-        "name": "운항취소_강철함 트라곤 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8306117": {
         "id": 8306117,
-        "name": "운항취소_강철함 트라곤 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8306125": {
         "id": 8306125,
-        "name": "운항취소_강철함 트라곤 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8306135": {
         "id": 8306135,
-        "name": "운항취소_강철함 트라곤 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8306145": {
         "id": 8306145,
-        "name": "운항취소_강철함 트라곤 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8306157": {
         "id": 8306157,
-        "name": "운항취소_강철함 트라곤 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8302100": {
         "id": 8302100,
-        "name": "운항취소_해적선 아스트레이 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8302103": {
         "id": 8302103,
-        "name": "운항취소_해적선 아스트레이 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8302107": {
         "id": 8302107,
-        "name": "운항취소_해적선 아스트레이 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8302111": {
         "id": 8302111,
-        "name": "운항취소_해적선 아스트레이 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8302116": {
         "id": 8302116,
-        "name": "운항취소_해적선 아스트레이 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8302122": {
         "id": 8302122,
-        "name": "운항취소_해적선 아스트레이 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8302128": {
         "id": 8302128,
-        "name": "운항취소_해적선 아스트레이 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8302134": {
         "id": 8302134,
-        "name": "운항취소_해적선 아스트레이 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8302141": {
         "id": 8302141,
-        "name": "운항취소_해적선 아스트레이 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8302148": {
         "id": 8302148,
-        "name": "운항취소_해적선 아스트레이 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8304075": {
         "id": 8304075,
-        "name": "운항취소_유령선 에이번의 상처 Lv.1",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8304077": {
         "id": 8304077,
-        "name": "운항취소_유령선 에이번의 상처 Lv.2",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8304080": {
         "id": 8304080,
-        "name": "운항취소_유령선 에이번의 상처 Lv.3",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8304083": {
         "id": 8304083,
-        "name": "운항취소_유령선 에이번의 상처 Lv.4",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8304087": {
         "id": 8304087,
-        "name": "운항취소_유령선 에이번의 상처 Lv.5",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8304091": {
         "id": 8304091,
-        "name": "운항취소_유령선 에이번의 상처 Lv.6",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8304095": {
         "id": 8304095,
-        "name": "운항취소_유령선 에이번의 상처 Lv.7",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8304100": {
         "id": 8304100,
-        "name": "운항취소_유령선 에이번의 상처 Lv.8",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8304105": {
         "id": 8304105,
-        "name": "운항취소_유령선 에이번의 상처 Lv.9",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     },
     "8304111": {
         "id": 8304111,
-        "name": "운항취소_유령선 에이번의 상처 Lv.10",
-        "desc": "",
+        "name": "Fast Sailing",
+        "desc": "Fast Sailing",
         "classid": 0,
         "icon": "SM_Skill_01_14.png"
     }
