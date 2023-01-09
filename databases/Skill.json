@@ -99877,7 +99877,7 @@
     },
     "19287": {
         "id": 19287,
-        "name": "Empress",
+        "name": "Sovereign",
         "desc": "For <$MACRO bufftime @1:192834/>s, Damage of Normal skills increases by <FONT COLOR='#99ff99'>50%</FONT>.<BR>This card can be used upon activating the <FONT COLOR='#ffff99'>Order of the Emperor</FONT> engraving.",
         "classid": 202,
         "icon": "AR_CardDeck_ToolTip_14.png"

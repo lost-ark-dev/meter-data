@@ -41330,7 +41330,7 @@
     "501038": {
         "id": 501038,
         "name": "Order of the Emperor I",
-        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Empress Cards to the deck.",
+        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Sovereign Cards to the deck.",
         "icon": "Ability_34.png",
         "duration": -1,
         "overlapflag": 0
@@ -41338,7 +41338,7 @@
     "502038": {
         "id": 502038,
         "name": "Order of the Emperor II",
-        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Empress Cards to the deck.",
+        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Sovereign Cards to the deck.",
         "icon": "Ability_34.png",
         "duration": -1,
         "overlapflag": 0
@@ -41346,7 +41346,7 @@
     "503038": {
         "id": 503038,
         "name": "Order of the Emperor III",
-        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Empress Cards to the deck.",
+        "desc": "Increases Normal Skill Damage and adds Emperor, Chancellor, and Sovereign Cards to the deck.",
         "icon": "Ability_34.png",
         "duration": -1,
         "overlapflag": 0
@@ -49217,7 +49217,7 @@
     },
     "192834": {
         "id": 192834,
-        "name": "Empress",
+        "name": "Sovereign",
         "desc": "Damage dealt by normal skills +<FONT COLOR='#99ff99'>50%</FONT> for <$MACRO bufftime @1:192834/>s.",
         "icon": "AC_Skill_01_38.png",
         "duration": 4000,

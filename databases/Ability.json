@@ -470,7 +470,7 @@
             3
         ],
         "name": "Communication Overflow",
-        "desc": "Summon duration +5% for Maririn, Pauru, Elcid, Shurdi, and Kelsion. Damage +10%. Atk. Speed and Move Speed +3%. Command Skill Cooldown -3%.",
+        "desc": "Summon duration +5%, Damage +10%, Atk. Speed and Move Speed +3%, Command Skill Cooldown -3% for Maririn, Pauru, Elcid, Shurdi, and Kelsion.",
         "isnegative": false,
         "icon": "Buff_21.png",
         "isengrave": true
@@ -496,7 +496,7 @@
             3
         ],
         "name": "Order of the Emperor",
-        "desc": "Adds Emperor Cards to the Card Deck. Balance and Judgment Cards are replaced with Chancellor and Empress Cards. Normal Skill Damage +20%.",
+        "desc": "Adds Emperor Cards to the Card Deck. Balance and Judgment Cards are replaced with Chancellor and Sovereign Cards. Normal Skill Damage +20%.",
         "isnegative": false,
         "icon": "Buff_236.png",
         "isengrave": true
@@ -1245,8 +1245,8 @@
             2,
             3
         ],
-        "name": "Surge Zero",
-        "desc": "Deathblade Surge changes to Surge Zero, which unleashes the same powerful attack regardless of the number of Death Orbs available. With Surge Zero, the buffs from the Remaining Energy Engraving do not occur. When Death Trance is activated and skills other than Basic Attacks and Awakening Skills hit, Surge Enhancement effects will begin to stack every 0.4 seconds to a max of 20 stacks. This effect causes Surge Zero Damage to increase up to 100%, Damage increases even more with larger stacks. When Death Trance ends, gain up to 100% Death Orb Meter for each Surge Enhancement effect you have. ",
+        "name": "Surge",
+        "desc": "Activates the top level of Deathblade Surge, which unleashes the same powerful attack regardless of the number of Death Orbs available. With this, the buffs from the Remaining Energy Engraving do not occur. When Death Trance is activated and skills other than Basic Attacks and Awakening Skills hit, Surge Enhancement effects will begin to stack every 0.4 seconds to a max of 20 stacks. This effect causes Damage to increase up to 100%, Damage increases even more with larger stacks. When Death Trance ends, gain up to 100% Death Orb Meter for each Surge Enhancement effect you have. ",
         "isnegative": false,
         "icon": "Ability_210.png",
         "isengrave": true
