@@ -1,0 +1,1881 @@
+{
+  "160811017": { "27": [{ "skillid": 16080, "paramtype": "relative", "params": [160809, 200] }] },
+  "160811018": { "13": [{ "skillid": 16080, "paramtype": "absolute", "params": [-18000, 100] }] },
+  "160911017": {
+    "27": [
+      { "skillid": 16090, "paramtype": "relative", "params": [160901, -80] },
+      { "skillid": 16090, "paramtype": "relative", "params": [160902, -80] },
+      { "skillid": 16090, "paramtype": "relative", "params": [160903, -80] },
+      { "skillid": 16090, "paramtype": "relative", "params": [160906, -80] },
+      { "skillid": 16090, "paramtype": "relative", "params": [160907, -80] },
+      { "skillid": 16090, "paramtype": "relative", "params": [160911, 500] },
+      { "skillid": 16090, "paramtype": "relative", "params": [160951, 500] },
+      { "skillid": 16090, "paramtype": "relative", "params": [160952, 500] }
+    ],
+    "41": [
+      { "skillid": 16090, "paramtype": "absolute", "params": [160911, 0, 0, 200, 200, 0, 0, 80, 80] },
+      { "skillid": 16090, "paramtype": "absolute", "params": [160951, 0, 0, 200, 200, 0, 0, 80, 80] },
+      { "skillid": 16090, "paramtype": "absolute", "params": [160952, 0, 0, 200, 200, 0, 0, 80, 80] }
+    ]
+  },
+  "160911018": {
+    "48": [{ "skillid": 16090, "paramtype": "relative", "params": [0, 40, 40] }],
+    "5": [
+      { "skillid": 16090, "paramtype": "relative", "params": [1, 0, 40] },
+      { "skillid": 16090, "paramtype": "relative", "params": [1, 1, 60] },
+      { "skillid": 16090, "paramtype": "relative", "params": [1, 2, 40] },
+      { "skillid": 16090, "paramtype": "relative", "params": [1, 3, 60] },
+      { "skillid": 16090, "paramtype": "relative", "params": [1, 4, 40] },
+      { "skillid": 16090, "paramtype": "relative", "params": [1, 5, 40] },
+      { "skillid": 16090, "paramtype": "relative", "params": [1, 6, 40] },
+      { "skillid": 16090, "paramtype": "relative", "params": [1, 7, 40] },
+      { "skillid": 16090, "paramtype": "relative", "params": [1, 8, 40] }
+    ]
+  },
+  "163011017": {
+    "45": [
+      { "skillid": 16300, "paramtype": "absolute", "params": [163010, 163002] },
+      { "skillid": 16300, "paramtype": "absolute", "params": [163011, 163002] }
+    ],
+    "27": [
+      { "skillid": 16300, "paramtype": "relative", "params": [163010, 400] },
+      { "skillid": 16300, "paramtype": "relative", "params": [163011, 400] }
+    ]
+  },
+  "163011018": {
+    "27": [{ "skillid": 16300, "paramtype": "relative", "params": [163020, 200] }],
+    "13": [{ "skillid": 16300, "paramtype": "absolute", "params": [6000, 100] }],
+    "1": [{ "skillid": 16300, "paramtype": "absolute", "params": [1] }]
+  },
+  "166011017": { "1": [{ "skillid": 16600, "paramtype": "absolute", "params": [1] }] },
+  "166011018": {
+    "48": [{ "skillid": 16600, "paramtype": "relative", "params": [0, 96, 96] }],
+    "45": [
+      { "skillid": 16600, "paramtype": "absolute", "params": [166020, 166004] },
+      { "skillid": 16600, "paramtype": "absolute", "params": [166010, 166004] }
+    ]
+  },
+  "161911017": {
+    "13": [{ "skillid": 16190, "paramtype": "absolute", "params": [-4000, 100] }],
+    "31": [{ "skillid": 16190, "paramtype": "relative", "params": [20] }],
+    "27": [{ "skillid": 16190, "paramtype": "relative", "params": [161903, 100] }]
+  },
+  "161911018": {
+    "2": [{ "skillid": 16190, "paramtype": "absolute", "params": [2, 1, 1] }],
+    "3": [{ "skillid": 16190, "paramtype": "absolute", "params": [2, 1, 100] }],
+    "45": [{ "skillid": 16190, "paramtype": "absolute", "params": [161907, 161902] }]
+  },
+  "162211017": {
+    "1": [
+      { "skillid": 16220, "paramtype": "absolute", "params": [1, 0, 0, 4] },
+      { "skillid": 16220, "paramtype": "absolute", "params": [1, 4] }
+    ]
+  },
+  "162211018": { "27": [{ "skillid": 16220, "paramtype": "relative", "params": [162220, 250] }] },
+  "160711017": {
+    "45": [
+      { "skillid": 16070, "paramtype": "absolute", "params": [160704, 160700] },
+      { "skillid": 16070, "paramtype": "absolute", "params": [160706, 160700] },
+      { "skillid": 16070, "paramtype": "absolute", "params": [160708, 160700] }
+    ],
+    "52": [{ "skillid": 16070, "paramtype": "absolute", "params": [160701] }]
+  },
+  "160711018": {
+    "27": [{ "skillid": 16070, "paramtype": "relative", "params": [160705, 50] }],
+    "30": [{ "skillid": 16070, "paramtype": "absolute", "params": [160705, 10000] }]
+  },
+  "180712017": {
+    "5": [
+      { "skillid": 18070, "paramtype": "relative", "params": [1, 1, -50] },
+      { "skillid": 18070, "paramtype": "relative", "params": [1, 2, -50] }
+    ],
+    "27": [{ "skillid": 18070, "paramtype": "relative", "params": [0, 60] }]
+  },
+  "180712018": {
+    "27": [{ "skillid": 18070, "paramtype": "relative", "params": [180721, 200] }],
+    "37": [
+      { "skillid": 18070, "paramtype": "absolute", "params": [180715, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180716, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180717, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180718, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180719, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180720, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180721, -144, -180, -156, -180] }
+    ],
+    "59": [
+      { "skillid": 18070, "paramtype": "absolute", "params": [180715, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180716, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180717, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180718, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180719, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180720, -10, -20, -200, -220] },
+      { "skillid": 18070, "paramtype": "absolute", "params": [180721, -144, -180, -156, -180] }
+    ],
+    "43": [{ "skillid": 18070, "paramtype": "absolute", "params": [180721, 1, 2, 180722, 100] }]
+  },
+  "181712017": {
+    "27": [
+      { "skillid": 18170, "paramtype": "relative", "params": [181711, 150] },
+      { "skillid": 18170, "paramtype": "relative", "params": [181716, 150] }
+    ],
+    "1": [
+      { "skillid": 18170, "paramtype": "absolute", "params": [0, 0, 0, 5] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [1, 0, 0, 5] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [0, 5] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [1, 5] }
+    ]
+  },
+  "181712018": {
+    "27": [{ "skillid": 18170, "paramtype": "relative", "params": [0, 40] }],
+    "45": [
+      { "skillid": 18170, "paramtype": "absolute", "params": [181701, 1817030] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [181700, 1817030] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [181703, 1817030] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [181704, 1817030] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [181702, 1817030] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [181705, 1817030] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [181706, 1817030] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [181712, 1817030] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [181713, 1817030] },
+      { "skillid": 18170, "paramtype": "absolute", "params": [181714, 1817030] }
+    ]
+  },
+  "181312017": {
+    "31": [{ "skillid": 18130, "paramtype": "relative", "params": [-20] }],
+    "27": [{ "skillid": 18130, "paramtype": "relative", "params": [0, 40] }],
+    "1": [{ "skillid": 18130, "paramtype": "absolute", "params": [1] }],
+    "45": [
+      { "skillid": 18130, "paramtype": "absolute", "params": [181304, 1813040] },
+      { "skillid": 18130, "paramtype": "absolute", "params": [181305, 1813040] },
+      { "skillid": 18130, "paramtype": "absolute", "params": [181306, 1813040] },
+      { "skillid": 18130, "paramtype": "absolute", "params": [181307, 1813040] }
+    ]
+  },
+  "181312018": {
+    "31": [{ "skillid": 18130, "paramtype": "relative", "params": [40] }],
+    "27": [{ "skillid": 18130, "paramtype": "relative", "params": [0, 40] }]
+  },
+  "181012017": { "13": [{ "skillid": 18100, "paramtype": "absolute", "params": [-18000, 100] }] },
+  "181012018": {
+    "27": [
+      { "skillid": 18100, "paramtype": "relative", "params": [181053, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181054, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181055, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181065, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181066, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181067, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181068, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181069, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181070, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181071, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181072, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181073, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181083, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181084, 200] },
+      { "skillid": 18100, "paramtype": "relative", "params": [181085, 200] }
+    ]
+  },
+  "181812017": {
+    "30": [{ "skillid": 18180, "paramtype": "absolute", "params": [0, 5000] }],
+    "27": [
+      { "skillid": 18180, "paramtype": "relative", "params": [181803, 10] },
+      { "skillid": 18180, "paramtype": "relative", "params": [181804, 20] },
+      { "skillid": 18180, "paramtype": "relative", "params": [181805, 30] },
+      { "skillid": 18180, "paramtype": "relative", "params": [181806, 40] },
+      { "skillid": 18180, "paramtype": "relative", "params": [181807, 50] },
+      { "skillid": 18180, "paramtype": "relative", "params": [181808, 60] }
+    ]
+  },
+  "181812018": {
+    "78": [{ "skillid": 18180, "paramtype": "absolute", "params": [181800, 0, 0, 75, 1] }],
+    "80": [{ "skillid": 18180, "paramtype": "absolute", "params": [181800, 0, 0, 75, 1] }]
+  },
+  "181612017": {
+    "43": [
+      { "skillid": 18160, "paramtype": "absolute", "params": [181661, 1, 2, 181698, 100] },
+      { "skillid": 18160, "paramtype": "absolute", "params": [181663, 1, 2, 181698, 100] },
+      { "skillid": 18160, "paramtype": "absolute", "params": [181665, 1, 2, 181698, 100] },
+      { "skillid": 18160, "paramtype": "absolute", "params": [181671, 1, 2, 181698, 100] },
+      { "skillid": 18160, "paramtype": "absolute", "params": [181673, 1, 2, 181698, 100] },
+      { "skillid": 18160, "paramtype": "absolute", "params": [181675, 1, 2, 181698, 100] }
+    ]
+  },
+  "181612018": {
+    "31": [{ "skillid": 18160, "paramtype": "relative", "params": [10] }],
+    "27": [
+      { "skillid": 18160, "paramtype": "relative", "params": [181681, 80] },
+      { "skillid": 18160, "paramtype": "relative", "params": [181683, 80] },
+      { "skillid": 18160, "paramtype": "relative", "params": [181685, 80] },
+      { "skillid": 18160, "paramtype": "relative", "params": [181693, 80] },
+      { "skillid": 18160, "paramtype": "relative", "params": [181695, 80] },
+      { "skillid": 18160, "paramtype": "relative", "params": [181697, 80] }
+    ]
+  },
+  "182012017": {
+    "45": [
+      { "skillid": 18200, "paramtype": "absolute", "params": [182004, 1820000] },
+      { "skillid": 18200, "paramtype": "absolute", "params": [182005, 1820000] },
+      { "skillid": 18200, "paramtype": "absolute", "params": [182006, 1820000] }
+    ]
+  },
+  "182012018": {
+    "43": [
+      { "skillid": 18200, "paramtype": "absolute", "params": [0, 1, 2, 182009, 100] },
+      { "skillid": 18200, "paramtype": "absolute", "params": [0, 1, 2, 182010, 100] },
+      { "skillid": 18201, "paramtype": "absolute", "params": [0, 1, 2, 182009, 100] },
+      { "skillid": 18201, "paramtype": "absolute", "params": [0, 1, 2, 182010, 100] }
+    ]
+  },
+  "171613017": {
+    "13": [{ "skillid": 17160, "paramtype": "absolute", "params": [-6000] }],
+    "10": [{ "skillid": 17160, "paramtype": "relative", "params": [-50, 0, 0, 100] }]
+  },
+  "171613018": {
+    "27": [{ "skillid": 17160, "paramtype": "relative", "params": [171650, 200] }],
+    "10": [{ "skillid": 17160, "paramtype": "relative", "params": [25, 0, 0, 100] }]
+  },
+  "172013017": {
+    "13": [{ "skillid": 17200, "paramtype": "absolute", "params": [-5000, 100] }],
+    "43": [{ "skillid": 17200, "paramtype": "absolute", "params": [0, 1, 2, 172090, 100] }]
+  },
+  "172013018": {
+    "27": [{ "skillid": 17200, "paramtype": "relative", "params": [0, 100] }],
+    "13": [{ "skillid": 17200, "paramtype": "absolute", "params": [6000, 100] }],
+    "1": [{ "skillid": 17200, "paramtype": "absolute", "params": [1] }]
+  },
+  "172113017": {
+    "3": [{ "skillid": 17210, "paramtype": "absolute", "params": [1, 5, 200] }],
+    "5": [
+      { "skillid": 17210, "paramtype": "relative", "params": [1, 0, 30] },
+      { "skillid": 17210, "paramtype": "relative", "params": [1, 1, 50] },
+      { "skillid": 17210, "paramtype": "relative", "params": [1, 2, 30] },
+      { "skillid": 17210, "paramtype": "relative", "params": [1, 3, 30] },
+      { "skillid": 17210, "paramtype": "relative", "params": [1, 5, 30] },
+      { "skillid": 17210, "paramtype": "relative", "params": [1, 6, 30] }
+    ],
+    "13": [{ "skillid": 17210, "paramtype": "absolute", "params": [-15000, 100] }]
+  },
+  "172113018": { "60": [{ "skillid": 17210, "paramtype": "absolute", "params": [] }] },
+  "170813017": {
+    "31": [{ "skillid": 17080, "paramtype": "relative", "params": [10] }],
+    "1": [{ "skillid": 17080, "paramtype": "absolute", "params": [1] }]
+  },
+  "170813018": {
+    "45": [
+      { "skillid": 17080, "paramtype": "absolute", "params": [170800, 170800] },
+      { "skillid": 17080, "paramtype": "absolute", "params": [170830, 170800] },
+      { "skillid": 17080, "paramtype": "absolute", "params": [170840, 170800] }
+    ]
+  },
+  "171413017": {
+    "1": [
+      { "skillid": 17140, "paramtype": "absolute", "params": [1, 0, 0, 5, 6] },
+      { "skillid": 17140, "paramtype": "absolute", "params": [1, 5] },
+      { "skillid": 17140, "paramtype": "absolute", "params": [1, 6] }
+    ]
+  },
+  "171413018": {
+    "1": [
+      { "skillid": 17140, "paramtype": "absolute", "params": [1, 0, 0, 5, 6] },
+      { "skillid": 17140, "paramtype": "absolute", "params": [1, 5] },
+      { "skillid": 17140, "paramtype": "absolute", "params": [1, 6] },
+      { "skillid": 17140, "paramtype": "absolute", "params": [1, 0, 0, 5, 6] },
+      { "skillid": 17140, "paramtype": "absolute", "params": [1, 5] },
+      { "skillid": 17140, "paramtype": "absolute", "params": [1, 6] }
+    ]
+  },
+  "171113017": {
+    "13": [{ "skillid": 17110, "paramtype": "absolute", "params": [-4000, 100] }],
+    "27": [{ "skillid": 17110, "paramtype": "relative", "params": [0, 25] }]
+  },
+  "171113018": {
+    "13": [{ "skillid": 17110, "paramtype": "absolute", "params": [8000, 100] }],
+    "27": [{ "skillid": 17110, "paramtype": "relative", "params": [0, 100] }]
+  },
+  "190321017": {
+    "29": [
+      { "skillid": 19030, "paramtype": "absolute", "params": [0, 20000] },
+      { "skillid": 19300, "paramtype": "absolute", "params": [0, 20000] }
+    ]
+  },
+  "190321018": {
+    "27": [
+      { "skillid": 19030, "paramtype": "relative", "params": [190331] },
+      { "skillid": 19030, "paramtype": "relative", "params": [190327, 100] },
+      { "skillid": 19030, "paramtype": "relative", "params": [190328, 300] },
+      { "skillid": 19030, "paramtype": "relative", "params": [190332] },
+      { "skillid": 19030, "paramtype": "relative", "params": [190334, 100] },
+      { "skillid": 19030, "paramtype": "relative", "params": [190335, 300] },
+      { "skillid": 19030, "paramtype": "relative", "params": [190333] },
+      { "skillid": 19030, "paramtype": "relative", "params": [190336, 100] },
+      { "skillid": 19030, "paramtype": "relative", "params": [190337, 300] }
+    ]
+  },
+  "192021017": {
+    "31": [{ "skillid": 19200, "paramtype": "relative", "params": [30] }],
+    "43": [{ "skillid": 19200, "paramtype": "absolute", "params": [0, 1, 2, 192025, 100] }],
+    "45": [
+      { "skillid": 19200, "paramtype": "absolute", "params": [192000, 192007] },
+      { "skillid": 19200, "paramtype": "absolute", "params": [192007, 192007] },
+      { "skillid": 19200, "paramtype": "absolute", "params": [192008, 192007] },
+      { "skillid": 19200, "paramtype": "absolute", "params": [192009, 192007] }
+    ]
+  },
+  "192021018": { "27": [{ "skillid": 19200, "paramtype": "relative", "params": [192010, 250] }] },
+  "190521017": {
+    "31": [{ "skillid": 19050, "paramtype": "relative", "params": [30] }],
+    "13": [{ "skillid": 19050, "paramtype": "absolute", "params": [-20000, 100] }]
+  },
+  "190521018": {
+    "60": [{ "skillid": 19050, "paramtype": "absolute", "params": [] }],
+    "27": [
+      { "skillid": 19050, "paramtype": "relative", "params": [190502, 50] },
+      { "skillid": 19050, "paramtype": "relative", "params": [190513, 50] }
+    ]
+  },
+  "193121017": {
+    "27": [
+      { "skillid": 19310, "paramtype": "relative", "params": [193101, 75] },
+      { "skillid": 19310, "paramtype": "relative", "params": [193102, 75] },
+      { "skillid": 19310, "paramtype": "relative", "params": [193103, 75] },
+      { "skillid": 19310, "paramtype": "relative", "params": [193104, 75] },
+      { "skillid": 19310, "paramtype": "relative", "params": [193116, 75] },
+      { "skillid": 19310, "paramtype": "relative", "params": [193117, 75] },
+      { "skillid": 19310, "paramtype": "relative", "params": [193118, 75] },
+      { "skillid": 19310, "paramtype": "relative", "params": [193119, 75] }
+    ]
+  },
+  "193121018": { "60": [{ "skillid": 19310, "paramtype": "absolute", "params": [] }] },
+  "191221017": {
+    "45": [
+      { "skillid": 19120, "paramtype": "absolute", "params": [191200, 191207] },
+      { "skillid": 19120, "paramtype": "absolute", "params": [191201, 191207] },
+      { "skillid": 19120, "paramtype": "absolute", "params": [191202, 191207] },
+      { "skillid": 19120, "paramtype": "absolute", "params": [191203, 191207] },
+      { "skillid": 19120, "paramtype": "absolute", "params": [191204, 191207] },
+      { "skillid": 19120, "paramtype": "absolute", "params": [191205, 191207] },
+      { "skillid": 19120, "paramtype": "absolute", "params": [191206, 191207] },
+      { "skillid": 19120, "paramtype": "absolute", "params": [191210, 191207] },
+      { "skillid": 19120, "paramtype": "absolute", "params": [191211, 191207] },
+      { "skillid": 19120, "paramtype": "absolute", "params": [191213, 191207] }
+    ]
+  },
+  "191221018": {
+    "13": [{ "skillid": 19120, "paramtype": "absolute", "params": [6000, 100] }],
+    "1": [{ "skillid": 19120, "paramtype": "absolute", "params": [1] }],
+    "51": [{ "skillid": 19120, "paramtype": "absolute", "params": [147] }],
+    "27": [{ "skillid": 19120, "paramtype": "relative", "params": [0, 100] }]
+  },
+  "190421017": {
+    "53": [{ "skillid": 19040, "paramtype": "absolute", "params": [0, 0, 0, 0, 500, 10000, 0, 0, 0, 0, 100] }],
+    "45": [
+      { "skillid": 19040, "paramtype": "absolute", "params": [190401, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190411, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190413, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190415, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190417, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190418, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190419, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190420, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190421, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190422, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190423, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190424, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190425, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190426, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190427, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190428, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190429, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190430, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190431, 190407] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190432, 190407] }
+    ]
+  },
+  "190421018": {
+    "43": [
+      { "skillid": 19040, "paramtype": "absolute", "params": [190405, 1, 2, 190440, 100] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190407, 1, 2, 190440, 100] },
+      { "skillid": 19040, "paramtype": "absolute", "params": [190409, 1, 2, 190440, 100] }
+    ]
+  },
+  "191921017": {
+    "1": [
+      { "skillid": 19190, "paramtype": "absolute", "params": [1] },
+      { "skillid": 19195, "paramtype": "absolute", "params": [1] }
+    ]
+  },
+  "191921018": {
+    "52": [
+      { "skillid": 19190, "paramtype": "absolute", "params": [191927] },
+      { "skillid": 19195, "paramtype": "absolute", "params": [191929] }
+    ],
+    "1": [
+      { "skillid": 19190, "paramtype": "absolute", "params": [1] },
+      { "skillid": 19195, "paramtype": "absolute", "params": [1] }
+    ]
+  },
+  "201122017": { "1": [{ "skillid": 20110, "paramtype": "absolute", "params": [1] }] },
+  "201122018": { "13": [{ "skillid": 20125, "paramtype": "absolute", "params": [-15000, 100] }] },
+  "202222017": { "60": [{ "skillid": 20220, "paramtype": "absolute", "params": [] }] },
+  "202222018": {
+    "13": [{ "skillid": 20220, "paramtype": "absolute", "params": [-4000, 100] }],
+    "78": [{ "skillid": 20220, "paramtype": "relative", "params": [0, 0, 200, 200, 200] }],
+    "80": [{ "skillid": 20220, "paramtype": "relative", "params": [0, 0, 200, 200, 200] }]
+  },
+  "202722017": {
+    "43": [
+      { "skillid": 20270, "paramtype": "absolute", "params": [0, 1, 2, 202707, 100] },
+      { "skillid": 20270, "paramtype": "absolute", "params": [0, 1, 2, 202709, 100] }
+    ]
+  },
+  "202722018": {
+    "43": [
+      { "skillid": 20270, "paramtype": "absolute", "params": [0, 1, 2, 202708, 100] },
+      { "skillid": 20270, "paramtype": "absolute", "params": [0, 1, 2, 202710, 100] }
+    ]
+  },
+  "202622017": {
+    "27": [
+      { "skillid": 20260, "paramtype": "relative", "params": [202641, -80] },
+      { "skillid": 20260, "paramtype": "relative", "params": [202614, 200] },
+      { "skillid": 20260, "paramtype": "relative", "params": [202615, 200] },
+      { "skillid": 20260, "paramtype": "relative", "params": [202624, 200] },
+      { "skillid": 20260, "paramtype": "relative", "params": [202625, 200] },
+      { "skillid": 20260, "paramtype": "relative", "params": [202634, 200] },
+      { "skillid": 20260, "paramtype": "relative", "params": [202635, 200] }
+    ]
+  },
+  "202622018": {
+    "27": [{ "skillid": 20260, "paramtype": "relative", "params": [0, 30] }],
+    "43": [
+      { "skillid": 20260, "paramtype": "absolute", "params": [202601, 1, 2, 202661, 100] },
+      { "skillid": 20260, "paramtype": "absolute", "params": [202602, 1, 2, 202661, 100] },
+      { "skillid": 20260, "paramtype": "absolute", "params": [202614, 1, 2, 202661, 100] },
+      { "skillid": 20260, "paramtype": "absolute", "params": [202615, 1, 2, 202661, 100] },
+      { "skillid": 20260, "paramtype": "absolute", "params": [202624, 1, 2, 202661, 100] },
+      { "skillid": 20260, "paramtype": "absolute", "params": [202625, 1, 2, 202661, 100] },
+      { "skillid": 20260, "paramtype": "absolute", "params": [202634, 1, 2, 202661, 100] },
+      { "skillid": 20260, "paramtype": "absolute", "params": [202635, 1, 2, 202661, 100] }
+    ]
+  },
+  "202022017": {
+    "31": [{ "skillid": 20200, "paramtype": "relative", "params": [20] }],
+    "1": [{ "skillid": 20200, "paramtype": "absolute", "params": [1] }]
+  },
+  "202022018": {
+    "13": [{ "skillid": 20200, "paramtype": "absolute", "params": [-4000, 100] }],
+    "27": [{ "skillid": 20200, "paramtype": "relative", "params": [0, 25] }]
+  },
+  "200622017": {
+    "52": [{ "skillid": 20060, "paramtype": "absolute", "params": [200607] }],
+    "27": [{ "skillid": 20060, "paramtype": "relative", "params": [0, 25] }]
+  },
+  "200622018": {
+    "1": [
+      { "skillid": 20060, "paramtype": "absolute", "params": [1, 0, 0, 4, 5] },
+      { "skillid": 20060, "paramtype": "absolute", "params": [1, 4] },
+      { "skillid": 20060, "paramtype": "absolute", "params": [1, 5] }
+    ]
+  },
+  "202422017": {
+    "45": [
+      { "skillid": 20240, "paramtype": "absolute", "params": [202401, 202407] },
+      { "skillid": 20240, "paramtype": "absolute", "params": [202404, 202407] },
+      { "skillid": 20240, "paramtype": "absolute", "params": [202405, 202407] },
+      { "skillid": 20240, "paramtype": "absolute", "params": [202410, 202407] }
+    ]
+  },
+  "202422018": {
+    "45": [
+      { "skillid": 20240, "paramtype": "absolute", "params": [202401, 202408] },
+      { "skillid": 20240, "paramtype": "absolute", "params": [202405, 202408] },
+      { "skillid": 20240, "paramtype": "absolute", "params": [202409, 202408] },
+      { "skillid": 20240, "paramtype": "absolute", "params": [202411, 202408] }
+    ]
+  },
+  "212623017": { "43": [{ "skillid": 21260, "paramtype": "absolute", "params": [0, 1, 2, 212623, 100] }] },
+  "212623018": { "52": [{ "skillid": 21260, "paramtype": "absolute", "params": [212624] }] },
+  "211723017": {
+    "36": [{ "skillid": 21170, "paramtype": "absolute", "params": [135] }],
+    "1": [
+      { "skillid": 21170, "paramtype": "absolute", "params": [1, 0, 0, 1, 6] },
+      { "skillid": 21170, "paramtype": "absolute", "params": [1, 1, 0, 6] },
+      { "skillid": 21170, "paramtype": "absolute", "params": [1, 6] }
+    ]
+  },
+  "211723018": {
+    "60": [{ "skillid": 21170, "paramtype": "absolute", "params": [] }],
+    "27": [{ "skillid": 21170, "paramtype": "relative", "params": [211740, 100] }]
+  },
+  "211223017": {
+    "31": [{ "skillid": 21120, "paramtype": "relative", "params": [40] }],
+    "13": [{ "skillid": 21120, "paramtype": "absolute", "params": [-6000, 100] }]
+  },
+  "211223018": {
+    "45": [
+      { "skillid": 21120, "paramtype": "absolute", "params": [211204, 211208] },
+      { "skillid": 21120, "paramtype": "absolute", "params": [211210, 211208] },
+      { "skillid": 21120, "paramtype": "absolute", "params": [211211, 211208] }
+    ],
+    "43": [{ "skillid": 21120, "paramtype": "absolute", "params": [0, 1, 2, 211212, 100] }]
+  },
+  "212423017": {
+    "60": [{ "skillid": 21240, "paramtype": "absolute", "params": [] }],
+    "31": [{ "skillid": 21240, "paramtype": "relative", "params": [30] }]
+  },
+  "212423018": { "43": [{ "skillid": 21240, "paramtype": "absolute", "params": [212402, 1, 2, 212428, 100] }] },
+  "210823017": {
+    "1": [
+      { "skillid": 21080, "paramtype": "absolute", "params": [1, 0, 0, 4, 6] },
+      { "skillid": 21080, "paramtype": "absolute", "params": [1, 4] },
+      { "skillid": 21080, "paramtype": "absolute", "params": [1, 6] }
+    ]
+  },
+  "210823018": {
+    "27": [{ "skillid": 21080, "paramtype": "relative", "params": [0, 30] }],
+    "18": [{ "skillid": 21080, "paramtype": "absolute", "params": [210801, 1000] }]
+  },
+  "210723017": {
+    "27": [
+      { "skillid": 21079, "paramtype": "relative", "params": [210790, 100] },
+      { "skillid": 21079, "paramtype": "relative", "params": [210791, 100] }
+    ],
+    "1": [{ "skillid": 21079, "paramtype": "absolute", "params": [1] }]
+  },
+  "210723018": { "1": [{ "skillid": 21070, "paramtype": "absolute", "params": [1] }] },
+  "210923017": {
+    "27": [{ "skillid": 21090, "paramtype": "relative", "params": [0, 20] }],
+    "43": [
+      { "skillid": 21090, "paramtype": "absolute", "params": [210901, 1, 2, 210947, 100] },
+      { "skillid": 21090, "paramtype": "absolute", "params": [210903, 1, 2, 210947, 100] }
+    ]
+  },
+  "210923018": {
+    "15": [
+      { "skillid": 21090, "paramtype": "absolute", "params": [1, 0, 210950] },
+      { "skillid": 21090, "paramtype": "absolute", "params": [2, 0, 210950] },
+      { "skillid": 21090, "paramtype": "absolute", "params": [3, 0, 210950] }
+    ],
+    "1": [
+      { "skillid": 21090, "paramtype": "absolute", "params": [1, 0, 0, 1, 3] },
+      { "skillid": 21090, "paramtype": "absolute", "params": [1, 1] },
+      { "skillid": 21090, "paramtype": "absolute", "params": [1, 3] }
+    ]
+  },
+  "223231017": {
+    "1": [
+      { "skillid": 22320, "paramtype": "absolute", "params": [] },
+      { "skillid": 22320, "paramtype": "absolute", "params": [1] }
+    ],
+    "27": [{ "skillid": 22320, "paramtype": "relative", "params": [0, 75] }]
+  },
+  "223231018": {
+    "27": [{ "skillid": 22320, "paramtype": "relative", "params": [0, 25] }],
+    "31": [{ "skillid": 22320, "paramtype": "relative", "params": [20] }],
+    "13": [{ "skillid": 22320, "paramtype": "absolute", "params": [-13000, 100] }]
+  },
+  "220431017": {
+    "43": [{ "skillid": 22040, "paramtype": "absolute", "params": [220406, 1, 2, 220407, 100] }],
+    "1": [{ "skillid": 22040, "paramtype": "absolute", "params": [1] }]
+  },
+  "220431018": { "60": [{ "skillid": 22040, "paramtype": "absolute", "params": [] }] },
+  "221131017": { "43": [{ "skillid": 22110, "paramtype": "absolute", "params": [0, 1, 2, 221128, 100] }] },
+  "221131018": {
+    "27": [{ "skillid": 22110, "paramtype": "relative", "params": [0, 50] }],
+    "5": [
+      { "skillid": 22110, "paramtype": "relative", "params": [1, 1, 100] },
+      { "skillid": 22110, "paramtype": "relative", "params": [2, 1, 100] },
+      { "skillid": 22110, "paramtype": "relative", "params": [3, 1, 100] }
+    ]
+  },
+  "220231017": {
+    "45": [
+      { "skillid": 22020, "paramtype": "absolute", "params": [220203, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220204, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220205, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220206, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220207, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220208, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220209, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220210, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220211, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220218, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220219, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220220, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220221, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220222, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220223, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220224, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220225, 2202002] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220226, 2202002] }
+    ],
+    "47": [
+      { "skillid": 22020, "paramtype": "absolute", "params": [220203, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220204, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220205, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220206, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220207, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220208, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220209, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220210, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220211, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220218, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220219, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220220, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220221, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220222, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220223, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220224, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220225, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220226, 0, 0, 0, 0, 1000, 30000, 0, 0, 0, 0, 100] }
+    ]
+  },
+  "220231018": {
+    "43": [
+      { "skillid": 22020, "paramtype": "absolute", "params": [220212, 1, 2, 220228, 100] },
+      { "skillid": 22020, "paramtype": "absolute", "params": [220227, 1, 2, 220228, 100] }
+    ]
+  },
+  "221931017": {
+    "5": [
+      { "skillid": 22190, "paramtype": "relative", "params": [2, 0, 20] },
+      { "skillid": 22190, "paramtype": "relative", "params": [4, 0, 20] },
+      { "skillid": 22190, "paramtype": "relative", "params": [2, 1, 50] },
+      { "skillid": 22190, "paramtype": "relative", "params": [4, 1, 50] }
+    ],
+    "27": [{ "skillid": 22190, "paramtype": "relative", "params": [0, 50] }]
+  },
+  "221931018": {
+    "10": [{ "skillid": 22190, "paramtype": "relative", "params": [-50, 0, 0, 100] }],
+    "13": [{ "skillid": 22190, "paramtype": "absolute", "params": [-6000, 100] }]
+  },
+  "221031017": {
+    "27": [
+      { "skillid": 22100, "paramtype": "relative", "params": [221020, 250] },
+      { "skillid": 22100, "paramtype": "relative", "params": [221022, 250] },
+      { "skillid": 22100, "paramtype": "relative", "params": [221024, 250] },
+      { "skillid": 22100, "paramtype": "relative", "params": [221026, 250] },
+      { "skillid": 22100, "paramtype": "relative", "params": [221028, 250] },
+      { "skillid": 22100, "paramtype": "relative", "params": [221030, 250] },
+      { "skillid": 22100, "paramtype": "relative", "params": [221032, 250] },
+      { "skillid": 22100, "paramtype": "relative", "params": [221034, 250] },
+      { "skillid": 22100, "paramtype": "relative", "params": [221036, 250] }
+    ]
+  },
+  "221031018": {
+    "12": [{ "skillid": 22100, "paramtype": "relative", "params": [0, 0, 50, 40] }],
+    "27": [{ "skillid": 22100, "paramtype": "relative", "params": [0, 65] }]
+  },
+  "222831017": {
+    "1": [
+      { "skillid": 22280, "paramtype": "absolute", "params": [1, 1, 0, 2, 3] },
+      { "skillid": 22280, "paramtype": "absolute", "params": [1, 2, 0, 1, 3] },
+      { "skillid": 22280, "paramtype": "absolute", "params": [1, 3, 0, 1, 2] }
+    ]
+  },
+  "222831018": {
+    "13": [{ "skillid": 22280, "paramtype": "absolute", "params": [-6000, 100] }],
+    "45": [
+      { "skillid": 22280, "paramtype": "absolute", "params": [222801, 222800] },
+      { "skillid": 22280, "paramtype": "absolute", "params": [222809, 222800] },
+      { "skillid": 22280, "paramtype": "absolute", "params": [222810, 222800] },
+      { "skillid": 22280, "paramtype": "absolute", "params": [222811, 222800] }
+    ]
+  },
+  "232032017": { "1": [{ "skillid": 23200, "paramtype": "absolute", "params": [1] }] },
+  "232032018": {
+    "31": [{ "skillid": 23200, "paramtype": "relative", "params": [20] }],
+    "1": [{ "skillid": 23200, "paramtype": "absolute", "params": [1] }]
+  },
+  "231132017": {
+    "48": [{ "skillid": 23110, "paramtype": "relative", "params": [0, 96, 96] }],
+    "45": [{ "skillid": 23110, "paramtype": "absolute", "params": [231103, 2311024] }]
+  },
+  "231132018": {
+    "10": [{ "skillid": 23110, "paramtype": "absolute", "params": [0, -60, 0, 100] }],
+    "13": [{ "skillid": 23110, "paramtype": "absolute", "params": [-6000, 100] }]
+  },
+  "231032017": {
+    "1": [{ "skillid": 23100, "paramtype": "absolute", "params": [1] }],
+    "41": [
+      { "skillid": 23100, "paramtype": "absolute", "params": [231008, -180, -200] },
+      { "skillid": 23100, "paramtype": "absolute", "params": [231011, -180, -200] },
+      { "skillid": 23100, "paramtype": "absolute", "params": [231020, -180, -200] }
+    ]
+  },
+  "231032018": {
+    "1": [
+      { "skillid": 23100, "paramtype": "absolute", "params": [1] },
+      { "skillid": 23100, "paramtype": "absolute", "params": [1] }
+    ]
+  },
+  "231332017": {
+    "60": [{ "skillid": 23130, "paramtype": "absolute", "params": [] }],
+    "45": [
+      { "skillid": 23130, "paramtype": "absolute", "params": [231300, 231300] },
+      { "skillid": 23130, "paramtype": "absolute", "params": [231301, 231300] },
+      { "skillid": 23130, "paramtype": "absolute", "params": [231302, 231300] },
+      { "skillid": 23130, "paramtype": "absolute", "params": [231307, 231300] },
+      { "skillid": 23130, "paramtype": "absolute", "params": [231308, 231300] }
+    ]
+  },
+  "231332018": {
+    "27": [{ "skillid": 23130, "paramtype": "relative", "params": [231302, 150] }],
+    "10": [{ "skillid": 23130, "paramtype": "absolute", "params": [0, 0, 50, 100] }]
+  },
+  "232332017": {
+    "2": [
+      { "skillid": 23230, "paramtype": "absolute", "params": [0, 1, 1] },
+      { "skillid": 23230, "paramtype": "absolute", "params": [1, 1, 1] },
+      { "skillid": 23230, "paramtype": "absolute", "params": [0, 2, 1] },
+      { "skillid": 23230, "paramtype": "absolute", "params": [1, 2, 1] }
+    ],
+    "27": [{ "skillid": 23230, "paramtype": "relative", "params": [0, 50] }]
+  },
+  "232332018": {
+    "52": [{ "skillid": 23230, "paramtype": "absolute", "params": [232300] }],
+    "27": [{ "skillid": 23230, "paramtype": "relative", "params": [0, 25] }]
+  },
+  "232432017": {
+    "1": [
+      { "skillid": 23240, "paramtype": "absolute", "params": [1, 0, 0, 2] },
+      { "skillid": 23240, "paramtype": "absolute", "params": [1, 2] }
+    ]
+  },
+  "232432018": {
+    "1": [{ "skillid": 23240, "paramtype": "absolute", "params": [1] }],
+    "29": [{ "skillid": 23240, "paramtype": "absolute", "params": [0, 5000] }]
+  },
+  "230732017": {
+    "13": [{ "skillid": 23070, "paramtype": "absolute", "params": [4000, 100] }],
+    "27": [
+      { "skillid": 23070, "paramtype": "relative", "params": [230714, 250] },
+      { "skillid": 23070, "paramtype": "relative", "params": [230716, 250] },
+      { "skillid": 23070, "paramtype": "relative", "params": [230718, 250] },
+      { "skillid": 23070, "paramtype": "relative", "params": [230721, 250] },
+      { "skillid": 23070, "paramtype": "relative", "params": [230723, 250] },
+      { "skillid": 23070, "paramtype": "relative", "params": [230725, 250] },
+      { "skillid": 23070, "paramtype": "relative", "params": [230727, 250] },
+      { "skillid": 23070, "paramtype": "relative", "params": [230729, 250] },
+      { "skillid": 23070, "paramtype": "relative", "params": [230731, 250] }
+    ]
+  },
+  "230732018": {
+    "10": [{ "skillid": 23070, "paramtype": "absolute", "params": [0, -15, 0, 100] }],
+    "13": [{ "skillid": 23070, "paramtype": "absolute", "params": [-4000, 100] }],
+    "45": [
+      { "skillid": 23070, "paramtype": "absolute", "params": [230705, 2307016] },
+      { "skillid": 23070, "paramtype": "absolute", "params": [230706, 2307016] },
+      { "skillid": 23070, "paramtype": "absolute", "params": [230708, 2307016] },
+      { "skillid": 23070, "paramtype": "absolute", "params": [230709, 2307016] },
+      { "skillid": 23070, "paramtype": "absolute", "params": [230710, 2307016] },
+      { "skillid": 23070, "paramtype": "absolute", "params": [230711, 2307016] },
+      { "skillid": 23070, "paramtype": "absolute", "params": [230712, 2307016] }
+    ]
+  },
+  "241233017": {
+    "43": [
+      { "skillid": 24120, "paramtype": "absolute", "params": [241211, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241213, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241215, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241217, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241221, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241223, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241225, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241227, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241229, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241231, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241233, 1, 2, 241250, 100] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241235, 1, 2, 241250, 100] }
+    ],
+    "45": [
+      { "skillid": 24120, "paramtype": "absolute", "params": [241211, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241213, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241215, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241217, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241221, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241223, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241225, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241227, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241229, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241231, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241233, 241203] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241235, 241203] }
+    ]
+  },
+  "241233018": {
+    "31": [{ "skillid": 24120, "paramtype": "relative", "params": [30] }],
+    "45": [
+      { "skillid": 24120, "paramtype": "absolute", "params": [241244, 241202] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241245, 241202] },
+      { "skillid": 24120, "paramtype": "absolute", "params": [241246, 241202] }
+    ]
+  },
+  "241933017": {
+    "10": [{ "skillid": 24190, "paramtype": "relative", "params": [0, -50, 0, 100] }],
+    "13": [{ "skillid": 24190, "paramtype": "absolute", "params": [-5000, 100] }],
+    "45": [
+      { "skillid": 24190, "paramtype": "absolute", "params": [241900, 241901] },
+      { "skillid": 24190, "paramtype": "absolute", "params": [241901, 241901] },
+      { "skillid": 24190, "paramtype": "absolute", "params": [241902, 241901] },
+      { "skillid": 24190, "paramtype": "absolute", "params": [241903, 241901] },
+      { "skillid": 24190, "paramtype": "absolute", "params": [241905, 241901] },
+      { "skillid": 24190, "paramtype": "absolute", "params": [241907, 241901] },
+      { "skillid": 24190, "paramtype": "absolute", "params": [241909, 241901] },
+      { "skillid": 24190, "paramtype": "absolute", "params": [241911, 241901] },
+      { "skillid": 24190, "paramtype": "absolute", "params": [241913, 241901] },
+      { "skillid": 24190, "paramtype": "absolute", "params": [241915, 241901] }
+    ]
+  },
+  "241933018": {
+    "27": [{ "skillid": 24190, "paramtype": "relative", "params": [0, 100] }],
+    "31": [{ "skillid": 24190, "paramtype": "relative", "params": [-30] }],
+    "10": [{ "skillid": 24190, "paramtype": "relative", "params": [0, 50, 0, 100] }]
+  },
+  "242133017": {
+    "83": [
+      { "skillid": 24210, "paramtype": "absolute", "params": [242100, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242101, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242102, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242104, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242105, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242106, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242107, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242108, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242109, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242110, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242114, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242115, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242116, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242117, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242118, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242119, 1, 2, 100, 242128] },
+      { "skillid": 24210, "paramtype": "absolute", "params": [242120, 1, 2, 100, 242128] }
+    ]
+  },
+  "242133018": {
+    "31": [{ "skillid": 24210, "paramtype": "relative", "params": [30] }],
+    "27": [{ "skillid": 24210, "paramtype": "relative", "params": [0, 80] }]
+  },
+  "240433017": { "43": [{ "skillid": 24040, "paramtype": "absolute", "params": [0, 1, 2, 240409, 100] }] },
+  "240433018": {
+    "1": [{ "skillid": 24040, "paramtype": "absolute", "params": [1] }],
+    "27": [{ "skillid": 24040, "paramtype": "relative", "params": [240408, 200] }]
+  },
+  "240833017": { "43": [{ "skillid": 24080, "paramtype": "absolute", "params": [240806, 1, 2, 240809, 100] }] },
+  "240833018": {
+    "27": [
+      { "skillid": 24080, "paramtype": "relative", "params": [240807, 30] },
+      { "skillid": 24080, "paramtype": "relative", "params": [240808, 225] }
+    ]
+  },
+  "242333017": {
+    "45": [
+      { "skillid": 24230, "paramtype": "absolute", "params": [242312, 242300] },
+      { "skillid": 24230, "paramtype": "absolute", "params": [242314, 242300] },
+      { "skillid": 24230, "paramtype": "absolute", "params": [242316, 242300] },
+      { "skillid": 24230, "paramtype": "absolute", "params": [242320, 242300] },
+      { "skillid": 24230, "paramtype": "absolute", "params": [242322, 242300] },
+      { "skillid": 24230, "paramtype": "absolute", "params": [242324, 242300] },
+      { "skillid": 24230, "paramtype": "absolute", "params": [242326, 242300] },
+      { "skillid": 24230, "paramtype": "absolute", "params": [242328, 242300] },
+      { "skillid": 24230, "paramtype": "absolute", "params": [242330, 242300] }
+    ]
+  },
+  "242333018": { "27": [{ "skillid": 24230, "paramtype": "relative", "params": [242317, 100] }] },
+  "241433017": {
+    "31": [{ "skillid": 24140, "paramtype": "relative", "params": [20] }],
+    "27": [
+      { "skillid": 24140, "paramtype": "relative", "params": [241403, 75] },
+      { "skillid": 24140, "paramtype": "relative", "params": [241416, 75] }
+    ]
+  },
+  "241433018": {
+    "52": [{ "skillid": 24140, "paramtype": "absolute", "params": [241419] }],
+    "45": [
+      { "skillid": 24140, "paramtype": "absolute", "params": [241400, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241404, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241405, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241406, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241407, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241408, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241409, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241410, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241411, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241412, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241413, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241414, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241415, 241401] },
+      { "skillid": 24140, "paramtype": "absolute", "params": [241417, 241401] }
+    ]
+  },
+  "345934017": {
+    "45": [
+      { "skillid": 34590, "paramtype": "absolute", "params": [345900, 3459001] },
+      { "skillid": 34590, "paramtype": "absolute", "params": [345901, 3459001] },
+      { "skillid": 34590, "paramtype": "absolute", "params": [345903, 3459001] },
+      { "skillid": 34590, "paramtype": "absolute", "params": [345904, 3459001] }
+    ]
+  },
+  "345934018": {
+    "43": [
+      { "skillid": 34590, "paramtype": "absolute", "params": [345906, 1, 2, 345913, 100] },
+      { "skillid": 34590, "paramtype": "absolute", "params": [345908, 1, 2, 345913, 100] },
+      { "skillid": 34590, "paramtype": "absolute", "params": [345910, 1, 2, 345913, 100] },
+      { "skillid": 34590, "paramtype": "absolute", "params": [345912, 1, 2, 345913, 100] }
+    ]
+  },
+  "345634017": {
+    "45": [
+      { "skillid": 34560, "paramtype": "absolute", "params": [345600, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345601, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345604, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345640, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345641, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345642, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345643, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345670, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345671, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345672, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345673, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345674, 3456000] },
+      { "skillid": 34560, "paramtype": "absolute", "params": [345675, 3456000] }
+    ]
+  },
+  "345634018": {
+    "53": [{ "skillid": 34560, "paramtype": "absolute", "params": [0, 0, 0, 0, 3000, 12000, 0, 0, 0, 0, 100] }]
+  },
+  "341534017": {
+    "31": [{ "skillid": 34150, "paramtype": "relative", "params": [30] }],
+    "1": [{ "skillid": 34150, "paramtype": "absolute", "params": [1] }]
+  },
+  "341534018": {
+    "45": [
+      { "skillid": 34150, "paramtype": "absolute", "params": [341508, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341509, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341510, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341511, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341512, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341513, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341514, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341515, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341516, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341517, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341518, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341519, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341520, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341521, 3415010] },
+      { "skillid": 34150, "paramtype": "absolute", "params": [341522, 3415010] }
+    ]
+  },
+  "345734017": { "45": [{ "skillid": 34570, "paramtype": "absolute", "params": [345700, 3457080] }] },
+  "345734018": {
+    "1": [
+      { "skillid": 34570, "paramtype": "absolute", "params": [1, 0, 0, 1, 2] },
+      { "skillid": 34570, "paramtype": "absolute", "params": [1, 1] },
+      { "skillid": 34570, "paramtype": "absolute", "params": [1, 2] }
+    ]
+  },
+  "341134017": {
+    "13": [{ "skillid": 34110, "paramtype": "absolute", "params": [-4000, 100] }],
+    "51": [{ "skillid": 34110, "paramtype": "absolute", "params": [200] }],
+    "27": [{ "skillid": 34110, "paramtype": "relative", "params": [0, 25] }]
+  },
+  "341134018": {
+    "45": [
+      { "skillid": 34110, "paramtype": "absolute", "params": [341100, 3411070] },
+      { "skillid": 34110, "paramtype": "absolute", "params": [341101, 3411070] },
+      { "skillid": 34110, "paramtype": "absolute", "params": [341102, 3411070] },
+      { "skillid": 34110, "paramtype": "absolute", "params": [341150, 3411070] },
+      { "skillid": 34110, "paramtype": "absolute", "params": [341184, 3411070] },
+      { "skillid": 34110, "paramtype": "absolute", "params": [341130, 3411070] },
+      { "skillid": 34110, "paramtype": "absolute", "params": [341151, 3411070] }
+    ]
+  },
+  "341334017": {
+    "45": [
+      { "skillid": 34130, "paramtype": "absolute", "params": [341310, 3413010] },
+      { "skillid": 34130, "paramtype": "absolute", "params": [341311, 3413010] },
+      { "skillid": 34130, "paramtype": "absolute", "params": [341306, 3413010] },
+      { "skillid": 34130, "paramtype": "absolute", "params": [341307, 3413010] },
+      { "skillid": 34130, "paramtype": "absolute", "params": [341308, 3413010] }
+    ],
+    "53": [{ "skillid": 34130, "paramtype": "absolute", "params": [0, 0, 0, 0, 1000, 6000, 0, 0, 0, 0, 100] }]
+  },
+  "341334018": { "1": [{ "skillid": 34130, "paramtype": "absolute", "params": [1] }] },
+  "281551017": {
+    "51": [{ "skillid": 28150, "paramtype": "absolute", "params": [89] }],
+    "27": [
+      { "skillid": 28150, "paramtype": "relative", "params": [281501, 100] },
+      { "skillid": 28150, "paramtype": "relative", "params": [281550, 100] },
+      { "skillid": 28150, "paramtype": "relative", "params": [281551, 100] },
+      { "skillid": 28150, "paramtype": "relative", "params": [281552, 100] },
+      { "skillid": 28150, "paramtype": "relative", "params": [281553, 100] },
+      { "skillid": 28150, "paramtype": "relative", "params": [281554, 100] },
+      { "skillid": 28150, "paramtype": "relative", "params": [281555, 100] },
+      { "skillid": 28150, "paramtype": "relative", "params": [281556, 100] },
+      { "skillid": 28150, "paramtype": "relative", "params": [281557, 100] },
+      { "skillid": 28150, "paramtype": "relative", "params": [281560, 100] }
+    ]
+  },
+  "281551018": {
+    "13": [{ "skillid": 28150, "paramtype": "absolute", "params": [-6000, 100] }],
+    "1": [{ "skillid": 28150, "paramtype": "absolute", "params": [1] }]
+  },
+  "280951017": {
+    "27": [
+      { "skillid": 28090, "paramtype": "relative", "params": [280971, 40] },
+      { "skillid": 28090, "paramtype": "relative", "params": [280991, 40] },
+      { "skillid": 28090, "paramtype": "relative", "params": [280973, 80] },
+      { "skillid": 28090, "paramtype": "relative", "params": [280993, 80] },
+      { "skillid": 28090, "paramtype": "relative", "params": [280975, 120] },
+      { "skillid": 28090, "paramtype": "relative", "params": [280995, 120] }
+    ]
+  },
+  "280951018": {
+    "45": [
+      { "skillid": 28090, "paramtype": "absolute", "params": [280901, 280908] },
+      { "skillid": 28090, "paramtype": "absolute", "params": [280903, 280908] },
+      { "skillid": 28090, "paramtype": "absolute", "params": [280905, 280908] },
+      { "skillid": 28090, "paramtype": "absolute", "params": [280943, 280908] },
+      { "skillid": 28090, "paramtype": "absolute", "params": [280944, 280908] },
+      { "skillid": 28090, "paramtype": "absolute", "params": [280945, 280908] },
+      { "skillid": 28090, "paramtype": "absolute", "params": [280946, 280908] },
+      { "skillid": 28090, "paramtype": "absolute", "params": [280950, 280908] },
+      { "skillid": 28090, "paramtype": "absolute", "params": [280988, 280908] }
+    ]
+  },
+  "281151017": {
+    "31": [{ "skillid": 28110, "paramtype": "relative", "params": [30] }],
+    "13": [{ "skillid": 28110, "paramtype": "absolute", "params": [-8000, 100] }]
+  },
+  "281151018": {
+    "43": [
+      { "skillid": 28110, "paramtype": "absolute", "params": [281106, 1, 2, 281115, 100] },
+      { "skillid": 28110, "paramtype": "absolute", "params": [281107, 1, 2, 281115, 100] },
+      { "skillid": 28110, "paramtype": "absolute", "params": [281112, 1, 2, 281115, 100] },
+      { "skillid": 28110, "paramtype": "absolute", "params": [281113, 1, 2, 281115, 100] }
+    ]
+  },
+  "282251017": {
+    "13": [{ "skillid": 28220, "paramtype": "absolute", "params": [-18000, 100] }],
+    "1": [{ "skillid": 28220, "paramtype": "absolute", "params": [1] }]
+  },
+  "282251018": {
+    "29": [{ "skillid": 28220, "paramtype": "absolute", "params": [0, 10000] }],
+    "45": [
+      { "skillid": 28220, "paramtype": "absolute", "params": [282201, 282208] },
+      { "skillid": 28220, "paramtype": "absolute", "params": [282203, 282208] }
+    ]
+  },
+  "280851017": {
+    "13": [{ "skillid": 28080, "paramtype": "absolute", "params": [-3000, 100] }],
+    "29": [{ "skillid": 28080, "paramtype": "absolute", "params": [0, 10000] }]
+  },
+  "280851018": {
+    "13": [{ "skillid": 28080, "paramtype": "absolute", "params": [6000, 100] }],
+    "27": [{ "skillid": 28080, "paramtype": "relative", "params": [0, 80] }]
+  },
+  "281051017": {
+    "13": [{ "skillid": 28100, "paramtype": "absolute", "params": [-3000, 100] }],
+    "1": [{ "skillid": 28100, "paramtype": "absolute", "params": [1] }]
+  },
+  "281051018": {
+    "3": [{ "skillid": 28100, "paramtype": "absolute", "params": [2, 0, 100] }],
+    "27": [{ "skillid": 28100, "paramtype": "relative", "params": [281006, 75] }]
+  },
+  "290952017": {
+    "13": [{ "skillid": 29090, "paramtype": "absolute", "params": [-12000, 100] }],
+    "10": [{ "skillid": 29090, "paramtype": "relative", "params": [-75, 0, 0, 100] }],
+    "43": [
+      { "skillid": 29090, "paramtype": "absolute", "params": [0, 1, 2, 290992, 100] },
+      { "skillid": 29090, "paramtype": "absolute", "params": [0, 1, 2, 290993, 100] }
+    ]
+  },
+  "290952018": {
+    "13": [{ "skillid": 29090, "paramtype": "absolute", "params": [6000, 100] }],
+    "27": [{ "skillid": 29090, "paramtype": "relative", "params": [290908, 125] }],
+    "45": [{ "skillid": 29090, "paramtype": "absolute", "params": [290908, 290900] }]
+  },
+  "291752017": {
+    "45": [
+      { "skillid": 29170, "paramtype": "absolute", "params": [291717, 291709] },
+      { "skillid": 29170, "paramtype": "absolute", "params": [291718, 291710] }
+    ]
+  },
+  "291752018": {
+    "31": [{ "skillid": 29170, "paramtype": "relative", "params": [20] }],
+    "27": [{ "skillid": 29170, "paramtype": "relative", "params": [0, 80] }]
+  },
+  "292352017": {
+    "27": [
+      { "skillid": 29230, "paramtype": "relative", "params": [292370, 200] },
+      { "skillid": 29230, "paramtype": "relative", "params": [292371, 200] }
+    ],
+    "31": [{ "skillid": 29230, "paramtype": "relative", "params": [-20] }],
+    "13": [{ "skillid": 29230, "paramtype": "absolute", "params": [12000, 100] }],
+    "1": [{ "skillid": 29230, "paramtype": "absolute", "params": [1] }]
+  },
+  "292352018": {
+    "27": [
+      { "skillid": 29230, "paramtype": "relative", "params": [292342, 50] },
+      { "skillid": 29230, "paramtype": "relative", "params": [292380, 50] },
+      { "skillid": 29230, "paramtype": "relative", "params": [292381, 50] }
+    ],
+    "1": [{ "skillid": 29230, "paramtype": "absolute", "params": [1] }]
+  },
+  "290652017": { "27": [{ "skillid": 29060, "paramtype": "relative", "params": [290678, 300] }] },
+  "290652018": { "27": [{ "skillid": 29060, "paramtype": "relative", "params": [290681, 800] }] },
+  "292752017": {
+    "13": [{ "skillid": 29270, "paramtype": "absolute", "params": [-10000, 100] }],
+    "5": [{ "skillid": 29270, "paramtype": "relative", "params": [1, 1, 100] }],
+    "45": [{ "skillid": 29270, "paramtype": "absolute", "params": [292701, 292700] }]
+  },
+  "292752018": {
+    "45": [
+      { "skillid": 29270, "paramtype": "absolute", "params": [292700, 292701] },
+      { "skillid": 29270, "paramtype": "absolute", "params": [292701, 292701] }
+    ]
+  },
+  "291052017": {
+    "13": [{ "skillid": 29100, "paramtype": "absolute", "params": [5000, 100] }],
+    "27": [{ "skillid": 29100, "paramtype": "relative", "params": [0, 80] }]
+  },
+  "291052018": {
+    "13": [{ "skillid": 29100, "paramtype": "absolute", "params": [-4000, 100] }],
+    "31": [{ "skillid": 29100, "paramtype": "relative", "params": [20] }],
+    "1": [{ "skillid": 29100, "paramtype": "absolute", "params": [1] }]
+  },
+  "291152017": {
+    "2": [
+      { "skillid": 29110, "paramtype": "absolute", "params": [2, 1, 2] },
+      { "skillid": 29110, "paramtype": "absolute", "params": [3, 1, 2] }
+    ],
+    "1": [{ "skillid": 29110, "paramtype": "absolute", "params": [1] }],
+    "27": [{ "skillid": 29110, "paramtype": "relative", "params": [0, 50] }]
+  },
+  "291152018": {
+    "27": [
+      { "skillid": 29110, "paramtype": "relative", "params": [291180, 100] },
+      { "skillid": 29110, "paramtype": "relative", "params": [291181, 100] },
+      { "skillid": 29110, "paramtype": "relative", "params": [291182, 100] },
+      { "skillid": 29110, "paramtype": "relative", "params": [291183, 100] },
+      { "skillid": 29110, "paramtype": "relative", "params": [291184, 100] },
+      { "skillid": 29110, "paramtype": "relative", "params": [291185, 100] }
+    ]
+  },
+  "290852017": {
+    "43": [
+      { "skillid": 29080, "paramtype": "absolute", "params": [290800, 1, 2, 290817, 100] },
+      { "skillid": 29080, "paramtype": "absolute", "params": [290807, 1, 2, 290817, 100] }
+    ]
+  },
+  "290852018": { "45": [{ "skillid": 29080, "paramtype": "absolute", "params": [290809, 290808] }] },
+  "300853017": { "43": [{ "skillid": 30080, "paramtype": "absolute", "params": [0, 1, 2, 300872, 100] }] },
+  "300853018": {
+    "45": [
+      { "skillid": 30080, "paramtype": "absolute", "params": [300886, 300800] },
+      { "skillid": 30080, "paramtype": "absolute", "params": [300887, 300800] }
+    ]
+  },
+  "301253017": {
+    "27": [{ "skillid": 30120, "paramtype": "relative", "params": [0, 50] }],
+    "43": [{ "skillid": 30120, "paramtype": "absolute", "params": [0, 1, 2, 301210, 100] }]
+  },
+  "301253018": {
+    "44": [{ "skillid": 30120, "paramtype": "absolute", "params": [301208] }],
+    "43": [{ "skillid": 30120, "paramtype": "absolute", "params": [301208, 1, 2, 301213, 100] }]
+  },
+  "301153017": {
+    "13": [{ "skillid": 30110, "paramtype": "absolute", "params": [-4000, 100] }],
+    "45": [
+      { "skillid": 30110, "paramtype": "absolute", "params": [301110, 301100] },
+      { "skillid": 30110, "paramtype": "absolute", "params": [301174, 301100] }
+    ]
+  },
+  "301153018": {
+    "29": [{ "skillid": 30110, "paramtype": "absolute", "params": [0, 20000] }],
+    "13": [{ "skillid": 30110, "paramtype": "absolute", "params": [4000, 100] }]
+  },
+  "302253017": {
+    "44": [{ "skillid": 30220, "paramtype": "absolute", "params": [302225] }],
+    "43": [{ "skillid": 30220, "paramtype": "absolute", "params": [302225, 1, 2, 302227, 100] }]
+  },
+  "302253018": {
+    "27": [
+      { "skillid": 30220, "paramtype": "relative", "params": [302202, 200] },
+      { "skillid": 30220, "paramtype": "relative", "params": [302236, -80] }
+    ]
+  },
+  "301853017": {
+    "3": [
+      { "skillid": 30180, "paramtype": "absolute", "params": [2, 0, 100] },
+      { "skillid": 30180, "paramtype": "absolute", "params": [3, 0, 100] }
+    ],
+    "45": [
+      { "skillid": 30180, "paramtype": "absolute", "params": [301802, 301807] },
+      { "skillid": 30180, "paramtype": "absolute", "params": [301870, 301807] },
+      { "skillid": 30180, "paramtype": "absolute", "params": [301871, 301807] },
+      { "skillid": 30180, "paramtype": "absolute", "params": [301873, 301807] }
+    ]
+  },
+  "301853018": { "43": [{ "skillid": 30180, "paramtype": "absolute", "params": [301800, 1, 2, 301888, 100] }] },
+  "302053017": {
+    "52": [{ "skillid": 30200, "paramtype": "absolute", "params": [302007] }],
+    "27": [{ "skillid": 30200, "paramtype": "relative", "params": [302070, 300] }]
+  },
+  "302053018": {
+    "13": [{ "skillid": 30200, "paramtype": "absolute", "params": [-8000, 100] }],
+    "45": [
+      { "skillid": 30200, "paramtype": "absolute", "params": [302083, 302008] },
+      { "skillid": 30200, "paramtype": "absolute", "params": [302084, 302008] }
+    ]
+  },
+  "301553017": {
+    "27": [{ "skillid": 30150, "paramtype": "relative", "params": [301507, 50] }],
+    "60": [{ "skillid": 30150, "paramtype": "absolute", "params": [301507] }]
+  },
+  "301553018": {
+    "13": [{ "skillid": 30150, "paramtype": "absolute", "params": [-6000, 100] }],
+    "3": [{ "skillid": 30150, "paramtype": "absolute", "params": [2, 0, 100] }],
+    "31": [{ "skillid": 30150, "paramtype": "relative", "params": [20] }]
+  },
+  "251461017": { "13": [{ "skillid": 25140, "paramtype": "absolute", "params": [-12000, 100] }] },
+  "251461018": { "27": [{ "skillid": 25140, "paramtype": "relative", "params": [251480, 100] }] },
+  "251161017": {
+    "60": [
+      { "skillid": 25110, "paramtype": "absolute", "params": [251100] },
+      { "skillid": 25110, "paramtype": "absolute", "params": [251101] },
+      { "skillid": 25110, "paramtype": "absolute", "params": [251160] }
+    ],
+    "52": [{ "skillid": 25110, "paramtype": "absolute", "params": [251193] }]
+  },
+  "251161018": {
+    "43": [
+      { "skillid": 25110, "paramtype": "absolute", "params": [251183, 1, 2, 251190, 100] },
+      { "skillid": 25110, "paramtype": "absolute", "params": [251183, 1, 2, 251192, 100] },
+      { "skillid": 25110, "paramtype": "absolute", "params": [251184, 1, 2, 251190, 100] },
+      { "skillid": 25110, "paramtype": "absolute", "params": [251184, 1, 2, 251192, 100] },
+      { "skillid": 25110, "paramtype": "absolute", "params": [251185, 1, 2, 251190, 100] },
+      { "skillid": 25110, "paramtype": "absolute", "params": [251185, 1, 2, 251192, 100] },
+      { "skillid": 25110, "paramtype": "absolute", "params": [251186, 1, 2, 251190, 100] },
+      { "skillid": 25110, "paramtype": "absolute", "params": [251186, 1, 2, 251192, 100] }
+    ]
+  },
+  "252061017": { "27": [{ "skillid": 25200, "paramtype": "relative", "params": [252015, 400] }] },
+  "252061018": {
+    "43": [
+      { "skillid": 25200, "paramtype": "absolute", "params": [252082, 1, 2, 252088, 100] },
+      { "skillid": 25200, "paramtype": "absolute", "params": [252083, 1, 2, 252088, 100] },
+      { "skillid": 25200, "paramtype": "absolute", "params": [252084, 1, 2, 252088, 100] },
+      { "skillid": 25200, "paramtype": "absolute", "params": [252085, 1, 2, 252088, 100] }
+    ]
+  },
+  "251861017": {
+    "27": [{ "skillid": 25180, "paramtype": "relative", "params": [251871, 300] }],
+    "13": [{ "skillid": 25180, "paramtype": "absolute", "params": [8000, 100] }]
+  },
+  "251861018": { "43": [{ "skillid": 25180, "paramtype": "absolute", "params": [251880, 1, 2, 251890, 100] }] },
+  "251561017": { "27": [{ "skillid": 25150, "paramtype": "relative", "params": [251570, 100] }] },
+  "251561018": {
+    "13": [{ "skillid": 25150, "paramtype": "absolute", "params": [-4000, 100] }],
+    "10": [{ "skillid": 25150, "paramtype": "relative", "params": [-50] }]
+  },
+  "250761017": {
+    "3": [{ "skillid": 25070, "paramtype": "absolute", "params": [2, 0, 100] }],
+    "13": [{ "skillid": 25070, "paramtype": "absolute", "params": [-4000, 100] }],
+    "10": [{ "skillid": 25070, "paramtype": "relative", "params": [-50] }]
+  },
+  "250761018": {
+    "27": [
+      { "skillid": 25070, "paramtype": "relative", "params": [250781, 150] },
+      { "skillid": 25070, "paramtype": "relative", "params": [250782, 150] },
+      { "skillid": 25070, "paramtype": "relative", "params": [250783, 150] }
+    ]
+  },
+  "250861017": {
+    "3": [{ "skillid": 25080, "paramtype": "absolute", "params": [1, 1, 200] }],
+    "29": [{ "skillid": 25080, "paramtype": "absolute", "params": [0, 5000] }]
+  },
+  "250861018": {
+    "45": [
+      { "skillid": 25080, "paramtype": "absolute", "params": [250800, 250808] },
+      { "skillid": 25080, "paramtype": "absolute", "params": [250861, 250808] },
+      { "skillid": 25080, "paramtype": "absolute", "params": [250880, 250808] }
+    ]
+  },
+  "271262017": { "13": [{ "skillid": 27120, "paramtype": "absolute", "params": [-15000, 100] }] },
+  "271262018": {
+    "27": [
+      { "skillid": 27120, "paramtype": "relative", "params": [271203, 100] },
+      { "skillid": 27120, "paramtype": "relative", "params": [271209, 100] },
+      { "skillid": 27120, "paramtype": "relative", "params": [271210, 100] }
+    ],
+    "1": [{ "skillid": 27120, "paramtype": "absolute", "params": [1] }]
+  },
+  "271862017": {
+    "45": [
+      { "skillid": 27180, "paramtype": "absolute", "params": [271817, 271890] },
+      { "skillid": 27180, "paramtype": "absolute", "params": [271818, 271890] },
+      { "skillid": 27180, "paramtype": "absolute", "params": [271819, 271890] },
+      { "skillid": 27180, "paramtype": "absolute", "params": [271829, 271890] },
+      { "skillid": 27180, "paramtype": "absolute", "params": [271830, 271890] },
+      { "skillid": 27180, "paramtype": "absolute", "params": [271831, 271890] }
+    ],
+    "10": [{ "skillid": 27180, "paramtype": "relative", "params": [-50] }]
+  },
+  "271862018": {
+    "27": [{ "skillid": 27180, "paramtype": "relative", "params": [0, 50] }],
+    "30": [{ "skillid": 27180, "paramtype": "absolute", "params": [0, 5000] }]
+  },
+  "272062017": { "1": [{ "skillid": 27200, "paramtype": "absolute", "params": [1] }] },
+  "272062018": {
+    "13": [{ "skillid": 27200, "paramtype": "absolute", "params": [8000, 100] }],
+    "1": [
+      { "skillid": 27200, "paramtype": "absolute", "params": [1, 0, 0, 5] },
+      { "skillid": 27200, "paramtype": "absolute", "params": [1, 5] }
+    ]
+  },
+  "272462017": {
+    "1": [
+      { "skillid": 27240, "paramtype": "absolute", "params": [1, 4, 0, 5, 6] },
+      { "skillid": 27240, "paramtype": "absolute", "params": [1, 5, 0, 4] },
+      { "skillid": 27240, "paramtype": "absolute", "params": [1, 6, 0, 4] }
+    ]
+  },
+  "272462018": { "45": [{ "skillid": 27240, "paramtype": "absolute", "params": [272401, 272490] }] },
+  "271162017": {
+    "31": [{ "skillid": 27110, "paramtype": "relative", "params": [20] }],
+    "45": [
+      { "skillid": 27110, "paramtype": "absolute", "params": [271101, 271100] },
+      { "skillid": 27110, "paramtype": "absolute", "params": [271127, 271100] },
+      { "skillid": 27110, "paramtype": "absolute", "params": [271115, 271100] }
+    ]
+  },
+  "271162018": {
+    "45": [
+      { "skillid": 27110, "paramtype": "absolute", "params": [271101, 271110] },
+      { "skillid": 27110, "paramtype": "absolute", "params": [271103, 271110] },
+      { "skillid": 27110, "paramtype": "absolute", "params": [271127, 271110] }
+    ],
+    "41": [
+      { "skillid": 27110, "paramtype": "absolute", "params": [271101, 0, 0, 200, 300, 0, 0, 40, 60] },
+      { "skillid": 27110, "paramtype": "absolute", "params": [271127, 0, 0, 200, 300, 0, 0, 40, 60] }
+    ]
+  },
+  "272262017": {
+    "13": [{ "skillid": 27220, "paramtype": "absolute", "params": [-4000, 100] }],
+    "29": [{ "skillid": 27220, "paramtype": "absolute", "params": [0, 10000] }]
+  },
+  "272262018": { "1": [{ "skillid": 27220, "paramtype": "absolute", "params": [1] }] },
+  "271362017": {
+    "31": [{ "skillid": 27130, "paramtype": "relative", "params": [20] }],
+    "1": [
+      { "skillid": 27130, "paramtype": "absolute", "params": [1, 0, 0, 1, 2] },
+      { "skillid": 27130, "paramtype": "absolute", "params": [1, 1] },
+      { "skillid": 27130, "paramtype": "absolute", "params": [1, 2] }
+    ],
+    "27": [
+      { "skillid": 27130, "paramtype": "relative", "params": [271304, 100] },
+      { "skillid": 27130, "paramtype": "relative", "params": [271306, 100] }
+    ]
+  },
+  "271362018": {
+    "29": [{ "skillid": 27130, "paramtype": "absolute", "params": [0, 10000] }],
+    "1": [{ "skillid": 27130, "paramtype": "absolute", "params": [1] }]
+  },
+  "361614017": {
+    "1": [
+      { "skillid": 36160, "paramtype": "absolute", "params": [1, 4, 0, 5] },
+      { "skillid": 36160, "paramtype": "absolute", "params": [1, 7, 0, 4, 5] },
+      { "skillid": 36160, "paramtype": "absolute", "params": [1, 5, 0, 4] }
+    ],
+    "53": [{ "skillid": 36160, "paramtype": "absolute", "params": [0, 0, 0, 0, 3000, 12000, 0, 0, 0, 0, 100] }]
+  },
+  "361614018": {
+    "27": [{ "skillid": 36160, "paramtype": "absolute", "params": [361640, 100] }],
+    "45": [{ "skillid": 36160, "paramtype": "absolute", "params": [361640, 361608] }]
+  },
+  "361214017": { "43": [{ "skillid": 36120, "paramtype": "absolute", "params": [0, 1, 2, 361227, 100] }] },
+  "361214018": {
+    "27": [
+      { "skillid": 36120, "paramtype": "absolute", "params": [361232, 60] },
+      { "skillid": 36120, "paramtype": "absolute", "params": [361206, 60] },
+      { "skillid": 36120, "paramtype": "absolute", "params": [361235, 60] },
+      { "skillid": 36120, "paramtype": "absolute", "params": [361238, 60] }
+    ]
+  },
+  "360814017": {
+    "27": [{ "skillid": 36080, "paramtype": "absolute", "params": [0, -80] }],
+    "13": [{ "skillid": 36080, "paramtype": "absolute", "params": [-7000, 100] }],
+    "78": [{ "skillid": 36080, "paramtype": "relative", "params": [0, 0, 150, 150, 150] }],
+    "80": [{ "skillid": 36080, "paramtype": "relative", "params": [0, 0, 150, 150, 150] }]
+  },
+  "360814018": {
+    "45": [
+      { "skillid": 36080, "paramtype": "absolute", "params": [360820, 360808] },
+      { "skillid": 36080, "paramtype": "absolute", "params": [360865, 360808] },
+      { "skillid": 36080, "paramtype": "absolute", "params": [360801, 360808] },
+      { "skillid": 36080, "paramtype": "absolute", "params": [360803, 360808] }
+    ]
+  },
+  "361814017": {
+    "13": [{ "skillid": 36180, "paramtype": "absolute", "params": [-9000, 100] }],
+    "27": [
+      { "skillid": 36180, "paramtype": "absolute", "params": [361855, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361856, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361857, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361859, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361860, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361861, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361863, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361864, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361865, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361867, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361868, 35] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361869, 35] }
+    ]
+  },
+  "361814018": {
+    "13": [{ "skillid": 36180, "paramtype": "absolute", "params": [12000, 100] }],
+    "27": [
+      { "skillid": 36180, "paramtype": "absolute", "params": [361800, 120] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361801, 120] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361883, 120] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361885, 120] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361887, 120] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361889, 120] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361840, 120] }
+    ],
+    "45": [
+      { "skillid": 36180, "paramtype": "absolute", "params": [361800, 361808] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361801, 361808] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361883, 361808] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361885, 361808] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361887, 361808] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361889, 361808] },
+      { "skillid": 36180, "paramtype": "absolute", "params": [361840, 361808] }
+    ]
+  },
+  "361914017": {
+    "45": [
+      { "skillid": 36190, "paramtype": "absolute", "params": [361900, 361907] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361901, 361907] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361917, 361907] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361919, 361907] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361921, 361907] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361940, 361907] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361900, 361917] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361901, 361917] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361917, 361917] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361919, 361917] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361921, 361917] },
+      { "skillid": 36190, "paramtype": "absolute", "params": [361940, 361917] }
+    ]
+  },
+  "361914018": {
+    "43": [{ "skillid": 36190, "paramtype": "absolute", "params": [0, 1, 2, 361952, 100] }],
+    "13": [{ "skillid": 36190, "paramtype": "absolute", "params": [-9000, 100] }]
+  },
+  "361514017": { "1": [{ "skillid": 36150, "paramtype": "absolute", "params": [1] }] },
+  "361514018": {
+    "1": [{ "skillid": 36150, "paramtype": "absolute", "params": [1] }],
+    "45": [
+      { "skillid": 36150, "paramtype": "absolute", "params": [361583, 361508] },
+      { "skillid": 36150, "paramtype": "absolute", "params": [361585, 361508] },
+      { "skillid": 36150, "paramtype": "absolute", "params": [361587, 361508] },
+      { "skillid": 36150, "paramtype": "absolute", "params": [361500, 361508] },
+      { "skillid": 36150, "paramtype": "absolute", "params": [361502, 361508] },
+      { "skillid": 36150, "paramtype": "absolute", "params": [361503, 361508] }
+    ]
+  },
+  "361014017": {
+    "27": [
+      { "skillid": 36100, "paramtype": "absolute", "params": [361007, 200] },
+      { "skillid": 36100, "paramtype": "absolute", "params": [361011, 200] },
+      { "skillid": 36100, "paramtype": "absolute", "params": [361013, 200] }
+    ]
+  },
+  "361014018": { "1": [{ "skillid": 36100, "paramtype": "absolute", "params": [1] }] },
+  "70000020": { "31": [{ "skillid": 0, "paramtype": "relative", "params": [5] }] },
+  "70000021": { "31": [{ "skillid": 0, "paramtype": "relative", "params": [8] }] },
+  "70000022": { "31": [{ "skillid": 0, "paramtype": "relative", "params": [12] }] },
+  "70000023": { "31": [{ "skillid": 0, "paramtype": "relative", "params": [14] }] },
+  "70000024": { "31": [{ "skillid": 0, "paramtype": "relative", "params": [16] }] },
+  "70000030": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000030] }] },
+  "70000031": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000031] }] },
+  "70000032": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000032] }] },
+  "70000033": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000033] }] },
+  "70000034": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000034] }] },
+  "70000040": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000040] }] },
+  "70000041": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000041] }] },
+  "70000042": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000042] }] },
+  "70000043": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000043] }] },
+  "70000044": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000044] }] },
+  "70000050": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000050] }] },
+  "70000051": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000051] }] },
+  "70000052": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000052] }] },
+  "70000053": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000053] }] },
+  "70000054": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000054] }] },
+  "70000060": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000060] }] },
+  "70000061": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000061] }] },
+  "70000062": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000062] }] },
+  "70000063": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000063] }] },
+  "70000064": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000064] }] },
+  "70000074": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000074] }] },
+  "70000080": { "10": [{ "skillid": 0, "paramtype": "relative", "params": [-10, 0, 0, 100] }] },
+  "70000081": { "10": [{ "skillid": 0, "paramtype": "relative", "params": [-20, 0, 0, 100] }] },
+  "70000082": { "10": [{ "skillid": 0, "paramtype": "relative", "params": [-30, 0, 0, 100] }] },
+  "70000083": { "10": [{ "skillid": 0, "paramtype": "relative", "params": [-40, 0, 0, 100] }] },
+  "70000084": { "10": [{ "skillid": 0, "paramtype": "relative", "params": [-50, 0, 0, 100] }] },
+  "70000090": { "43": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 1, 1, 70000090, 10] }] },
+  "70000091": { "43": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 1, 1, 70000090, 20] }] },
+  "70000092": { "43": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 1, 1, 70000090, 30] }] },
+  "70000093": { "43": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 1, 1, 70000090, 40] }] },
+  "70000094": { "43": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 1, 1, 70000090, 50] }] },
+  "70000100": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000100] }] },
+  "70000101": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000101] }] },
+  "70000102": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000102] }] },
+  "70000103": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000103] }] },
+  "70000104": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000104] }] },
+  "70000110": { "48": [{ "skillid": 0, "paramtype": "relative", "params": [0, 5, 5] }] },
+  "70000111": { "48": [{ "skillid": 0, "paramtype": "relative", "params": [0, 10, 10] }] },
+  "70000112": { "48": [{ "skillid": 0, "paramtype": "relative", "params": [0, 20, 20] }] },
+  "70000113": { "48": [{ "skillid": 0, "paramtype": "relative", "params": [0, 30, 30] }] },
+  "70000114": { "48": [{ "skillid": 0, "paramtype": "relative", "params": [0, 40, 40] }] },
+  "70000120": {
+    "78": [
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 7, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 12, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 13, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 16, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 22, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 23, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 25, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 31, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 34, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 38, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 42, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 47, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 52, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 28, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 53, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 10, 10, 10] }
+    ],
+    "80": [
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 7, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 12, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 13, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 16, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 22, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 23, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 25, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 31, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 34, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 38, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 42, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 47, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 52, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 28, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 53, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 10, 10, 10] }
+    ]
+  },
+  "70000121": {
+    "78": [
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 7, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 12, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 13, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 16, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 22, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 23, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 25, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 31, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 34, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 38, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 42, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 47, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 52, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 28, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 53, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 20, 20, 20] }
+    ],
+    "80": [
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 7, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 12, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 13, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 16, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 22, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 23, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 25, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 31, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 34, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 38, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 42, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 47, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 52, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 28, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 53, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 20, 20, 20] }
+    ]
+  },
+  "70000122": {
+    "78": [
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 7, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 12, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 13, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 16, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 22, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 23, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 25, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 31, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 34, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 38, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 42, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 47, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 52, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 28, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 53, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 30, 30, 30] }
+    ],
+    "80": [
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 7, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 12, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 13, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 16, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 22, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 23, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 25, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 31, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 34, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 38, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 42, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 47, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 52, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 28, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 53, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 30, 30, 30] }
+    ]
+  },
+  "70000123": {
+    "78": [
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 7, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 12, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 13, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 16, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 22, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 23, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 25, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 31, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 34, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 38, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 42, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 47, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 52, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 28, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 53, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 40, 40, 40] }
+    ],
+    "80": [
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 7, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 12, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 13, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 16, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 22, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 23, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 25, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 31, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 34, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 38, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 42, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 47, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 52, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 28, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 53, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 40, 40, 40] }
+    ]
+  },
+  "70000124": {
+    "78": [
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 7, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 12, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 13, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 16, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 22, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 23, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 25, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 31, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 34, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 38, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 42, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 47, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 52, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 28, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 53, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 50, 50, 50] }
+    ],
+    "80": [
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 7, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 12, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 13, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 16, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 22, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 23, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 25, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 31, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 34, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 38, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 42, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 47, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 52, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 28, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 53, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 50, 50, 50] }
+    ]
+  },
+  "70000130": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000130] }] },
+  "70000131": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000131] }] },
+  "70000132": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000132] }] },
+  "70000133": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000133] }] },
+  "70000134": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000134] }] },
+  "70000140": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000140] }] },
+  "70000141": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000141] }] },
+  "70000142": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000142] }] },
+  "70000143": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000143] }] },
+  "70000144": { "45": [{ "skillid": 0, "paramtype": "absolute", "params": [0, 70000144] }] },
+  "19131": {
+    "10": [
+      { "skillid": 17030, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17070, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17060, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17150, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17040, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17080, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17110, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17140, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17090, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17050, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17210, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17180, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17100, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17190, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17130, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17160, "paramtype": "relative", "params": [-8, 0, 0, 100] },
+      { "skillid": 17200, "paramtype": "relative", "params": [-8, 0, 0, 100] }
+    ]
+  },
+  "19132": {
+    "10": [
+      { "skillid": 17030, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17070, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17060, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17150, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17040, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17080, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17110, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17140, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17090, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17050, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17210, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17180, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17100, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17190, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17130, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17160, "paramtype": "relative", "params": [-11, 0, 0, 100] },
+      { "skillid": 17200, "paramtype": "relative", "params": [-11, 0, 0, 100] }
+    ]
+  },
+  "19133": {
+    "10": [
+      { "skillid": 17030, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17070, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17060, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17150, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17040, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17080, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17110, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17140, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17090, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17050, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17210, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17180, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17100, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17190, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17130, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17160, "paramtype": "relative", "params": [-14, 0, 0, 100] },
+      { "skillid": 17200, "paramtype": "relative", "params": [-14, 0, 0, 100] }
+    ]
+  },
+  "19134": {
+    "10": [
+      { "skillid": 17030, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17070, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17060, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17150, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17040, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17080, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17110, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17140, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17090, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17050, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17210, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17180, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17100, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17190, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17130, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17160, "paramtype": "relative", "params": [-17, 0, 0, 100] },
+      { "skillid": 17200, "paramtype": "relative", "params": [-17, 0, 0, 100] }
+    ]
+  },
+  "19135": {
+    "10": [
+      { "skillid": 17030, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17070, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17060, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17150, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17040, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17080, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17110, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17140, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17090, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17050, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17210, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17180, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17100, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17190, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17130, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17160, "paramtype": "relative", "params": [-20, 0, 0, 100] },
+      { "skillid": 17200, "paramtype": "relative", "params": [-20, 0, 0, 100] }
+    ]
+  }
+}
