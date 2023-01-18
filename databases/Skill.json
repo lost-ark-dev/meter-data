@@ -984,6 +984,120 @@
     "classid": 0,
     "icon": "Vehicle_168.png"
   },
+  "57700": {
+    "id": 57700,
+    "name": "Softly!",
+    "desc": "Beat the drum gently to the rhythm.",
+    "classid": 0,
+    "icon": "TownPlacement_Stuff_23.png"
+  },
+  "57701": {
+    "id": 57701,
+    "name": "With Joy!",
+    "desc": "Beat the drum happily to the rhythm.",
+    "classid": 0,
+    "icon": "TownPlacement_Stuff_24.png"
+  },
+  "57702": {
+    "id": 57702,
+    "name": "Mightily!",
+    "desc": "Beat the drum vigorously to the rhythm.",
+    "classid": 0,
+    "icon": "TownPlacement_Stuff_25.png"
+  },
+  "57710": { "id": 57710, "name": "4주년섬_낡은석궁_평타", "desc": "", "classid": 0, "icon": "Vehicle_291.png" },
+  "57711": {
+    "id": 57711,
+    "name": "Piercing Arrow",
+    "desc": "Fire a penetrating arrow.",
+    "classid": 0,
+    "icon": "Vehicle_2.png"
+  },
+  "57712": {
+    "id": 57712,
+    "name": "Explosive Arrow",
+    "desc": "Fire an explosive arrow.",
+    "classid": 0,
+    "icon": "Vehicle_3.png"
+  },
+  "57713": {
+    "id": 57713,
+    "name": "Explosive Arrow",
+    "desc": "Fire an explosive arrow.",
+    "classid": 0,
+    "icon": "Vehicle_5.png"
+  },
+  "57720": {
+    "id": 57720,
+    "name": "[위쳐] 늑대 교단 메달리온_Q_위쳐 센스(토글 ON)",
+    "desc": "",
+    "classid": 0,
+    "icon": "Vehicle_448.png"
+  },
+  "57721": {
+    "id": 57721,
+    "name": "[위쳐] 늑대 교단 메달리온_Q_위쳐 센스(토글 OFF)",
+    "desc": "",
+    "classid": 0,
+    "icon": "Vehicle_448.png"
+  },
+  "57722": {
+    "id": 57722,
+    "name": "[위쳐] 늑대 교단 메달리온_W_엑시",
+    "desc": "",
+    "classid": 0,
+    "icon": "Vehicle_449.png"
+  },
+  "57730": {
+    "id": 57730,
+    "name": "[테스트][좀비 서바이벌] 소총_평타",
+    "desc": "",
+    "classid": 0,
+    "icon": "Vehicle_3.png"
+  },
+  "57731": {
+    "id": 57731,
+    "name": "[테스트][좀비 서바이벌] 소총_Q_수류탄 투척",
+    "desc": "",
+    "classid": 0,
+    "icon": "Vehicle_210.png"
+  },
+  "57732": {
+    "id": 57732,
+    "name": "[테스트][좀비 서바이벌] 소총_W_구르기",
+    "desc": "",
+    "classid": 0,
+    "icon": "Vehicle_293.png"
+  },
+  "57733": {
+    "id": 57733,
+    "name": "[테스트][좀비 서바이벌] 소총_E_장전",
+    "desc": "",
+    "classid": 0,
+    "icon": "Vehicle_4.png"
+  },
+  "57740": {
+    "id": 57740,
+    "name": "Absorb Medeia",
+    "desc": "Use the power of Arcturus to absorb Medeia.",
+    "classid": 0,
+    "icon": "Vehicle_5.png"
+  },
+  "57741": {
+    "id": 57741,
+    "name": "Arcturus's Wave",
+    "desc": "Release the mirror's energy.",
+    "classid": 0,
+    "icon": "Vehicle_4.png"
+  },
+  "57750": { "id": 57750, "name": "[장난감]점령전_눈덩이_평타", "desc": "", "classid": 0, "icon": "Vehicle_63.png" },
+  "57751": {
+    "id": 57751,
+    "name": "Toss Giant Snowballs",
+    "desc": "Toss a giant snowball toward the target location.",
+    "classid": 0,
+    "icon": "Vehicle_189.png"
+  },
   "58000": { "id": 58000, "name": "태초의 섬 해머_평타", "desc": "", "classid": 0, "icon": "Vehicle_285.png" },
   "58010": {
     "id": 58010,
@@ -1307,6 +1421,34 @@
     "desc": "",
     "classid": 0,
     "icon": "Vehicle_3.png"
+  },
+  "59951": {
+    "id": 59951,
+    "name": "Downward Strike",
+    "desc": "Attack by striking forward up to 3 times. ",
+    "classid": 0,
+    "icon": "Vehicle_285.png"
+  },
+  "59952": {
+    "id": 59952,
+    "name": "Take a photo of the Whirlpool",
+    "desc": "Perform a jump attack at the target location. ",
+    "classid": 0,
+    "icon": "Vehicle_286.png"
+  },
+  "59961": {
+    "id": 59961,
+    "name": "Sprinkle Water",
+    "desc": "Sprinkle the origin spring water to give the blessing of renewal.",
+    "classid": 0,
+    "icon": "Vehicle_315.png"
+  },
+  "59962": {
+    "id": 59962,
+    "name": "Winds of Origin",
+    "desc": "Create a wind to temporarily increase Move Speed.",
+    "classid": 0,
+    "icon": "Vehicle_211.png"
   },
   "67000": {
     "id": 67000,
@@ -3057,6 +3199,7 @@
   "42216761": { "id": 42216761, "name": "거대 블랙홀_파편 생성1", "desc": "", "classid": 0, "icon": "" },
   "42216762": { "id": 42216762, "name": "거대 화이트홀", "desc": "", "classid": 0, "icon": "" },
   "42216763": { "id": 42216763, "name": "거대 블랙홀", "desc": "", "classid": 0, "icon": "" },
+  "42216719": { "id": 42216719, "name": "거대 블랙홀", "desc": "", "classid": 0, "icon": "" },
   "4151311": { "id": 4151311, "name": "몽환의 사도_감금_2관문", "desc": "", "classid": 0, "icon": "" },
   "4151312": { "id": 4151312, "name": "몽환의 사도_폭발 텔레포트_2관문", "desc": "", "classid": 0, "icon": "" },
   "4151313": { "id": 4151313, "name": "몽환의 사도 그림자 가시_2관문", "desc": "", "classid": 0, "icon": "" },
@@ -7423,7 +7566,13 @@
   "4251414": { "id": 4251414, "name": "가르가디스_벽력돌진", "desc": "", "classid": 0, "icon": "" },
   "4251415": { "id": 4251415, "name": "가르가디스_번개 보주 소환", "desc": "", "classid": 0, "icon": "" },
   "4251416": { "id": 4251416, "name": "가르가디스_체인 라이트닝", "desc": "", "classid": 0, "icon": "" },
-  "4251417": { "id": 4251417, "name": "가르가디스_신물 삼킨 후 플라즈마 대폭발", "desc": "", "classid": 0, "icon": "" },
+  "4251417": {
+    "id": 4251417,
+    "name": "가르가디스_신물 삼킨 후 플라즈마 대폭발_1인_양전자",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
   "4251418": { "id": 4251418, "name": "가르가디스_좌우측 신물강타", "desc": "", "classid": 0, "icon": "" },
   "4251419": { "id": 4251419, "name": "가르가디스_감전 후폇바닥 낚아채기", "desc": "", "classid": 0, "icon": "" },
   "4251420": { "id": 4251420, "name": "가르가디스_전진 콤보", "desc": "", "classid": 0, "icon": "" },
@@ -7437,6 +7586,54 @@
   "4251428": { "id": 4251428, "name": "가르가디스_그로기", "desc": "", "classid": 0, "icon": "" },
   "4251429": { "id": 4251429, "name": "가르가디스_부위파괴", "desc": "", "classid": 0, "icon": "" },
   "4251430": { "id": 4251430, "name": "가르가디스_체액 브레스_강화", "desc": "", "classid": 0, "icon": "" },
+  "4251431": { "id": 4251431, "name": "가르가디스_번개 보주_번개 파편 방출", "desc": "", "classid": 0, "icon": "" },
+  "4251432": { "id": 4251432, "name": "가르가디스_체인 라이트닝_발사체조립", "desc": "", "classid": 0, "icon": "" },
+  "4251433": {
+    "id": 4251433,
+    "name": "가르가디스_신물 삼킨 후 플라즈마 대폭발_그로기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4251434": {
+    "id": 4251434,
+    "name": "가르가디스_신물 삼킨 후 플라즈마 대폭발_1인_양전자",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4251435": {
+    "id": 4251435,
+    "name": "가르가디스_신물 삼킨 후 플라즈마 대폭발_1인_음전자",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4251436": {
+    "id": 4251436,
+    "name": "가르가디스_신물 삼킨 후 플라즈마 대폭발_양전자",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4251437": {
+    "id": 4251437,
+    "name": "가르가디스_신물 삼킨 후 플라즈마 대폭발_음전자",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4251438": { "id": 4251438, "name": "가르가디스_백대쉬", "desc": "", "classid": 0, "icon": "" },
+  "4251439": { "id": 4251439, "name": "가르가디스_번개 보주_자폭 스킬", "desc": "", "classid": 0, "icon": "" },
+  "4251440": { "id": 4251440, "name": "가르가디스_벽력돌진_강화", "desc": "", "classid": 0, "icon": "" },
+  "4251441": { "id": 4251441, "name": "가르가디스_놀이시작_텔레포트", "desc": "", "classid": 0, "icon": "" },
+  "4251442": { "id": 4251442, "name": "가르가디스_연속 점프찍고 잡아먹기_강화", "desc": "", "classid": 0, "icon": "" },
+  "4251443": { "id": 4251443, "name": "가르가디스_대상위치 지점공격", "desc": "", "classid": 0, "icon": "" },
+  "4251444": { "id": 4251444, "name": "가르가디스_전방찍기", "desc": "", "classid": 0, "icon": "" },
+  "4251445": { "id": 4251445, "name": "가르가디스_후방찍기", "desc": "", "classid": 0, "icon": "" },
+  "4251446": { "id": 4251446, "name": "가르가디스_타겟위치 찍기", "desc": "", "classid": 0, "icon": "" },
+  "4251447": { "id": 4251447, "name": "가르가디스_랜덤광역", "desc": "", "classid": 0, "icon": "" },
+  "4251448": { "id": 4251448, "name": "가르가디스_배 부풀려 덮치기_강화", "desc": "", "classid": 0, "icon": "" },
   "4257801": { "id": 4257801, "name": "가르가디스_환영 신물_스킬1_대폭발", "desc": "", "classid": 0, "icon": "" },
   "4257802": { "id": 4257802, "name": "가르가디스_환영 신물_스킬2_체인라이트닝", "desc": "", "classid": 0, "icon": "" },
   "445813": { "id": 445813, "name": "붉은코 보리스_내려찍기", "desc": "", "classid": 0, "icon": "" },
@@ -7815,6 +8012,38 @@
     "icon": ""
   },
   "4232501": { "id": 4232501, "name": "보물 보따리_스폰", "desc": "", "classid": 0, "icon": "" },
+  "4157407": { "id": 4157407, "name": "4주년 섬 텔파 궁수_스폰 스킬", "desc": "", "classid": 0, "icon": "" },
+  "4157408": { "id": 4157408, "name": "4주년 섬 텔파 궁수_디스폰 스킬", "desc": "", "classid": 0, "icon": "" },
+  "4157409": { "id": 4157409, "name": "4주년 섬 텔파 궁수_사망 스킬 1", "desc": "", "classid": 0, "icon": "" },
+  "4157410": { "id": 4157410, "name": "4주년 섬 텔파 궁수_사망 스킬 2", "desc": "", "classid": 0, "icon": "" },
+  "4157411": { "id": 4157411, "name": "4주년 섬 텔파 궁수_암흑 화살 쏘기", "desc": "", "classid": 0, "icon": "" },
+  "4157412": { "id": 4157412, "name": "4주년 섬 텔파 궁수_약올리기", "desc": "", "classid": 0, "icon": "" },
+  "4157413": { "id": 4157413, "name": "4주년 섬 텔파 궁수_제자리 뛰기", "desc": "", "classid": 0, "icon": "" },
+  "4157414": { "id": 4157414, "name": "4주년 섬 텔파 궁수_점프", "desc": "", "classid": 0, "icon": "" },
+  "4157415": { "id": 4157415, "name": "4주년 섬 텔파 궁수_백대쉬", "desc": "", "classid": 0, "icon": "" },
+  "4157416": { "id": 4157416, "name": "4주년 섬 텔파 궁수_여러 암흑 화살 쏘기", "desc": "", "classid": 0, "icon": "" },
+  "4157417": {
+    "id": 4157417,
+    "name": "4주년 섬 텔파 궁수_땅 속 들어갔다가 등장",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4157506": { "id": 4157506, "name": "4주년 섬 텔파_스폰 스킬", "desc": "", "classid": 0, "icon": "" },
+  "4157507": { "id": 4157507, "name": "4주년 섬 텔파_디스폰 스킬", "desc": "", "classid": 0, "icon": "" },
+  "4157508": { "id": 4157508, "name": "4주년 섬 텔파_사망 스킬 1", "desc": "", "classid": 0, "icon": "" },
+  "4157509": { "id": 4157509, "name": "4주년 섬 텔파_사망 스킬 2", "desc": "", "classid": 0, "icon": "" },
+  "4157510": { "id": 4157510, "name": "4주년 섬 텔파_약올리기", "desc": "", "classid": 0, "icon": "" },
+  "4157511": { "id": 4157511, "name": "4주년 섬 텔파_제자리 뛰기", "desc": "", "classid": 0, "icon": "" },
+  "4157512": { "id": 4157512, "name": "4주년 섬 텔파_점프", "desc": "", "classid": 0, "icon": "" },
+  "4157513": { "id": 4157513, "name": "4주년 섬 텔파_백대쉬", "desc": "", "classid": 0, "icon": "" },
+  "4157514": { "id": 4157514, "name": "4주년 섬 텔파_땅 속 들어갔다가 등장", "desc": "", "classid": 0, "icon": "" },
+  "465401": { "id": 465401, "name": "위쳐 콜라보_진짜 요정 사라지기", "desc": "", "classid": 0, "icon": "" },
+  "465402": { "id": 465402, "name": "위쳐 콜라보_가짜 요정 사라지기", "desc": "", "classid": 0, "icon": "" },
+  "4260901": { "id": 4260901, "name": "4주년 섬_기원의 초_스폰", "desc": "", "classid": 0, "icon": "" },
+  "4260902": { "id": 4260902, "name": "4주년 섬_기원의 초_제거", "desc": "", "classid": 0, "icon": "" },
+  "4260903": { "id": 4260903, "name": "4주년 섬_기원의 초_스폰_은신 해제", "desc": "", "classid": 0, "icon": "" },
+  "108061": { "id": 108061, "name": "4주년 섬_폭발통_폭발", "desc": "", "classid": 0, "icon": "" },
   "412318": { "id": 412318, "name": "피닉스 루_강화2연베기", "desc": "", "classid": 0, "icon": "" },
   "449018": { "id": 449018, "name": "피닉스_라_2연베기", "desc": "", "classid": 0, "icon": "" },
   "449019": { "id": 449019, "name": "피닉스_라_배후공격", "desc": "", "classid": 0, "icon": "" },
@@ -11159,6 +11388,7 @@
   "100060": { "id": 100060, "name": "오염된 나팔나방_분진발사", "desc": "", "classid": 0, "icon": "" },
   "100061": { "id": 100061, "name": "오염된 벌침나방_스킬발사", "desc": "", "classid": 0, "icon": "" },
   "100062": { "id": 100062, "name": "거대 나방_분진발사", "desc": "", "classid": 0, "icon": "" },
+  "100064": { "id": 100064, "name": "오염된 나팔나방_볼다이크_분진발사", "desc": "", "classid": 0, "icon": "" },
   "100070": { "id": 100070, "name": "낙인된 감염자_평타", "desc": "", "classid": 0, "icon": "" },
   "100071": { "id": 100071, "name": "낙인된 감염자_머리 쪼개기", "desc": "", "classid": 0, "icon": "" },
   "100080": { "id": 100080, "name": "새벽안개정령_평타1", "desc": "", "classid": 0, "icon": "" },
@@ -12194,6 +12424,10 @@
   "400393": { "id": 400393, "name": "로블롬_성장하는 포자 폭탄", "desc": "", "classid": 0, "icon": "" },
   "400394": { "id": 400394, "name": "로블롬_선회(좌)", "desc": "", "classid": 0, "icon": "" },
   "400395": { "id": 400395, "name": "로블롬_선회(우)", "desc": "", "classid": 0, "icon": "" },
+  "421626": { "id": 421626, "name": "로블롬_볼다이크_포메스 가스 진짜", "desc": "", "classid": 0, "icon": "" },
+  "421627": { "id": 421627, "name": "로블롬_볼다이크_내려찍고 휩쓸기", "desc": "", "classid": 0, "icon": "" },
+  "421628": { "id": 421628, "name": "로블롬_볼다이크_촉수공격", "desc": "", "classid": 0, "icon": "" },
+  "421629": { "id": 421629, "name": "로블롬_볼다이크_악마의 씨앗", "desc": "", "classid": 0, "icon": "" },
   "120120": { "id": 120120, "name": "불칸_평타1", "desc": "", "classid": 0, "icon": "" },
   "120121": { "id": 120121, "name": "불칸_평타2", "desc": "", "classid": 0, "icon": "" },
   "120122": { "id": 120122, "name": "불칸_돌진", "desc": "", "classid": 0, "icon": "" },
@@ -14180,6 +14414,7 @@
   "130150": { "id": 130150, "name": "노예 추적견_물어 뜯기", "desc": "", "classid": 0, "icon": "" },
   "130151": { "id": 130151, "name": "노예 추적견_할퀴기", "desc": "", "classid": 0, "icon": "" },
   "130160": { "id": 130160, "name": "화염 불꽃 악마 화염구", "desc": "", "classid": 0, "icon": "" },
+  "130161": { "id": 130161, "name": "꽃가루 날리기", "desc": "", "classid": 0, "icon": "" },
   "130170": { "id": 130170, "name": "화염불꽃전사_평타", "desc": "", "classid": 0, "icon": "" },
   "130171": { "id": 130171, "name": "화염불꽃전사_스킬", "desc": "", "classid": 0, "icon": "" },
   "130172": { "id": 130172, "name": "화염불꽃전사_방어", "desc": "", "classid": 0, "icon": "" },
@@ -23354,6 +23589,29 @@
   "4251511": { "id": 4251511, "name": "소나벨 코어_광폭화 디스폰", "desc": "", "classid": 0, "icon": "" },
   "4251512": { "id": 4251512, "name": "소나벨 코어_무력화", "desc": "", "classid": 0, "icon": "" },
   "4251513": { "id": 4251513, "name": "소나벨 광폭화 코어_무력화", "desc": "", "classid": 0, "icon": "" },
+  "403611": { "id": 403611, "name": "파이어혼_뿔 퍼올리기", "desc": "", "classid": 0, "icon": "" },
+  "403612": { "id": 403612, "name": "파이어혼_뿔 휘두르며 전진", "desc": "", "classid": 0, "icon": "" },
+  "403613": { "id": 403613, "name": "파이어혼_돌진", "desc": "", "classid": 0, "icon": "" },
+  "403614": { "id": 403614, "name": "파이어혼_대쉬 후 뿔 치켜들기", "desc": "", "classid": 0, "icon": "" },
+  "403615": { "id": 403615, "name": "파이어혼_뿔 긁으며 연속 돌진", "desc": "", "classid": 0, "icon": "" },
+  "403616": { "id": 403616, "name": "파이어혼_뿔 바닥 찍기", "desc": "", "classid": 0, "icon": "" },
+  "403617": { "id": 403617, "name": "파이어혼_360도 회전 뿔 휘두르기", "desc": "", "classid": 0, "icon": "" },
+  "403618": { "id": 403618, "name": "파이어혼_지면 내려치기", "desc": "", "classid": 0, "icon": "" },
+  "403619": { "id": 403619, "name": "파이어혼_지면 반복 내려치기", "desc": "", "classid": 0, "icon": "" },
+  "403620": { "id": 403620, "name": "파이어혼_점프 낙하공격", "desc": "", "classid": 0, "icon": "" },
+  "403621": { "id": 403621, "name": "파이어혼_전진 3연공격", "desc": "", "classid": 0, "icon": "" },
+  "403622": { "id": 403622, "name": "파이어혼_페이즈 전환_연속돌진", "desc": "", "classid": 0, "icon": "" },
+  "403623": { "id": 403623, "name": "파이어혼_그로기", "desc": "", "classid": 0, "icon": "" },
+  "403624": { "id": 403624, "name": "파이어혼_화염 브레스", "desc": "", "classid": 0, "icon": "" },
+  "403625": { "id": 403625, "name": "파이어혼_3연 휘두르기", "desc": "", "classid": 0, "icon": "" },
+  "403626": { "id": 403626, "name": "파이어혼_기둥 세워 바닥찍기", "desc": "", "classid": 0, "icon": "" },
+  "403627": { "id": 403627, "name": "파이어혼_숄더 태클 후 후방 휘두르기", "desc": "", "classid": 0, "icon": "" },
+  "403628": { "id": 403628, "name": "파이어혼_기둥 내려찍고 뒤돌려베기", "desc": "", "classid": 0, "icon": "" },
+  "403629": { "id": 403629, "name": "파이어혼_필살기_기둥 던지기", "desc": "", "classid": 0, "icon": "" },
+  "403630": { "id": 403630, "name": "파이어혼_백스텝", "desc": "", "classid": 0, "icon": "" },
+  "403631": { "id": 403631, "name": "파이어혼_전방 뛰며 뒤돌기", "desc": "", "classid": 0, "icon": "" },
+  "403632": { "id": 403632, "name": "파이어혼_부위파괴", "desc": "", "classid": 0, "icon": "" },
+  "403633": { "id": 403633, "name": "파이어혼_스폰스킬", "desc": "", "classid": 0, "icon": "" },
   "100030110": { "id": 100030110, "name": "나리꽃 정기 평타", "desc": "", "classid": 0, "icon": "" },
   "100030120": { "id": 100030120, "name": "아벤의 엘씨드", "desc": "", "classid": 0, "icon": "" },
   "1200930": { "id": 1200930, "name": "사랑에빠진수련생_목검평타", "desc": "", "classid": 0, "icon": "" },
@@ -23690,6 +23948,7 @@
   "536903": { "id": 536903, "name": "베른_실마엘_가드NPC전용_발사체", "desc": "", "classid": 0, "icon": "" },
   "422303": { "id": 422303, "name": "부관 돌프_방향전환", "desc": "", "classid": 0, "icon": "" },
   "4231203": { "id": 4231203, "name": "부선장 벨리카_방향전환", "desc": "", "classid": 0, "icon": "" },
+  "20109": { "id": 20109, "name": "[AOS] [엘씨드] 엘씨드 기본 공격", "desc": "", "classid": 203, "icon": "" },
   "13000": { "id": 13000, "name": "암살자 평타", "desc": "", "classid": 401, "icon": "" },
   "13010": { "id": 13010, "name": "맨손 공격", "desc": "", "classid": 401, "icon": "" },
   "13020": {
@@ -24447,7 +24706,7 @@
   "22330": {
     "id": 22330,
     "name": "Ultimate Skill: Fist of Dominance",
-    "desc": "Use the power of Elementals and release an energy field, pulling foes close. Fly past foes and attack up to <FONT COLOR='#ffff99'>6</FONT> times while absorbing <FONT COLOR='#ffff99'>6</FONT> Elemental forces, inflicting up to <FONT COLOR='#ffbb00'><$CALC (((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 223300/>/10000)+((<$TABLE_SKILLEFFECT ValueA 223300/> + <$TABLE_SKILLEFFECT ValueB 223300/>)/2)))*6/></FONT> Damage. After the last attack, absorb the typeless energy field and strike down to the center of it, inflicting <$MACRO physic @1:223306/> Damage and knocking foes back. Damage received -<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 223300/>/100/>%</FONT> while flying past foes. ",
+    "desc": "Use Esoteric powers and release an energy field, pulling foes close. Fly past foes and attack up to <FONT COLOR='#ffff99'>6</FONT> times while absorbing <FONT COLOR='#ffff99'>6</FONT> Esoteric forces, inflicting up to <FONT COLOR='#ffbb00'><$CALC (((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 223300/>/10000)+((<$TABLE_SKILLEFFECT ValueA 223300/> + <$TABLE_SKILLEFFECT ValueB 223300/>)/2)))*6/></FONT> Damage. After the last attack, absorb the typeless energy field and strike down to the center of it, inflicting <$MACRO physic @1:223306/> Damage and knocking foes back. Damage received -<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 223300/>/100/>%</FONT> while flying past foes. ",
     "classid": 302,
     "icon": "BM_Skill_01_27.png"
   },
@@ -25517,7 +25776,7 @@
   },
   "29270": {
     "id": 29270,
-    "name": "Perfect Zone",
+    "name": "Perfect Shot",
     "desc": "Fire a high-speed large-caliber bullet that inflicts <$MACRO physic @1:292700/> Damage. Hit the Perfect Zone to inflict <$MACRO physic @1:292701/> Damage and knock back foes.",
     "classid": 503,
     "icon": "DH_Skill_01_26.png"
@@ -25979,7 +26238,7 @@
   },
   "38270": {
     "id": 38270,
-    "name": "Perfect Zone",
+    "name": "Perfect Shot",
     "desc": "Fires a high-speed large-caliber bullet to inflict <$MACRO physic @1:382700/> Damage. Hit the Perfect Zone to inflict <$MACRO physic @1:382701/> Damage and knock back foes.",
     "classid": 512,
     "icon": "DH_Skill_01_26.png"
@@ -26458,7 +26717,7 @@
   "11100": {
     "id": 11100,
     "name": "Electricity Release",
-    "desc": "Cast a condensed ball of electrical current to inflict <$MACRO magic @1:112001/> [Lightning] Damage before creating an electric field that attacks foes within range for <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 112011/>/10000)+((<$TABLE_SKILLEFFECT ValueA 112011/> + <$TABLE_SKILLEFFECT ValueB 112011/>)/2))*2/></FONT> [Lightning Damage] over <FONT COLOR='#ffff99'>1s</FONT>.",
+    "desc": "Cast a condensed ball of electrical current to inflict <$MACRO magic @1:112001/> [Lightning] Damage. On hit, creates an electric field that attacks foes within range for <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 112011/>/10000)+((<$TABLE_SKILLEFFECT ValueA 112011/> + <$TABLE_SKILLEFFECT ValueB 112011/>)/2))*2/></FONT> [Lightning Damage] over <FONT COLOR='#ffff99'>1</FONT>s.",
     "classid": 201,
     "icon": "SM_Skill_01_17.png"
   },
@@ -26567,14 +26826,14 @@
   "19098": {
     "id": 19098,
     "name": "Judgment",
-    "desc": "For <$MACRO bufftime @1:190980/>s, Ruin skills always trigger the <FONT COLOR='#ffff99'>4</FONT> stack effect, regardless of the actual number of stacks cast upon foes.<BR>This card cannot be used while the <FONT COLOR='#ffff99'>Order of the Emperor</FONT> engraving is active.",
+    "desc": "For <$MACRO bufftime @1:190980/>s, Ruin skills always trigger the <FONT COLOR='#ffff99'>4</FONT> stack effect, regardless of the actual number of stacks cast upon foes.\nThis card cannot be used while the <FONT COLOR='#ffff99'>Order of the Emperor</FONT> engraving is active.",
     "classid": 202,
     "icon": "AR_CardDeck_ToolTip_3.png"
   },
   "19099": {
     "id": 19099,
     "name": "Balance",
-    "desc": "For <$MACRO bufftime @1:190990/>s, your Stacking skills are enhanced and grant you <FONT COLOR='#ffff99'>1</FONT> more stack with each hit.<BR>This card cannot be used while the <FONT COLOR='#ffff99'>Order of the Emperor</FONT> engraving is active.",
+    "desc": "For <$MACRO bufftime @1:190990/>s, your Stacking skills are enhanced and grant you <FONT COLOR='#ffff99'>1</FONT> more stack with each hit.\nThis card cannot be used while the <FONT COLOR='#ffff99'>Order of the Emperor</FONT> engraving is active.",
     "classid": 202,
     "icon": "AR_CardDeck_ToolTip_10.png"
   },
@@ -26623,14 +26882,14 @@
   "19286": {
     "id": 19286,
     "name": "Chancellor",
-    "desc": "For <$MACRO bufftime @1:192833/>s, Crit Rate of Normal skills increases by <FONT COLOR='#99ff99'>20%</FONT>.<BR>This card can be used upon activating the <FONT COLOR='#ffff99'>Order of the Emperor</FONT> engraving.",
+    "desc": "For <$MACRO bufftime @1:192833/>s, Crit Rate of Normal skills increases by <FONT COLOR='#99ff99'>20%</FONT>.\nThis card can be used upon activating the <FONT COLOR='#ffff99'>Order of the Emperor</FONT> engraving.",
     "classid": 202,
     "icon": "AR_CardDeck_ToolTip_17.png"
   },
   "19287": {
     "id": 19287,
     "name": "Sovereign",
-    "desc": "For <$MACRO bufftime @1:192834/>s, Damage of Normal skills increases by <FONT COLOR='#99ff99'>50%</FONT>.<BR>This card can be used upon activating the <FONT COLOR='#ffff99'>Order of the Emperor</FONT> engraving.",
+    "desc": "For <$MACRO bufftime @1:192834/>s, Damage of Normal skills increases by <FONT COLOR='#99ff99'>50%</FONT>.\nThis card can be used upon activating the <FONT COLOR='#ffff99'>Order of the Emperor</FONT> engraving.",
     "classid": 202,
     "icon": "AR_CardDeck_ToolTip_14.png"
   },
@@ -28228,6 +28487,7 @@
   "16000": { "id": 16000, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "" },
   "16010": { "id": 16010, "name": "Fist Attack", "desc": "", "classid": 102, "icon": "" },
   "16020": { "id": 16020, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "" },
+  "16021": { "id": 16021, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "" },
   "16030": {
     "id": 16030,
     "name": "Power Break",
@@ -28514,7 +28774,7 @@
   },
   "17130": {
     "id": 17130,
-    "name": "Nellasia's Energy",
+    "name": "Nelasia's Energy",
     "desc": "Let out a roar. Damage to all party members in a <FONT COLOR='#ffff99'>24-meter</FONT> radius -<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:171300/>%</FONT> for <$MACRO bufftime @1:171300/>s.",
     "classid": 104,
     "icon": "GL_Skill_01_15.png"
@@ -28771,32 +29031,66 @@
     "classid": 103,
     "icon": "DT_Skill_01_21.png"
   },
+  "45000": { "id": 45000, "name": "전사 평타", "desc": "", "classid": 112, "icon": "" },
+  "45001": { "id": 45001, "name": "폭주 평타", "desc": "", "classid": 112, "icon": "" },
+  "45002": { "id": 45002, "name": "맨손 평타", "desc": "", "classid": 112, "icon": "" },
+  "45003": { "id": 45003, "name": "폭주", "desc": "", "classid": 112, "icon": "BK_Skill_01_3.png" },
+  "45004": { "id": 45004, "name": "블러디 러쉬", "desc": "", "classid": 112, "icon": "BK_Skill_01_11.png" },
+  "45010": { "id": 45010, "name": "회피", "desc": "", "classid": 112, "icon": "BK_Skill_01_10.png" },
+  "45020": { "id": 45020, "name": "기상 액션", "desc": "", "classid": 112, "icon": "BK_Skill_01_15.png" },
+  "45021": { "id": 45021, "name": "PVP강제 기상", "desc": "", "classid": 112, "icon": "BK_Skill_01_15.png" },
+  "45030": { "id": 45030, "name": "파워 브레이크", "desc": "", "classid": 112, "icon": "BK_Skill_01_6.png" },
+  "45050": { "id": 45050, "name": "크라임 해저드", "desc": "", "classid": 112, "icon": "BK_Skill_01_4.png" },
+  "45060": { "id": 45060, "name": "숄더 차지", "desc": "", "classid": 112, "icon": "BK_Skill_01_5.png" },
+  "45061": { "id": 45061, "name": "숄더 차지(연속돌진)", "desc": "", "classid": 112, "icon": "BK_Skill_01_5.png" },
+  "45070": { "id": 45070, "name": "휠윈드", "desc": "", "classid": 112, "icon": "BK_Skill_01_3.png" },
+  "45080": { "id": 45080, "name": "헬 블레이드", "desc": "", "classid": 112, "icon": "BK_Skill_01_0.png" },
+  "45090": { "id": 45090, "name": "스트라이크 웨이브", "desc": "", "classid": 112, "icon": "BK_Skill_01_2.png" },
+  "45100": { "id": 45100, "name": "더블 슬래쉬", "desc": "", "classid": 112, "icon": "BK_Skill_01_1.png" },
+  "45110": { "id": 45110, "name": "어설트 블레이드", "desc": "", "classid": 112, "icon": "BK_Skill_01_7.png" },
+  "45120": { "id": 45120, "name": "레드 더스트", "desc": "", "classid": 112, "icon": "BK_Skill_01_8.png" },
+  "45160": { "id": 45160, "name": "연출용 전투 전환", "desc": "", "classid": 112, "icon": "DH_Skill_01_4.png" },
+  "45190": { "id": 45190, "name": "템페스트 슬래쉬", "desc": "", "classid": 112, "icon": "BK_Skill_01_12.png" },
+  "45210": { "id": 45210, "name": "다이빙 슬래쉬", "desc": "", "classid": 112, "icon": "BK_Skill_01_13.png" },
+  "45220": { "id": 45220, "name": "마운틴 크래쉬", "desc": "", "classid": 112, "icon": "BK_Skill_01_16.png" },
+  "45300": { "id": 45300, "name": "피니쉬 스트라이크", "desc": "", "classid": 112, "icon": "BK_Skill_01_14.png" },
+  "45400": { "id": 45400, "name": "오러 블레이드", "desc": "", "classid": 112, "icon": "BK_Skill_01_17.png" },
+  "45500": { "id": 45500, "name": "체인 소드", "desc": "", "classid": 112, "icon": "BK_Skill_01_18.png" },
+  "45600": { "id": 45600, "name": "소드 스톰", "desc": "", "classid": 112, "icon": "BK_Skill_01_19.png" },
+  "45610": { "id": 45610, "name": "윈드 블레이드", "desc": "", "classid": 112, "icon": "BK_Skill_01_21.png" },
+  "45620": { "id": 45620, "name": "메일스톰", "desc": "", "classid": 112, "icon": "BK_Skill_01_22.png" },
+  "45700": { "id": 45700, "name": "어퍼 슬래쉬", "desc": "", "classid": 112, "icon": "BK_Skill_01_14.png" },
+  "45710": { "id": 45710, "name": "퓨리우스 크로우", "desc": "", "classid": 112, "icon": "BK_Skill_01_14.png" },
+  "45720": { "id": 45720, "name": "길로틴", "desc": "", "classid": 112, "icon": "BK_Skill_01_14.png" },
+  "45730": { "id": 45730, "name": "브루탈 임팩트", "desc": "", "classid": 112, "icon": "BK_Skill_01_2.png" },
+  "45800": { "id": 45800, "name": "레이지 스트라이크", "desc": "", "classid": 112, "icon": "BK_Skill_01_20.png" },
+  "45810": { "id": 45810, "name": "라그나로크", "desc": "", "classid": 112, "icon": "BK_Skill_01_23.png" },
   "32000": { "id": 32000, "name": "[기상술사] 기본 공격", "desc": "", "classid": 603, "icon": "" },
   "32001": { "id": 32001, "name": "[기상술사] 기본 공격_여우비상태", "desc": "", "classid": 603, "icon": "" },
   "32010": { "id": 32010, "name": "[기상술사] 맨손 공격", "desc": "", "classid": 603, "icon": "" },
-  "32020": {
-    "id": 32020,
-    "name": "Sprinting",
-    "desc": "Rapidly slide <FONT COLOR='#ffff99'>7 meters</FONT> forward.",
-    "classid": 603,
-    "icon": "WA_Skill_01_1.png"
-  },
+  "32020": { "id": 32020, "name": "[기상술사] 이동기", "desc": "", "classid": 603, "icon": "WA_Skill_01_1.png" },
   "32021": {
     "id": 32021,
-    "name": "Float",
-    "desc": "Open your umbrella and fly forward <FONT COLOR='#ffff99'>7 meters</FONT>. Press the key again to jump into the sky and land on the ground.",
+    "name": "[기상술사] 이동기_여우비상태",
+    "desc": "",
     "classid": 603,
     "icon": "WA_Skill_01_3.png"
   },
-  "32030": {
-    "id": 32030,
-    "name": "Leap!",
-    "desc": "Instantly leap from downed position and land.",
+  "32030": { "id": 32030, "name": "[기상술사] 기상기", "desc": "", "classid": 603, "icon": "WA_Skill_01_2.png" },
+  "32040": {
+    "id": 32040,
+    "name": "[기상술사][아이덴티티][여우비] 일반 버전",
+    "desc": "",
     "classid": 603,
-    "icon": "WA_Skill_01_2.png"
+    "icon": "WA_Skill_01_22.png"
   },
-  "32040": { "id": 32040, "name": "Sun Shower", "desc": "", "classid": 603, "icon": "WA_Skill_01_22.png" },
-  "32041": { "id": 32041, "name": "Sun Shower", "desc": "", "classid": 603, "icon": "WA_Skill_01_22.png" },
+  "32041": {
+    "id": 32041,
+    "name": "[기상술사][아이덴티티][여우비] 질풍 노도 각인 버전",
+    "desc": "",
+    "classid": 603,
+    "icon": "WA_Skill_01_22.png"
+  },
   "32042": {
     "id": 32042,
     "name": "[기상술사][아이덴티티][여우비] 여우비 off",
@@ -28804,336 +29098,162 @@
     "classid": 603,
     "icon": "WA_Skill_01_22.png"
   },
-  "32110": {
-    "id": 32110,
-    "name": "Unfold",
-    "desc": "Rapidly charge forward, piercing the target in front and inflicting <$MACRO physic @1:321101/> Damage. On hit, open the umbrella, inflicting <$MACRO physic @1:321102/> Damage.",
-    "classid": 603,
-    "icon": "WA_Skill_01_4.png"
-  },
-  "32120": {
-    "id": 32120,
-    "name": "Rage",
-    "desc": "Perform a fierce umbrella swing and inflict <$MACRO physic @1:321200/>Damage. Use the skill again to unsheathe a sword hidden in the umbrella and swing to inflict <$MACRO physic @1:321201/> Damage.",
-    "classid": 603,
-    "icon": "WA_Skill_01_10.png"
-  },
-  "32130": {
-    "id": 32130,
-    "name": "Downward Strike",
-    "desc": "Slam down the umbrella, inflicting <$MACRO physic @1:321300/> Damage, then slam it down with greater strength, inflicting <$MACRO physic @1:321301/> Damage.",
-    "classid": 603,
-    "icon": "WA_Skill_01_5.png"
-  },
-  "32140": {
-    "id": 32140,
-    "name": "Thick Fog",
-    "desc": "Unleash the umbrella's fog to unleash a shockwave, inflicting <$MACRO magic @1:321403/> Damage, and move <FONT COLOR='#ffff99'>6 meters</FONT> backward. The fog lasts for <FONT COLOR='#ffff99'>5</FONT>s, attacking <FONT COLOR='#ffff99'>10</FONT> times, dealing up to <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 321401/>/10000)+((<$TABLE_SKILLEFFECT ValueA 321401/> + <$TABLE_SKILLEFFECT ValueB 321401/>)/2))*10/></FONT> damage, and for <FONT COLOR='#ffff99'><$CALC %1 <$TABLE_SKILLBUFF Duration 321400/>/1000/></FONT>s, Move Speed -<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:321400/>%</FONT>, and inflicts Darkness.",
-    "classid": 603,
-    "icon": "WA_Skill_01_16.png"
-  },
-  "32150": {
-    "id": 32150,
-    "name": "Rainstorm",
-    "desc": "Create a rain shower at the target location within <FONT COLOR='#ffff99'>10 meters</FONT>. Inflicts a total of <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 321501/>/10000)+((<$TABLE_SKILLEFFECT ValueA 321501/> + <$TABLE_SKILLEFFECT ValueB 321501/>)/2))*6/></FONT> [Water] Damage to the foes over <FONT COLOR='#ffff99'>6</FONT> times for up to <FONT COLOR='#ffff99'>3s</FONT>.",
-    "classid": 603,
-    "icon": "WA_Skill_01_13.png"
-  },
-  "32160": {
-    "id": 32160,
-    "name": "Strong Wind",
-    "desc": "Swing the umbrella in the direction of the target location, summoning a penetrating wind that inflicts <$MACRO magic @1:321603/> Damage to nearby foes. The wind strikes up to <FONT COLOR='#ffff99'>5</FONT> times, inflicting a total of <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 321601/>/10000)+((<$TABLE_SKILLEFFECT ValueA 321601/> + <$TABLE_SKILLEFFECT ValueB 321601/>)/2))*5/></FONT> Damage and pushing them back.",
-    "classid": 603,
-    "icon": "WA_Skill_01_14.png"
-  },
-  "32170": {
-    "id": 32170,
-    "name": "Tornado",
-    "desc": "Throw the umbrella in the direction of the target location, hitting the target up to <FONT COLOR='#ffff99'>8</FONT> times, inflicting a total of <FONT COLOR='#ffbb00'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 321701/>/10000)+((<$TABLE_SKILLEFFECT ValueA 321701/> + <$TABLE_SKILLEFFECT ValueB 321701/>)/2))*8/></FONT> Damage. The spinning umbrella pushes the target away.",
-    "classid": 603,
-    "icon": "WA_Skill_01_6.png"
-  },
-  "32180": {
-    "id": 32180,
-    "name": "Tornado Dance",
-    "desc": "Open up the umbrella and rapidly spin it while charging forward, inflicting a total of <FONT COLOR='#ffbb00'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 321802/>/10000)+((<$TABLE_SKILLEFFECT ValueA 321802/> + <$TABLE_SKILLEFFECT ValueB 321802/>)/2))*9/></FONT> Damage. At the end, swing the umbrella with great force, inflicting <$MACRO physic @1:321803/> Damage and pushing the foe away.",
-    "classid": 603,
-    "icon": "WA_Skill_01_8.png"
-  },
-  "32190": {
-    "id": 32190,
-    "name": "Whirlpool",
-    "desc": "Create a whirlpool in the direction of the target location. For <FONT COLOR='#ffff99'>2</FONT>s, attack the foe <FONT COLOR='#ffff99'>4</FONT> times with a whirlpool that inflicts up to <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 321901/>/10000)+((<$TABLE_SKILLEFFECT ValueA 321901/> + <$TABLE_SKILLEFFECT ValueB 321901/>)/2))*4/></FONT>[Water] Elemental Damage, dragging the foe to itself. The whirlpool spins increasingly faster, inflicting <$MACRO magic @1:321902/> [Water] Elemental Damage.",
-    "classid": 603,
-    "icon": "WA_Skill_01_17.png"
-  },
-  "32200": {
-    "id": 32200,
-    "name": "Fly",
-    "desc": "Open your umbrella and fly before quickly moving forward. Create abnormal weather in your path, inflicting <$MACRO magic @1:322002/> damage every 1s on foes exposed to the abnormal weather.",
-    "classid": 603,
-    "icon": "WA_Skill_01_9.png"
-  },
-  "32210": {
-    "id": 32210,
-    "name": "Wiping Wind",
-    "desc": "Create a gust of wind at the cursor location within <FONT COLOR='#ffff99'>12 meters</FONT>. Inflict a total of <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 322101/>/10000)+((<$TABLE_SKILLEFFECT ValueA 322101/> + <$TABLE_SKILLEFFECT ValueB 322101/>)/2))*5/></FONT> Damage over </FONT>5<$MACRO magic @1:322103/> strikes, and deal <FONT COLOR='#ffff99'> Damage and lift them into the air.",
-    "classid": 603,
-    "icon": "WA_Skill_01_18.png"
-  },
-  "32220": {
-    "id": 32220,
-    "name": "Spring Breeze",
-    "desc": "Spin on the spot, creating a wind that deals <$MACRO magic @1:322200/> Damage and pushes the foe away.",
-    "classid": 603,
-    "icon": "WA_Skill_01_15.png"
-  },
-  "32230": {
-    "id": 32230,
-    "name": "Face to Face",
-    "desc": "Hold the umbrella up in the target location to block. Blocks Damage up to <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueC 322300/>/100/>%</FONT> of Max HP. At this moment, if an enemy's attack touches the umbrella within <FONT COLOR='#ffff99'>0.8</FONT>s, perform a Footwork Skill, inflicting <$MACRO physic @1:322300/> Damage and blasting the foe away.",
-    "classid": 603,
-    "icon": "WA_Skill_01_7.png"
-  },
-  "32240": {
-    "id": 32240,
-    "name": "Scorching Sun",
-    "desc": "Create a ray of sunlight at the target location within <FONT COLOR='#ffff99'>10 meters</FONT>. Sunlight shines down after <FONT COLOR='#ffff99'>0.5</FONT>s, knocking down the enemy and dealing a total <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 322402/>/10000)+((<$TABLE_SKILLEFFECT ValueA 322402/> + <$TABLE_SKILLEFFECT ValueB 322402/>)/2))*20/></FONT> [Fire] Damage over <FONT COLOR='#ffff99'>20</FONT> strikes.",
-    "classid": 603,
-    "icon": "WA_Skill_01_19.png"
-  },
-  "32250": {
-    "id": 32250,
-    "name": "Wind Gimlet",
-    "desc": "Perform a tornado attack using the wind-infused umbrella. If the target is downed or in the air, lift them again and inflict a total of <FONT COLOR='#ffbb00'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 322500/>/10000)+((<$TABLE_SKILLEFFECT ValueA 322500/> + <$TABLE_SKILLEFFECT ValueB 322500/>)/2))*7/></FONT> Damage.",
-    "classid": 603,
-    "icon": "WA_Skill_01_11.png"
-  },
-  "32260": {
-    "id": 32260,
-    "name": "Cutting Wind",
-    "desc": "Instantly take position and unleash the Footwork Skill, inflicting <$MACRO physic @1:322600/> Damage and blasting the foe away.",
-    "classid": 603,
-    "icon": "WA_Skill_01_12.png"
-  },
-  "32270": {
-    "id": 32270,
-    "name": "Storm's Approach",
-    "desc": "Create a huge tsunami at the target location within <FONT COLOR='#ffff99'>12 meters</FONT>. Inflicts a total of <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 322704/>/10000)+((<$TABLE_SKILLEFFECT ValueA 322704/> + <$TABLE_SKILLEFFECT ValueB 322704/>)/2))*7/></FONT> [Water] Damage to the foes and pulling them in over <FONT COLOR='#ffff99'>7</FONT> times and knock them away with <$MACRO magic @1:322703/>[Water] Damage. Those hit by the tsunami have their Crit Resistance -<FONT COLOR='#99ff99'><$CALC %1 <$TABLE_SKILLBUFF ValueA 322708/>/100/>%</FONT> for <FONT COLOR='#ffff99'><$CALC %1 <$TABLE_SKILLBUFF Duration 322708/>/1000/></FONT>s.",
-    "classid": 603,
-    "icon": "WA_Skill_01_20.png"
-  },
+  "32110": { "id": 32110, "name": "[기상술사][펼치기]", "desc": "", "classid": 603, "icon": "WA_Skill_01_4.png" },
+  "32120": { "id": 32120, "name": "[기상술사][몰아치기]", "desc": "", "classid": 603, "icon": "WA_Skill_01_10.png" },
+  "32130": { "id": 32130, "name": "[기상술사][내려찍기]", "desc": "", "classid": 603, "icon": "WA_Skill_01_5.png" },
+  "32140": { "id": 32140, "name": "[기상술사][짙은 안개]", "desc": "", "classid": 603, "icon": "WA_Skill_01_16.png" },
+  "32150": { "id": 32150, "name": "[기상술사][소나기]", "desc": "", "classid": 603, "icon": "WA_Skill_01_13.png" },
+  "32160": { "id": 32160, "name": "[기상술사][센바람]", "desc": "", "classid": 603, "icon": "WA_Skill_01_14.png" },
+  "32170": { "id": 32170, "name": "[기상술사][돌개바람]", "desc": "", "classid": 603, "icon": "WA_Skill_01_6.png" },
+  "32180": { "id": 32180, "name": "[기상술사][회오리 걸음]", "desc": "", "classid": 603, "icon": "WA_Skill_01_8.png" },
+  "32190": { "id": 32190, "name": "[기상술사][소용돌이]", "desc": "", "classid": 603, "icon": "WA_Skill_01_17.png" },
+  "32200": { "id": 32200, "name": "[기상술사][날아가기]", "desc": "", "classid": 603, "icon": "WA_Skill_01_9.png" },
+  "32210": { "id": 32210, "name": "[기상술사][싹쓸바람]", "desc": "", "classid": 603, "icon": "WA_Skill_01_18.png" },
+  "32220": { "id": 32220, "name": "[기상술사][봄바람]", "desc": "", "classid": 603, "icon": "WA_Skill_01_15.png" },
+  "32230": { "id": 32230, "name": "[기상술사][마주바람]", "desc": "", "classid": 603, "icon": "WA_Skill_01_7.png" },
+  "32240": { "id": 32240, "name": "[기상술사][뙤약볕]", "desc": "", "classid": 603, "icon": "WA_Skill_01_19.png" },
+  "32250": { "id": 32250, "name": "[기상술사][바람송곳]", "desc": "", "classid": 603, "icon": "WA_Skill_01_11.png" },
+  "32260": { "id": 32260, "name": "[기상술사][칼바람]", "desc": "", "classid": 603, "icon": "WA_Skill_01_12.png" },
+  "32270": { "id": 32270, "name": "[기상술사][풍랑주의보]", "desc": "", "classid": 603, "icon": "WA_Skill_01_20.png" },
   "32280": {
     "id": 32280,
-    "name": "Narr's Blade",
-    "desc": "Throw the umbrella up and quickly slash at foes in front, inflicting <$MACRO physic @1:322800/> damage and disappearing, then quickly slash toward the front <FONT COLOR='#ffff99'>12</FONT> times, inflicting a total of <FONT COLOR='#ffbb00'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 322801/>/10000)+((<$TABLE_SKILLEFFECT ValueA 322801/> + <$TABLE_SKILLEFFECT ValueB 322801/>)/2))*12/></FONT> damage and pulling foes in toward the center of the sword burst. Catch the falling umbrella and perform a powerful Footwork Skill, inflicting <$MACRO physic @1:322802/> Damage to the foe in front and penetrate with the sword, inflicting <$MACRO physic @1:322803/> Damage and blast the foe away.",
+    "name": "[기상술사][나르가의 칼날]",
+    "desc": "",
     "classid": 603,
     "icon": "WA_Skill_01_21.png"
   },
   "15000": { "id": 15000, "name": "[뿌리] [평타]", "desc": "", "classid": 601, "icon": "" },
   "15010": { "id": 15010, "name": "[뿌리] [맨손 공격]", "desc": "", "classid": 601, "icon": "" },
-  "15020": {
-    "id": 15020,
-    "name": "Stroke: Spill",
-    "desc": "Ride the brush and quickly move forward.",
-    "classid": 601,
-    "icon": "YY_Skill_01_1.png"
-  },
-  "15030": {
-    "id": 15030,
-    "name": "Stroke: Here and There",
-    "desc": "Hide your body in the ink and quickly move before standing up.",
-    "classid": 601,
-    "icon": "YY_Skill_01_2.png"
-  },
-  "15040": {
-    "id": 15040,
-    "name": "Stroke: Here and There",
-    "desc": "Hide your body in the ink and quickly move before standing up.",
-    "classid": 601,
-    "icon": "YY_Skill_01_2.png"
-  },
+  "15020": { "id": 15020, "name": "[뿌리] [이동기]", "desc": "", "classid": 601, "icon": "YY_Skill_01_1.png" },
+  "15030": { "id": 15030, "name": "[뿌리] [기상액션]", "desc": "", "classid": 601, "icon": "YY_Skill_01_2.png" },
+  "15040": { "id": 15040, "name": "[뿌리] [PVP][기상액션]", "desc": "", "classid": 601, "icon": "YY_Skill_01_2.png" },
   "31000": { "id": 31000, "name": "[도화가] [평타]", "desc": "", "classid": 602, "icon": "" },
   "31010": { "id": 31010, "name": "[도화가] [맨손 공격]", "desc": "", "classid": 602, "icon": "" },
   "31020": {
     "id": 31020,
-    "name": "Stroke: Spill",
-    "desc": "Ride the brush and quickly move forward.",
+    "name": "[도화가] [이동기] 필법 : 흘리기",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_1.png"
   },
   "31030": {
     "id": 31030,
-    "name": "Stroke: Here and There",
-    "desc": "Hide your body in the ink and quickly move before standing up.",
+    "name": "[도화가] [기상액션] 필법 : 요리조리",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_2.png"
   },
   "31040": {
     "id": 31040,
-    "name": "Stroke: Here and There",
-    "desc": "Hide your body in the ink and quickly move before standing up.",
+    "name": "[도화가] [PVP][기상액션] 필법 : 요리조리",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_2.png"
   },
   "31050": {
     "id": 31050,
-    "name": "Moonfall",
-    "desc": "Strike the ground with a powerful stroke. Increase Outgoing Damage of all party members within <FONT COLOR='#ffff99'>24 meters</FONT> +<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:310501/>%</FONT> for <$MACRO bufftime @1:310501/>s.",
+    "name": "[도화가] 아이덴티티 저무는 달 1단계",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_3.png"
   },
   "31110": {
     "id": 31110,
-    "name": "Sunrise",
-    "desc": "Focus energy and summon a Sun Marble at the target location within <FONT COLOR='#ffff99'>10 meters</FONT>, which recovers HP equal to <FONT COLOR='#99ff99'><$CALC (<$TABLE_SKILLEFFECT ValueD 311101/>)/100/>%</FONT> of your Max HP.\nUp to <FONT COLOR='#ffff99'>3</FONT> Sun Marbles can be summoned at once, and each Sun Marble lasts for <FONT COLOR='#ffff99'>60</FONT>s.",
+    "name": "[도화가] 아이덴티티 떠오르는 해 1단계",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_4.png"
   },
   "31120": {
     "id": 31120,
-    "name": "Sunrise",
-    "desc": "Focus energy and summon a Sun Marble at the target location within <FONT COLOR='#ffff99'>10 meters</FONT>, which recovers HP equal to <FONT COLOR='#99ff99'><$CALC (<$TABLE_SKILLEFFECT ValueD 311101/>)/100/>%</FONT> of your Max HP.\nUp to <FONT COLOR='#ffff99'>3</FONT> Sun Marbles can be summoned at once, and each Sun Marble lasts for <FONT COLOR='#ffff99'>60</FONT>s.",
+    "name": "[도화가] 아이덴티티 떠오르는 해 1레벨 각인용",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_4.png"
   },
   "31130": {
     "id": 31130,
-    "name": "Sunrise",
-    "desc": "Focus energy and summon a Sun Marble at the target location within <FONT COLOR='#ffff99'>10 meters</FONT>, which recovers HP equal to <FONT COLOR='#99ff99'><$CALC (<$TABLE_SKILLEFFECT ValueD 311101/>)/100/>%</FONT> of your Max HP.\nUp to <FONT COLOR='#ffff99'>3</FONT> Sun Marbles can be summoned at once, and each Sun Marble lasts for <FONT COLOR='#ffff99'>60</FONT>s.",
+    "name": "[도화가] 아이덴티티 떠오르는 해 2레벨 각인용",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_4.png"
   },
   "31140": {
     "id": 31140,
-    "name": "Sunrise",
-    "desc": "Focus energy and summon a Sun Marble at the target location within <FONT COLOR='#ffff99'>10 meters</FONT>, which recovers HP equal to <FONT COLOR='#99ff99'><$CALC (<$TABLE_SKILLEFFECT ValueD 311101/>)/100/>%</FONT> of your Max HP.\nUp to <FONT COLOR='#ffff99'>3</FONT> Sun Marbles can be summoned at once, and each Sun Marble lasts for <FONT COLOR='#ffff99'>60</FONT>s.",
+    "name": "[도화가] 아이덴티티 떠오르는 해 3레벨 각인용",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_4.png"
   },
-  "31200": {
-    "id": 31200,
-    "name": "Stroke: Ink Shower",
-    "desc": "Concentrate dimensional power into the brush and inflict <$MACRO magic @1:312000/> Damage as you spread your energy.",
-    "classid": 602,
-    "icon": "YY_Skill_01_5.png"
-  },
-  "31210": {
-    "id": 31210,
-    "name": "Stroke: Hopper",
-    "desc": "Ride the brush and bounce up, draw an arc, and travel <FONT COLOR='#ffff99'>6 meters</FONT>. Inflicts <$MACRO magic @1:312101/> Damage to foes arounding the landing spot before knocking them down. Can be used up to 3 times consecutively.",
-    "classid": 602,
-    "icon": "YY_Skill_01_6.png"
-  },
+  "31200": { "id": 31200, "name": "[도화가] 필법 : 먹물세례", "desc": "", "classid": 602, "icon": "YY_Skill_01_5.png" },
+  "31210": { "id": 31210, "name": "[도화가] 필법 : 콩콩이", "desc": "", "classid": 602, "icon": "YY_Skill_01_6.png" },
   "31220": {
     "id": 31220,
-    "name": "Paint: Door of Illusion",
-    "desc": "Create a dimensional opening at a target location within <FONT COLOR='#ffff99'>12 meters</FONT> to teleport one party member to your location. The dimensional opening lasts for <FONT COLOR='#ffff99'>10</FONT>s, allowing party members to interact with it to travel as far as <FONT COLOR='#ffff99'>32 meters</FONT>. The transported party member generates a shield that absorbs Damage up to <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueC 312204/>/100/>%</FONT> of Max HP for <FONT COLOR='#ffff99'>6</FONT>s.",
+    "name": "[도화가] 묵법 : 환영의 문",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_7.png"
   },
-  "31230": {
-    "id": 31230,
-    "name": "Paint: Ink Well",
-    "desc": "Leap and smash the ground with the brush for <$MACRO magic @1:312300/> and <$MACRO magic @1:312302/> Damage, then create a puddle of ink that lasts for <FONT COLOR='#ffff99'>3.5</FONT>s. The ink puddle inflicts <$MACRO magic @1:312302/> Damage over <FONT COLOR='#ffff99'>12</FONT> hits, then launches foes in the air upon expiration, inflicting <$MACRO magic @1:312350/> Damage.",
-    "classid": 602,
-    "icon": "YY_Skill_01_8.png"
-  },
-  "31400": {
-    "id": 31400,
-    "name": "Paint: Draw the Sun",
-    "desc": "Gather dimensional energy into the brush and inflict <$MACRO magic @1:314000/> Damage to nearby foes. All incoming Damage -<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:314001/>%</FONT> for all party members within <$MACRO bufftime @1:314001/>24 meters</FONT> for <FONT COLOR='#ffff99'>s.",
-    "classid": 602,
-    "icon": "YY_Skill_01_9.png"
-  },
-  "31410": {
-    "id": 31410,
-    "name": "Paint: Sun Well",
-    "desc": "Create an artist's scroll at the target location within <FONT COLOR='#ffff99'>10 meters</FONT>. The artist's scroll lasts <FONT COLOR='#ffff99'>4</FONT>s, inflicting <$MACRO magic @1:314103/> Damage every <FONT COLOR='#ffff99'>0.5</FONT>s. Instantly recovers MP by <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLEFFECT ValueB 314104/>/100/>%</FONT> for all party members within <FONT COLOR='#ffff99'>24</FONT>m.",
-    "classid": 602,
-    "icon": "YY_Skill_01_10.png"
-  },
-  "31420": {
-    "id": 31420,
-    "name": "Paint: Drawing Orchids",
-    "desc": "Unfold a <FONT COLOR='#ffff99'>14-meter-long</FONT> Artist's Scroll in front of you and push foes back with <$MACRO magic @1:314203/> Damage, then inflict <$MACRO magic @1:314201/> Damage every <FONT COLOR='#ffff99'>0.5</FONT>s a total of <FONT COLOR='#ffff99'>6</FONT> times.",
-    "classid": 602,
-    "icon": "YY_Skill_01_11.png"
-  },
+  "31230": { "id": 31230, "name": "[도화가] 묵법 : 옹달샘", "desc": "", "classid": 602, "icon": "YY_Skill_01_8.png" },
+  "31400": { "id": 31400, "name": "[도화가] 묵법 : 해그리기", "desc": "", "classid": 602, "icon": "YY_Skill_01_9.png" },
+  "31410": { "id": 31410, "name": "[도화가] 묵법 : 해우물", "desc": "", "classid": 602, "icon": "YY_Skill_01_10.png" },
+  "31420": { "id": 31420, "name": "[도화가] 묵법 : 난치기", "desc": "", "classid": 602, "icon": "YY_Skill_01_11.png" },
   "31430": {
     "id": 31430,
-    "name": "Stroke: Sprinkle",
-    "desc": "Concentrate dimensional energy into the brush, then inflict <$MACRO magic @1:314300/> Damage to foes in a cone-shaped direction up to <FONT COLOR='#ffff99'>9 meters</FONT> away.",
+    "name": "[도화가] 필법 : 흩뿌리기",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_12.png"
   },
-  "31440": {
-    "id": 31440,
-    "name": "Paint: Paint Ascension",
-    "desc": "Summon an ink swamp within <FONT COLOR='#ffff99'>12 meters</FONT> of the target location that lasts for <FONT COLOR='#ffff99'>4</FONT>s. Targets in the swamp receive <$MACRO magic @1:314401/> Damage every <FONT COLOR='#ffff99'>0.5</FONT>s and suffer Move Speed -<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:314404/>%</FONT> for <FONT COLOR='#ffff99'>2</FONT>s.",
-    "classid": 602,
-    "icon": "YY_Skill_01_13.png"
-  },
-  "31450": {
-    "id": 31450,
-    "name": "Paint: Mirinae",
-    "desc": "Concentrate dimensional power into the brush to change the space and inflict <$MACRO magic @1:314500/> Damage every second for <FONT COLOR='#ffff99'>0.6</FONT>s on foes within a <FONT COLOR='#ffff99'>6-meter</FONT> radius up to <FONT COLOR='#ffff99'>5</FONT> times.",
-    "classid": 602,
-    "icon": "YY_Skill_01_14.png"
-  },
-  "31460": {
-    "id": 31460,
-    "name": "Paint: Butterfly Dream",
-    "desc": "Draw a butterfly and orchid that inflict <$MACRO magic @1:314600/> Damage to foes within an <FONT COLOR='#ffff99'>8-meter</FONT> radius. The butterfly flies forward to inflict <FONT COLOR='#00ccff'><$CALC (((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 314602/>/10000)+((<$TABLE_SKILLEFFECT ValueA 314602/> + <$TABLE_SKILLEFFECT ValueB 314602/>)/2)))*2/></FONT> Damage. Draw another butterfly and orchid to inflict the same amount of Damage.",
-    "classid": 602,
-    "icon": "YY_Skill_01_15.png"
-  },
+  "31440": { "id": 31440, "name": "[도화가] 묵법 : 먹오름", "desc": "", "classid": 602, "icon": "YY_Skill_01_13.png" },
+  "31450": { "id": 31450, "name": "[도화가] 묵법 : 미리내", "desc": "", "classid": 602, "icon": "YY_Skill_01_14.png" },
+  "31460": { "id": 31460, "name": "[도화가] 묵법 : 호접몽", "desc": "", "classid": 602, "icon": "YY_Skill_01_15.png" },
   "31470": {
     "id": 31470,
-    "name": "Stroke: One Stroke",
-    "desc": "Channel dimensional power into the brush and unleash it <FONT COLOR='#ffff99'>12 meters</FONT> forward, inflicting <$MACRO magic @1:314700/> Damage to foes and knocking them down.",
+    "name": "[도화가] 필법 : 한획긋기",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_16.png"
   },
   "31480": {
     "id": 31480,
-    "name": "Paint: Crane Wing",
-    "desc": "Draw and summon a crane that attacks foes for <$MACRO magic @1:314801/> Damage.",
+    "name": "[도화가] 묵법 : 두루미나래",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_17.png"
   },
   "31490": {
     "id": 31490,
-    "name": "Paint: Pouncing Tiger",
-    "desc": "Summon a black tiger with the dimensional energy imbued in the ink to inflict <$MACRO magic @1:314901/> Damage and knock foes down.",
+    "name": "[도화가] 묵법 : 범가르기",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_18.png"
   },
   "31500": {
     "id": 31500,
-    "name": "Paint: Draw the Moon",
-    "desc": "Make a drawing on the ground at the target location within <FONT COLOR='#ffff99'>12 meters</FONT> for <FONT COLOR='#ffff99'>2</FONT>s, that unleashes an explosion to inflict <$MACRO magic @1:315000/> Damage and lifting foes in the air.",
+    "name": "[도화가] 묵법 : 달그리기",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_19.png"
   },
   "31510": {
     "id": 31510,
-    "name": "Stroke: Upward Stroke",
-    "desc": "Lunge <FONT COLOR='#ffff99'>2 meters</FONT> in the target direction and draw a large circle to inflict <$MACRO magic @1:315100/> Damage to foes and send them airborne. Use the skill once more to move <FONT COLOR='#ffff99'>2 meters</FONT> in the target direction as you draw another circle to inflict <$MACRO magic @1:315101/> Damage to foes and lift foes in the air.",
+    "name": "[도화가] 필법 : 올려치기",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_20.png"
   },
   "31900": {
     "id": 31900,
-    "name": "Masterwork: Spectacle",
-    "desc": "Summon an <FONT COLOR='#ffff99'>8-meter-wide</FONT> Artist's Scroll and start drawing to inflict <$MACRO magic @1:319001/> Damage <FONT COLOR='#ffff99'>5</FONT> times, then lift foes in the air with <$MACRO magic @1:319003/> Damage. Crit Resistance to attacks by all party members -<FONT COLOR='#99ff99'>12%</FONT> and Move Speed -<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:319000/>%</FONT> for hit foes for <FONT COLOR='#ffff99'>6</FONT>s. ",
+    "name": "[도화가][각성기] 1차 각성기 절기 : 진경산수",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_21.png"
   },
   "31910": {
     "id": 31910,
-    "name": "Masterwork: Dreamy Peach Garden",
-    "desc": "Levitate in the swirl of flower petals, inflicting <$MACRO magic @1:319101/> Damage to foes within <FONT COLOR='#99ff99'>24 meters</FONT>. Grant a shield for every ally within range for <$MACRO bufftime @1:319100/>s, which absorbs Damage equal to <$MACRO shield @1:319100/> of Max HP. Gain <FONT COLOR='#ffff99'>2</FONT> Harmony Orbs on skill use.",
+    "name": "[도화가][각성기] 2차 각성기 절기 : 몽유도원",
+    "desc": "",
     "classid": 602,
     "icon": "YY_Skill_01_22.png"
   },
@@ -29165,12 +29285,40 @@
     "classid": 0,
     "icon": "PO_Skill_01_5.png"
   },
+  "42011": {
+    "id": 42011,
+    "name": "Include",
+    "desc": "Use your staff to awaken the earth and create smoke to call out to the heavens.",
+    "classid": 0,
+    "icon": "PO_Skill_01_115.png"
+  },
+  "42012": {
+    "id": 42012,
+    "name": "Include",
+    "desc": "Use your staff to awaken the earth and create smoke to call out to the heavens.",
+    "classid": 0,
+    "icon": "PO_Skill_01_115.png"
+  },
   "42020": {
     "id": 42020,
     "name": "Pray",
     "desc": "Pretend to pray fervently.",
     "classid": 0,
     "icon": "PO_Skill_01_6.png"
+  },
+  "42021": {
+    "id": 42021,
+    "name": "Conclude",
+    "desc": "Greet the heavens and announce the end of the world.",
+    "classid": 0,
+    "icon": "PO_Skill_01_116.png"
+  },
+  "42022": {
+    "id": 42022,
+    "name": "Conclude",
+    "desc": "Greet the heavens and announce the end of the world.",
+    "classid": 0,
+    "icon": "PO_Skill_01_116.png"
   },
   "42030": {
     "id": 42030,
@@ -29263,6 +29411,70 @@
     "classid": 0,
     "icon": "PO_Skill_01_17.png"
   },
+  "42130": {
+    "id": 42130,
+    "name": "Treasure Hunting",
+    "desc": "Find the treasure hidden by someone.",
+    "classid": 0,
+    "icon": "Buff_523.png"
+  },
+  "42131": {
+    "id": 42131,
+    "name": "Tag Time",
+    "desc": "Come out, come out, wherever you are. Become the tagger and count down.",
+    "classid": 0,
+    "icon": "Buff_525.png"
+  },
+  "42133": {
+    "id": 42133,
+    "name": "Childish",
+    "desc": "If you recall the only warm embrace you've ever known and embrace it back, the harsh memories will melt like snow, and happy things will be waiting for you.",
+    "classid": 0,
+    "icon": "PO_Skill_01_107.png"
+  },
+  "42134": {
+    "id": 42134,
+    "name": "Childish",
+    "desc": "If you recall the only warm embrace you've ever known and embrace it back, the harsh memories will melt like snow, and happy things will be waiting for you.",
+    "classid": 0,
+    "icon": "PO_Skill_01_107.png"
+  },
+  "42135": {
+    "id": 42135,
+    "name": "Childish",
+    "desc": "If you recall the only warm embrace you've ever known and embrace it back, the harsh memories will melt like snow, and happy things will be waiting for you.",
+    "classid": 0,
+    "icon": "PO_Skill_01_107.png"
+  },
+  "42140": {
+    "id": 42140,
+    "name": "Trot",
+    "desc": "When faced with a situation in which you wish to escape, your anxious and fearful mind will rush your steps.",
+    "classid": 0,
+    "icon": "Buff_10.png"
+  },
+  "42150": {
+    "id": 42150,
+    "name": "Demon's Strength",
+    "desc": "Unleash the inherent power of the demon like a scream.",
+    "classid": 0,
+    "icon": "PO_Skill_01_16.png"
+  },
+  "42151": {
+    "id": 42151,
+    "name": "Flurry",
+    "desc": "Gather power to explode and attack.",
+    "classid": 0,
+    "icon": "PO_Skill_01_15.png"
+  },
+  "42154": {
+    "id": 42154,
+    "name": "Sprint",
+    "desc": "Run away with all your might.",
+    "classid": 0,
+    "icon": "PO_Skill_01_8.png"
+  },
+  "42155": { "id": 42155, "name": "어린아만#3_평타", "desc": "", "classid": 0, "icon": "PO_Skill_01_9.png" },
   "42200": {
     "id": 42200,
     "name": "수신 아포라스의 거북이_평타",
@@ -29489,6 +29701,13 @@
     "desc": "Everyone has time to enjoy the Shining Eye of Gluttony.",
     "classid": 0,
     "icon": "Vehicle_268.png"
+  },
+  "42673": {
+    "id": 42673,
+    "name": "Behind the Dark Lantern",
+    "desc": "Tell everyone to hide behind the lantern.",
+    "classid": 0,
+    "icon": "Vehicle_15.png"
   },
   "42700": {
     "id": 42700,
@@ -30072,54 +30291,200 @@
     "icon": "PO_Skill_01_103.png"
   },
   "42900": { "id": 42900, "name": "Snail Dash", "desc": "Dash forward.", "classid": 0, "icon": "PO_Skill_01_39.png" },
+  "42908": {
+    "id": 42908,
+    "name": "Detection Grenade",
+    "desc": "Use the portal at the base to <FONT COLOR='#ffff99'>automatically charge 1 time</font> and deal damage to enemies while knocking them down. Does not damage monsters. Stealth is canceled upon using skills.",
+    "classid": 0,
+    "icon": "PO_Skill_01_125.png"
+  },
+  "42909": {
+    "id": 42909,
+    "name": "Detection Grenade",
+    "desc": "Use the portal at the base to <FONT COLOR='#ffff99'>automatically charge 1 time</font> and deal damage to enemies while knocking them down. Does not damage monsters. Stealth is canceled upon using skills.",
+    "classid": 0,
+    "icon": "PO_Skill_01_125.png"
+  },
   "42910": {
     "id": 42910,
-    "name": "[우거진갈대섬] 보물 사냥꾼_평타",
+    "name": "[황금물결섬] 보물 사냥꾼_평타",
     "desc": "",
     "classid": 0,
     "icon": "PO_Skill_01_9.png"
   },
   "42911": {
     "id": 42911,
-    "name": "Set Up Bomb",
-    "desc": "Set up a bomb that explodes after 1m.\nSetting up the bomb will disable Stealth.\nThe bomb will expose stealthy foes and knock them down if they step on it.",
+    "name": "Install Mine",
+    "desc": "The mine is <FONT COLOR='#ffff99'>recharged automatically once when the portal in the base is used</font>. The mine detects Stealthed foes and explodes with a detection radius of<FONT COLOR='#ffff99'>3m</FONT> and duration of <FONT COLOR='#ffff99'>60s</FONT>. Only <FONT COLOR='#ffff99'>1</FONT> mine can be installed.\nInstalling it will remove Stealth and does not damage foes.",
     "classid": 0,
-    "icon": "PO_Skill_01_94.png"
+    "icon": "PO_Skill_01_35.png"
   },
   "42912": {
     "id": 42912,
-    "name": "Sprint",
-    "desc": "Sprint.\nYou will move much faster, but using Sprint will cancel your Stealth.",
+    "name": "Charge",
+    "desc": "Can charge forwards for max <FONT COLOR='#ffff99'>8 seconds</FONT> and will strike down when the charge ends.",
     "classid": 0,
-    "icon": "PO_Skill_01_92.png"
+    "icon": "PO_Skill_01_124.png"
   },
-  "42913": { "id": 42913, "name": "Detect", "desc": "", "classid": 0, "icon": "Buff_482.png" },
+  "42913": {
+    "id": 42913,
+    "name": "Detect",
+    "desc": "Activate the detection skill to detect Stealthed enemies within a <FONT COLOR='#ffff99'>10m</FONT> radius for <FONT COLOR='#ffff99'>5s</FONT>. Stealth can be used while casting skills.",
+    "classid": 0,
+    "icon": "Buff_482.png"
+  },
   "42914": {
     "id": 42914,
-    "name": "Treasure Hunt",
-    "desc": "Available upon obtaining Treasure Hunter's Nausea Cure.\nAttack foes while spinning like a whirlwind.\nYou gain Super Armor while casting and knock down foes upon hit.",
+    "name": "Twinkling Stars",
+    "desc": "Wields the pickaxe swirling round and attacks the enemies. Can rotate for <FONT COLOR='#ffff99'>10 seconds</FONT>.",
     "classid": 0,
     "icon": "PO_Skill_01_37.png"
   },
-  "42915": { "id": 42915, "name": "Stealth", "desc": "", "classid": 0, "icon": "Buff_243.png" },
+  "42915": {
+    "id": 42915,
+    "name": "Spin and Stealth",
+    "desc": "Use the portal at the base to automatically gain Stealth. Spin around and gain Stealth on Perfect Zone hit.",
+    "classid": 0,
+    "icon": "PO_Skill_01_126.png"
+  },
   "42916": {
     "id": 42916,
-    "name": "Set Up Bomb",
-    "desc": "Set up a bomb that explodes after 1m.\nSetting up the bomb will disable Stealth.\nThe bomb will expose stealthy foes and knock them down if they step on it.",
+    "name": "Install Mine",
+    "desc": "The mine is <FONT COLOR='#ffff99'>recharged automatically once when the portal in the base is used</font>. The mine detects Stealthed foes and explodes with a detection radius of<FONT COLOR='#ffff99'>3m</FONT> and duration of <FONT COLOR='#ffff99'>60s</FONT>. Only <FONT COLOR='#ffff99'>1</FONT> mine can be installed.\nInstalling it will remove Stealth and does not damage foes.",
     "classid": 0,
-    "icon": "PO_Skill_01_94.png"
+    "icon": "PO_Skill_01_35.png"
+  },
+  "42926": {
+    "id": 42926,
+    "name": "Spin and Stealth",
+    "desc": "Use the portal at the base to automatically gain Stealth. Spin around and gain Stealth on Perfect Zone hit.",
+    "classid": 0,
+    "icon": "PO_Skill_01_126.png"
+  },
+  "42950": {
+    "id": 42950,
+    "name": "Poison Sting",
+    "desc": "Launch a poison sting that temporarily stuns the enemy.",
+    "classid": 0,
+    "icon": "PO_Skill_01_117.png"
+  },
+  "42951": { "id": 42951, "name": "Run!", "desc": "Increases Move Speed.", "classid": 0, "icon": "PO_Skill_01_43.png" },
+  "42952": {
+    "id": 42952,
+    "name": "Can't See",
+    "desc": "Gain Stealth to go undetected by enemies, but your symbol will still be visible.",
+    "classid": 0,
+    "icon": "PO_Skill_01_118.png"
+  },
+  "42953": {
+    "id": 42953,
+    "name": "Hit Me",
+    "desc": "Activates Super Armor (immune to Push and Status Ailments).",
+    "classid": 0,
+    "icon": "PO_Skill_01_44.png"
+  },
+  "42970": {
+    "id": 42970,
+    "name": "Headbutt",
+    "desc": "Attack with your head using all your might.",
+    "classid": 0,
+    "icon": "PO_Skill_01_119.png"
+  },
+  "42971": {
+    "id": 42971,
+    "name": "Solar Beam",
+    "desc": "Fire a powerful beam.",
+    "classid": 0,
+    "icon": "PO_Skill_01_120.png"
+  },
+  "42972": {
+    "id": 42972,
+    "name": "Jump",
+    "desc": "Jump up to an astonishing height.",
+    "classid": 0,
+    "icon": "PO_Skill_01_121.png"
+  },
+  "42980": {
+    "id": 42980,
+    "name": "Open Chest",
+    "desc": "Open the chest. It doesn't seem to have any treasure.",
+    "classid": 0,
+    "icon": "PO_Skill_01_122.png"
+  },
+  "42990": {
+    "id": 42990,
+    "name": "Headbutt",
+    "desc": "Charge forward with all your strength.",
+    "classid": 0,
+    "icon": "PO_Skill_01_75.png"
+  },
+  "42991": {
+    "id": 42991,
+    "name": "Plop Bomb",
+    "desc": "Explodes after a few moments.",
+    "classid": 0,
+    "icon": "PO_Skill_01_76.png"
+  },
+  "42992": {
+    "id": 42992,
+    "name": "Super Naruni!",
+    "desc": "Fires Super Naruni.",
+    "classid": 0,
+    "icon": "PO_Skill_01_77.png"
+  },
+  "42993": {
+    "id": 42993,
+    "name": "Tough Naruni",
+    "desc": "Generates a shield.",
+    "classid": 0,
+    "icon": "PO_Skill_01_78.png"
+  },
+  "43130": {
+    "id": 43130,
+    "name": "[장난감도감] 보물 사냥꾼_평타",
+    "desc": "",
+    "classid": 0,
+    "icon": "PO_Skill_01_9.png"
+  },
+  "43131": {
+    "id": 43131,
+    "name": "Detection Grenade",
+    "desc": "Throw a detection grenade.",
+    "classid": 0,
+    "icon": "PO_Skill_01_125.png"
+  },
+  "43132": {
+    "id": 43132,
+    "name": "Stealth",
+    "desc": "Spin around and temporarily gain Stealth on Perfect Zone hit.",
+    "classid": 0,
+    "icon": "PO_Skill_01_126.png"
+  },
+  "43133": {
+    "id": 43133,
+    "name": "Install Mine",
+    "desc": "Install a bomb.\nThe bomb explodes when a player steps on it, but with no particular effect.",
+    "classid": 0,
+    "icon": "PO_Skill_01_35.png"
+  },
+  "43134": {
+    "id": 43134,
+    "name": "Install Mine",
+    "desc": "Install a bomb.\nThe bomb explodes when a player steps on it, but with no particular effect.",
+    "classid": 0,
+    "icon": "PO_Skill_01_35.png"
   },
   "42917": {
     "id": 42917,
-    "name": "[위쳐콜라보] 게롤트 위쳐센스(토글형_On)",
-    "desc": "",
+    "name": "Witcher Senses",
+    "desc": "Witchers have superhuman senses.\nTheir use their eyes, ears, and nose to feel the presence of their enemy and analyze their footprints and smell to gain information. They are skilled hunters, and they always come up with a plan before going into battle.",
     "classid": 0,
     "icon": "Buff_58.png"
   },
   "42918": {
     "id": 42918,
-    "name": "[위쳐콜라보] 게롤트 위쳐센스(토글형_Off)",
-    "desc": "",
+    "name": "Witcher Senses",
+    "desc": "Witchers have superhuman senses.\nTheir use their eyes, ears, and nose to feel the presence of their enemy and analyze their footprints and smell to gain information. They are skilled hunters, and they always come up with a plan before going into battle.",
     "classid": 0,
     "icon": "Buff_58.png"
   },
@@ -30339,22 +30704,22 @@
   },
   "43360": {
     "id": 43360,
-    "name": "[영지놀이] 광기의 인형_폭탄 던지기Q",
-    "desc": "",
+    "name": "Throw Silence Bomb",
+    "desc": "Throw a silence bomb that will prevent the opponent from using their skills.",
     "classid": 0,
     "icon": "PO_Skill_01_108.png"
   },
   "43361": {
     "id": 43361,
-    "name": "[영지놀이] 광기의 인형_나팔불기W",
-    "desc": "",
+    "name": "Play Trumpet of Protection",
+    "desc": "Creates a shield that can block various skills.",
     "classid": 0,
     "icon": "PO_Skill_01_109.png"
   },
   "43363": {
     "id": 43363,
-    "name": "[영지놀이] 광기의 인형_특급 배송E",
-    "desc": "",
+    "name": "Finger Snap",
+    "desc": "Look at my finger snap.",
     "classid": 0,
     "icon": "PO_Skill_01_110.png"
   },
@@ -30844,28 +31209,28 @@
   "40780": { "id": 40780, "name": "[로웬] 정령기사_평타", "desc": "", "classid": 0, "icon": "" },
   "40781": {
     "id": 40781,
-    "name": "Repeating Slash",
+    "name": "[로웬] 정령기사_Q스킬_돌진",
     "desc": "Swing your weapon as you charge. This skill can be used up to 4 times in succession, inflicting Damage equal to <FONT COLOR='#99ff99'>65%</FONT> of the foe's Max HP.",
     "classid": 0,
     "icon": "Buff_23.png"
   },
   "40782": {
     "id": 40782,
-    "name": "Everburning Flame",
+    "name": "[로웬] 정령기사_W스킬_끝없는 화염_프라이겔리",
     "desc": "Set the ground ablaze for 10s, inflicting Burn, a stacking debuff that inflicts Damage equal to <FONT COLOR='#99ff99'>2%</FONT> of foe's Max HP.",
     "classid": 0,
     "icon": "Buff_265.png"
   },
   "40783": {
     "id": 40783,
-    "name": "Sylmael Shield",
+    "name": "[로웬] 정령기사_E스킬_실마엘의 가호",
     "desc": "Bless nearby allies with Sylmael energy. <FONT COLOR='#99ff99'>Push immunity</FONT>, <FONT COLOR='#99ff99'>Status Ailment immunity</FONT>, incoming Damage - <FONT COLOR='#99ff99'>40%</FONT>, and Atk. Power +<FONT COLOR='#99ff99'>40%</FONT> for nearby allies for up to <FONT COLOR='#99ff99'>15s</FONT>.",
     "classid": 0,
     "icon": "Buff_393.png"
   },
   "40784": {
     "id": 40784,
-    "name": "Everburning Flame",
+    "name": "[로웬] 정령기사_W스킬_끝없는 화염_리베르탄",
     "desc": "Set the ground ablaze for 10s, inflicting Burn, a stacking debuff that inflicts Damage equal to <FONT COLOR='#99ff99'>2%</FONT> of foe's Max HP.",
     "classid": 0,
     "icon": "Buff_265.png"
@@ -31456,57 +31821,57 @@
   },
   "95664": {
     "id": 95664,
-    "name": "Dark Explosive",
-    "desc": "Fire a darkness-infused explosive to inflict Damage equal to <FONT COLOR='#99ff99'>20%</FONT> of foe's Max Vitality and cast Darkness upon them.",
+    "name": "대포_곡사포_로웬_스킬W_실명탄 (일반대포)",
+    "desc": "",
     "classid": 0,
     "icon": "Vehicle_20.png"
   },
   "95665": {
     "id": 95665,
-    "name": "Explosive",
-    "desc": "Fire an explosive to inflict Damage equal to <FONT COLOR='#99ff99'>15%</FONT> of foe's Max Vitality.",
+    "name": "대포_곡사포_로웬_스킬Q_일반공격 (일반대포)",
+    "desc": "",
     "classid": 0,
     "icon": "Vehicle_22.png"
   },
   "95666": {
     "id": 95666,
-    "name": "Improved Dark Bomb",
-    "desc": "Fire a darkness-infused explosive to inflict Damage equal to <FONT COLOR='#99ff99'>35%</FONT> of the foe's Max Vitality and cast Darkness upon them. Afterwards, inflict the target with a Shred effect which increases Incoming Damage by <FONT COLOR='#99ff99'>10%</FONT>. This effect stacks up to 3 times.",
+    "name": "대포_곡사포_로웬_스킬W_실명탄 (본진대포)",
+    "desc": "",
     "classid": 0,
     "icon": "Vehicle_20.png"
   },
   "95667": {
     "id": 95667,
-    "name": "Improved Explosive",
-    "desc": "Fire an explosive to inflict Damage equal to <FONT COLOR='#99ff99'>30%</FONT> of the foe's Max Vitality. Afterwards, inflict the target with a Shred effect which increases Incoming Damage by <FONT COLOR='#99ff99'>10%</FONT>. This effect stacks up to 3 times.",
+    "name": "대포_곡사포_로웬_스킬Q_일반공격 (본진대포)",
+    "desc": "",
     "classid": 0,
     "icon": "Vehicle_22.png"
   },
   "95668": {
     "id": 95668,
-    "name": "Dark Explosive",
-    "desc": "Fire a darkness-infused explosive to inflict Damage equal to <FONT COLOR='#99ff99'>20%</FONT> of the foe's Max Vitality and cast Darkness upon them.",
+    "name": "대포_곡사포_로웬_스킬W_실명탄 (블루팀 긴 사거리)",
+    "desc": "",
     "classid": 0,
     "icon": "Vehicle_20.png"
   },
   "95669": {
     "id": 95669,
-    "name": "Explosive",
-    "desc": "Fire an explosive to inflict Damage equal to <FONT COLOR='#99ff99'>15%</FONT> of the foe's Max Vitality.",
+    "name": "대포_곡사포_로웬_스킬Q_일반공격 (블루팀 긴 사거리)",
+    "desc": "",
     "classid": 0,
     "icon": "Vehicle_22.png"
   },
   "95671": {
     "id": 95671,
-    "name": "Explosive",
-    "desc": "Fire an explosive to inflict Damage equal to <FONT COLOR='#99ff99'>15%</FONT> of the foe's Max Vitality.",
+    "name": "대포_곡사포_로웬_스킬Q_일반공격 (레드팀 긴 사거리)",
+    "desc": "",
     "classid": 0,
     "icon": "Vehicle_22.png"
   },
   "95672": {
     "id": 95672,
-    "name": "Dark Explosive",
-    "desc": "Fire a darkness-infused explosive to inflict Damage equal to <FONT COLOR='#99ff99'>20%</FONT> of the foe's Max Vitality and cast Darkness upon them.",
+    "name": "대포_곡사포_로웬_스킬W_실명탄 (레드팀 긴 사거리)",
+    "desc": "",
     "classid": 0,
     "icon": "Vehicle_20.png"
   },
@@ -31816,28 +32181,28 @@
   "96600": {
     "id": 96600,
     "name": "Snowflake",
-    "desc": "The Icebloom Reindeer lowers its head and shakes its body, scattering snowflakes.",
+    "desc": "The Snowflake Reindeer lowers its head and shakes its body, scattering snowflakes.",
     "classid": 0,
     "icon": "Vehicle_63.png"
   },
   "96610": {
     "id": 96610,
     "name": "Frost Festival",
-    "desc": "The Icebloom Reindeer hops and bounces, popping snowflakes like fireworks.",
+    "desc": "The Snowflake Reindeer hops and bounces, popping snowflakes like fireworks.",
     "classid": 0,
     "icon": "Vehicle_64.png"
   },
   "96620": {
     "id": 96620,
     "name": "Cool Pose",
-    "desc": "The Icebloom Reindeer strikes a pose.",
+    "desc": "The Snowflake Reindeer strikes a pose.",
     "classid": 0,
     "icon": "Vehicle_65.png"
   },
   "96630": {
     "id": 96630,
     "name": "Snowflake Jump",
-    "desc": "The Icebloom Reindeer leaps forward in rapid succession.",
+    "desc": "The Snowflake Reindeer leaps forward in rapid succession.",
     "classid": 0,
     "icon": "Vehicle_62.png"
   },
@@ -32624,6 +32989,56 @@
     "classid": 0,
     "icon": "Vehicle_65.png"
   },
+  "97910": {
+    "id": 97910,
+    "name": "Teleport",
+    "desc": "Teleport forward through a portal made of rose vines.",
+    "classid": 0,
+    "icon": "Vehicle_60.png"
+  },
+  "97911": {
+    "id": 97911,
+    "name": "Rose Vine",
+    "desc": "Climb up a giant rose vine.",
+    "classid": 0,
+    "icon": "Vehicle_63.png"
+  },
+  "97912": {
+    "id": 97912,
+    "name": "Performance",
+    "desc": "Music flows from the rose vine portal.",
+    "classid": 0,
+    "icon": "Vehicle_64.png"
+  },
+  "97913": {
+    "id": 97913,
+    "name": "Enlightenment",
+    "desc": "Huge flower buds bloom brightly.",
+    "classid": 0,
+    "icon": "Vehicle_65.png"
+  },
+  "98121": { "id": 98121, "name": "Flight", "desc": "Rapidly fly forward.", "classid": 0, "icon": "Vehicle_60.png" },
+  "98122": {
+    "id": 98122,
+    "name": "Exhale Breath",
+    "desc": "Gather your energy and unleash a powerful breath.",
+    "classid": 0,
+    "icon": "Vehicle_63.png"
+  },
+  "98123": {
+    "id": 98123,
+    "name": "Somersault",
+    "desc": "Show off by doing a fancy somersault.",
+    "classid": 0,
+    "icon": "Vehicle_64.png"
+  },
+  "98124": {
+    "id": 98124,
+    "name": "Summon a meteor",
+    "desc": "Borrow strength from the Guardians and summon a powerful meteor.",
+    "classid": 0,
+    "icon": "Vehicle_65.png"
+  },
   "98000": {
     "id": 98000,
     "name": "Flaming Flamethrower",
@@ -32669,40 +33084,28 @@
   "98060": { "id": 98060, "name": "헤비워커 평타", "desc": "", "classid": 0, "icon": "Vehicle_25.png" },
   "98103": {
     "id": 98103,
-    "name": "Domination Shot",
-    "desc": "Shoot an arrow of Sylmael energy, causing Stun.",
+    "name": "[로웬] 정령늑대_W_마력탄_노모션_블루",
+    "desc": "",
     "classid": 0,
     "icon": "Vehicle_78.png"
   },
   "98104": { "id": 98104, "name": "[로웬] 정령늑대_평타", "desc": "", "classid": 0, "icon": "Vehicle_63.png" },
   "98105": {
     "id": 98105,
-    "name": "Charge",
-    "desc": "Charge forward and push foes back.",
+    "name": "[로웬] 정령늑대_Q_돌진공격",
+    "desc": "",
     "classid": 0,
     "icon": "Voyage_Skill_27.png"
   },
   "98106": {
     "id": 98106,
-    "name": "Domination Shot",
-    "desc": "Shoot an arrow of Sylmael energy, causing Stun.",
+    "name": "[로웬] 정령늑대_W_마력탄_노모션",
+    "desc": "",
     "classid": 0,
     "icon": "Vehicle_78.png"
   },
-  "98107": {
-    "id": 98107,
-    "name": "Self-Destruct",
-    "desc": "Dismount as you discharge Sylmael energy to inflict Damage equal to <FONT COLOR='#99ff99'>70%</FONT> of foe's Max Vitality.",
-    "classid": 0,
-    "icon": "SM_Skill_01_27.png"
-  },
-  "98108": {
-    "id": 98108,
-    "name": "Quick Move",
-    "desc": "Quickly move forward. This skill can be used 3 times in a row.",
-    "classid": 0,
-    "icon": "Vehicle_62.png"
-  },
+  "98107": { "id": 98107, "name": "[로웬] 정령늑대_E_자폭", "desc": "", "classid": 0, "icon": "SM_Skill_01_27.png" },
+  "98108": { "id": 98108, "name": "[로웬] 정령늑대_이동기", "desc": "", "classid": 0, "icon": "Vehicle_62.png" },
   "98109": { "id": 98109, "name": "[로웬] 정령늑대_예비(미사용)", "desc": "", "classid": 0, "icon": "Vehicle_62.png" },
   "98110": { "id": 98110, "name": "[로웬] 정령기사_평타(미사용)", "desc": "", "classid": 0, "icon": "Vehicle_24.png" },
   "98111": {

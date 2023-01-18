@@ -1,24 +1,24 @@
 {
   "77302000": {
     "id": 77302000,
-    "name": "Frenzied",
-    "desc": "Become frenzied. Atk. Power +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77302000/>/100 />%</FONT>. Atk. Speed +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77302000/>/100 />%</FONT>. Move Speed +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue2 77302000/>/100 />%</FONT>.",
+    "name": "폭주 버프",
+    "desc": "",
     "icon": "Buff_138.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77302001": {
     "id": 77302001,
-    "name": "Frenzied",
-    "desc": "Become frenzied. Instantly increases Move Speed to Max.",
+    "name": "폭주 버프",
+    "desc": "",
     "icon": "BUff_114.png",
     "duration": 1000,
     "overlapflag": 0
   },
   "77302002": {
     "id": 77302002,
-    "name": "Frenzied",
-    "desc": "Become frenzied. Incoming Damage +<FONT COLOR='#ff9999'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77302002/>/100 />%</FONT>.",
+    "name": "폭주 디버프",
+    "desc": "",
     "icon": "Buff_468.png",
     "duration": -1,
     "overlapflag": 0
@@ -33,37 +33,44 @@
   },
   "77302003": {
     "id": 77302003,
-    "name": "Frenzy Elimination",
-    "desc": "Slayed a Frenzied foe. Atk. Power, Atk./Move Speed +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 389002/>/100 />%</FONT>.",
+    "name": "폭주 처지 버프",
+    "desc": "",
     "icon": "Buff_163.png",
     "duration": 30000,
     "overlapflag": 0
   },
   "77302010": {
     "id": 77302010,
-    "name": "Garum's Might",
-    "desc": "Recovers <FONT COLOR='#99ff99'><$TABLE_SKILLBUFF ValueB 77302010/></FONT> HP every 1s.\n<FONT COLOR='#ffbb00'>Garum's Flames</FONT>: Hurls flames to a hit adventurer, inflicting Damage equal to <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLEFFECT ValueB 389004 />/100/>%</FONT> of Max HP. (Cooldown: <FONT COLOR='#ffff99'><$CALC <$TABLE_COMBATEFFECT Cooldown 77302010 />/1000/></FONT>s)",
+    "name": "가룸 버프",
+    "desc": "",
     "icon": "Notice_symbol_14.png",
-    "duration": 120000,
+    "duration": 180000,
     "overlapflag": 0
   },
   "77302011": {
     "id": 77302011,
-    "name": "Tir's Grace",
-    "desc": "<FONT COLOR='#00ccff'>Eolh's Grace</FONT>: Gain a shield that absorbs Damage equal to <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueC 77302011/>/100 />%</FONT> of Max HP. Move Speed +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77302011/>/100 />%</FONT> and cooldown -<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77302011/>/100 />%</FONT> while the shield lasts.",
+    "name": "티르 버프",
+    "desc": "",
     "icon": "Buff_97.png",
     "duration": 30000,
     "overlapflag": 0
   },
   "77302012": {
     "id": 77302012,
-    "name": "Protective Energy",
-    "desc": "The foe destroyed a turret. Outgoing Damage increases by <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77302012/>/100 />%</FONT>, and all incoming Damage decreases by <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77302012/>/100 />%</FONT>.",
+    "name": "티르 스택 버프",
+    "desc": "",
     "icon": "Buff_75.png",
     "duration": -1,
     "overlapflag": 3
   },
-  "77302014": { "id": 77302014, "name": "", "desc": "", "icon": "Buff_287.png", "duration": -1, "overlapflag": 0 },
+  "77302014": {
+    "id": 77302014,
+    "name": "티르 스택 버프",
+    "desc": "",
+    "icon": "Buff_287.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
   "77302015": {
     "id": 77302015,
     "name": "티르 스택 버프",
@@ -72,72 +79,103 @@
     "duration": 3000,
     "overlapflag": 0
   },
-  "77302013": { "id": 77302013, "name": "", "desc": "", "icon": "Buff_112.png", "duration": 30000, "overlapflag": 0 },
-  "389005": {
-    "id": 389005,
-    "name": "Recovery",
-    "desc": "Main Base HP Regen Buff\nOnly remains active at the main base.",
-    "icon": "Buff_472.png",
-    "duration": -1,
+  "77302013": {
+    "id": 77302013,
+    "name": "수호병 버프",
+    "desc": "",
+    "icon": "Buff_112.png",
+    "duration": 30000,
     "overlapflag": 0
   },
+  "389005": { "id": 389005, "name": "회복", "desc": "", "icon": "Buff_472.png", "duration": -1, "overlapflag": 0 },
   "389006": {
     "id": 389006,
-    "name": "Move Speed Increase",
-    "desc": "Main Base Move Speed Buff\nGets canceled upon being hit.",
+    "name": "이속 버프",
+    "desc": "",
     "icon": "Buff_10.png",
     "duration": 12000,
     "overlapflag": 0
   },
   "77302030": {
     "id": 77302030,
-    "name": "Magnetic Field",
-    "desc": "Receive Damage equal to <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueB 77302030/>%</FONT> of Max HP every 1s from the magnetic field.",
+    "name": "자기장 안 버프",
+    "desc": "",
     "icon": "Buff_391.png",
     "duration": -1,
     "overlapflag": 0
   },
-  "77302031": {
-    "id": 77302031,
-    "name": "자기장 밖 버프",
-    "desc": "Receive Damage equal to <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueB 77302031/>%</FONT> of Max HP every 1s from the effects of the magnetic field.",
-    "icon": "Buff_347.png",
-    "duration": -1,
-    "overlapflag": 0
-  },
-  "77302040": {
-    "id": 77302040,
+  "77307000": {
+    "id": 77307000,
     "name": "이벤트 보상 1",
     "desc": "",
-    "icon": "GL_Skill_01_0.png",
-    "duration": 60000,
+    "icon": "Pet_Skill_9.png",
+    "duration": 210000,
     "overlapflag": 0
   },
-  "77302041": {
-    "id": 77302041,
+  "77307001": {
+    "id": 77307001,
+    "name": "이벤트 보상 1",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 1000,
+    "overlapflag": 0
+  },
+  "77307010": {
+    "id": 77307010,
     "name": "이벤트 보상 2",
     "desc": "",
-    "icon": "Buff_248.png",
-    "duration": 60000,
+    "icon": "Buff_439.png",
+    "duration": 210000,
     "overlapflag": 0
   },
-  "77302042": {
-    "id": 77302042,
+  "77307011": {
+    "id": 77307011,
+    "name": "이벤트 보상 2",
+    "desc": "",
+    "icon": "Buff_406.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "77307012": {
+    "id": 77307012,
+    "name": "이벤트 보상 2",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 1000,
+    "overlapflag": 0
+  },
+  "77307020": {
+    "id": 77307020,
     "name": "이벤트 보상 3",
     "desc": "",
-    "icon": "Buff_23.png",
-    "duration": 60000,
-    "overlapflag": 0
-  },
-  "77302043": {
-    "id": 77302043,
-    "name": "",
-    "desc": "",
     "icon": "achieve_09_20.png",
-    "duration": 120000,
+    "duration": 210000,
     "overlapflag": 0
   },
-  "77302044": { "id": 77302044, "name": "", "desc": "", "icon": "Buff_422.png", "duration": 3000, "overlapflag": 0 },
+  "77307021": {
+    "id": 77307021,
+    "name": "이벤트 보상 3",
+    "desc": "",
+    "icon": "Buff_422.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "77307022": {
+    "id": 77307022,
+    "name": "이벤트 보상 3",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 1000,
+    "overlapflag": 0
+  },
+  "77307030": {
+    "id": 77307030,
+    "name": "이벤트 보상 4",
+    "desc": "",
+    "icon": "Buff_433.png",
+    "duration": 210000,
+    "overlapflag": 0
+  },
   "77302045": {
     "id": 77302045,
     "name": "이벤트 보상 5",
@@ -162,42 +200,9 @@
     "duration": 90000,
     "overlapflag": 0
   },
-  "77302048": {
-    "id": 77302048,
-    "name": "Vitality Flip",
-    "desc": "If hit while HP is below <FONT COLOR='#ffff99'><$TABLE_COMBATEFFECT Condition0Arg 77302048 />%</FONT>, for <$MACRO bufftime @1:77302049/>s, Defense +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue1 77302049/></FONT>. On expiry, HP is reversed and recovers <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLEFFECT ValueD 77302049 />/100/>%</FONT> of Max HP.",
-    "icon": "Buff_439.png",
-    "duration": -1,
-    "overlapflag": 0
-  },
-  "77302049": {
-    "id": 77302049,
-    "name": "Vitality Flip",
-    "desc": "Defense +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue1 389215/></FONT>. On expiry, <FONT COLOR='#ffbb00'>HP is reversed</FONT> and recovers <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLEFFECT ValueD 77302049 />/100/>%</FONT> of Max HP.",
-    "icon": "Buff_406.png",
-    "duration": 3000,
-    "overlapflag": 0
-  },
-  "77302054": {
-    "id": 77302054,
-    "name": "이벤트 보상 7",
-    "desc": "",
-    "icon": "Buff_0.png",
-    "duration": 1000,
-    "overlapflag": 0
-  },
-  "77302050": {
-    "id": 77302050,
-    "name": "",
-    "desc": "",
-    "icon": "Pet_Skill_9.png",
-    "duration": 120000,
-    "overlapflag": 0
-  },
-  "77302052": { "id": 77302052, "name": "", "desc": "", "icon": "Buff_433.png", "duration": 120000, "overlapflag": 0 },
   "77303010": {
     "id": 77303010,
-    "name": "",
+    "name": "상점 소모 아이템",
     "desc": "",
     "icon": "Battle_Item_01_7.png",
     "duration": 10000,
@@ -205,24 +210,31 @@
   },
   "77303030": {
     "id": 77303030,
-    "name": "",
+    "name": "상점 소모 아이템",
     "desc": "",
     "icon": "Battle_Item_01_76.png",
-    "duration": 2500,
+    "duration": 4000,
     "overlapflag": 0
   },
   "77303040": {
     "id": 77303040,
-    "name": "",
+    "name": "상점 소모 아이템",
     "desc": "",
     "icon": "Battle_Item_01_52.png",
     "duration": 12000,
     "overlapflag": 0
   },
-  "77303080": { "id": 77303080, "name": "", "desc": "", "icon": "Buff_456.png", "duration": -1, "overlapflag": 0 },
+  "77303080": {
+    "id": 77303080,
+    "name": "상점 소모 아이템",
+    "desc": "",
+    "icon": "Buff_456.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
   "77303092": {
     "id": 77303092,
-    "name": "",
+    "name": "상점 소모 아이템",
     "desc": "",
     "icon": "Battle_Item_01_67.png",
     "duration": 3000,
@@ -230,7 +242,7 @@
   },
   "77303100": {
     "id": 77303100,
-    "name": "",
+    "name": "상점 소모 아이템",
     "desc": "",
     "icon": "Battle_Item_01_60.png",
     "duration": -1,
@@ -238,7 +250,7 @@
   },
   "77303110": {
     "id": 77303110,
-    "name": "",
+    "name": "상점 소모 아이템",
     "desc": "",
     "icon": "Battle_Item_01_57.png",
     "duration": -1,
@@ -246,7 +258,7 @@
   },
   "77303120": {
     "id": 77303120,
-    "name": "",
+    "name": "상점 소모 아이템",
     "desc": "",
     "icon": "Battle_Item_01_26.png",
     "duration": -1,
@@ -254,7 +266,7 @@
   },
   "77303130": {
     "id": 77303130,
-    "name": "",
+    "name": "상점 소모 아이템",
     "desc": "",
     "icon": "Battle_Item_01_66.png",
     "duration": -1,
@@ -262,7 +274,7 @@
   },
   "77303140": {
     "id": 77303140,
-    "name": "",
+    "name": "상점 소모 아이템",
     "desc": "",
     "icon": "Battle_Item_01_29.png",
     "duration": -1,
@@ -270,7 +282,7 @@
   },
   "77303150": {
     "id": 77303150,
-    "name": "",
+    "name": "상점 소모 아이템",
     "desc": "",
     "icon": "All_Quest_03_50.png",
     "duration": -1,
@@ -326,16 +338,16 @@
   },
   "77301032": {
     "id": 77301032,
-    "name": "Heart Piece",
-    "desc": "Upon reaching <FONT COLOR='#ffff99'><$TABLE_SKILLBUFF Overlap 77301032/></FONT> stacks, Max HP permanently increases by <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77301033/>/100 />%</FONT>, and gain the <FONT COLOR='#ffffac'>Giant's Heart</FONT> effect.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "All_Quest_02_0.png",
     "duration": -1,
     "overlapflag": 50
   },
   "77301033": {
     "id": 77301033,
-    "name": "Giant's Heart",
-    "desc": "Every <FONT COLOR='#ffff99'><$CALC <$TABLE_SKILLBUFF Interval 77301033/>/1000 /></FONT>s, heal <FONT COLOR='#99ff99'><$CALC %1 <$TABLE_SKILLBUFF ValueC 77301033/>/100 />%</FONT> of Max HP.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "All_Quest_01_61.png",
     "duration": -1,
     "overlapflag": 0
@@ -352,15 +364,15 @@
     "id": 77301040,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "GL_Skill_01_0.png",
+    "icon": "achieve_08_7.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301041": {
     "id": 77301041,
-    "name": "Iron Wall",
-    "desc": "Defense +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue0 77301041/></FONT> per stack.",
-    "icon": "achieve_08_7.png",
+    "name": "상점 장비 아이템",
+    "desc": "",
+    "icon": "GL_Skill_01_0.png",
     "duration": 8000,
     "overlapflag": 10
   },
@@ -368,14 +380,14 @@
     "id": 77301050,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_319.png",
+    "icon": "Buff_172.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301051": {
     "id": 77301051,
-    "name": "Excessive Bleeding",
-    "desc": "Decreases incoming healing and recovery effects by <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77301051/>/100 />%</FONT>, shield effects by <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77301051/>/100 />%</FONT>, and receive Phy. Damage equal to <FONT COLOR='#99ff99'><$TABLE_SKILLBUFF ValueC 77301051/>%</FONT> of current HP every 1s.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_95.png",
     "duration": 4000,
     "overlapflag": 0
@@ -392,30 +404,30 @@
     "id": 77301060,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Ability_244.png",
+    "icon": "EstherLink_0.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301062": {
     "id": 77301062,
-    "name": "Pilgrim's Protection",
-    "desc": "When HP is below 30%, gain a shield with <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueC 77301062/>/100 />%</FONT> of Max HP. While the shield is active, Atk. Power increases by <FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue0 77301062/></FONT>.\nIf the shield expires due to time, <FONT COLOR='#ffff99'><$CALC <$TABLE_SKILLBUFF ValueE 77301062/>/100 />%</FONT> of the remaining shield gauge is converted into HP.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "PO_Skill_01_9.png",
     "duration": 3000,
     "overlapflag": 0
   },
   "77301063": {
     "id": 77301063,
-    "name": "Pilgrim's Protection",
-    "desc": "Currently waiting for the pilgrims who left.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "PO_Skill_01_9.png",
-    "duration": 45000,
+    "duration": 90000,
     "overlapflag": 0
   },
   "77301064": {
     "id": 77301064,
     "name": "상점 장비 아이템",
-    "desc": "If HP falls below <FONT COLOR='#ffff99'>30%</FONT>, creates a shield equal to <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueC 77301062/>/100 />%</FONT> of Max HP for <$MACRO bufftime @1:77301062/>s.",
+    "desc": "",
     "icon": "PO_Skill_01_9.png",
     "duration": -1,
     "overlapflag": 0
@@ -430,8 +442,8 @@
   },
   "77301071": {
     "id": 77301071,
-    "name": "Desire for Blood",
-    "desc": "Heals <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueB 77301071/>*3/>%</FONT> of Max HP for <$MACRO bufftime @1:77301071/>s.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Shop_icon_1574.png",
     "duration": 3000,
     "overlapflag": 0
@@ -440,14 +452,14 @@
     "id": 77301080,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_71.png",
+    "icon": "Use_6_128.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301081": {
     "id": 77301081,
-    "name": "Sunkeeper",
-    "desc": "Defense -<FONT COLOR='#ff9999'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77301081/>/100/>%</FONT> per stack.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Use_6_128.png",
     "duration": 5000,
     "overlapflag": 10
@@ -456,38 +468,38 @@
     "id": 77301090,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "PO_Skill_01_0.png",
+    "icon": "Use_6_178.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301098": {
     "id": 77301098,
-    "name": "Beer",
-    "desc": "Atk. Power +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue0 77301098/></FONT> per stack.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Use_7_131.png",
     "duration": -1,
     "overlapflag": 10
   },
   "77301100": {
     "id": 77301100,
-    "name": "Chicken",
-    "desc": "Defense +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue0 77301100/>/>%</FONT> per stack.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_225.png",
     "duration": -1,
     "overlapflag": 10
   },
   "77301102": {
     "id": 77301102,
-    "name": "Intoxication",
-    "desc": "Become drunk, increasing Move Speed +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77301102/>/100 />%</FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "achieve_14_28.png",
     "duration": 2000,
     "overlapflag": 0
   },
   "77301103": {
     "id": 77301103,
-    "name": "Full",
-    "desc": "Eat chicken and heal <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueB 77301103/>/50/>%</FONT> of Max HP.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "achieve_13_58.png",
     "duration": 3000,
     "overlapflag": 0
@@ -496,23 +508,23 @@
     "id": 77301110,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_14.png",
+    "icon": "Voyage_Skill_43.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301111": {
     "id": 77301111,
-    "name": "Lightning Shard",
-    "desc": "Lightning is charging.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "All_Quest_01_10.png",
     "duration": -1,
     "overlapflag": 6
   },
   "77301112": {
     "id": 77301112,
-    "name": "Lightning Charge",
-    "desc": "Lightning is charged.",
-    "icon": "Voyage_Skill_43.png",
+    "name": "상점 장비 아이템",
+    "desc": "",
+    "icon": "Buff_391.png",
     "duration": -1,
     "overlapflag": 0
   },
@@ -528,7 +540,7 @@
     "id": 77301120,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Use_3_13.png",
+    "icon": "All_Quest_01_161.png",
     "duration": -1,
     "overlapflag": 0
   },
@@ -542,16 +554,16 @@
   },
   "77301131": {
     "id": 77301131,
-    "name": "Festering Vengeful Spirit",
-    "desc": "Ghosts are accumulating.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_398.png",
     "duration": -1,
-    "overlapflag": 20
+    "overlapflag": 30
   },
   "77301133": {
     "id": 77301133,
-    "name": "Demon Beast Ghost",
-    "desc": "Crit Rate +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77301133/>/100 />%</FONT>, Cooldown -<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue2 77301133/>/100 />%</FONT>, Atk. Speed +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77301133/>/100 />%</FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_399.png",
     "duration": -1,
     "overlapflag": 0
@@ -560,7 +572,7 @@
     "id": 77301136,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_399.png",
+    "icon": "Buff_397.png",
     "duration": -1,
     "overlapflag": 0
   },
@@ -576,7 +588,7 @@
     "id": 77301140,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_245.png",
+    "icon": "Item_Skill_01_2.png",
     "duration": -1,
     "overlapflag": 0
   },
@@ -584,22 +596,22 @@
     "id": 77301150,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_61.png",
+    "icon": "Use_6_121.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301151": {
     "id": 77301151,
-    "name": "Vern's Shield",
-    "desc": "Gain a shield that absorbs Damage equal to <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueC 77301151/>/100 />%</FONT> of Max HP.\n\n<FONT COLOR='#a2ccf6'>Effective against attacks from a Fiery Dragon.</FONT>",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Vehicle_159.png",
     "duration": 6000,
     "overlapflag": 0
   },
   "77301152": {
     "id": 77301152,
-    "name": "Vern's Shield",
-    "desc": "Recharging magick to use Vern's Shield again.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Vehicle_159.png",
     "duration": 6000,
     "overlapflag": 0
@@ -608,19 +620,26 @@
     "id": 77301160,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_188.png",
+    "icon": "Buff_319.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301161": {
     "id": 77301161,
-    "name": "Unending Strikes",
-    "desc": "Basic Atk. Power +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77301161/>/100 />%</FONT> per stack.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_319.png",
     "duration": 8000,
     "overlapflag": 10
   },
-  "77301163": { "id": 77301163, "name": "", "desc": "", "icon": "Buff_317.png", "duration": -1, "overlapflag": 0 },
+  "77301163": {
+    "id": 77301163,
+    "name": "상점 장비 아이템",
+    "desc": "",
+    "icon": "Buff_317.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
   "77301164": {
     "id": 77301164,
     "name": "상점 장비 아이템",
@@ -647,24 +666,24 @@
   },
   "77301171": {
     "id": 77301171,
-    "name": "Heretic Declaration",
-    "desc": "You can announce a Heretic Declaration.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "PO_Skill_01_11.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301172": {
     "id": 77301172,
-    "name": "Heretic Declaration",
-    "desc": "Recharging power for a Heretic Declaration.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "PO_Skill_01_11.png",
     "duration": 20000,
     "overlapflag": 0
   },
   "77301173": {
     "id": 77301173,
-    "name": "Twilight Brand",
-    "desc": "Incoming Damage from foes with a Heretic Declaration increases by <FONT COLOR='#ffff99'><$CALC <$TABLE_SKILLBUFF ValueH 77301173/>/100 />%</FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "PO_Skill_01_11.png",
     "duration": 4000,
     "overlapflag": 0
@@ -673,46 +692,54 @@
     "id": 77301180,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_25.png",
+    "icon": "Use_6_164.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301181": {
     "id": 77301181,
-    "name": "Bloody Fist",
-    "desc": "Receive damage every 1s.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_165.png",
     "duration": 6000,
     "overlapflag": 0
   },
   "77301182": {
     "id": 77301182,
-    "name": "Salo",
-    "desc": "Atk. Power +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue0 77301182/></FONT>, Defence +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue1 77301182/></FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Use_6_162.png",
     "duration": 3000,
+    "overlapflag": 0
+  },
+  "77301183": {
+    "id": 77301183,
+    "name": "상점 장비 아이템",
+    "desc": "",
+    "icon": "Use_6_162.png",
+    "duration": -1,
     "overlapflag": 0
   },
   "77301190": {
     "id": 77301190,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_57.png",
+    "icon": "Buff_354.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301191": {
     "id": 77301191,
-    "name": "Disrespect",
-    "desc": "Defense -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF PassiveOptionValue0 77301191/></FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_354.png",
     "duration": 3000,
     "overlapflag": 0
   },
   "77301192": {
     "id": 77301192,
-    "name": "Scorning the Weak",
-    "desc": "Defense -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF PassiveOptionValue0 77301192/></FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_354.png",
     "duration": 3000,
     "overlapflag": 0
@@ -727,24 +754,24 @@
   },
   "77301201": {
     "id": 77301201,
-    "name": "Deception",
-    "desc": "Move Speed further increases by <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77301201/>/100 />%</FONT>. Upon landing an attack on an adventurer, inflict powerful Damage.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_137.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301204": {
     "id": 77301204,
-    "name": "Deception",
-    "desc": "Getting ready to unleash a nightmare on foes.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_137.png",
     "duration": 30000,
     "overlapflag": 0
   },
   "77301205": {
     "id": 77301205,
-    "name": "Deception",
-    "desc": "Atk./Move Speed decrease by <FONT COLOR='#ff9999'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77301201/>/100 />%</FONT>. Enter Darkness status with reduced sight range.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_64.png",
     "duration": 2000,
     "overlapflag": 0
@@ -759,24 +786,24 @@
   },
   "77301211": {
     "id": 77301211,
-    "name": "Ambush Master",
-    "desc": "Inflict harsh Damage upon attacking Pushed adventurers or adventurers with a debuff.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_341.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301212": {
     "id": 77301212,
-    "name": "Ambush Master",
-    "desc": "Getting ready to ambush the foe.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "PO_Skill_01_0.png",
     "duration": 15000,
     "overlapflag": 0
   },
   "77301215": {
     "id": 77301215,
-    "name": "Bloody Curtain",
-    "desc": "Incoming Damage from adventurers decreases by <FONT COLOR='#99ff99'><$CALC <$TABLE_COMBATEFFECT Action1ArgA 77301216 />/100/>%</FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_428.png",
     "duration": 3000,
     "overlapflag": 0
@@ -791,7 +818,7 @@
   },
   "77301221": {
     "id": 77301221,
-    "name": "Healing Scroll",
+    "name": "상점 장비 아이템",
     "desc": "",
     "icon": "All_Quest_04_123.png",
     "duration": 2000,
@@ -807,16 +834,16 @@
   },
   "77301223": {
     "id": 77301223,
-    "name": "Healing Scroll",
-    "desc": "You can use a healing scroll.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "All_Quest_04_123.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301224": {
     "id": 77301224,
-    "name": "Healing Scroll",
-    "desc": "Healing scroll is in cooldown.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "All_Quest_04_123.png",
     "duration": 4000,
     "overlapflag": 0
@@ -825,7 +852,7 @@
     "id": 77301230,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_95.png",
+    "icon": "Buff_60.png",
     "duration": -1,
     "overlapflag": 0
   },
@@ -839,24 +866,24 @@
   },
   "77301232": {
     "id": 77301232,
-    "name": "Ancient Brand",
-    "desc": "Damage received -<FONT COLOR='#ff9999'><$CALC (<$TABLE_SKILLBUFF ValueH 77301232/>/100)/>%</FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_60.png",
     "duration": 4000,
     "overlapflag": 0
   },
   "77301233": {
     "id": 77301233,
-    "name": "Ancient Brand",
-    "desc": "Outgoing Damage +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77301233/>/100 />%</FONT>, Move Speed +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77301233/>/100 />%</FONT>, and every second, heal for <FONT COLOR='#99ff99'><$CALC (<$TABLE_SKILLBUFF ValueB 77301233/>/100)/>%</FONT> of a branded target's Max HP.",
-    "icon": "Buff_60.png",
+    "name": "상점 장비 아이템",
+    "desc": "",
+    "icon": "Buff_66.png",
     "duration": 3000,
     "overlapflag": 0
   },
   "77301234": {
     "id": 77301234,
-    "name": "Ancient Brand",
-    "desc": "Getting ready to create an Ancient Brand.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_60.png",
     "duration": 8000,
     "overlapflag": 0
@@ -871,8 +898,8 @@
   },
   "77301241": {
     "id": 77301241,
-    "name": "Unity Aura",
-    "desc": "Ready to be unified with allies.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_449.png",
     "duration": -1,
     "overlapflag": 0
@@ -887,24 +914,24 @@
   },
   "77301243": {
     "id": 77301243,
-    "name": "Unity",
-    "desc": "Atk. Power +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue0 77301243/></FONT>, Crit Rate +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77301243/>/100 />%</FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_450.png",
     "duration": 8000,
     "overlapflag": 0
   },
   "77301244": {
     "id": 77301244,
-    "name": "Unity Shield",
-    "desc": "Gain a shield that absorbs damage equal to <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueC 77301244/>/100 />%</FONT> of Max HP.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_239.png",
     "duration": 3000,
     "overlapflag": 0
   },
   "77301245": {
     "id": 77301245,
-    "name": "Unity",
-    "desc": "Getting ready to be unified with allies.\n\nEach time you land an attack on a foe, <FONT COLOR='#ffffac'>Unity</FONT> cooldown decreases by <FONT COLOR='#99ff99'>1s</FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_449.png",
     "duration": 40000,
     "overlapflag": 0
@@ -919,8 +946,8 @@
   },
   "77301251": {
     "id": 77301251,
-    "name": "Song of the Wind",
-    "desc": "Swiftness, Endurance, and Expertise +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue0 77301251/></FONT>.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Buff_328.png",
     "duration": -1,
     "overlapflag": 0
@@ -929,14 +956,14 @@
     "id": 77301260,
     "name": "상점 장비 아이템",
     "desc": "",
-    "icon": "Buff_95.png",
+    "icon": "Use_6_153.png",
     "duration": -1,
     "overlapflag": 0
   },
   "77301263": {
     "id": 77301263,
-    "name": "Poison",
-    "desc": "Move Speed decreases by <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77301263/>/100 />%</FONT>. Receive Poison Damage equal to <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueB 77301263/>%</FONT> of Max HP every 1s.",
+    "name": "상점 장비 아이템",
+    "desc": "",
     "icon": "Use_6_153.png",
     "duration": 3000,
     "overlapflag": 0
@@ -951,8 +978,8 @@
   },
   "77300091": {
     "id": 77300091,
-    "name": "Shurelya's Reverie",
-    "desc": "Move Speed +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77300091/>/100 />%</FONT>. Atk. Speed +<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77300091/>/100 />%</FONT>.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Voyage_Skill_22.png",
     "duration": 6000,
     "overlapflag": 0
@@ -967,32 +994,32 @@
   },
   "77300102": {
     "id": 77300102,
-    "name": "Seto Punch",
-    "desc": "You are enthralled by Seto's magnificence!",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "PO_Skill_01_87.png",
     "duration": 8000,
     "overlapflag": 0
   },
   "77300110": {
     "id": 77300110,
-    "name": "Hard as a Turtle Shell",
-    "desc": "Creates a shield equal to <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueC 77300110/>/100 />%</FONT> of Max HP.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "All_Quest_03_177.png",
     "duration": 7000,
     "overlapflag": 0
   },
   "77300111": {
     "id": 77300111,
-    "name": "Slow as a Turtle",
-    "desc": "Atk. Power -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF PassiveOptionValue0 77300111/></FONT>, Move Speed -<FONT COLOR='#ff9999'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77300111/>/100 />%</FONT>.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "All_Quest_03_177.png",
     "duration": 7000,
     "overlapflag": 0
   },
   "77300120": {
     "id": 77300120,
-    "name": "Living Musket",
-    "desc": "Living Musket takes aim at foes ahead.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Buff_340.png",
     "duration": 2700,
     "overlapflag": 0
@@ -1007,8 +1034,8 @@
   },
   "77300132": {
     "id": 77300132,
-    "name": "Wriggle's Lantern",
-    "desc": "Move Speed -<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77300132/>/100 />%</FONT>.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "All_Quest_01_48.png",
     "duration": 3000,
     "overlapflag": 0
@@ -1016,39 +1043,39 @@
   "77300133": {
     "id": 77300133,
     "name": "상점 장비 아이템",
-    "desc": "Heals <FONT COLOR='#99ff99'><$CALC (<$TABLE_SKILLBUFF ValueB 77300133/>*3)/100/>%</FONT> of Max HP for <$MACRO bufftime @1:77300133/>s.",
+    "desc": "",
     "icon": "All_Quest_02_44.png",
     "duration": 3000,
     "overlapflag": 0
   },
   "77300140": {
     "id": 77300140,
-    "name": "Arcturus's Breath",
-    "desc": "Absorbs damage equal to <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF ValueC 77300140/>/100 />%</FONT> of Max HP.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Buff_412.png",
     "duration": 4000,
     "overlapflag": 0
   },
   "77300141": {
     "id": 77300141,
-    "name": "Arcturus's Breath",
-    "desc": "Defense +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue0 77300141/></FONT>.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Buff_419.png",
     "duration": 6000,
     "overlapflag": 0
   },
   "77300150": {
     "id": 77300150,
-    "name": "Fruitful Protection",
-    "desc": "Heals all allies within <FONT COLOR='#ffff99'>4 meters</FONT> by <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLEFFECT ValueD 77300151 />/100/>%</FONT> of Max HP every 1s.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Buff_0.png",
     "duration": 500,
     "overlapflag": 0
   },
   "77300151": {
     "id": 77300151,
-    "name": "",
-    "desc": "Heals all allies within <FONT COLOR='#ffff99'>4 meters</FONT> by <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLEFFECT ValueD 77300152 />/100/>%</FONT> of Max HP every 1s.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "achieve_14_162.png",
     "duration": 8000,
     "overlapflag": 0
@@ -1061,19 +1088,33 @@
     "duration": -1,
     "overlapflag": 0
   },
-  "77300155": { "id": 77300155, "name": "", "desc": "", "icon": "Buff_188.png", "duration": 3000, "overlapflag": 0 },
-  "77300156": { "id": 77300156, "name": "", "desc": "", "icon": "Buff_175.png", "duration": 5000, "overlapflag": 0 },
+  "77300155": {
+    "id": 77300155,
+    "name": "상점 액티브 아이템",
+    "desc": "",
+    "icon": "Buff_188.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "77300156": {
+    "id": 77300156,
+    "name": "상점 액티브 아이템",
+    "desc": "",
+    "icon": "Buff_175.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
   "77300162": {
     "id": 77300162,
-    "name": "Freeze Grenade",
-    "desc": "Frozen and unable to attack target.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Battle_Item_01_83.png",
     "duration": 4000,
     "overlapflag": 0
   },
   "77300163": {
     "id": 77300163,
-    "name": "Freeze Grenade",
+    "name": "상점 액티브 아이템",
     "desc": "",
     "icon": "Battle_Item_01_83.png",
     "duration": 4000,
@@ -1089,56 +1130,56 @@
   },
   "77300170": {
     "id": 77300170,
-    "name": "Torch Storm",
-    "desc": "<FONT COLOR='#ffbb00'>Flame of Torch</FONT>: Inflicts Damage to nearby foes equal to <FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLEFFECT ValueB 77300170 />/100/>%</FONT> of their Max HP. If the foe is an adventurer, Move Speed -<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77300172/>/100 />%</FONT> and Atk. Speed -<FONT COLOR='#99ff99'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77300172/>/100 />%</FONT> for <$MACRO bufftime @1:77300172/>s.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Buff_219.png",
     "duration": 8000,
     "overlapflag": 0
   },
   "77300172": {
     "id": 77300172,
-    "name": "Flame of Torch",
-    "desc": "Move Speed -<FONT COLOR='#ff9999'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 77300172/>/100 />%</FONT>. Atk. Speed -<FONT COLOR='#ff9999'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue1 77300172/>/100 />%</FONT>.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Buff_219.png",
     "duration": 2000,
     "overlapflag": 0
   },
   "77300180": {
     "id": 77300180,
-    "name": "Sword of the Divine",
-    "desc": "Significantly increases Atk./Move Speed and Crit Rate increases by <FONT COLOR='#99ff99'><$CALC <$TABLE_COMBATEFFECT Action0ArgA 77300180 />/100/>%</FONT>. ",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Buff_275.png",
     "duration": 6000,
     "overlapflag": 0
   },
   "77300190": {
     "id": 77300190,
-    "name": "Randuin's Omen",
-    "desc": "Defense +<FONT COLOR='#99ff99'><$TABLE_SKILLBUFF PassiveOptionValue0 389425/></FONT>.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Ability_43.png",
     "duration": 3000,
     "overlapflag": 0
   },
   "77300191": {
     "id": 77300191,
-    "name": "Randuin's Omen",
-    "desc": "Move Speed -<FONT COLOR='#ff9999'><$CALC <$TABLE_SKILLBUFF PassiveOptionValue0 389426/>/100 />%</FONT>. Defense -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF PassiveOptionValue1 389426/></FONT>.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Ability_43.png",
     "duration": 5000,
     "overlapflag": 0
   },
   "77300200": {
     "id": 77300200,
-    "name": "Rechargable Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$TABLE_SKILLBUFF ValueB 77300200/></FONT> HP every 1s.",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Battle_Item_01_80.png",
     "duration": 10000,
     "overlapflag": 0
   },
   "77300212": {
     "id": 77300212,
-    "name": "Clown",
-    "desc": "You became a <FONT COLOR='#ffbb00'>clown</FONT>!",
+    "name": "상점 액티브 아이템",
+    "desc": "",
     "icon": "Buff_407.png",
     "duration": 4000,
     "overlapflag": 0
@@ -1159,28 +1200,27 @@
     "duration": 1000,
     "overlapflag": 0
   },
-  "77300233": { "id": 77300233, "name": "", "desc": "", "icon": "Buff_169.png", "duration": -1, "overlapflag": 0 },
-  "389996": {
-    "id": 389996,
-    "name": "경직면역 Test",
+  "77300233": {
+    "id": 77300233,
+    "name": "상점 액티브 아이템",
     "desc": "",
-    "icon": "Buff_0.png",
+    "icon": "Buff_169.png",
     "duration": -1,
     "overlapflag": 0
   },
-  "389997": {
-    "id": 389997,
-    "name": "Upgrade",
-    "desc": "The character grows.\nAtk. Power and Vitality increases every minute.",
-    "icon": "Buff_472.png",
-    "duration": -1,
-    "overlapflag": 99
-  },
-  "389999": {
-    "id": 389999,
-    "name": "스킬4개 Test",
+  "77300234": {
+    "id": 77300234,
+    "name": "상점 액티브 아이템",
     "desc": "",
-    "icon": "Buff_15.png",
+    "icon": "Buff_527.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "77399999": {
+    "id": 77399999,
+    "name": "AOS Test 버프",
+    "desc": "",
+    "icon": "Buff_569.png",
     "duration": -1,
     "overlapflag": 0
   },
@@ -1229,7 +1269,7 @@
     "name": "내부 타워 보호막 버프",
     "desc": "",
     "icon": "Buff_0.png",
-    "duration": 315000,
+    "duration": 495000,
     "overlapflag": 99
   },
   "77380040": {
@@ -2317,7 +2357,7 @@
   "605020022": {
     "id": 605020022,
     "name": "Circulate II",
-    "desc": "Crit Damage +<FONT COLOR='#99ff99'>6%</FONT>.",
+    "desc": "Crit Rate +<FONT COLOR='#99ff99'>6%</FONT>.",
     "icon": "Buff_217.png",
     "duration": 10000,
     "overlapflag": 0
@@ -4097,7 +4137,7 @@
   "800105": {
     "id": 800105,
     "name": "Explosive Rum Barrel",
-    "desc": "Rum? No, a bomb!<BR>Ship Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
+    "desc": "Rum? No, a bomb!\nShip Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
     "icon": "Buff_198.png",
     "duration": 3000,
     "overlapflag": 0
@@ -4225,7 +4265,7 @@
   "800131": {
     "id": 800131,
     "name": "Explosive Rum Barrel",
-    "desc": "Rum? No, a bomb!<BR>Ship Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
+    "desc": "Rum? No, a bomb!\nShip Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
     "icon": "Buff_198.png",
     "duration": 3000,
     "overlapflag": 0
@@ -4233,7 +4273,7 @@
   "800132": {
     "id": 800132,
     "name": "Explosive Rum Barrel",
-    "desc": "Rum? No, a bomb!<BR>Ship Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
+    "desc": "Rum? No, a bomb!\nShip Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
     "icon": "Buff_198.png",
     "duration": 3000,
     "overlapflag": 0
@@ -4241,7 +4281,7 @@
   "800133": {
     "id": 800133,
     "name": "Explosive Rum Barrel",
-    "desc": "Rum? No, a bomb!<BR>Ship Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
+    "desc": "Rum? No, a bomb!\nShip Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
     "icon": "Buff_198.png",
     "duration": 3000,
     "overlapflag": 0
@@ -4249,7 +4289,7 @@
   "800134": {
     "id": 800134,
     "name": "Explosive Rum Barrel",
-    "desc": "Rum? No, a bomb!<BR>Ship Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
+    "desc": "Rum? No, a bomb!\nShip Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
     "icon": "Buff_198.png",
     "duration": 3000,
     "overlapflag": 0
@@ -4257,7 +4297,7 @@
   "800135": {
     "id": 800135,
     "name": "Explosive Rum Barrel",
-    "desc": "Rum? No, a bomb!<BR>Ship Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
+    "desc": "Rum? No, a bomb!\nShip Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
     "icon": "Buff_198.png",
     "duration": 3000,
     "overlapflag": 0
@@ -4265,7 +4305,7 @@
   "800136": {
     "id": 800136,
     "name": "Explosive Rum Barrel",
-    "desc": "Rum? No, a bomb!<BR>Ship Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
+    "desc": "Rum? No, a bomb!\nShip Durability -<FONT COLOR='#ff9999'>50</FONT> to <FONT COLOR='#ff9999'>100</FONT>.",
     "icon": "Buff_198.png",
     "duration": 3000,
     "overlapflag": 0
@@ -5776,7 +5816,7 @@
   "852103": {
     "id": 852103,
     "name": "Broken Engine V",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852102/></FONT>.<BR>The Sandstorm reduces sight range.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852102/></FONT>.\nThe Sandstorm reduces sight range.",
     "icon": "Voyage_Skill_28.png",
     "duration": 15000,
     "overlapflag": 0
@@ -5800,7 +5840,7 @@
   "852113": {
     "id": 852113,
     "name": "Broken Engine IV",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852112/></FONT>.<BR>The Sandstorm reduces sight range.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852112/></FONT>.\nThe Sandstorm reduces sight range.",
     "icon": "Voyage_Skill_28.png",
     "duration": 15000,
     "overlapflag": 0
@@ -5824,7 +5864,7 @@
   "852123": {
     "id": 852123,
     "name": "Broken Engine III",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852122/></FONT>.<BR>The Sandstorm reduces sight range.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852122/></FONT>.\nThe Sandstorm reduces sight range.",
     "icon": "Voyage_Skill_28.png",
     "duration": 10000,
     "overlapflag": 0
@@ -5848,7 +5888,7 @@
   "852133": {
     "id": 852133,
     "name": "Broken Engine II",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852132/></FONT>.<BR>The Sandstorm reduces sight range.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852132/></FONT>.\nThe Sandstorm reduces sight range.",
     "icon": "Voyage_Skill_28.png",
     "duration": 5000,
     "overlapflag": 0
@@ -5872,7 +5912,7 @@
   "852143": {
     "id": 852143,
     "name": "Broken Engine I",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852142/></FONT>.<BR>The Sandstorm reduces sight range.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852142/></FONT>.\nThe Sandstorm reduces sight range.",
     "icon": "Voyage_Skill_28.png",
     "duration": 5000,
     "overlapflag": 0
@@ -5888,7 +5928,7 @@
   "852202": {
     "id": 852202,
     "name": "Seduction V",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852202/></FONT>.<BR>The ship is under a Siren's spell and cannot sail.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852202/></FONT>.\nThe ship is under a Siren's spell and cannot sail.",
     "icon": "Buff_205.png",
     "duration": 3000,
     "overlapflag": 0
@@ -5912,7 +5952,7 @@
   "852212": {
     "id": 852212,
     "name": "Seduction IV",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852212/></FONT>.<BR>The ship is under a Siren's spell and cannot sail.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852212/></FONT>.\nThe ship is under a Siren's spell and cannot sail.",
     "icon": "Buff_205.png",
     "duration": 3000,
     "overlapflag": 0
@@ -5936,7 +5976,7 @@
   "852222": {
     "id": 852222,
     "name": "Seduction III",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852222/></FONT>.<BR>The ship is under a Siren's spell and cannot sail.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852222/></FONT>.\nThe ship is under a Siren's spell and cannot sail.",
     "icon": "Buff_205.png",
     "duration": 3000,
     "overlapflag": 0
@@ -5960,7 +6000,7 @@
   "852232": {
     "id": 852232,
     "name": "Seduction II",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852232/></FONT>.<BR>The ship is under a Siren's spell and cannot sail.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852232/></FONT>.\nThe ship is under a Siren's spell and cannot sail.",
     "icon": "Buff_205.png",
     "duration": 3000,
     "overlapflag": 0
@@ -5984,7 +6024,7 @@
   "852242": {
     "id": 852242,
     "name": "Seduction I",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852242/></FONT>.<BR>The ship is under a Siren's spell and cannot sail.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852242/></FONT>.\nThe ship is under a Siren's spell and cannot sail.",
     "icon": "Buff_205.png",
     "duration": 3000,
     "overlapflag": 0
@@ -6000,7 +6040,7 @@
   "852301": {
     "id": 852301,
     "name": "Tempest: Hazardous",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852301/></FONT>.<FONT COLOR='#ffff99'>every 5s</FONT>.<BR>Fast Sailing gauge -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852302/></FONT> <FONT COLOR='#ffff99'>every 15s</FONT>.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852301/></FONT>.<FONT COLOR='#ffff99'>every 5s</FONT>.\nFast Sailing gauge -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852302/></FONT> <FONT COLOR='#ffff99'>every 15s</FONT>.",
     "icon": "Buff_196.png",
     "duration": -1,
     "overlapflag": 0
@@ -6024,7 +6064,7 @@
   "852304": {
     "id": 852304,
     "name": "Sail Damage V",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852303/></FONT>.<BR>Unable to use skills because of Sail Damage.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852303/></FONT>.\nUnable to use skills because of Sail Damage.",
     "icon": "Voyage_Skill_26.png",
     "duration": 30000,
     "overlapflag": 0
@@ -6032,7 +6072,7 @@
   "852311": {
     "id": 852311,
     "name": "Tempest: Very Vulnerable",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852311/></FONT>.<FONT COLOR='#ffff99'>every 5s</FONT>.<BR>Fast Sailing gauge -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852312/></FONT> <FONT COLOR='#ffff99'>every 15s</FONT>.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852311/></FONT>.<FONT COLOR='#ffff99'>every 5s</FONT>.\nFast Sailing gauge -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852312/></FONT> <FONT COLOR='#ffff99'>every 15s</FONT>.",
     "icon": "Buff_196.png",
     "duration": -1,
     "overlapflag": 0
@@ -6056,7 +6096,7 @@
   "852314": {
     "id": 852314,
     "name": "Sail Damage IV",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852313/></FONT>.<BR>Unable to use skills because of Sail Damage.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852313/></FONT>.\nUnable to use skills because of Sail Damage.",
     "icon": "Voyage_Skill_26.png",
     "duration": 20000,
     "overlapflag": 0
@@ -6064,7 +6104,7 @@
   "852321": {
     "id": 852321,
     "name": "Tempest: Vulnerable",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852321/></FONT>.<FONT COLOR='#ffff99'>every 15s</FONT>.<BR>Fast Sailing gauge -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852322/></FONT> <FONT COLOR='#ffff99'>every 15s</FONT>.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852321/></FONT>.<FONT COLOR='#ffff99'>every 15s</FONT>.\nFast Sailing gauge -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852322/></FONT> <FONT COLOR='#ffff99'>every 15s</FONT>.",
     "icon": "Buff_196.png",
     "duration": -1,
     "overlapflag": 0
@@ -6088,7 +6128,7 @@
   "852324": {
     "id": 852324,
     "name": "Sail Damage III",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852323/></FONT>.<BR>Unable to use skills because of Sail Damage.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852323/></FONT>.\nUnable to use skills because of Sail Damage.",
     "icon": "Voyage_Skill_26.png",
     "duration": 10000,
     "overlapflag": 0
@@ -6096,7 +6136,7 @@
   "852331": {
     "id": 852331,
     "name": "Tempest: Normal",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852331/></FONT>.<FONT COLOR='#ffff99'>every 30s</FONT>.<BR>Fast Sailing gauge -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852332/></FONT> <FONT COLOR='#ffff99'>every 15s</FONT>.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852331/></FONT>.<FONT COLOR='#ffff99'>every 30s</FONT>.\nFast Sailing gauge -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852332/></FONT> <FONT COLOR='#ffff99'>every 15s</FONT>.",
     "icon": "Buff_196.png",
     "duration": -1,
     "overlapflag": 0
@@ -6120,7 +6160,7 @@
   "852334": {
     "id": 852334,
     "name": "Sail Damage II",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852333/></FONT>.<BR>Unable to use skills because of Sail Damage.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852333/></FONT>.\nUnable to use skills because of Sail Damage.",
     "icon": "Voyage_Skill_26.png",
     "duration": 5000,
     "overlapflag": 0
@@ -6128,7 +6168,7 @@
   "852341": {
     "id": 852341,
     "name": "Tempest: Resistant",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852341/></FONT>.<FONT COLOR='#ffff99'>every 45s</FONT>.<BR>Fast Sailing gauge -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852342/></FONT> <FONT COLOR='#ffff99'>every 15s</FONT>.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852341/></FONT>.<FONT COLOR='#ffff99'>every 45s</FONT>.\nFast Sailing gauge -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852342/></FONT> <FONT COLOR='#ffff99'>every 15s</FONT>.",
     "icon": "Buff_196.png",
     "duration": -1,
     "overlapflag": 0
@@ -6152,7 +6192,7 @@
   "852344": {
     "id": 852344,
     "name": "Sail Damage I",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852343/></FONT>.<BR>Unable to use skills because of Sail Damage.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852343/></FONT>.\nUnable to use skills because of Sail Damage.",
     "icon": "Voyage_Skill_26.png",
     "duration": 5000,
     "overlapflag": 0
@@ -6160,7 +6200,7 @@
   "852401": {
     "id": 852401,
     "name": "Cold Snap: Hazardous",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852401/></FONT>.<FONT COLOR='#ffff99'>every 5s</FONT>.<BR>Lose an additional <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852402/></FONT> Ship Durability while sailing.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852401/></FONT>.<FONT COLOR='#ffff99'>every 5s</FONT>.\nLose an additional <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852402/></FONT> Ship Durability while sailing.",
     "icon": "Buff_197.png",
     "duration": -1,
     "overlapflag": 0
@@ -6192,7 +6232,7 @@
   "852411": {
     "id": 852411,
     "name": "Cold Snap: Very Vulnerable",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852411/></FONT>.<FONT COLOR='#ffff99'>every 5s</FONT>.<BR>Lose an additional <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852412/></FONT> Ship Durability while sailing.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852411/></FONT>.<FONT COLOR='#ffff99'>every 5s</FONT>.\nLose an additional <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852412/></FONT> Ship Durability while sailing.",
     "icon": "Buff_197.png",
     "duration": -1,
     "overlapflag": 0
@@ -6224,7 +6264,7 @@
   "852421": {
     "id": 852421,
     "name": "Cold Snap: Vulnerable",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852421/></FONT>.<FONT COLOR='#ffff99'>every 15s</FONT>.<BR>Lose an additional <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852422/></FONT> Ship Durability while sailing.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852421/></FONT>.<FONT COLOR='#ffff99'>every 15s</FONT>.\nLose an additional <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852422/></FONT> Ship Durability while sailing.",
     "icon": "Buff_197.png",
     "duration": -1,
     "overlapflag": 0
@@ -6256,7 +6296,7 @@
   "852431": {
     "id": 852431,
     "name": "Cold Snap: Normal",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852431/></FONT>.<FONT COLOR='#ffff99'>every 45s</FONT>.<BR>Lose an additional <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852432/></FONT> Ship Durability while sailing.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852431/></FONT>.<FONT COLOR='#ffff99'>every 45s</FONT>.\nLose an additional <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852432/></FONT> Ship Durability while sailing.",
     "icon": "Buff_197.png",
     "duration": -1,
     "overlapflag": 0
@@ -6288,7 +6328,7 @@
   "852441": {
     "id": 852441,
     "name": "Cold Snap: Resistant",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852441/></FONT>.<FONT COLOR='#ffff99'>every 45s</FONT>.<BR>Lose an additional <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852442/></FONT> Ship Durability while sailing.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852441/></FONT>.<FONT COLOR='#ffff99'>every 45s</FONT>.\nLose an additional <FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852442/></FONT> Ship Durability while sailing.",
     "icon": "Buff_197.png",
     "duration": -1,
     "overlapflag": 0
@@ -6320,7 +6360,7 @@
   "852501": {
     "id": 852501,
     "name": "Dead: Hazardous",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852501/></FONT>.<FONT COLOR='#ffff99'>every 10s</FONT>.<BR>Sailing Speed -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:852502/>%</FONT>.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852501/></FONT>.<FONT COLOR='#ffff99'>every 10s</FONT>.\nSailing Speed -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:852502/>%</FONT>.",
     "icon": "Buff_193.png",
     "duration": -1,
     "overlapflag": 0
@@ -6344,7 +6384,7 @@
   "852505": {
     "id": 852505,
     "name": "Fear V",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852504/></FONT>.<BR>Fear lingers and reduces sight range.<BR>The crew are terrified and are unable to use skills.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852504/></FONT>.\nFear lingers and reduces sight range.\nThe crew are terrified and are unable to use skills.",
     "icon": "Buff_209.png",
     "duration": 30000,
     "overlapflag": 0
@@ -6360,7 +6400,7 @@
   "852511": {
     "id": 852511,
     "name": "Dead: Very Vulnerable",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852511/></FONT>.<FONT COLOR='#ffff99'>every 10s</FONT>.<BR>Sailing Speed -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:852512/>%</FONT>.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852511/></FONT>.<FONT COLOR='#ffff99'>every 10s</FONT>.\nSailing Speed -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:852512/>%</FONT>.",
     "icon": "Buff_193.png",
     "duration": -1,
     "overlapflag": 0
@@ -6384,7 +6424,7 @@
   "852515": {
     "id": 852515,
     "name": "Fear IV",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852514/></FONT>.<BR>Fear lingers and reduces sight range.<BR>The crew are terrified and are unable to use skills.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852514/></FONT>.\nFear lingers and reduces sight range.\nThe crew are terrified and are unable to use skills.",
     "icon": "Buff_209.png",
     "duration": 15000,
     "overlapflag": 0
@@ -6400,7 +6440,7 @@
   "852521": {
     "id": 852521,
     "name": "Dead: Vulnerable",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852521/></FONT>.<FONT COLOR='#ffff99'>every 30s</FONT>.<BR>Sailing Speed -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:852522/>%</FONT>.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852521/></FONT>.<FONT COLOR='#ffff99'>every 30s</FONT>.\nSailing Speed -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:852522/>%</FONT>.",
     "icon": "Buff_193.png",
     "duration": -1,
     "overlapflag": 0
@@ -6417,7 +6457,7 @@
   "852524": {
     "id": 852524,
     "name": "Fear III",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852523/></FONT>.<BR>Fear lingers and reduces sight range.<BR>The crew are terrified and are unable to use skills.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852523/></FONT>.\nFear lingers and reduces sight range.\nThe crew are terrified and are unable to use skills.",
     "icon": "Buff_209.png",
     "duration": 15000,
     "overlapflag": 0
@@ -6433,7 +6473,7 @@
   "852531": {
     "id": 852531,
     "name": "Dead: Normal",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852531/></FONT>.<FONT COLOR='#ffff99'>every 120s</FONT>.<BR>Sailing Speed -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:852532/>%</FONT>.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852531/></FONT>.<FONT COLOR='#ffff99'>every 120s</FONT>.\nSailing Speed -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:852532/>%</FONT>.",
     "icon": "Buff_193.png",
     "duration": -1,
     "overlapflag": 0
@@ -6450,7 +6490,7 @@
   "852534": {
     "id": 852534,
     "name": "Fear II",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852533/></FONT>.<BR>Fear lingers and reduces sight range.<BR>The crew are terrified and are unable to use skills.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852533/></FONT>.\nFear lingers and reduces sight range.\nThe crew are terrified and are unable to use skills.",
     "icon": "Buff_209.png",
     "duration": 8000,
     "overlapflag": 0
@@ -6459,7 +6499,7 @@
   "852541": {
     "id": 852541,
     "name": "Dead: Resistant",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852541/></FONT>.<FONT COLOR='#ffff99'>every 120s</FONT>.<BR>Sailing Speed -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:852542/>%</FONT>.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852541/></FONT>.<FONT COLOR='#ffff99'>every 120s</FONT>.\nSailing Speed -<FONT COLOR='#ff9999'><$MACRO buffstat0_100 @1:852542/>%</FONT>.",
     "icon": "Buff_193.png",
     "duration": -1,
     "overlapflag": 0
@@ -6476,7 +6516,7 @@
   "852544": {
     "id": 852544,
     "name": "Fear I",
-    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852543/></FONT>.<BR>Fear lingers and reduces sight range.<BR>The crew are terrified and are unable to use skills.",
+    "desc": "Ship Durability -<FONT COLOR='#ff9999'><$TABLE_SKILLBUFF ValueA 852543/></FONT>.\nFear lingers and reduces sight range.\nThe crew are terrified and are unable to use skills.",
     "icon": "Buff_209.png",
     "duration": 8000,
     "overlapflag": 0
@@ -7501,24 +7541,24 @@
   },
   "920019": {
     "id": 920019,
-    "name": "Flow of the Battlefield",
-    "desc": "Become inspired by the energy of battle and rush to join the fray. Move Speed +<FONT COLOR='#99ff99'>40%</FONT>.",
+    "name": "로웬RVR_전장_본진이속버프",
+    "desc": "",
     "icon": "Buff_166.png",
     "duration": 10000,
     "overlapflag": 0
   },
   "920020": {
     "id": 920020,
-    "name": "Aura of Recovery",
-    "desc": "Spread healing energy to nearby allies while the effect lasts.",
+    "name": "로웬RVR_전장_생명력지속회복_오라",
+    "desc": "",
     "icon": "Buff_7.png",
     "duration": 30000,
     "overlapflag": 0
   },
   "920021": {
     "id": 920021,
-    "name": "Energy of Recovery",
-    "desc": "Enshrouded by healing energy. Recovers <FONT COLOR='#99ff99'>2.5%</FONT> Vitality every <FONT COLOR='#99ff99'>1</FONT>s.",
+    "name": "로웬RVR_전장_생명력지속회복_오라용",
+    "desc": "",
     "icon": "Buff_7.png",
     "duration": -1,
     "overlapflag": 0
@@ -7541,8 +7581,8 @@
   },
   "920024": {
     "id": 920024,
-    "name": "Intense Sylmael Energy",
-    "desc": "The energy of recovery surrounds you. Atk. Power +<FONT COLOR='#99ff99'>30%</FONT>. Atk. Speed +<FONT COLOR='#99ff99'>15%</FONT>.",
+    "name": "로웬RVR_전장_공격력버프_오라용",
+    "desc": "",
     "icon": "Buff_15.png",
     "duration": 60000,
     "overlapflag": 0
@@ -7557,16 +7597,16 @@
   },
   "920026": {
     "id": 920026,
-    "name": "Intense Sylmael Aura",
-    "desc": "Spread bolstering energy to nearby allies while the effect lasts.",
+    "name": "로웬RVR_전장_실마엘버프_오라",
+    "desc": "",
     "icon": "Buff_15.png",
     "duration": 150000,
     "overlapflag": 0
   },
   "920027": {
     "id": 920027,
-    "name": "Intense Sylmael Energy",
-    "desc": "Brimming with intense Sylmael energy. Atk. Power +<FONT COLOR='#99ff99'>20%</FONT>, Move/Atk. Speed +<FONT COLOR='#99ff99'>40%</FONT>.",
+    "name": "로웬RVR_전장_실마엘버프_오라용",
+    "desc": "",
     "icon": "Buff_15.png",
     "duration": -1,
     "overlapflag": 0
@@ -7581,16 +7621,16 @@
   },
   "920030": {
     "id": 920030,
-    "name": "Battle Item Supply Limit",
-    "desc": "You can only receive Battle Item supplied once per Battlefield match.\nUnable to receive more supplies.",
+    "name": "로웬RVR_전장_보급 이용 불가 디버프",
+    "desc": "",
     "icon": "Buff_318.png",
     "duration": -1,
     "overlapflag": 0
   },
   "920031": {
     "id": 920031,
-    "name": "Mount: Sylmael Spirit Wolf",
-    "desc": "Mounted on a Sylmael Spirit Wolf.\nDismounted upon expiration.",
+    "name": "로웬RVR_전장_탈것 해제 시간 알림 버프",
+    "desc": "",
     "icon": "Buff_25.png",
     "duration": 120000,
     "overlapflag": 0
@@ -7959,6 +7999,46 @@
     "duration": -1,
     "overlapflag": 0
   },
+  "921859": {
+    "id": 921859,
+    "name": "Invincible",
+    "desc": "Become invincible. Invincibility is canceled upon using a basic attack or skill.",
+    "icon": "Buff_67.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "921860": {
+    "id": 921860,
+    "name": "Silence",
+    "desc": "Unable to use any skills while silenced.",
+    "icon": "Buff_53.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "921861": {
+    "id": 921861,
+    "name": "점령전_A급_두키심볼_블루/레드",
+    "desc": "",
+    "icon": "",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "921862": {
+    "id": 921862,
+    "name": "Elysium Energy",
+    "desc": "Powerful Elysium energy surrounds you. Move Speed +<FONT COLOR='#99ff99'>15%</FONT>, Atk. Speed +<FONT COLOR='#99ff99'>15%</FONT>.",
+    "icon": "Buff_425.png",
+    "duration": 40000,
+    "overlapflag": 0
+  },
+  "921863": {
+    "id": 921863,
+    "name": "Invincible",
+    "desc": "Become invincible. Invincibility is canceled upon using a basic attack or skill.",
+    "icon": "Buff_67.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
   "920100": {
     "id": 920100,
     "name": "Golden Eagle Battlefield Conqueror",
@@ -8258,25 +8338,26 @@
   "922140": {
     "id": 922140,
     "name": "Naked Battlefield",
-    "desc": "Stealthed foes within <FONT COLOR='#99ff99'>30 meters</FONT> can be detected.",
-    "icon": "GuildSkill_13.png",
-    "duration": 20000,
+    "desc": "Stealthed foes within <FONT COLOR='#99ff99'>24 meters</FONT> can be detected.",
+    "icon": "GuildSkill_16.png",
+    "duration": 15000,
     "overlapflag": 0
   },
   "922150": {
     "id": 922150,
-    "name": "Naked Battlefield",
-    "desc": "",
-    "icon": "GuildSkill_13.png",
-    "duration": 40000,
+    "name": "Battlefield Flare",
+    "desc": "Your location is revealed to the opposing team.",
+    "icon": "GuildSkill_17.png",
+    "duration": 30000,
     "overlapflag": 0
   },
+  "922151": { "id": 922151, "name": "", "desc": "", "icon": "", "duration": 3000, "overlapflag": 0 },
   "922160": {
     "id": 922160,
-    "name": "Naked Battlefield",
-    "desc": "",
-    "icon": "GuildSkill_13.png",
-    "duration": 20000,
+    "name": "Battlefield Debilitation",
+    "desc": "Damage taken +<FONT COLOR='#ff9999'>25%</FONT>.",
+    "icon": "GuildSkill_18.png",
+    "duration": 40000,
     "overlapflag": 0
   },
   "1090000": {
@@ -8626,7 +8707,7 @@
   "1090570": {
     "id": 1090570,
     "name": "The Sidereal's Two Students #1/2",
-    "desc": "The truth must be revealed. The next clue must be in the Evil Cave.\n\n<FONT COLOR=\"#FE2E2E\">Find the next piece of the story before Curiosity fades.</FONT>",
+    "desc": "The truth must be revealed. The next clue must be in the Foul Hollow.\n\n<FONT COLOR=\"#FE2E2E\">Find the next piece of the story before Curiosity fades.</FONT>",
     "icon": "Buff_59.png",
     "duration": 1800000,
     "overlapflag": 0
@@ -8754,7 +8835,7 @@
   "1090761": {
     "id": 1090761,
     "name": "Tarsila's Lullaby #2/3",
-    "desc": "There is a huge cave at the Lake of Eternity. I should hurry and look for it.\n\n<FONT COLOR=\"#FE2E2E\">Find the next piece of the story before Curiosity fades.</FONT>",
+    "desc": "There is a huge cave at the Lake Eternity. I should hurry and look for it.\n\n<FONT COLOR=\"#FE2E2E\">Find the next piece of the story before Curiosity fades.</FONT>",
     "icon": "Buff_59.png",
     "duration": 1200000,
     "overlapflag": 0
@@ -9058,7 +9139,7 @@
   "1091062": {
     "id": 1091062,
     "name": "History of the Umars #3/4",
-    "desc": "The phonograph is over. The next phonograph is somewhere around the Iron Hammer Mine.\n\n<FONT COLOR=\"#FE2E2E\">Find the next piece of the story before Curiosity fades.</FONT>",
+    "desc": "The gramophone has ended. The next gramophone is somewhere around the Iron Hammer Mine.\n\n<FONT COLOR=\"#FE2E2E\">Find the next piece of the story before Curiosity fades.</FONT>",
     "icon": "Buff_59.png",
     "duration": 1200000,
     "overlapflag": 0
@@ -9755,6 +9836,126 @@
     "id": 1091560,
     "name": "Lazenith Warrior Story #1/2",
     "desc": "Go to Ereonnor and find the next clue.\n\n<FONT COLOR=\"#FE2E2E\">Find the next piece of the story before your Curiosity fades.</FONT>",
+    "icon": "Buff_59.png",
+    "duration": 300000,
+    "overlapflag": 0
+  },
+  "1091600": {
+    "id": 1091600,
+    "name": "플레체_1_고독한 탐미가 아말론 #1",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 300000,
+    "overlapflag": 0
+  },
+  "1091601": {
+    "id": 1091601,
+    "name": "플레체_1_고독한 탐미가 아말론 #2",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 600000,
+    "overlapflag": 0
+  },
+  "1091602": {
+    "id": 1091602,
+    "name": "플레체_1_고독한 탐미가 아말론 #3",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 300000,
+    "overlapflag": 0
+  },
+  "1091603": {
+    "id": 1091603,
+    "name": "플레체_1_고독한 탐미가 아말론 #4",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 600000,
+    "overlapflag": 0
+  },
+  "1091610": {
+    "id": 1091610,
+    "name": "플레체_2_보물 찾기 #1",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 300000,
+    "overlapflag": 0
+  },
+  "1091611": {
+    "id": 1091611,
+    "name": "플레체_2_보물 찾기 #2",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 300000,
+    "overlapflag": 0
+  },
+  "1091612": {
+    "id": 1091612,
+    "name": "플레체_2_보물 찾기 #3",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 600000,
+    "overlapflag": 0
+  },
+  "1091613": {
+    "id": 1091613,
+    "name": "플레체_2_보물 찾기 #4",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 180000,
+    "overlapflag": 0
+  },
+  "1091614": {
+    "id": 1091614,
+    "name": "플레체_2_보물 찾기 #5",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 300000,
+    "overlapflag": 0
+  },
+  "1091620": {
+    "id": 1091620,
+    "name": "플레체_3_마르지 않는 향기 #1",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 300000,
+    "overlapflag": 0
+  },
+  "1091621": {
+    "id": 1091621,
+    "name": "플레체_3_마르지 않는 향기 #2",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 180000,
+    "overlapflag": 0
+  },
+  "1091622": {
+    "id": 1091622,
+    "name": "플레체_3_마르지 않는 향기 #3",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 180000,
+    "overlapflag": 0
+  },
+  "1091640": {
+    "id": 1091640,
+    "name": "플레체_5_플레체의 장미 #1",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 300000,
+    "overlapflag": 0
+  },
+  "1091641": {
+    "id": 1091641,
+    "name": "플레체_5_플레체의 장미 #2",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 300000,
+    "overlapflag": 0
+  },
+  "1091642": {
+    "id": 1091642,
+    "name": "플레체_5_플레체의 장미 #3",
+    "desc": "",
     "icon": "Buff_59.png",
     "duration": 300000,
     "overlapflag": 0
@@ -10728,7 +10929,14 @@
     "duration": -1,
     "overlapflag": 0
   },
-  "9050": { "id": 9050, "name": "", "desc": "", "icon": "Buff_59.png", "duration": 1800000, "overlapflag": 0 },
+  "9050": {
+    "id": 9050,
+    "name": "[퀘스트] 에메랄드 열쇠의 비밀",
+    "desc": "",
+    "icon": "Buff_59.png",
+    "duration": 1800000,
+    "overlapflag": 0
+  },
   "9051": {
     "id": 9051,
     "name": "[퀘스트]_공용연출버프_화염",
@@ -11039,7 +11247,7 @@
   "9114": {
     "id": 9114,
     "name": "Tenacious Aura",
-    "desc": "An aura exuded from those who proved their gallantry through countless battles.<BR>The surrounding air is filled with an emanation of virtuosity.",
+    "desc": "An aura exuded from those who proved their gallantry through countless battles.\nThe surrounding air is filled with an emanation of virtuosity.",
     "icon": "Buff_230.png",
     "duration": 300000,
     "overlapflag": 0
@@ -11047,7 +11255,7 @@
   "9115": {
     "id": 9115,
     "name": "Apex Aura",
-    "desc": "An aura exuded from those who have honed their combative skills to the ultimate level.<BR>The surrounding air is filled with an emanation of virtuosity.",
+    "desc": "An aura exuded from those who have honed their combative skills to the ultimate level.\nThe surrounding air is filled with an emanation of virtuosity.",
     "icon": "Buff_230.png",
     "duration": 300000,
     "overlapflag": 0
@@ -11087,7 +11295,7 @@
   "9182": {
     "id": 9182,
     "name": "Proving Aura",
-    "desc": "An aura that proves that the wearer has overcome the competition.<BR>It exudes the feeling of untouchability.",
+    "desc": "An aura that proves that the wearer has overcome the competition.\nIt exudes the feeling of untouchability.",
     "icon": "Buff_230.png",
     "duration": 1200000,
     "overlapflag": 0
@@ -11095,7 +11303,7 @@
   "9183": {
     "id": 9183,
     "name": "Aura of Glory",
-    "desc": "An aura that proves that the wearer has overwhelm the competitors with peerless skills.<BR>It exudes the feeling of untouchability.",
+    "desc": "An aura that proves that the wearer has overwhelm the competitors with peerless skills.\nIt exudes the feeling of untouchability.",
     "icon": "Buff_230.png",
     "duration": 1200000,
     "overlapflag": 0
@@ -11924,8 +12132,8 @@
   },
   "9309": {
     "id": 9309,
-    "name": "Invisibility Potion",
-    "desc": "You drank the Invisibility Potion that Sylus gave you.",
+    "name": "[퀘스트] 투명화 물약",
+    "desc": "",
     "icon": "Buff_35.png",
     "duration": 120000,
     "overlapflag": 0
@@ -12132,9 +12340,9 @@
   },
   "9505": {
     "id": 9505,
-    "name": "[퀘스트] 플레체_환영의 아우라",
-    "desc": "",
-    "icon": "",
+    "name": "Illusion Aura",
+    "desc": "The Yoz shaman's Illusion Stone reacts and summons an illusion aura.",
+    "icon": "Buff_325.png",
     "duration": 6500,
     "overlapflag": 0
   },
@@ -12184,6 +12392,316 @@
     "desc": "",
     "icon": "",
     "duration": 1000,
+    "overlapflag": 0
+  },
+  "9512": {
+    "id": 9512,
+    "name": "Illusion Powder",
+    "desc": "Trapped in a strange illusion, unable to do anything",
+    "icon": "All_Quest_04_226.png",
+    "duration": 30000,
+    "overlapflag": 0
+  },
+  "9513": {
+    "id": 9513,
+    "name": "Emotion Amplification Technique",
+    "desc": "Due to the Yoz's secret magick, emotions are amplified! Your body moves on its own according to your amplified emotions.",
+    "icon": "Buff_98.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "9514": {
+    "id": 9514,
+    "name": "Low Level Illusion Technique",
+    "desc": "Due to Yoz's secret magick, things that could not be seen before can now be seen. The cute illusion evokes a happy feeling.",
+    "icon": "Buff_217.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9515": {
+    "id": 9515,
+    "name": "Sweet Fruit Scent",
+    "desc": "Exudes a sweet fruit scent that tunnel foxes love.",
+    "icon": "Buff_221.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9516": {
+    "id": 9516,
+    "name": "Red Intuition",
+    "desc": "For some reason, I think there is a song recorded on the Red Gramophone.",
+    "icon": "Buff_228.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9517": {
+    "id": 9517,
+    "name": "Yellow Intuition",
+    "desc": "For some reason, I think there is a song recorded on the Yellow Gramophone.",
+    "icon": "Buff_230.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9518": {
+    "id": 9518,
+    "name": "Blue Intuition",
+    "desc": "For some reason, I think there is a song recorded on the Blue Gramophone.",
+    "icon": "Buff_229.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9519": {
+    "id": 9519,
+    "name": "[퀘스트] 아만의 과거 RP_모션 없는 스턴(10초)",
+    "desc": "",
+    "icon": "",
+    "duration": 10000,
+    "overlapflag": 0
+  },
+  "9520": { "id": 9520, "name": "[퀘스트] 이젤_마음에 듬", "desc": "", "icon": "", "duration": 5000, "overlapflag": 0 },
+  "9521": {
+    "id": 9521,
+    "name": "[퀘스트] 이젤_마음에 안 듬",
+    "desc": "",
+    "icon": "",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "9522": {
+    "id": 9522,
+    "name": "[퀘스트] 이젤_잘 모르겠음",
+    "desc": "",
+    "icon": "",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "9523": { "id": 9523, "name": "[퀘스트] 투고문_재밌음", "desc": "", "icon": "", "duration": 5000, "overlapflag": 0 },
+  "9524": { "id": 9524, "name": "[퀘스트] 투고문_웃김", "desc": "", "icon": "", "duration": 5000, "overlapflag": 0 },
+  "9525": {
+    "id": 9525,
+    "name": "[퀘스트] 투고문_오글거림",
+    "desc": "",
+    "icon": "Buff_39.png",
+    "duration": 2000,
+    "overlapflag": 0
+  },
+  "9526": { "id": 9526, "name": "[퀘스트] 투고문_지루함", "desc": "", "icon": "", "duration": 5000, "overlapflag": 0 },
+  "9527": {
+    "id": 9527,
+    "name": "[퀘스트] 투고문_매우 뛰어남",
+    "desc": "",
+    "icon": "",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "9528": { "id": 9528, "name": "[퀘스트] 투고문_이상함", "desc": "", "icon": "", "duration": 5000, "overlapflag": 0 },
+  "9529": { "id": 9529, "name": "[퀘스트] 투고문_표절", "desc": "", "icon": "", "duration": 5000, "overlapflag": 0 },
+  "9530": {
+    "id": 9530,
+    "name": "[퀘스트] 자크라의 환영의 아우라",
+    "desc": "",
+    "icon": "Buff_325.png",
+    "duration": 6500,
+    "overlapflag": 0
+  },
+  "9531": {
+    "id": 9531,
+    "name": "[퀘스트] 요동치는 악마의 힘1_PP_과거1",
+    "desc": "",
+    "icon": "",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9532": {
+    "id": 9532,
+    "name": "[퀘스트] 요동치는 악마의 힘2_PP_과거1",
+    "desc": "",
+    "icon": "",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9533": {
+    "id": 9533,
+    "name": "[퀘스트] 새어나오는 악마의 힘_과거1",
+    "desc": "",
+    "icon": "",
+    "duration": 12000,
+    "overlapflag": 0
+  },
+  "9534": {
+    "id": 9534,
+    "name": "[퀘스트] 요동치는 악마의 힘1_PP_과거2",
+    "desc": "",
+    "icon": "",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9535": {
+    "id": 9535,
+    "name": "[퀘스트] 요동치는 악마의 힘2_PP_과거2",
+    "desc": "",
+    "icon": "",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9536": {
+    "id": 9536,
+    "name": "[퀘스트] 요동치는 악마의 힘1_PP_과거3",
+    "desc": "",
+    "icon": "",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9537": {
+    "id": 9537,
+    "name": "[퀘스트] 요동치는 악마의 힘2_PP_과거3",
+    "desc": "",
+    "icon": "",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9538": {
+    "id": 9538,
+    "name": "[퀘스트] 암전_아만의 과거RP",
+    "desc": "",
+    "icon": "",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9539": {
+    "id": 9539,
+    "name": "[퀘스트] 빨강,노랑,파랑 직감 퀘스트 체크용",
+    "desc": "",
+    "icon": "",
+    "duration": 1500,
+    "overlapflag": 0
+  },
+  "9540": {
+    "id": 9540,
+    "name": "[퀘스트] 아만의 과거 RP_보물 쪽지1 획득 확인 버프",
+    "desc": "",
+    "icon": "",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "9541": {
+    "id": 9541,
+    "name": "[퀘스트] 아만의 과거 RP_보물 쪽지2 획득 확인 버프",
+    "desc": "",
+    "icon": "",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "9542": {
+    "id": 9542,
+    "name": "[퀘스트] 아만의 과거 RP_보물 쪽지3 획득 확인 버프",
+    "desc": "",
+    "icon": "",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "9543": {
+    "id": 9543,
+    "name": "[퀘스트] 아만의 과거 RP_보물 쪽지4 획득 확인 버프",
+    "desc": "",
+    "icon": "",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "9544": {
+    "id": 9544,
+    "name": "Eye for Beauty",
+    "desc": "With your high level of art, you can appreciate art from a different perspective. ",
+    "icon": "Achieve_06_63.png",
+    "duration": 600000,
+    "overlapflag": 0
+  },
+  "9545": {
+    "id": 9545,
+    "name": "Eye for Beauty",
+    "desc": "With your high level of art, you can appreciate art from a different perspective. ",
+    "icon": "Achieve_14_215.png",
+    "duration": 600000,
+    "overlapflag": 0
+  },
+  "9546": {
+    "id": 9546,
+    "name": "Eye for Beauty",
+    "desc": "With your high level of art, you can appreciate art from a different perspective. ",
+    "icon": "Achieve_14_205.png",
+    "duration": 600000,
+    "overlapflag": 0
+  },
+  "9547": {
+    "id": 9547,
+    "name": "Valuable Information #1",
+    "desc": "Heard the stories of the Cremona Village residents",
+    "icon": "Achieve_05_14.png",
+    "duration": 1200000,
+    "overlapflag": 0
+  },
+  "9548": {
+    "id": 9548,
+    "name": "Valuable Information #2",
+    "desc": "Heard the stories of the Hiliaberry Farm residents",
+    "icon": "Achieve_05_14.png",
+    "duration": 1200000,
+    "overlapflag": 0
+  },
+  "9549": {
+    "id": 9549,
+    "name": "Valuable Information #3",
+    "desc": "Heard the stories of the Peddlers",
+    "icon": "Achieve_05_14.png",
+    "duration": 1200000,
+    "overlapflag": 0
+  },
+  "9580": {
+    "id": 9580,
+    "name": "[퀘스트] 공용_감정 증폭 비술",
+    "desc": "",
+    "icon": "",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "9581": {
+    "id": 9581,
+    "name": "[퀘스트] 공용_하급 환영 비술_PP",
+    "desc": "",
+    "icon": "",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "9582": {
+    "id": 9582,
+    "name": "[퀘스트] 공용_달콤한 과일 향기",
+    "desc": "",
+    "icon": "",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "9583": {
+    "id": 9583,
+    "name": "[퀘스트] 공용_요동치는 악마의 힘1_PP",
+    "desc": "",
+    "icon": "",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "9584": {
+    "id": 9584,
+    "name": "[퀘스트] 공용_요동치는 악마의 힘2_PP",
+    "desc": "",
+    "icon": "",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "9585": {
+    "id": 9585,
+    "name": "[퀘스트] 공용_새어나오는 악마의 힘",
+    "desc": "",
+    "icon": "",
+    "duration": 5000,
     "overlapflag": 0
   },
   "9600": {
@@ -12388,8 +12906,8 @@
   },
   "9342": {
     "id": 9342,
-    "name": "Accumulating Scales",
-    "desc": "The sound from a conch. If you don't stack the scales in thr right order, the sound will scatter. If you don't know the order, listen to the sound of the <FONT color='#D4FF88'>perfectly moving structure</FONT>.",
+    "name": "[퀘스트] 론의 소라고둥_버프(퀘스트체크)",
+    "desc": "",
     "icon": "Buff_356.png",
     "duration": -1,
     "overlapflag": 5
@@ -12447,13 +12965,13 @@
     "name": "[퀘스트] 러브스토리_협동퀘 완료_시작조건 버프",
     "desc": "",
     "icon": "",
-    "duration": -1,
+    "duration": 3600000,
     "overlapflag": 0
   },
   "9389": {
     "id": 9389,
-    "name": "Perfecting Scales",
-    "desc": "You now have all the necessary sounds.",
+    "name": "[퀘스트] 론의 소라고둥_버프 완성",
+    "desc": "",
     "icon": "Buff_357.png",
     "duration": -1,
     "overlapflag": 0
@@ -12727,7 +13245,7 @@
   },
   "90001119": {
     "id": 90001119,
-    "name": "Water Energy",
+    "name": "[퀘스트] 스폐셜리스트_물의기운",
     "desc": "You can sense the Water Energy.",
     "icon": "Buff_216.png",
     "duration": -1,
@@ -12735,7 +13253,7 @@
   },
   "90001120": {
     "id": 90001120,
-    "name": "Aura of Wind",
+    "name": "[퀘스트] 스폐셜리스트_바람의기운",
     "desc": "You can sense the Aura of Wind.",
     "icon": "Buff_217.png",
     "duration": -1,
@@ -12743,7 +13261,7 @@
   },
   "90001121": {
     "id": 90001121,
-    "name": "Earthen Aura",
+    "name": "[퀘스트] 스폐셜리스트_대지의기운",
     "desc": "You can sense the Earthen Aura.",
     "icon": "Buff_218.png",
     "duration": -1,
@@ -13221,7 +13739,7 @@
   },
   "9503": {
     "id": 9503,
-    "name": "몬스터에게 주는 피해 +25%, 몬스터에게 받는 피해 +140%",
+    "name": "몬스터에게 주는 피해량 / 받는 피해량 조정 버프",
     "desc": "",
     "icon": "Buff_75.png",
     "duration": -1,
@@ -14295,24 +14813,24 @@
   },
   "9994": {
     "id": 9994,
-    "name": "Find the 2nd Anniversary Gift!",
-    "desc": "Find the 2-year anniversary gift, packed with love, wrapped with fancy paper, and tied with a pretty ribbon.",
+    "name": "2주년 선물이 갖고 싶어!",
+    "desc": "",
     "icon": "All_Quest_04_160.png",
     "duration": -1,
     "overlapflag": 0
   },
   "9995": {
     "id": 9995,
-    "name": "Find the 2nd Anniversary Cake!",
-    "desc": "Find the 2-year anniversary cake, decorated with strawberries, soft cream and rich chocolate icing.",
+    "name": "2주년 케이크가 갖고 싶어!",
+    "desc": "",
     "icon": "All_Quest_04_161.png",
     "duration": -1,
     "overlapflag": 0
   },
   "9996": {
     "id": 9996,
-    "name": "Find the 2nd Anniversary Balloon!",
-    "desc": "Find the 2-year anniversary balloon, made from raw rubber and adorned with pure gold paint.",
+    "name": "2주년 풍선이 갖고 싶어!",
+    "desc": "",
     "icon": "All_Quest_04_162.png",
     "duration": -1,
     "overlapflag": 0
@@ -14328,24 +14846,24 @@
   "9998": { "id": 9998, "name": "타불라라사 피드백", "desc": "", "icon": "", "duration": 5000, "overlapflag": 0 },
   "9605": {
     "id": 9605,
-    "name": "Spicy-cluck!",
-    "desc": "It's delicious, but... spicy? Spicy, but... delicious?\nA heaven of spicy taste that makes you lose your mind!",
+    "name": "콜라보 이벤트_네네치킨",
+    "desc": "",
     "icon": "All_Quest_04_171.png",
     "duration": 3000,
     "overlapflag": 0
   },
   "9606": {
     "id": 9606,
-    "name": "Greasy-cluck!",
-    "desc": "It's delicious, but... greasy? Greasy, but... delicious?\nA heaven of savory taste that makes you lose your mind!",
+    "name": "콜라보 이벤트_네네치킨",
+    "desc": "",
     "icon": "All_Quest_04_172.png",
     "duration": 3000,
     "overlapflag": 0
   },
   "9607": {
     "id": 9607,
-    "name": "Delicious-cluck!",
-    "desc": "Delicious! Is this the... heavenly taste?",
+    "name": "콜라보 이벤트_네네치킨",
+    "desc": "",
     "icon": "All_Quest_04_170.png",
     "duration": 3000,
     "overlapflag": 0
@@ -14990,6 +15508,14 @@
     "overlapflag": 0
   },
   "9568": { "id": 9568, "name": "실패할때 부여", "desc": "", "icon": "", "duration": 1000, "overlapflag": 0 },
+  "9569": {
+    "id": 9569,
+    "name": "Collected Prayers",
+    "desc": "Someone's precious memories dwell in the Origin's Illusion Stone.",
+    "icon": "Buff_325.png",
+    "duration": 6500,
+    "overlapflag": 0
+  },
   "11000": {
     "id": 11000,
     "name": "Mystic Drinker",
@@ -15415,6 +15941,110 @@
     "duration": 1000,
     "overlapflag": 0
   },
+  "12115": {
+    "id": 12115,
+    "name": "Weak Currents",
+    "desc": "A weak current surrounds the body.",
+    "icon": "Buff_178.png",
+    "duration": 1900,
+    "overlapflag": 100
+  },
+  "12116": {
+    "id": 12116,
+    "name": "Enveloping Current",
+    "desc": "A powerful current surrounds the body.",
+    "icon": "Buff_166.png",
+    "duration": 10000,
+    "overlapflag": 0
+  },
+  "12117": {
+    "id": 12117,
+    "name": "Pray for Blessing",
+    "desc": "The Harmonious Blessings take hold. Move Speed increases a little.",
+    "icon": "All_Quest_04_195.png",
+    "duration": 60000,
+    "overlapflag": 0
+  },
+  "12118": {
+    "id": 12118,
+    "name": "Pray for Passion",
+    "desc": "The Harmonious Blessings stacks and passion increases. Move Speed increases, and can now go up the high hill west of the Genesis Fountain.",
+    "icon": "All_Quest_04_195.png",
+    "duration": 600000,
+    "overlapflag": 0
+  },
+  "12119": {
+    "id": 12119,
+    "name": "Pray for Luck",
+    "desc": "The Harmonious Blessings stacks and brings luck. Move Speed increases, and can now go up the high hill west of the Genesis Fountain. If you want to open the Lonesome Giant Shellfish, you must prepare a special Genesis perfume.",
+    "icon": "All_Quest_04_195.png",
+    "duration": 600000,
+    "overlapflag": 0
+  },
+  "12120": {
+    "id": 12120,
+    "name": "Origin Starlight",
+    "desc": "It is the Star's Blessings for those who have successfully finished the Prayer Ceremony.",
+    "icon": "All_Quest_04_195.png",
+    "duration": 10000,
+    "overlapflag": 0
+  },
+  "12121": {
+    "id": 12121,
+    "name": "[위쳐3콜라보]_박수치기_시작",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "12122": {
+    "id": 12122,
+    "name": "[위쳐3콜라보]_박수치기_QTE",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "12123": {
+    "id": 12123,
+    "name": "Successful Applause",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "12124": {
+    "id": 12124,
+    "name": "Fairy's Prank",
+    "desc": "Stunned by a fairy's prank",
+    "icon": "Buff_39.png",
+    "duration": 2000,
+    "overlapflag": 0
+  },
+  "12125": {
+    "id": 12125,
+    "name": "[위쳐3콜라보]_요정의 장난_기절",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 2000,
+    "overlapflag": 0
+  },
+  "12127": {
+    "id": 12127,
+    "name": "기원의 섬_기원의 별빛_인필",
+    "desc": "",
+    "icon": "",
+    "duration": 10000,
+    "overlapflag": 0
+  },
+  "12128": {
+    "id": 12128,
+    "name": "Move Speed Bonus",
+    "desc": "Move Speed +<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:12128/>%</FONT>.",
+    "icon": "Buff_10.png",
+    "duration": 30000,
+    "overlapflag": 0
+  },
   "12000": {
     "id": 12000,
     "name": "Bandage",
@@ -15698,7 +16328,7 @@
   "99990100": {
     "id": 99990100,
     "name": "Weak Fighter I",
-    "desc": "Recently, your contribution on the Proving Grounds has been low.<BR>If your low contribution is repeated once more while the effect in maintained, application to the Proving Grounds will be restricted for <FONT COLOR='#ffd02e'>20 meters</FONT>.\n(However, Team Elimination Matches are counted separately.)",
+    "desc": "Recently, your contribution on the Proving Grounds has been low.\nIf your low contribution is repeated once more while the effect in maintained, application to the Proving Grounds will be restricted for <FONT COLOR='#ffd02e'>20 meters</FONT>.\n(However, Team Elimination Matches are counted separately.)",
     "icon": "Buff_45.png",
     "duration": 1200000,
     "overlapflag": 2
@@ -15889,16 +16519,16 @@
   },
   "956644": {
     "id": 956644,
-    "name": "Dark Bullet",
-    "desc": "Shot with the Dark Bullet and unable to see far ahead.",
+    "name": "로웬_대포_암흑 3초",
+    "desc": "",
     "icon": "Buff_13.png",
     "duration": 3000,
     "overlapflag": 0
   },
   "956645": {
     "id": 956645,
-    "name": "Shred",
-    "desc": "The powerful cannon destroys the target's defense. Incoming Damage +<font color='#ff9999'>10%</font>. This effect stacks up to 3 times.",
+    "name": "로웬_대포_받는피해증가_30초",
+    "desc": "",
     "icon": "Buff_27.png",
     "duration": 30000,
     "overlapflag": 3
@@ -15929,8 +16559,8 @@
   },
   "981122": {
     "id": 981122,
-    "name": "Everburning Flame",
-    "desc": "Losing 1% Vitality every 1s. Extended exposure to flames will cause Burn, which stacks up to 5 times.",
+    "name": "[로웬] 정령기사 W_화상5중첩",
+    "desc": "",
     "icon": "Buff_56.png",
     "duration": 1000,
     "overlapflag": 5
@@ -15945,8 +16575,8 @@
   },
   "981131": {
     "id": 981131,
-    "name": "Sylmael Shield",
-    "desc": "Protected by Sylmael energy. Gain <FONT COLOR='#99ff99'>Push immunity</FONT>, <FONT COLOR='#99ff99'>Status Ailment immunity</FONT>, incoming Damage -<FONT COLOR='#99ff99'>40%</FONT>, and Atk. Power +<FONT COLOR='#99ff99'>40%</FONT>.",
+    "name": "[로웬] 정령기사_E_오라_버프 효과",
+    "desc": "",
     "icon": "Buff_19.png",
     "duration": -1,
     "overlapflag": 0
@@ -16809,6 +17439,23 @@
     "overlapflag": 0
   },
   "6251903": { "id": 6251903, "name": "힐 100%", "desc": "", "icon": "Buff_444.png", "duration": -1, "overlapflag": 0 },
+  "9575": {
+    "id": 9575,
+    "name": "Leg injury",
+    "desc": "The rope is disconnected, making walking difficult.",
+    "icon": "Buff_43.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "9576": { "id": 9576, "name": "이동기 사용불가", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 0 },
+  "12126": {
+    "id": 12126,
+    "name": "헌신의 길_기류 볼륨 진입 시 연출용 버프",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 1900,
+    "overlapflag": 0
+  },
   "10000": {
     "id": 10000,
     "name": "Haal Legacy",
@@ -31987,7 +32634,7 @@
   },
   "505": {
     "id": 505,
-    "name": "Flare Ether",
+    "name": "Flash Ether",
     "desc": "<$MACRO buffkey0 @1:505/> +<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:505/>%</FONT> ",
     "icon": "Buff_9.png",
     "duration": 30000,
@@ -33484,7 +34131,7 @@
     "name": "Dried Up Body",
     "desc": "Stone dust sticks on to the whole body and becomes temporarily petrified.",
     "icon": "Buff_36.png",
-    "duration": 10000,
+    "duration": 5000,
     "overlapflag": 0
   },
   "51028": {
@@ -33799,6 +34446,14 @@
     "duration": 8000,
     "overlapflag": 0
   },
+  "60027": {
+    "id": 60027,
+    "name": "Vision Healing Potion",
+    "desc": "Recovers <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:60027/>*<$MACRO val_time @1:60027/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:60027/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
   "60002": {
     "id": 60002,
     "name": "Enhanced Apprentice Healing Potion",
@@ -33903,10 +34558,130 @@
     "duration": 8000,
     "overlapflag": 0
   },
+  "60028": {
+    "id": 60028,
+    "name": "Enhanced Vision Healing Potion",
+    "desc": "Recovers <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:60028/>*<$MACRO val_time @1:60028/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:60028/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160001": {
+    "id": 9160001,
+    "name": "Enhanced Apprentice Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160001/>*<$MACRO val_time @1:9160001/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160001/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160003": {
+    "id": 9160003,
+    "name": "Enhanced Basic Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160003/>*<$MACRO val_time @1:9160003/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160003/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160005": {
+    "id": 9160005,
+    "name": "Enhanced Major Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160005/>*<$MACRO val_time @1:9160005/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160005/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160007": {
+    "id": 9160007,
+    "name": "Enhanced Adept Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160007/>*<$MACRO val_time @1:9160007/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160007/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160009": {
+    "id": 9160009,
+    "name": "Enhanced Master Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160009/>*<$MACRO val_time @1:9160009/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160009/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160011": {
+    "id": 9160011,
+    "name": "Enhanced Super Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160011/>*<$MACRO val_time @1:9160011/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160011/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160013": {
+    "id": 9160013,
+    "name": "Enhanced Special Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160013/>*<$MACRO val_time @1:9160013/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160013/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160015": {
+    "id": 9160015,
+    "name": "Enhanced Holy Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160015/>*<$MACRO val_time @1:9160015/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160015/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160017": {
+    "id": 9160017,
+    "name": "Enhanced Protection Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160017/>*<$MACRO val_time @1:9160017/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160017/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160019": {
+    "id": 9160019,
+    "name": "Enhanced Purification Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160019/>*<$MACRO val_time @1:9160019/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160019/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160021": {
+    "id": 9160021,
+    "name": "Enhanced Blessing Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160021/>*<$MACRO val_time @1:9160021/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160021/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160023": {
+    "id": 9160023,
+    "name": "Enhanced Starlight Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160023/>*<$MACRO val_time @1:9160023/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160023/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160025": {
+    "id": 9160025,
+    "name": "Enhanced Mystical Healing Potion",
+    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160025/>*<$MACRO val_time @1:9160025/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160025/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "9160027": {
+    "id": 9160027,
+    "name": "Enhanced Vision Healing Potion",
+    "desc": "Recovers <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160027/>*<$MACRO val_time @1:9160027/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160027/>s.",
+    "icon": "Buff_7.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
   "61000": {
     "id": 61000,
     "name": "Battlefield of Amplification",
-    "desc": "In the Proving Grounds, the amount of Coin of Courage obtained as a reward +<FONT COLOR='#99FF99'>100%</FONT>.",
+    "desc": "In the Proving Grounds, the amount of Courage Coin obtained as a reward +<FONT COLOR='#99FF99'>100%</FONT>.",
     "icon": "Buff_282.png",
     "duration": 3600000,
     "overlapflag": 0
@@ -36177,7 +36952,7 @@
   "501012": {
     "id": 501012,
     "name": "Esoteric Skills Enhance I",
-    "desc": "Elemental Orbs +1, and each Elemental Orb increase Esoteric Skill Damage",
+    "desc": "Esoteric Orbs +1, and each Esoteric Orb increases Esoteric Skill Damage",
     "icon": "Ability_35.png",
     "duration": -1,
     "overlapflag": 0
@@ -36185,7 +36960,7 @@
   "502012": {
     "id": 502012,
     "name": "Esoteric Skills Enhance II",
-    "desc": "Elemental Orbs +1, and each Elemental Orb increase Esoteric Skill Damage",
+    "desc": "Esoteric Orbs +1, and each Esoteric Orb increases Esoteric Skill Damage",
     "icon": "Ability_35.png",
     "duration": -1,
     "overlapflag": 0
@@ -36193,7 +36968,7 @@
   "503012": {
     "id": 503012,
     "name": "Esoteric Skills Enhance III",
-    "desc": "Elemental Orbs +1, and each Elemental Orb increase Esoteric Skill Damage",
+    "desc": "Esoteric Orbs +1, and each Esoteric Orb increases Esoteric Skill Damage",
     "icon": "Ability_35.png",
     "duration": -1,
     "overlapflag": 0
@@ -39863,110 +40638,6 @@
     "duration": 10000,
     "overlapflag": 0
   },
-  "9160001": {
-    "id": 9160001,
-    "name": "Enhanced Apprentice Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160001/>*<$MACRO val_time @1:9160001/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160001/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160003": {
-    "id": 9160003,
-    "name": "Enhanced Basic Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160003/>*<$MACRO val_time @1:9160003/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160003/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160005": {
-    "id": 9160005,
-    "name": "Enhanced Major Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160005/>*<$MACRO val_time @1:9160005/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160005/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160007": {
-    "id": 9160007,
-    "name": "Enhanced Adept Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160007/>*<$MACRO val_time @1:9160007/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160007/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160009": {
-    "id": 9160009,
-    "name": "Enhanced Master Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160009/>*<$MACRO val_time @1:9160009/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160009/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160011": {
-    "id": 9160011,
-    "name": "Enhanced Super Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160011/>*<$MACRO val_time @1:9160011/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160011/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160013": {
-    "id": 9160013,
-    "name": "Enhanced Special Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160013/>*<$MACRO val_time @1:9160013/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160013/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160015": {
-    "id": 9160015,
-    "name": "Enhanced Holy Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160015/>*<$MACRO val_time @1:9160015/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160015/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160017": {
-    "id": 9160017,
-    "name": "Enhanced Protection Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160017/>*<$MACRO val_time @1:9160017/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160017/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160019": {
-    "id": 9160019,
-    "name": "Enhanced Purification Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160019/>*<$MACRO val_time @1:9160019/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160019/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160021": {
-    "id": 9160021,
-    "name": "Enhanced Blessing Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160021/>*<$MACRO val_time @1:9160021/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160021/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160023": {
-    "id": 9160023,
-    "name": "Enhanced Starlight Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160023/>*<$MACRO val_time @1:9160023/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160023/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
-  "9160025": {
-    "id": 9160025,
-    "name": "Enhanced Mystical Healing Potion",
-    "desc": "Recover <FONT COLOR='#99ff99'><$CALC <$MACRO val_heal @1:9160025/>*<$MACRO val_time @1:9160025/>/8000 /></FONT> HP every 1s for <$MACRO time_total @1:9160025/>s.",
-    "icon": "Buff_7.png",
-    "duration": 8000,
-    "overlapflag": 0
-  },
   "100520052": {
     "id": 100520052,
     "name": "My First Handcrafted Beer",
@@ -40461,6 +41132,38 @@
     "desc": "Dark Damage taken +<FONT COLOR='#99ff99'>3.5%</FONT>.",
     "icon": "Card_Skill_30.png",
     "duration": 10000,
+    "overlapflag": 0
+  },
+  "610000070": {
+    "id": 610000070,
+    "name": "Yrden",
+    "desc": "Atk./Move Speed +<FONT COLOR='#99ff99'>8%</FONT>.",
+    "icon": "Buff_572.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "610000071": {
+    "id": 610000071,
+    "name": "Igni",
+    "desc": "Atk. Power +<FONT COLOR='#99ff99'>6%</FONT>.",
+    "icon": "Buff_573.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "610000072": {
+    "id": 610000072,
+    "name": "Quen",
+    "desc": "Creates a Shield that absorbs Damage equal to <FONT COLOR='#99ff99'>8%</FONT> of Max HP.",
+    "icon": "Buff_574.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "610000075": {
+    "id": 610000075,
+    "name": "위쳐 버프 분기 적용용 트리거 버프",
+    "desc": "",
+    "icon": "",
+    "duration": 500,
     "overlapflag": 0
   },
   "611000000": {
@@ -44301,28 +45004,44 @@
     "duration": 1200000,
     "overlapflag": 0
   },
-  "40617496": {
-    "id": 40617496,
-    "name": "달콤한 프레이야 수제 쿠키 - 3T 40617490과 동일",
-    "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>6000</FONT>. Crit Rate +<FONT COLOR='#99ff99'>1%</FONT>.",
-    "icon": "Use_4_88.png",
-    "duration": 3600000,
+  "40617620": {
+    "id": 40617620,
+    "name": "Superior Thunderbolt",
+    "desc": "Crit Rate +<FONT COLOR='#99ff99'>1%</FONT>. Increases Atk. Power at a random interval during combat.",
+    "icon": "Use_11_37.png",
+    "duration": 1200000,
     "overlapflag": 0
   },
-  "40617497": {
-    "id": 40617497,
-    "name": "고소한 프레이야 수제 쿠키 - 3T 40617491과 동일",
-    "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>3000</FONT>. Combat Resource Natural Recovery +<FONT COLOR='#99ff99'>24%</FONT>. Atk. Speed +<FONT COLOR='#99ff99'>2%</FONT>.",
-    "icon": "Use_4_87.png",
-    "duration": 3600000,
+  "40617621": {
+    "id": 40617621,
+    "name": "Superior Swallow",
+    "desc": "Vitality +<FONT COLOR='#99ff99'>5,000</FONT>. Recovers <FONT COLOR='#99ff99'>300</FONT> HP every 1s.",
+    "icon": "Use_11_38.png",
+    "duration": 1200000,
     "overlapflag": 0
   },
-  "40617498": {
-    "id": 40617498,
-    "name": "바삭한 프레이야 수제 쿠키 - 3T 40617492와 동일",
-    "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>3000</FONT>. Vitality +<FONT COLOR='#99ff99'>4500</FONT>. Move Speed +<FONT COLOR='#99ff99'>3%</FONT>.",
-    "icon": "Use_4_86.png",
-    "duration": 3600000,
+  "40617622": {
+    "id": 40617622,
+    "name": "Superior Blizzard",
+    "desc": "Atk./Move Speed <FONT COLOR='#99ff99'>+2%</FONT>. Significantly increases Atk./Move Speed and Combat Resource Natural Recovery Speed at a random interval during combat.",
+    "icon": "Use_11_39.png",
+    "duration": 1200000,
+    "overlapflag": 0
+  },
+  "40617623": {
+    "id": 40617623,
+    "name": "Superior Thunderbolt",
+    "desc": "Atk. Power +<FONT COLOR='#99ff99'>3%</FONT>.",
+    "icon": "Use_11_37.png",
+    "duration": 10000,
+    "overlapflag": 0
+  },
+  "40617624": {
+    "id": 40617624,
+    "name": "Superior Blizzard",
+    "desc": "Atk./Move Speed +<FONT COLOR='#99ff99'>15%</FONT>, Combat Resource Natural Recovery Speed +<FONT COLOR='#99ff99'>200%</FONT>.",
+    "icon": "Use_11_39.png",
+    "duration": 10000,
     "overlapflag": 0
   },
   "40617773": {
@@ -45148,7 +45867,7 @@
   },
   "201107": { "id": 201107, "name": "없음", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 0 },
   "201119": { "id": 201119, "name": "없음", "desc": "", "icon": "Buff_15.png", "duration": -1, "overlapflag": 0 },
-  "201303": { "id": 201303, "name": "없음", "desc": "", "icon": "Buff_0.png", "duration": 30000, "overlapflag": 0 },
+  "201303": { "id": 201303, "name": "없음", "desc": "", "icon": "Buff_0.png", "duration": 45000, "overlapflag": 0 },
   "201304": { "id": 201304, "name": "없음", "desc": "", "icon": "Buff_15.png", "duration": -1, "overlapflag": 0 },
   "201305": { "id": 201305, "name": "없음", "desc": "", "icon": "Buff_15.png", "duration": -1, "overlapflag": 0 },
   "201506": {
@@ -51595,12 +52314,20 @@
     "id": 425141601,
     "name": "체인 라이트닝",
     "desc": "",
-    "icon": "Buff_23.png",
+    "icon": "Buff_0.png",
     "duration": 4000,
     "overlapflag": 1
   },
   "425141602": {
     "id": 425141602,
+    "name": "체인 라이트닝",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 4000,
+    "overlapflag": 1
+  },
+  "425141603": {
+    "id": 425141603,
     "name": "체인 라이트닝",
     "desc": "",
     "icon": "Buff_0.png",
@@ -51623,18 +52350,82 @@
     "duration": -1,
     "overlapflag": 1
   },
+  "425141000": {
+    "id": 425141000,
+    "name": "1페이즈",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "425141001": {
+    "id": 425141001,
+    "name": "2페이즈",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "425141002": {
+    "id": 425141002,
+    "name": "잡기 체크용",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "425141003": {
+    "id": 425141003,
+    "name": "잡기 체크용",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 6000,
+    "overlapflag": 1
+  },
+  "425141004": {
+    "id": 425141004,
+    "name": "잡기 체크용",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "425141005": {
+    "id": 425141005,
+    "name": "잡기 어그로 처리",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 60000,
+    "overlapflag": 1
+  },
+  "425141006": {
+    "id": 425141006,
+    "name": "잡기 잡힌 대상 무적",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 60000,
+    "overlapflag": 1
+  },
+  "425141007": {
+    "id": 425141007,
+    "name": "잡기 체크용",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
   "425141302": {
     "id": 425141302,
-    "name": "양전자",
-    "desc": "",
+    "name": "Positive Energy Field",
+    "desc": "To be manually added",
     "icon": "Buff_516.png",
     "duration": 10000,
     "overlapflag": 1
   },
   "425141303": {
     "id": 425141303,
-    "name": "음전자",
-    "desc": "",
+    "name": "Negative Energy Field",
+    "desc": "To be manually added",
     "icon": "Buff_517.png",
     "duration": 10000,
     "overlapflag": 1
@@ -51655,6 +52446,44 @@
     "duration": -1,
     "overlapflag": 1
   },
+  "425141102": {
+    "id": 425141102,
+    "name": "Upward Current",
+    "desc": " The body becomes nimble due to Gargadeth's currents. When the next Stand Up skill is used, the cooldown is reset.",
+    "icon": "Buff_516.png",
+    "duration": 12000,
+    "overlapflag": 1
+  },
+  "425141103": { "id": 425141103, "name": "", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 1 },
+  "425141104": { "id": 425141104, "name": "", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 1 },
+  "425141105": { "id": 425141105, "name": "", "desc": "", "icon": "Buff_0.png", "duration": 5000, "overlapflag": 1 },
+  "425141700": { "id": 425141700, "name": "", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 1 },
+  "425141701": { "id": 425141701, "name": "", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 1 },
+  "425141702": { "id": 425141702, "name": "", "desc": "", "icon": "Buff_0.png", "duration": 3500, "overlapflag": 1 },
+  "425141703": { "id": 425141703, "name": "", "desc": "", "icon": "Buff_0.png", "duration": 5000, "overlapflag": 1 },
+  "425141704": { "id": 425141704, "name": "", "desc": "", "icon": "Buff_0.png", "duration": 10000, "overlapflag": 1 },
+  "425141709": {
+    "id": 425141709,
+    "name": "Thunderstorm",
+    "desc": "To be manually added",
+    "icon": "Buff_23.png",
+    "duration": 46000,
+    "overlapflag": 1
+  },
+  "425143100": { "id": 425143100, "name": "", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 1 },
+  "425143101": { "id": 425143101, "name": "", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 1 },
+  "425141900": {
+    "id": 425141900,
+    "name": "",
+    "desc": "Becomes Incapacitated while Electrocuted.",
+    "icon": "Buff_51.png",
+    "duration": 4000,
+    "overlapflag": 1
+  },
+  "425140401": { "id": 425140401, "name": "", "desc": "", "icon": "Buff_43.png", "duration": 5000, "overlapflag": 1 },
+  "425141901": { "id": 425141901, "name": "", "desc": "", "icon": "Buff_39.png", "duration": 4000, "overlapflag": 1 },
+  "51340100": { "id": 51340100, "name": "", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 1 },
+  "51340101": { "id": 51340101, "name": "", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 1 },
   "2000": {
     "id": 2000,
     "name": "Recovery",
@@ -54807,7 +55636,7 @@
   "414842303": {
     "id": 414842303,
     "name": "Dreamy Vision",
-    "desc": "The barrier of dreams blurs the sight.",
+    "desc": "The dream barrier blurs the sight.",
     "icon": "Buff_0.png",
     "duration": 15000,
     "overlapflag": 0
@@ -56295,7 +57124,7 @@
   "53881610": {
     "id": 53881610,
     "name": "Golden Lightning Cloud",
-    "desc": "A Thundercloud holding a Golden Thunderbolt.<BR>When a large number of people gather, get struck by a Golden Thunderbolt.",
+    "desc": "A Thundercloud holding a Golden Thunderbolt.\nWhen a large number of people gather, get struck by a Golden Thunderbolt.",
     "icon": "Buff_67.png",
     "duration": 20000,
     "overlapflag": 0
@@ -56303,7 +57132,7 @@
   "53881611": {
     "id": 53881611,
     "name": "Azure Lightning Cloud",
-    "desc": "A Thundercloud holding an Azure Thunderbolt.<BR>The Azure Thunderstroke will strike down after a certain duration.",
+    "desc": "A Thundercloud holding an Azure Thunderbolt.\nThe Azure Thunderstroke will strike down after a certain duration.",
     "icon": "Buff_104.png",
     "duration": 3000,
     "overlapflag": 0
@@ -56311,7 +57140,7 @@
   "53881612": {
     "id": 53881612,
     "name": "Golden Thunderbolt",
-    "desc": "Golden Thunderbolt.<BR>A Thunderbolt explosion occurs after a duration.",
+    "desc": "Golden Thunderbolt.\nA Thunderbolt explosion occurs after a duration.",
     "icon": "Buff_167.png",
     "duration": 3100,
     "overlapflag": 0
@@ -56319,7 +57148,7 @@
   "53881613": {
     "id": 53881613,
     "name": "Golden Thunderbolt",
-    "desc": "Golden Thunderbolt.<BR>A Thunderbolt explosion occurs after a duration.",
+    "desc": "Golden Thunderbolt.\nA Thunderbolt explosion occurs after a duration.",
     "icon": "Buff_167.png",
     "duration": -1,
     "overlapflag": 0
@@ -58371,7 +59200,7 @@
   "422681406": {
     "id": 422681406,
     "name": "Deification",
-    "desc": "You gained the power of a deity through divine magick and absorbed Symael.\nAtk. Power +<FONT COLOR='#99ff99'>20%</FONT>.",
+    "desc": "You gained the power of a deity through divine magick and absorbed Sylmael.\nAtk. Power +<FONT COLOR='#99ff99'>20%</FONT>.",
     "icon": "Buff_4.png",
     "duration": 15000,
     "overlapflag": 1
@@ -60819,9 +61648,9 @@
   },
   "424960051": {
     "id": 424960051,
-    "name": "Plague Authority",
-    "desc": "You have gained the <FONT COLOR='#d4ff88'>Plague Authority</FONT> after collecting <FONT COLOR='#ffff99'>3</FONT> <FONT COLOR='#d4ff88'>Plague Authority Pieces</FONT>.\n\nShield Damage +<FONT COLOR='#ff9999'>700%</FONT> for a set time.",
-    "icon": "Buff_528.png",
+    "name": "Plague Source",
+    "desc": "You have gained the <FONT COLOR='#d4ff88'>Plague Source</FONT> after collecting <FONT COLOR='#ffff99'>3</FONT> <FONT COLOR='#d4ff88'>Plague Source Pieces</FONT>.\n\nShield Damage +<FONT COLOR='#ff9999'>700%</FONT> for a set time.",
+    "icon": "Buff_570.png",
     "duration": 60000,
     "overlapflag": 0
   },
@@ -60907,9 +61736,9 @@
   },
   "424960062": {
     "id": 424960062,
-    "name": "Plague Authority Piece",
-    "desc": "You have a <FONT COLOR='#A5DF00'>Plague Authority Piece</FONT>.\nWhen you collect <FONT COLOR='#ffff99'>3</FONT> <FONT COLOR='#A5DF00'>Plague Authority Pieces</FONT>, you will gain the <FONT COLOR='#d4ff88'>Plague Authority</FONT>. ",
-    "icon": "Buff_528.png",
+    "name": "Plague Source Piece",
+    "desc": "You have a <FONT COLOR='#A5DF00'>Plague Source Piece</FONT>.\nWhen you collect <FONT COLOR='#ffff99'>3</FONT> <FONT COLOR='#A5DF00'>Plague Source Pieces</FONT>, you will gain the <FONT COLOR='#d4ff88'>Plague Source</FONT>. ",
+    "icon": "Buff_571.png",
     "duration": 60000,
     "overlapflag": 3
   },
@@ -60976,6 +61805,14 @@
     "icon": "Buff_0.png",
     "duration": 1000,
     "overlapflag": 0
+  },
+  "424960071": {
+    "id": 424960071,
+    "name": "빈버프_질병의권능조각체크",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 60000,
+    "overlapflag": 3
   },
   "421579903": {
     "id": 421579903,
@@ -61630,7 +62467,7 @@
     "name": "Contaminated Light",
     "desc": "Touch the lantern's light and become Petrified for a set time.",
     "icon": "Buff_36.png",
-    "duration": 30000,
+    "duration": 45000,
     "overlapflag": 0
   },
   "424242467": {
@@ -62351,7 +63188,7 @@
   "4219804": {
     "id": 4219804,
     "name": "Spade",
-    "desc": "A black Spade pattern is drawn.",
+    "desc": "A black Spade pattern is depicted.",
     "icon": "Buff_401.png",
     "duration": -1,
     "overlapflag": 0
@@ -65996,7 +66833,7 @@
   "420341110": {
     "id": 420341110,
     "name": "Freeze",
-    "desc": "Becomes Incapacitated while Frozen.<BR>Creates an additional Ice Thorn on the target.",
+    "desc": "Becomes Incapacitated while Frozen.\nCreates an additional Ice Thorn on the target.",
     "icon": "Buff_35.png",
     "duration": 3000,
     "overlapflag": 1
@@ -66004,7 +66841,7 @@
   "420341119": {
     "id": 420341119,
     "name": "Freeze",
-    "desc": "[Manual] Becomes Incapacitated while Frozen.<BR>Creates an additional Ice Thorn on the target.",
+    "desc": "[Manual] Becomes Incapacitated while Frozen.\nCreates an additional Ice Thorn on the target.",
     "icon": "Buff_35.png",
     "duration": 3000,
     "overlapflag": 1
@@ -68673,7 +69510,7 @@
   "422450701": {
     "id": 422450701,
     "name": "Phantom World",
-    "desc": "Trapped in Brelshaza's Phantom Arena.<BR>Cannot receive some effects due to being cut off from the world.",
+    "desc": "Trapped in Brelshaza's Phantom Arena.\nCannot receive some effects due to being cut off from the world.",
     "icon": "Buff_189.png",
     "duration": -1,
     "overlapflag": 0
@@ -68681,7 +69518,7 @@
   "422450702": {
     "id": 422450702,
     "name": "Illusion World",
-    "desc": "Trapped in Brelshaza's Illusion Arena.<BR>Cannot receive some effects due to being cut off from the world.",
+    "desc": "Trapped in Brelshaza's Illusion Arena.\nCannot receive some effects due to being cut off from the world.",
     "icon": "Buff_189.png",
     "duration": -1,
     "overlapflag": 0
@@ -68689,7 +69526,7 @@
   "422450703": {
     "id": 422450703,
     "name": "Fantasy World",
-    "desc": "Trapped in Brelshaza's Fantasy Arena.<BR>Cannot receive some effects due to being cut off from the world.",
+    "desc": "Trapped in Brelshaza's Fantasy Arena.\nCannot receive some effects due to being cut off from the world.",
     "icon": "Buff_189.png",
     "duration": -1,
     "overlapflag": 0
@@ -68697,7 +69534,7 @@
   "422450704": {
     "id": 422450704,
     "name": "Mirage World",
-    "desc": "Trapped in Brelshaza's Mirage Arena.<BR>Cannot receive some effects due to being cut off from the world.",
+    "desc": "Trapped in Brelshaza's Mirage Arena.\nCannot receive some effects due to being cut off from the world.",
     "icon": "Buff_189.png",
     "duration": -1,
     "overlapflag": 0
@@ -68705,7 +69542,7 @@
   "422450705": {
     "id": 422450705,
     "name": "Dream World",
-    "desc": "Trapped in Brelshaza's Dream Arena.<BR>Cannot receive some effects due to being cut off from the world.",
+    "desc": "Trapped in Brelshaza's Dream Arena.\nCannot receive some effects due to being cut off from the world.",
     "icon": "Buff_189.png",
     "duration": -1,
     "overlapflag": 0
@@ -68713,7 +69550,7 @@
   "422450706": {
     "id": 422450706,
     "name": "Untrue World",
-    "desc": "Trapped in Brelshaza's False Arena.<BR>Cannot receive some effects due to being cut off from the world.",
+    "desc": "Trapped in Brelshaza's False Arena.\nCannot receive some effects due to being cut off from the world.",
     "icon": "Buff_189.png",
     "duration": -1,
     "overlapflag": 0
@@ -68721,7 +69558,7 @@
   "422450707": {
     "id": 422450707,
     "name": "Reverse World",
-    "desc": "Trapped in Brelshaza's Reverse Arena.<BR>Cannot receive some effects due to being cut off from the world.",
+    "desc": "Trapped in Brelshaza's Reverse Arena.\nCannot receive some effects due to being cut off from the world.",
     "icon": "Buff_189.png",
     "duration": -1,
     "overlapflag": 0
@@ -68729,7 +69566,7 @@
   "422450708": {
     "id": 422450708,
     "name": "Distortion World",
-    "desc": "Trapped in Brelshaza's Distortion Arena.<BR>Cannot receive some effects due to being cut off from the world.",
+    "desc": "Trapped in Brelshaza's Distortion Arena.\nCannot receive some effects due to being cut off from the world.",
     "icon": "Buff_189.png",
     "duration": -1,
     "overlapflag": 0
@@ -72309,6 +73146,14 @@
   "422339805": {
     "id": 422339805,
     "name": "체크 버프",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "422339807": {
+    "id": 422339807,
+    "name": "그로기 체크",
     "desc": "",
     "icon": "Buff_0.png",
     "duration": -1,
@@ -77393,6 +78238,182 @@
     "duration": -1,
     "overlapflag": 0
   },
+  "422870150": {
+    "id": 422870150,
+    "name": "4주년이벤트_인보크",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "422870151": {
+    "id": 422870151,
+    "name": "4주년이벤트_인보크",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "422870152": {
+    "id": 422870152,
+    "name": "4주년이벤트_인보크",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "422870153": {
+    "id": 422870153,
+    "name": "프랍 터치_미약한 기류",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 1000,
+    "overlapflag": 0
+  },
+  "415741113": {
+    "id": 415741113,
+    "name": "Darkness",
+    "desc": "It is difficult to see in front",
+    "icon": "Buff_13.png",
+    "duration": 2500,
+    "overlapflag": 1
+  },
+  "415741114": {
+    "id": 415741114,
+    "name": "슬로우 인보크",
+    "desc": "",
+    "icon": "Buff_23.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "415741115": {
+    "id": 415741115,
+    "name": "Slow",
+    "desc": "Reduced Move Speed",
+    "icon": "Buff_43.png",
+    "duration": 1500,
+    "overlapflag": 1
+  },
+  "415741116": {
+    "id": 415741116,
+    "name": "Undying Will",
+    "desc": "Powered through a leg injury through sheer strength of will",
+    "icon": "Buff_21.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "415741117": {
+    "id": 415741117,
+    "name": "Winds of Origin",
+    "desc": "Increased Move Speed by using the Winds of Origin.",
+    "icon": "Buff_10.png",
+    "duration": 5000,
+    "overlapflag": 1
+  },
+  "415741118": {
+    "id": 415741118,
+    "name": "4주년 회오리_인보크_감소",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "415741119": {
+    "id": 415741119,
+    "name": "4주년 회오리_인보크_제거",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "415741120": {
+    "id": 415741120,
+    "name": "미약한 기류 감소 폰트",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 1000,
+    "overlapflag": 1
+  },
+  "415741121": {
+    "id": 415741121,
+    "name": "미약한 기류 제거 폰트",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 1000,
+    "overlapflag": 1
+  },
+  "415741122": {
+    "id": 415741122,
+    "name": "미약한 기류 버프 제거 쿨타임 버프",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 2000,
+    "overlapflag": 1
+  },
+  "415741131": {
+    "id": 415741131,
+    "name": "침수",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 30000,
+    "overlapflag": 1
+  },
+  "415741132": {
+    "id": 415741132,
+    "name": "기원의섬_익수 성공",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 300,
+    "overlapflag": 1
+  },
+  "415741133": {
+    "id": 415741133,
+    "name": "기원의섬_익수 성공2",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 1000,
+    "overlapflag": 1
+  },
+  "415741141": {
+    "id": 415741141,
+    "name": "광폭화",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 3000,
+    "overlapflag": 1
+  },
+  "426090100": {
+    "id": 426090100,
+    "name": "기원의섬_은신",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 1200,
+    "overlapflag": 1
+  },
+  "426090101": {
+    "id": 426090101,
+    "name": "기원의섬_체크 버프",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "426090102": {
+    "id": 426090102,
+    "name": "기원의섬_은신",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 2000,
+    "overlapflag": 1
+  },
+  "415741151": {
+    "id": 415741151,
+    "name": "텔파 처치 연출 버프",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
   "449018050": {
     "id": 449018050,
     "name": "감전",
@@ -77483,6 +78504,166 @@
     "desc": "",
     "icon": "Buff_28.png",
     "duration": 8000,
+    "overlapflag": 0
+  },
+  "45212902": {
+    "id": 45212902,
+    "name": "Important Person",
+    "desc": "There seems to be something shiny in their pocket.",
+    "icon": "Buff_417.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "45212903": {
+    "id": 45212903,
+    "name": "Unknown Power",
+    "desc": "It won't be easy to knock down.",
+    "icon": "Buff_19.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "45212904": {
+    "id": 45212904,
+    "name": "Important Person",
+    "desc": "There seems to be something shiny in their pocket.",
+    "icon": "Buff_417.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "45212905": {
+    "id": 45212905,
+    "name": "금색 열쇠_A_부여",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 10000,
+    "overlapflag": 0
+  },
+  "45212906": {
+    "id": 45212906,
+    "name": "금색 열쇠_B_부여",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 10000,
+    "overlapflag": 0
+  },
+  "425070821": {
+    "id": 425070821,
+    "name": "Deadly Poison",
+    "desc": "Becomes Poisoned and takes Damage for a certain period of time.",
+    "icon": "Buff_12.png",
+    "duration": 3500,
+    "overlapflag": 0
+  },
+  "425060151": {
+    "id": 425060151,
+    "name": "연출 버프_날개 숨김",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "45212907": {
+    "id": 45212907,
+    "name": "은신 버프",
+    "desc": "",
+    "icon": "Buff_148.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "45212908": {
+    "id": 45212908,
+    "name": "Yoz's Illusion Magick",
+    "desc": "Due to Yoz's secret magick, things that could not be seen before can now be seen. The cute illusion evokes a happy feeling.",
+    "icon": "Buff_217.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "45590911": {
+    "id": 45590911,
+    "name": "황혼의 축복",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "425060316": {
+    "id": 425060316,
+    "name": "체크 버프_제물 스킬3사용",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "425060317": {
+    "id": 425060317,
+    "name": "체크 버프_제물 스킬1사용",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "425060318": {
+    "id": 425060318,
+    "name": "체크 버프_제물 스킬2사용",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "425060705": {
+    "id": 425060705,
+    "name": "체크 버프_제물 스킬3사용",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "425060721": {
+    "id": 425060721,
+    "name": "연출 버프_날개 검은 연기",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "45212911": {
+    "id": 45212911,
+    "name": "이모티콘",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "45590921": {
+    "id": 45590921,
+    "name": "체크 버프_신호 체크",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "45590931": {
+    "id": 45590931,
+    "name": "기능 버프_변신 아만 공증",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "45590940": {
+    "id": 45590940,
+    "name": "체크 버프_따봉람쥐의 행운",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "45590941": {
+    "id": 45590941,
+    "name": "Lucky Squirrel's Blessing",
+    "desc": "You have received the Lucky Squirrel's Blessing.\n<FONT COLOR='#ffd200'>A lot of great things are sure to happen today!</FONT>",
+    "icon": "Buff_98.png",
+    "duration": 430000,
     "overlapflag": 0
   },
   "40545010": {
@@ -80069,7 +81250,7 @@
   "414847903": {
     "id": 414847903,
     "name": "Dreamy Vision",
-    "desc": "The barrier of dreams blurs the sight.",
+    "desc": "The dream barrier blurs the sight.",
     "icon": "Buff_203.png",
     "duration": 15000,
     "overlapflag": 0
@@ -81399,7 +82580,7 @@
   "419491501": {
     "id": 419491501,
     "name": "Sunlight",
-    "desc": "Inflicts Damage to the target after a while.<BR>Removed when Argos loses Solar Power.",
+    "desc": "Inflicts Damage to the target after a while.\nRemoved when Argos loses Solar Power.",
     "icon": "Buff_277.png",
     "duration": 10000,
     "overlapflag": 1
@@ -81455,7 +82636,7 @@
   "419491601": {
     "id": 419491601,
     "name": "Moonlight",
-    "desc": "Inflicts Damage to the target after a while.<BR>Removed when Argos loses Lunar Power.",
+    "desc": "Inflicts Damage to the target after a while.\nRemoved when Argos loses Lunar Power.",
     "icon": "Buff_278.png",
     "duration": 10000,
     "overlapflag": 1
@@ -81895,7 +83076,7 @@
   "419497300": {
     "id": 419497300,
     "name": "Solar Energy",
-    "desc": "Solar Energy wielded by Argos. Creates a safe zone at the target's location after a while.<BR>Applies to 5 people in total.",
+    "desc": "Solar Energy wielded by Argos. Creates a safe zone at the target's location after a while.\nApplies to 5 people in total.",
     "icon": "Buff_277.png",
     "duration": 4000,
     "overlapflag": 1
@@ -81919,7 +83100,7 @@
   "419497400": {
     "id": 419497400,
     "name": "Lunar Energy",
-    "desc": "Lunar Energy wielded by Argos. Creates a safe zone at the target's location after a while.<BR>Applies to 5 people in total.",
+    "desc": "Lunar Energy wielded by Argos. Creates a safe zone at the target's location after a while.\nApplies to 5 people in total.",
     "icon": "Buff_278.png",
     "duration": 4000,
     "overlapflag": 1
@@ -81943,7 +83124,7 @@
   "45922801": {
     "id": 45922801,
     "name": "Tough Skin",
-    "desc": "The hardened flesh becomes insusceptible to Weak Point Damage.<BR>Damage received -<FONT COLOR='#ff9999'>10%</FONT> per breakable part left undestroyed.",
+    "desc": "The hardened flesh becomes insusceptible to Weak Point Damage.\nDamage received -<FONT COLOR='#ff9999'>10%</FONT> per breakable part left undestroyed.",
     "icon": "Buff_187.png",
     "duration": -1,
     "overlapflag": 3
@@ -84124,7 +85305,7 @@
   "43065012": {
     "id": 43065012,
     "name": "Lava",
-    "desc": "Covered in lava.<BR>Receives Damage on a regular basis.",
+    "desc": "Covered in lava.\nReceives Damage on a regular basis.",
     "icon": "Buff_150.png",
     "duration": 1200000,
     "overlapflag": 100
@@ -84132,7 +85313,7 @@
   "43065014": {
     "id": 43065014,
     "name": "Enhance",
-    "desc": "Covered in lava.<BR>Igrexion is fortified by the power of lava.",
+    "desc": "Covered in lava.\nIgrexion is fortified by the power of lava.",
     "icon": "Buff_150.png",
     "duration": 15000,
     "overlapflag": 1
@@ -84513,6 +85694,14 @@
     "duration": 1200000,
     "overlapflag": 0
   },
+  "413901801": {
+    "id": 413901801,
+    "name": "선형낙뢰_인보크_1",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 1500,
+    "overlapflag": 0
+  },
   "413900001": {
     "id": 413900001,
     "name": "Thunderbolt",
@@ -84590,14 +85779,6 @@
     "name": "Greater Thunderbolt Shield",
     "desc": "A temporary barrier has been created due to Greater Thundercrack Shock's residual electricity.\nPrevents some Damage and become immune to the Golden Thunderbolt debuff. ",
     "icon": "Buff_394.png",
-    "duration": 1500,
-    "overlapflag": 0
-  },
-  "413901801": {
-    "id": 413901801,
-    "name": "선형낙뢰_인보크_1",
-    "desc": "",
-    "icon": "Buff_0.png",
     "duration": 1500,
     "overlapflag": 0
   },
@@ -86507,6 +87688,7 @@
   "490020": { "id": 490020, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
   "490021": { "id": 490021, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
   "490022": { "id": 490022, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "409100": { "id": 409100, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": 6600, "overlapflag": 0 },
   "409200": { "id": 409200, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": 8000, "overlapflag": 0 },
   "409300": { "id": 409300, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
   "409400": { "id": 409400, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
@@ -87041,6 +88223,14 @@
   "423600": { "id": 423600, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
   "423700": { "id": 423700, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
   "423800": { "id": 423800, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "423801": {
+    "id": 423801,
+    "name": "Stealth",
+    "desc": "Invisible.",
+    "icon": "Buff_35.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
   "423806": {
     "id": 423806,
     "name": "Stealth Detection",
@@ -87057,7 +88247,39 @@
     "duration": -1,
     "overlapflag": 1
   },
+  "423815": {
+    "id": 423815,
+    "name": "Stealth",
+    "desc": "Invisible.",
+    "icon": "Buff_35.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
   "423900": { "id": 423900, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "423901": {
+    "id": 423901,
+    "name": "은신감지_AURA구현",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "423902": {
+    "id": 423902,
+    "name": "은신감지_AURA구현",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "423903": {
+    "id": 423903,
+    "name": "은신감지_AURA구현",
+    "desc": "",
+    "icon": "Buff_36.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
   "424000": { "id": 424000, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
   "424001": {
     "id": 424001,
@@ -87081,6 +88303,22 @@
   "425101": {
     "id": 425101,
     "name": "위쳐센스(PP)",
+    "desc": "",
+    "icon": "Buff_149.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "425102": {
+    "id": 425102,
+    "name": "위쳐센스체크용",
+    "desc": "",
+    "icon": "Buff_149.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "425103": {
+    "id": 425103,
+    "name": "위쳐센스_냄새추적용",
     "desc": "",
     "icon": "Buff_149.png",
     "duration": -1,
@@ -87269,6 +88507,144 @@
     "desc": "",
     "icon": "",
     "duration": 6000,
+    "overlapflag": 0
+  },
+  "426400": { "id": 426400, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "426401": { "id": 426401, "name": "비주얼", "desc": "", "icon": "Buff_11.png", "duration": 5000, "overlapflag": 0 },
+  "426402": {
+    "id": 426402,
+    "name": "보물찾기 체크용",
+    "desc": "",
+    "icon": "Buff_113.png",
+    "duration": 8000,
+    "overlapflag": 0
+  },
+  "426500": { "id": 426500, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "426501": {
+    "id": 426501,
+    "name": "스킬 활성화용",
+    "desc": "",
+    "icon": "Buff_113.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "426502": {
+    "id": 426502,
+    "name": "Move Speed Bonus",
+    "desc": "Move Speed +<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:426502/>%</FONT>.",
+    "icon": "Buff_10.png",
+    "duration": 5000,
+    "overlapflag": 1
+  },
+  "426503": { "id": 426503, "name": "시야제한", "desc": "", "icon": "Buff_13.png", "duration": -1, "overlapflag": 0 },
+  "426600": { "id": 426600, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "426700": { "id": 426700, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "426701": {
+    "id": 426701,
+    "name": "Weight of Despair",
+    "desc": "I feel like all the energy is draining out of my body. It is difficult to take another step. I'm afraid to move forward, but... I miss my mother so much.",
+    "icon": "Buff_256.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "426702": {
+    "id": 426702,
+    "name": "어린아만 걷기2",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "426800": { "id": 426800, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "426801": {
+    "id": 426801,
+    "name": "스킬 활성화용",
+    "desc": "",
+    "icon": "Buff_113.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "426806": {
+    "id": 426806,
+    "name": "HP1로 안죽는버프",
+    "desc": "",
+    "icon": "Buff_113.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "426900": { "id": 426900, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "426901": { "id": 426901, "name": "", "desc": "", "icon": "Buff_35.png", "duration": 1500, "overlapflag": 1 },
+  "426902": { "id": 426902, "name": "", "desc": "", "icon": "Buff_35.png", "duration": 1500, "overlapflag": 1 },
+  "427100": { "id": 427100, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "427400": { "id": 427400, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "427401": {
+    "id": 427401,
+    "name": "이동속도 증가",
+    "desc": "",
+    "icon": "Buff_10.png",
+    "duration": 6000,
+    "overlapflag": 1
+  },
+  "427402": {
+    "id": 427402,
+    "name": "Super Armor",
+    "desc": "Super Armor (immune to Push and Status Ailments) is activated.",
+    "icon": "Buff_22.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "427403": {
+    "id": 427403,
+    "name": "Stealth",
+    "desc": "Invisible.",
+    "icon": "Buff_35.png",
+    "duration": 6000,
+    "overlapflag": 1
+  },
+  "427406": {
+    "id": 427406,
+    "name": "Poison Sting Stun",
+    "desc": "Stunned and Incapacitated by Tooki's poison sting.",
+    "icon": "Buff_39.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "427500": { "id": 427500, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "427501": {
+    "id": 427501,
+    "name": "Transforming into Blue Tooki",
+    "desc": "Tooki gains the power of the treasure to gain <FONT COLOR='#ffff99'>immunity to Paralysis, and decrease incoming damage by 25%</font>.\nCharacter stats are applied, excluding Move Speed.\nThe<FONT COLOR='#ffff99'>Move Speed is fixed</font> and <FONT COLOR='#ffff99'>is not affected by Move Speed Decrease or Increase buffs.</font>",
+    "icon": "Minimap_Symbol_1_485.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "427502": {
+    "id": 427502,
+    "name": "Transforming into Red Tooki",
+    "desc": "Tooki gains the power of the treasure to gain <FONT COLOR='#ffff99'>immunity to Paralysis, and decrease incoming damage by 25%</font>.\nCharacter stats are applied, excluding Move Speed.\nThe<FONT COLOR='#ffff99'>Move Speed is fixed</font> and <FONT COLOR='#ffff99'>is not affected by Move Speed Decrease or Increase buffs.</font>",
+    "icon": "Minimap_Symbol_1_486.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "427600": { "id": 427600, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "427700": { "id": 427700, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "427800": { "id": 427800, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "427801": { "id": 427801, "name": "가짜무적", "desc": "", "icon": "Buff_18.png", "duration": 3000, "overlapflag": 0 },
+  "427900": { "id": 427900, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "427901": {
+    "id": 427901,
+    "name": "Stealth",
+    "desc": "Invisible.",
+    "icon": "Buff_35.png",
+    "duration": 3000,
+    "overlapflag": 1
+  },
+  "427906": {
+    "id": 427906,
+    "name": "1초 체크",
+    "desc": "",
+    "icon": "Buff_113.png",
+    "duration": 1000,
     "overlapflag": 0
   },
   "500760": {
@@ -87992,6 +89368,102 @@
   },
   "575730": { "id": 575730, "name": "", "desc": "", "icon": "Buff_35.png", "duration": 2000, "overlapflag": 1 },
   "575731": { "id": 575731, "name": "없음", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 0 },
+  "577260": {
+    "id": 577260,
+    "name": "Stealth",
+    "desc": "Become Stealthed, invisible to foes.",
+    "icon": "Buff_10.png",
+    "duration": -1,
+    "overlapflag": 1
+  },
+  "577010": {
+    "id": 577010,
+    "name": "이동 불가/이동기 불가",
+    "desc": "",
+    "icon": "Buff_149.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "577200": {
+    "id": 577200,
+    "name": "위쳐센스(PP)",
+    "desc": "",
+    "icon": "Buff_448.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "577201": { "id": 577201, "name": "기절", "desc": "", "icon": "Buff_39.png", "duration": 5000, "overlapflag": 0 },
+  "577202": {
+    "id": 577202,
+    "name": "조작 불가",
+    "desc": "",
+    "icon": "Buff_88.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "577203": { "id": 577203, "name": "키해제", "desc": "", "icon": "Buff_0.png", "duration": 5000, "overlapflag": 0 },
+  "577204": {
+    "id": 577204,
+    "name": "위쳐센스_진짜",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": -1,
+    "overlapflag": 0
+  },
+  "577205": {
+    "id": 577205,
+    "name": "키해제_성공",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "577206": {
+    "id": 577206,
+    "name": "키해제_실패",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "577207": {
+    "id": 577207,
+    "name": "퀘스트 성공",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "577208": { "id": 577208, "name": "기절", "desc": "", "icon": "Buff_39.png", "duration": 3000, "overlapflag": 0 },
+  "577240": { "id": 577240, "name": "빔_NPC", "desc": "", "icon": "Buff_0.png", "duration": 5000, "overlapflag": 0 },
+  "577241": { "id": 577241, "name": "빔_PC", "desc": "", "icon": "Buff_0.png", "duration": 5000, "overlapflag": 0 },
+  "577250": { "id": 577250, "name": "요정 체크", "desc": "", "icon": "Buff_0.png", "duration": -1, "overlapflag": 0 },
+  "577251": { "id": 577251, "name": "기절", "desc": "", "icon": "Buff_39.png", "duration": 5000, "overlapflag": 0 },
+  "577252": {
+    "id": 577252,
+    "name": "조작 불가",
+    "desc": "",
+    "icon": "Buff_88.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "577253": { "id": 577253, "name": "키해제", "desc": "", "icon": "Buff_0.png", "duration": 5000, "overlapflag": 0 },
+  "577255": {
+    "id": 577255,
+    "name": "키해제_성공",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "577257": {
+    "id": 577257,
+    "name": "퀘스트 성공",
+    "desc": "",
+    "icon": "Buff_0.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
   "580000": {
     "id": 580000,
     "name": "I feel dizzy.",
@@ -88402,6 +89874,10 @@
     "duration": 1000,
     "overlapflag": 0
   },
+  "428300": { "id": 428300, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "428400": { "id": 428400, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "428500": { "id": 428500, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
+  "428600": { "id": 428600, "name": "변신", "desc": "", "icon": "Buff_149.png", "duration": -1, "overlapflag": 0 },
   "20000": {
     "id": 20000,
     "name": "<FONT COLOR='#00ffa8'>[Pet Effect]</FONT> Vitality Training",
@@ -89013,7 +90489,7 @@
   "417207106": {
     "id": 417207106,
     "name": "Dark Flame",
-    "desc": "Shrouded in dark flames.<BR>Receives Fire Damage every <FONT COLOR='#ffff99'>1s</FONT>. This effect causes fatal Damage at <FONT COLOR='#ffff99'>4</FONT> stacks.",
+    "desc": "Shrouded in dark flames.\nReceives Fire Damage every <FONT COLOR='#ffff99'>1s</FONT>. This effect causes fatal Damage at <FONT COLOR='#ffff99'>4</FONT> stacks.",
     "icon": "Buff_302.png",
     "duration": 300000,
     "overlapflag": 4
@@ -89816,7 +91292,7 @@
   "413930704": {
     "id": 413930704,
     "name": "Dark Flame",
-    "desc": "Dark Flame Incarnate absorbs the <FONT COLOR='#A566FF'>dark flame energy</FONT> of Kaishuter.<BR><FONT COLOR='#ffff99'>6</FONT> stacks of <FONT COLOR='#A566FF'>Dark Flame</FONT> will make Dark Flame Incarnate launch a suicide attack.",
+    "desc": "Dark Flame Incarnate absorbs the <FONT COLOR='#A566FF'>dark flame energy</FONT> of Kaishuter.\n<FONT COLOR='#ffff99'>6</FONT> stacks of <FONT COLOR='#A566FF'>Dark Flame</FONT> will make Dark Flame Incarnate launch a suicide attack.",
     "icon": "Buff_302.png",
     "duration": -1,
     "overlapflag": 6
@@ -90128,7 +91604,7 @@
   "413930705": {
     "id": 413930705,
     "name": "Dark Flame Curtain",
-    "desc": "Protected by dark flame energy.<BR>The shield can be removed by fending off Kaishuter's attacks.",
+    "desc": "Protected by dark flame energy.\nThe shield can be removed by fending off Kaishuter's attacks.",
     "icon": "Buff_134.png",
     "duration": -1,
     "overlapflag": 0
@@ -90136,7 +91612,7 @@
   "413930706": {
     "id": 413930706,
     "name": "Dark Ember",
-    "desc": "Protected by the warmth of the dark flames.<BR>Kaishuter's energy still lingers around, decreasing incoming Damage.",
+    "desc": "Protected by the warmth of the dark flames.\nKaishuter's energy still lingers around, decreasing incoming Damage.",
     "icon": "Buff_189.png",
     "duration": -1,
     "overlapflag": 5
@@ -90152,7 +91628,7 @@
   "413930708": {
     "id": 413930708,
     "name": "Scarred Darkness",
-    "desc": "The absolute darkness is scarred and vulnerable.<BR>Kaishuter's flame injection has failed, increasing the Damage Dark Flame Incarnate receives.",
+    "desc": "The absolute darkness is scarred and vulnerable.\nKaishuter's flame injection has failed, increasing the Damage Dark Flame Incarnate receives.",
     "icon": "Buff_19.png",
     "duration": -1,
     "overlapflag": 5
@@ -90232,7 +91708,7 @@
   "45656102": {
     "id": 45656102,
     "name": "Dark Glass Prison",
-    "desc": "Imprisoned by the dark fireball.<BR>The glass prison is susceptible to Damage.",
+    "desc": "Imprisoned by the dark fireball.\nThe glass prison is susceptible to Damage.",
     "icon": "Buff_48.png",
     "duration": 10000,
     "overlapflag": 1
@@ -91105,7 +92581,7 @@
   "600000117": {
     "id": 600000117,
     "name": "Transcendence",
-    "desc": "Atk. Speed +<FONT COLOR='#99ff99'>40%</FONT>. Skill Cooldown -<FONT COLOR='#99ff99'>50%</FONT>(except for moving skills and awakening skills). Removes all debuffs in an interval, recovers Magick and Specialty Meter by <FONT COLOR='#99ff99'>100%</FONT>.",
+    "desc": "Atk. Speed +<FONT COLOR='#99ff99'>40%</FONT>. Skill Cooldown -<FONT COLOR='#99ff99'>50%</FONT>(except for moving skills and awakening skills). Removes all debuffs in an interval, recovers MP and Specialty Meter by <FONT COLOR='#99ff99'>100%</FONT>.",
     "icon": "Buff_138.png",
     "duration": 30000,
     "overlapflag": 0
@@ -94447,7 +95923,7 @@
   },
   "171300": {
     "id": 171300,
-    "name": "Nellasia's Energy",
+    "name": "Nelasia's Energy",
     "desc": "Incoming Phy./Mag. Damage received -<FONT COLOR='#99ff99'>25%</FONT>.",
     "icon": "GL_Skill_01_15.png",
     "duration": 6000,
@@ -94479,7 +95955,7 @@
   },
   "171307": {
     "id": 171307,
-    "name": "Nellasia's Energy",
+    "name": "Nelasia's Energy",
     "desc": "Incoming Phy. Damage -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 171307 10/>/100) +  (<$TABLE_SKILLFEATURE ParamValue3 17130 4 CHANGE_BUFF_STAT />/100) />%</FONT>. Incoming Mag. Damage -<FONT COLOR='#99ff99'><$CALC %1 (<$TABLE_SKILLBUFF PassiveOptionValue0 171307 10/>/100) +  (<$TABLE_SKILLFEATURE ParamValue3 17130 4 CHANGE_BUFF_STAT />/100) />%</FONT>.",
     "icon": "GL_Skill_01_15.png",
     "duration": 6000,
@@ -95225,8 +96701,116 @@
     "duration": -1,
     "overlapflag": 0
   },
-  "320200": { "id": 320200, "name": "역류", "desc": "", "icon": "Buff_15.png", "duration": 7000, "overlapflag": 0 },
-  "320201": { "id": 320201, "name": "역류", "desc": "", "icon": "Buff_0.png", "duration": 7000, "overlapflag": 0 },
+  "450604": { "id": 450604, "name": "보호막", "desc": "", "icon": "Buff_18.png", "duration": 5000, "overlapflag": 0 },
+  "450605": {
+    "id": 450605,
+    "name": "타오르는 분노",
+    "desc": "",
+    "icon": "Buff_23.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "450606": { "id": 450606, "name": "보호막", "desc": "", "icon": "Buff_18.png", "duration": 5000, "overlapflag": 0 },
+  "450607": { "id": 450607, "name": "지진", "desc": "", "icon": "Buff_49.png", "duration": 4000, "overlapflag": 0 },
+  "450700": { "id": 450700, "name": "대차륜", "desc": "", "icon": "Buff_27.png", "duration": 3000, "overlapflag": 10 },
+  "450803": { "id": 450803, "name": "융해", "desc": "", "icon": "Buff_27.png", "duration": 3000, "overlapflag": 5 },
+  "451102": {
+    "id": 451102,
+    "name": "파티 : 피해 증폭",
+    "desc": "",
+    "icon": "Buff_26.png",
+    "duration": 6000,
+    "overlapflag": 0
+  },
+  "451105": {
+    "id": 451105,
+    "name": "내부 출혈",
+    "desc": "",
+    "icon": "Buff_41.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "452101": {
+    "id": 452101,
+    "name": "신속한 이동",
+    "desc": "",
+    "icon": "Buff_10.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "452102": { "id": 452102, "name": "검파편", "desc": "", "icon": "Buff_41.png", "duration": 4000, "overlapflag": 0 },
+  "452103": { "id": 452103, "name": "대검풍", "desc": "", "icon": "Buff_20.png", "duration": 3000, "overlapflag": 0 },
+  "452104": { "id": 452104, "name": "기절", "desc": "", "icon": "Buff_39.png", "duration": 4000, "overlapflag": 0 },
+  "452200": {
+    "id": 452200,
+    "name": "속공 준비",
+    "desc": "",
+    "icon": "Buff_20.png",
+    "duration": 3000,
+    "overlapflag": 0
+  },
+  "452201": {
+    "id": 452201,
+    "name": "둔화 효과",
+    "desc": "",
+    "icon": "BK_Skill_01_16.png",
+    "duration": 2000,
+    "overlapflag": 0
+  },
+  "452202": {
+    "id": 452202,
+    "name": "둔화 효과",
+    "desc": "",
+    "icon": "Buff_43.png",
+    "duration": 2000,
+    "overlapflag": 0
+  },
+  "452203": { "id": 452203, "name": "지진", "desc": "", "icon": "Buff_49.png", "duration": 3000, "overlapflag": 0 },
+  "452230": {
+    "id": 452230,
+    "name": "파티 : 피해 증폭",
+    "desc": "",
+    "icon": "Buff_26.png",
+    "duration": 10000,
+    "overlapflag": 0
+  },
+  "453002": {
+    "id": 453002,
+    "name": "출혈 효과",
+    "desc": "",
+    "icon": "Buff_41.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "456002": {
+    "id": 456002,
+    "name": "화염 폭풍",
+    "desc": "",
+    "icon": "Buff_56.png",
+    "duration": 6000,
+    "overlapflag": 0
+  },
+  "456003": { "id": 456003, "name": "지진", "desc": "", "icon": "Buff_49.png", "duration": 4000, "overlapflag": 0 },
+  "456101": { "id": 456101, "name": "가속", "desc": "", "icon": "Buff_10.png", "duration": 5000, "overlapflag": 0 },
+  "456102": {
+    "id": 456102,
+    "name": "출혈 효과",
+    "desc": "",
+    "icon": "Buff_41.png",
+    "duration": 5000,
+    "overlapflag": 0
+  },
+  "456211": { "id": 456211, "name": "급소 타격", "desc": "", "icon": "Buff_9.png", "duration": 4000, "overlapflag": 0 },
+  "10080112": { "id": 10080112, "name": "폭주", "desc": "", "icon": "Buff_2.png", "duration": -1, "overlapflag": 0 },
+  "10080113": {
+    "id": 10080113,
+    "name": "탈진",
+    "desc": "",
+    "icon": "Buff_45.png",
+    "duration": 30000,
+    "overlapflag": 0
+  },
+  "320200": { "id": 320200, "name": "역류", "desc": "", "icon": "Buff_0.png", "duration": 7000, "overlapflag": 0 },
   "320400": {
     "id": 320400,
     "name": "Sun Shower",

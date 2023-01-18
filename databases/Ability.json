@@ -1099,15 +1099,15 @@
     "levels": {
       "1": {
         "desc": "When using Hype, enters level 3 immediately. While in Hype Mode, Energy recovery speed +200%. Damage +10%.",
-        "values": [24023, 150, 240230, 20000]
+        "values": [24023, 146, 240230, 20000]
       },
       "2": {
         "desc": "When using Hype, enters level 3 immediately. While in Hype Mode, Energy recovery speed +200%. Damage +20%.",
-        "values": [24023, 150, 240240, 20000]
+        "values": [24023, 146, 240240, 20000]
       },
       "3": {
         "desc": "When using Hype, enters level 3 immediately While in Hype Mode, Energy recovery speed +200%. Damage +30%.",
-        "values": [24023, 150, 240250, 20000]
+        "values": [24023, 146, 240250, 20000]
       }
     },
     "name": "Robust Spirit",
