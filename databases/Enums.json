@@ -13928,7 +13928,9 @@
     "4": "pc_class_level",
     "5": "expedition_level",
     "6": "item_level",
-    "7": "item_use"
+    "7": "item_use",
+    "8": "attendance",
+    "9": "memory_marble"
   },
   "trophytype": { "0": "figure", "1": "freefigure", "2": "statue" },
   "tutorialconditionbindtype": { "0": "activate", "1": "complete", "2": "fail" },

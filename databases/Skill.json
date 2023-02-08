@@ -22115,6 +22115,201 @@
     "classid": 0,
     "icon": ""
   },
+  "4139043": { "id": 4139043, "name": "시련_칼엘리고스_2_우측 내려찍기", "desc": "", "classid": 0, "icon": "" },
+  "4139044": { "id": 4139044, "name": "시련_칼엘리고스_2_좌측 내려찍기", "desc": "", "classid": 0, "icon": "" },
+  "4139047": {
+    "id": 4139047,
+    "name": "시련_칼엘리고스_2_꼬리 내려찍고 우측 후려치기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139048": {
+    "id": 4139048,
+    "name": "시련_칼엘리고스_2_꼬리 내려찍고 좌측 후려치기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139049": {
+    "id": 4139049,
+    "name": "시련_칼엘리고스_2_전진하며 연속 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139051": {
+    "id": 4139051,
+    "name": "시련_칼엘리고스_2_날개짓 하며 뒤로 도약 후 내려찍기 (후방이동 페이크)",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139052": { "id": 4139052, "name": "시련_칼엘리고스_2_뇌전 점프 공격", "desc": "", "classid": 0, "icon": "" },
+  "4139054": {
+    "id": 4139054,
+    "name": "시련_칼엘리고스_2_뇌광탄 전방 미사일 발사",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139058": { "id": 4139058, "name": "시련_칼엘리고스_2_추적 내려찍기", "desc": "", "classid": 0, "icon": "" },
+  "4139060": { "id": 4139060, "name": "시련_칼엘리고스_2_전방 도약 후 후방공격", "desc": "", "classid": 0, "icon": "" },
+  "4139063": {
+    "id": 4139063,
+    "name": "시련_칼엘리고스_2_뇌전 저공 비행 후 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139068": {
+    "id": 4139068,
+    "name": "시련_칼엘리고스_3_환뇌룡 꼬리 에너지 방출 우측",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139069": {
+    "id": 4139069,
+    "name": "시련_칼엘리고스_3_환뇌룡 꼬리 에너지 방출 좌측",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139073": {
+    "id": 4139073,
+    "name": "시련_칼엘리고스_3_환뇌룡 날개짓 하며 뒤로 도약 후 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139076": {
+    "id": 4139076,
+    "name": "시련_칼엘리고스_3_환뇌룡 뇌광탄 전방 미사일 발사",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139079": { "id": 4139079, "name": "시련_칼엘리고스_3_환뇌룡 추적 내려찍기", "desc": "", "classid": 0, "icon": "" },
+  "4139081": {
+    "id": 4139081,
+    "name": "시련_칼엘리고스_3_환뇌룡 전방 도약 후 후방 공격",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139084": {
+    "id": 4139084,
+    "name": "시련_칼엘리고스_3_환뇌룡 저공 비행 후 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139101": {
+    "id": 4139101,
+    "name": "시련_칼엘리고스_부위파괴_2_우측 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139102": {
+    "id": 4139102,
+    "name": "시련_칼엘리고스_부위파괴_2_좌측 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139105": {
+    "id": 4139105,
+    "name": "시련_칼엘리고스_부위파괴_2_꼬리 내려찍고 우측 후려치기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139106": {
+    "id": 4139106,
+    "name": "시련_칼엘리고스_부위파괴_2_꼬리 내려찍고 좌측 후려치기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139109": {
+    "id": 4139109,
+    "name": "시련_칼엘리고스_부위파괴_2_날개짓 하며 뒤로 도약 후 내려찍기 (후방이동 페이크)",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139112": {
+    "id": 4139112,
+    "name": "시련_칼엘리고스_부위파괴_2_뇌전 저공 비행 후 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139127": {
+    "id": 4139127,
+    "name": "시련_칼엘리고스_부위파괴_3_환뇌룡 날개짓 하며 뒤로 도약 후 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139129": {
+    "id": 4139129,
+    "name": "시련_칼엘리고스_부위파괴_3_환뇌룡 추적 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139130": {
+    "id": 4139130,
+    "name": "시련_칼엘리고스_부위파괴_3_환뇌룡 저공 비행 후 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139131": { "id": 4139131, "name": "시련_칼엘리고스_1_우측 내려찍기", "desc": "", "classid": 0, "icon": "" },
+  "4139132": { "id": 4139132, "name": "시련_칼엘리고스_1_좌측 내려찍기", "desc": "", "classid": 0, "icon": "" },
+  "4139133": {
+    "id": 4139133,
+    "name": "시련_칼엘리고스_1_우측 선회하며 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139134": {
+    "id": 4139134,
+    "name": "시련_칼엘리고스_1_좌측 선회하며 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139135": {
+    "id": 4139135,
+    "name": "시련_칼엘리고스_1_꼬리 내려찍고 우측 후려치기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139136": {
+    "id": 4139136,
+    "name": "시련_칼엘리고스_1_꼬리 내려찍고 좌측 후려치기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139137": {
+    "id": 4139137,
+    "name": "시련_칼엘리고스_1_전진하며 연속 내려찍기",
+    "desc": "",
+    "classid": 0,
+    "icon": ""
+  },
+  "4139138": { "id": 4139138, "name": "시련_칼엘리고스_1_돌진 (카운터)", "desc": "", "classid": 0, "icon": "" },
+  "4139139": { "id": 4139139, "name": "시련_칼엘리고스_1_날개짓 하며 뒤로 도약", "desc": "", "classid": 0, "icon": "" },
+  "4139140": { "id": 4139140, "name": "시련_칼엘리고스_1_저공 비행 후 내려찍기", "desc": "", "classid": 0, "icon": "" },
+  "4139141": { "id": 4139141, "name": "시련_칼엘리고스_1_점프 공격", "desc": "", "classid": 0, "icon": "" },
+  "4139142": { "id": 4139142, "name": "시련_칼엘리고스_1_추적 내려치기", "desc": "", "classid": 0, "icon": "" },
   "4138801": { "id": 4138801, "name": "구칼벤투스_흑룡의 외침", "desc": "", "classid": 0, "icon": "" },
   "4138802": { "id": 4138802, "name": "구칼벤투스_전방 도약 후 후방 공격", "desc": "", "classid": 0, "icon": "" },
   "4138803": { "id": 4138803, "name": "구칼벤투스_날개 반격_광풍옥_질풍옥", "desc": "", "classid": 0, "icon": "" },
@@ -25447,7 +25642,7 @@
   "28140": {
     "id": 28140,
     "name": "Moving Slash",
-    "desc": "Slide <FONT COLOR='#ffff99'>8 meters</FONT> forward and slash at nearby enemies, inflicting <$MACRO physic @1:281400/> Damage.",
+    "desc": "Slide <FONT COLOR='#ffff99'>8 meters</FONT> forward and slash at nearby foes, inflicting <$MACRO physic @1:281400/> Damage.",
     "classid": 502,
     "icon": "HE_Skill_01_13.png"
   },
@@ -26404,7 +26599,7 @@
   "36220": {
     "id": 36220,
     "name": "Alithanes's Light",
-    "desc": "Embue holy energy into your sword and unleash it forward. On hit, inflicts<$MACRO magic @1:362204/> Damage. The energy then explodes and inflicts an additional<$MACRO magic @1:362202/> Damage.",
+    "desc": "Embue holy energy into your sword and unleash it forward. On hit, inflicts <$MACRO magic @1:362204/> Damage. The energy then explodes and inflicts an additional <$MACRO magic @1:362202/> Damage.",
     "classid": 105,
     "icon": "HK_Skill_01_19.png"
   },
@@ -26426,7 +26621,7 @@
   "36910": {
     "id": 36910,
     "name": "Sacred Executioner",
-    "desc": "Use the Piety Meter to amplify the effects of the holy aura for yourself.\nUpon activating Sacred Executioner, attack range of basic attacks and Punish skills +<FONT COLOR='#99ff99'>30%</FONT>. Damage by basic attacks and Punish skills +<FONT COLOR='#99ff99'>40%</FONT>.",
+    "desc": "Use the Piety Meter to amplify the effects of the holy aura for yourself.\nUpon activating Sacred Executioner, Attack Range of basic attacks and Punish skills +<FONT COLOR='#99ff99'>30%</FONT>. Damage by basic attacks and Punish skills +<FONT COLOR='#99ff99'>40%</FONT>.",
     "classid": 105,
     "icon": "HK_Skill_01_20.png"
   },
@@ -26632,7 +26827,7 @@
   "34590": {
     "id": 34590,
     "name": "Red Dragon's Horn",
-    "desc": "Hold the skill hotkey to focus your mind and gather energy, then aim and thrust your spear toward a foe within a <FONT COLOR='#ffff99'>12-meter </FONT>radius at a <FONT COLOR='#ffff99'>90</FONT> degree angle, inflicting <$MACRO magic @1:345900/> Damage. Hit the perfect Zone to extend the attack range up to <FONT COLOR='#ffff99'>16 meters</FONT>, inflicting <$MACRO magic @1:345901/> Damage and knocking foes back.",
+    "desc": "Hold the skill hotkey to focus your mind and gather energy, then aim and thrust your spear toward a foe within a <FONT COLOR='#ffff99'>12-meter </FONT>radius at a <FONT COLOR='#ffff99'>90</FONT> degree angle, inflicting <$MACRO magic @1:345900/> Damage. Hit the perfect Zone to extend the Attack Range up to <FONT COLOR='#ffff99'>16 meters</FONT>, inflicting <$MACRO magic @1:345901/> Damage and knocking foes back.",
     "classid": 305,
     "icon": "LM_Skill_01_25.png"
   },
@@ -27530,7 +27725,7 @@
   "21110": {
     "id": 21110,
     "name": "Note Bundle",
-    "desc": "Cast a group of musical notes that travels at a low speed while continuously inflicting <$MACRO magic @1:211101/> Damage and <$MACRO buffkey0 @1:211102/> -<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:211102/>%</FONT> for <FONT COLOR='#ffff99'>s. The musical notes can hit the same foe up to </FONT>8<$MACRO bufftime @1:211102/> times.",
+    "desc": "Cast a group of musical notes that travels at a low speed while continuously inflicting <$MACRO magic @1:211101/> Damage and <$MACRO buffkey0 @1:211102/> -<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:211102/>%</FONT> for <FONT COLOR='#ffff99'><$MACRO bufftime @1:211102/>s. The musical notes can hit the same foe up to </FONT>8 times.",
     "classid": 204,
     "icon": "BD_Skill_01_10.png"
   },

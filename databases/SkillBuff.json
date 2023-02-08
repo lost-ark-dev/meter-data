@@ -5698,7 +5698,7 @@
     "name": "Evade Hazard",
     "desc": "Hazardous Waters gauge will not increase while the effect is maintained.",
     "icon": "Buff_318.png",
-    "duration": 10000,
+    "duration": 30000,
     "overlapflag": 0
   },
   "850329": {
@@ -7633,6 +7633,22 @@
     "desc": "",
     "icon": "Buff_25.png",
     "duration": 120000,
+    "overlapflag": 0
+  },
+  "920032": {
+    "id": 920032,
+    "name": "Mysterious Stone Barrier",
+    "desc": "Become excluded from attacks by other factions due to the Aura of Protection.\n\nWhile the buff is active, below actions become unavailable.\n<font color='#B9B9B9'>- Fighting with players and NPCs from the opposing faction\n- Base Siege\n-Co-op and Competitive quests\n- Actions that benefit the faction\n- Joining a Party or Raid</font>\n\n<FONT COLOR='#FF0000'>*Buff is removed when entering opponent faction's main base</font>",
+    "icon": "Buff_470.png",
+    "duration": 1200000,
+    "overlapflag": 0
+  },
+  "920033": {
+    "id": 920033,
+    "name": "Disarm the Barrier",
+    "desc": "Protective Barrier released.",
+    "icon": "Buff_470.png",
+    "duration": 4000,
     "overlapflag": 0
   },
   "920034": {
@@ -10027,7 +10043,7 @@
   "5410200": {
     "id": 5410200,
     "name": "Trot",
-    "desc": "Encumbered Speed +<FONT   COLOR='#99ff99'><$MACRO buffstat0_100 @1:5410200/>%</FONT> for <$MACRO bufftime @1:5410200/>s and gains Super Armor.",
+    "desc": "Encumbered Speed +<FONT   COLOR='#99ff99'><$MACRO buffstat0_100 @1:5410200/>%</FONT> for <$MACRO bufftime @1:5410200/>s and gain Super Armor.",
     "icon": "Buff_10.png",
     "duration": 5000,
     "overlapflag": 0
@@ -12132,8 +12148,8 @@
   },
   "9309": {
     "id": 9309,
-    "name": "[퀘스트] 투명화 물약",
-    "desc": "",
+    "name": "Invisibility Potion",
+    "desc": "You drank the Invisibility Potion that Sylus gave you.",
     "icon": "Buff_35.png",
     "duration": 120000,
     "overlapflag": 0
@@ -15238,7 +15254,7 @@
   "9673": {
     "id": 9673,
     "name": "Frozen",
-    "desc": "Struck hard by the blizzard of the Snowflake Fairy.\nFrozen for a certain period of time.",
+    "desc": "Struck hard by Snowflake Fairy's blizzard.\nFrozen for a certain period of time.",
     "icon": "Buff_145.png",
     "duration": 6000,
     "overlapflag": 0
@@ -30390,7 +30406,7 @@
   "345008": {
     "id": 345008,
     "name": "Pinnacle: Flurry III",
-    "desc": "Attack Speed +<FONT COLOR='#99ff99'>15%</FONT>. Damage to foes +<FONT COLOR='#99ff99'>15%</FONT>. Crit Rate +<FONT COLOR='#99ff99'>25%</FONT>.",
+    "desc": "Atk. Speed +<FONT COLOR='#99ff99'>15%</FONT>. Damage to foes +<FONT COLOR='#99ff99'>15%</FONT>. Crit Rate +<FONT COLOR='#99ff99'>25%</FONT>.",
     "icon": "LM_Skill_01_47.png",
     "duration": 20000,
     "overlapflag": 0
@@ -35067,7 +35083,7 @@
   "500017": {
     "id": 500017,
     "name": "Body's Limit I",
-    "desc": "Fury consumption +<FONT COLOR='#ff9999'>30%</FONT>.",
+    "desc": "Fury Meter consumption +<FONT COLOR='#ff9999'>30%</FONT>.",
     "icon": "Buff_120.png",
     "duration": -1,
     "overlapflag": 0
@@ -35075,7 +35091,7 @@
   "500018": {
     "id": 500018,
     "name": "Body's Limit II",
-    "desc": "Fury consumption +<FONT COLOR='#ff9999'>25%</FONT>.",
+    "desc": "Fury Meter consumption +<FONT COLOR='#ff9999'>25%</FONT>.",
     "icon": "Buff_120.png",
     "duration": -1,
     "overlapflag": 0
@@ -35083,7 +35099,7 @@
   "500019": {
     "id": 500019,
     "name": "Body's Limit III",
-    "desc": "Fury consumption +<FONT COLOR='#ff9999'>20%</FONT>.",
+    "desc": "Fury Meter consumption +<FONT COLOR='#ff9999'>20%</FONT>.",
     "icon": "Buff_120.png",
     "duration": -1,
     "overlapflag": 0
@@ -40704,7 +40720,7 @@
   },
   "100410019": {
     "id": 100410019,
-    "name": "1 Year Anniversary Celebration Cake",
+    "name": "1st Anniversary Cake",
     "desc": "Weapon Power +<FONT COLOR='#99ff99'>25</FONT> . Vitality +<FONT COLOR='#99ff99'>360</FONT>.",
     "icon": "Use_6_249.png",
     "duration": 1200000,
@@ -45065,6 +45081,14 @@
     "name": "Crunchy Homemade Cookie",
     "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>3000</FONT>. Vitality +<FONT COLOR='#99ff99'>4500</FONT>. Move Speed +<FONT COLOR='#99ff99'>3%</FONT>.",
     "icon": "Use_4_86.png",
+    "duration": 1200000,
+    "overlapflag": 0
+  },
+  "40618017": {
+    "id": 40618017,
+    "name": "1st Anniversary Cake",
+    "desc": "Strength, Dexterity, and Intelligence +<FONT COLOR='#99ff99'>6000</FONT>. Attack and Move Speed +<FONT COLOR='#99ff99'>3%</FONT>.",
+    "icon": "Use_6_249.png",
     "duration": 1200000,
     "overlapflag": 0
   },
@@ -85561,7 +85585,7 @@
   "413887460": {
     "id": 413887460,
     "name": "Lightning Dragon's Powers",
-    "desc": "<FONT COLOR='#99ff99'>Lightning Dragon's Powers</FONT> that were acquired from defeating the White Lightning Dragon's Jade of destroyed Lightning Dragon's horn. ",
+    "desc": "<FONT COLOR='#99ff99'>Lightning Dragon's Powers</FONT> that were acquired from defeating the White Lightning Dragon's Jade of destroyed Lightning Dragon's horn.",
     "icon": "Buff_396.png",
     "duration": 30000,
     "overlapflag": 10
@@ -85573,6 +85597,14 @@
     "icon": "Buff_0.png",
     "duration": 30000,
     "overlapflag": 0
+  },
+  "413887462": {
+    "id": 413887462,
+    "name": "뇌룡의 힘",
+    "desc": "",
+    "icon": "Buff_396.png",
+    "duration": 30000,
+    "overlapflag": 10
   },
   "413887470": {
     "id": 413887470,
@@ -95603,7 +95635,7 @@
   },
   "162103": {
     "id": 162103,
-    "name": "Great Sword Wind",
+    "name": "Swordswipe Draft",
     "desc": "Atk. Speed +<FONT COLOR='#99ff99'><$CALC %1 <$MACRO buffstat0_100 @1:162103/> + <$MACRO buffstat0_100 @1:162103/> * <$TABLE_SKILLFEATURE ParamValue3 16210 5 CHANGE_BUFF_STAT {0}/>/100 />%</FONT>.",
     "icon": "Buff_20.png",
     "duration": 3000,
