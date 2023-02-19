@@ -3051,7 +3051,7 @@
   "807503": { "id": 807503, "name": "Possessed Swordfighter", "grade": "normal", "type": "monster" },
   "807504": { "id": 807504, "name": "Possessed Elite Lancer", "grade": "normal", "type": "monster" },
   "807505": { "id": 807505, "name": "Necromantic Skeleton Soldier", "grade": "normal", "type": "monster" },
-  "807506": { "id": 807506, "name": "Demon-Struck Belled", "grade": "normal", "type": "monster" },
+  "807506": { "id": 807506, "name": "Demon-struck Belled", "grade": "normal", "type": "monster" },
   "807507": { "id": 807507, "name": "Demon-struck Kiriko", "grade": "normal", "type": "monster" },
   "807508": { "id": 807508, "name": "Telpa Worker", "grade": "normal", "type": "monster" },
   "807509": { "id": 807509, "name": "Telpa Miner", "grade": "normal", "type": "monster" },
