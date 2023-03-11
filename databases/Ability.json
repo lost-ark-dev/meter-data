@@ -7,7 +7,7 @@
     },
     "name": "Potion Sickness",
     "isnegative": false,
-    "icon": "Buff_100.png",
+    "icon": "buff_100.png",
     "isengrave": false,
     "featuretype": 1
   },
@@ -33,7 +33,7 @@
     },
     "name": "Spirit Absorption",
     "isnegative": false,
-    "icon": "Buff_65.png",
+    "icon": "buff_65.png",
     "isengrave": true,
     "featuretype": 3
   },
@@ -55,7 +55,7 @@
     },
     "name": "Ether Predator",
     "isnegative": false,
-    "icon": "Buff_74.png",
+    "icon": "buff_74.png",
     "isengrave": true,
     "featuretype": 4
   },
@@ -68,7 +68,7 @@
     },
     "name": "Stabilized Status",
     "isnegative": false,
-    "icon": "Buff_105.png",
+    "icon": "buff_105.png",
     "isengrave": true,
     "featuretype": 5
   },
@@ -81,7 +81,7 @@
     },
     "name": "Master of Cutting",
     "isnegative": false,
-    "icon": "Buff_107.png",
+    "icon": "buff_107.png",
     "isengrave": true,
     "featuretype": 6
   },
@@ -94,7 +94,7 @@
     },
     "name": "Grudge",
     "isnegative": false,
-    "icon": "Buff_71.png",
+    "icon": "buff_71.png",
     "isengrave": true,
     "featuretype": 10
   },
@@ -103,7 +103,7 @@
     "levels": { "1": { "desc": "Become invincible while using your Movement Skill." } },
     "name": "Invincible Evasion",
     "isnegative": false,
-    "icon": "Buff_20.png",
+    "icon": "buff_20.png",
     "isengrave": true,
     "featuretype": 11
   },
@@ -129,7 +129,7 @@
     },
     "name": "Strong Will",
     "isnegative": false,
-    "icon": "Buff_44.png",
+    "icon": "buff_44.png",
     "isengrave": true,
     "featuretype": 14
   },
@@ -142,7 +142,7 @@
     },
     "name": "Fugitive",
     "isnegative": false,
-    "icon": "Buff_137.png",
+    "icon": "buff_137.png",
     "isengrave": false,
     "featuretype": 15
   },
@@ -164,7 +164,7 @@
     },
     "name": "Mayhem",
     "isnegative": false,
-    "icon": "Buff_173.png",
+    "icon": "buff_173.png",
     "isengrave": true,
     "featuretype": 16
   },
@@ -186,7 +186,7 @@
     },
     "name": "Esoteric Skill Enhancement",
     "isnegative": false,
-    "icon": "Buff_238.png",
+    "icon": "buff_238.png",
     "isengrave": true,
     "featuretype": 17
   },
@@ -199,7 +199,7 @@
     },
     "name": "Enhanced Weapon",
     "isnegative": false,
-    "icon": "Buff_33.png",
+    "icon": "buff_33.png",
     "isengrave": true,
     "featuretype": 18
   },
@@ -221,7 +221,7 @@
     },
     "name": "Firepower Enhancement",
     "isnegative": false,
-    "icon": "Buff_171.png",
+    "icon": "buff_171.png",
     "isengrave": true,
     "featuretype": 19
   },
@@ -234,7 +234,7 @@
     },
     "name": "Fortune Hunter",
     "isnegative": false,
-    "icon": "Buff_156.png",
+    "icon": "buff_156.png",
     "isengrave": false,
     "featuretype": 20
   },
@@ -243,7 +243,7 @@
     "levels": { "1": { "desc": "Phy. or Mag. Defense value increased to match whichever is highest." } },
     "name": "Balanced Defense",
     "isnegative": false,
-    "icon": "Buff_26.png",
+    "icon": "buff_26.png",
     "isengrave": true,
     "featuretype": 21
   },
@@ -265,7 +265,7 @@
     },
     "name": "Drops of Ether",
     "isnegative": false,
-    "icon": "Buff_18.png",
+    "icon": "buff_18.png",
     "isengrave": true,
     "featuretype": 22
   },
@@ -287,7 +287,7 @@
     },
     "name": "Crisis Evasion",
     "isnegative": false,
-    "icon": "Buff_162.png",
+    "icon": "buff_162.png",
     "isengrave": true,
     "featuretype": 26
   },
@@ -322,7 +322,7 @@
     },
     "name": "Vital Point Hit",
     "isnegative": false,
-    "icon": "Buff_168.png",
+    "icon": "buff_168.png",
     "isengrave": true,
     "featuretype": 28
   },
@@ -335,7 +335,7 @@
     },
     "name": "Master of Piercing",
     "isnegative": false,
-    "icon": "Buff_96.png",
+    "icon": "buff_96.png",
     "isengrave": true,
     "featuretype": 36
   },
@@ -348,7 +348,7 @@
     },
     "name": "Master of Destruction",
     "isnegative": false,
-    "icon": "Buff_27.png",
+    "icon": "buff_27.png",
     "isengrave": true,
     "featuretype": 37
   },
@@ -357,7 +357,7 @@
     "levels": { "1": { "desc": "Max MP +5%." }, "2": { "desc": "Max MP +15%." }, "3": { "desc": "Max MP +30%." } },
     "name": "Max MP Increase",
     "isnegative": false,
-    "icon": "Buff_122.png",
+    "icon": "buff_122.png",
     "isengrave": true
   },
   "168": {
@@ -369,7 +369,7 @@
     },
     "name": "MP Efficiency Increase",
     "isnegative": false,
-    "icon": "Buff_166.png",
+    "icon": "buff_166.png",
     "isengrave": true
   },
   "188": {
@@ -381,7 +381,7 @@
     },
     "name": "Berserker's Technique",
     "isnegative": false,
-    "icon": "Buff_138.png",
+    "icon": "buff_138.png",
     "isengrave": true,
     "featuretype": 83
   },
@@ -394,7 +394,7 @@
     },
     "name": "First Intention",
     "isnegative": false,
-    "icon": "Ability_25.png",
+    "icon": "ability_25.png",
     "isengrave": true,
     "featuretype": 84
   },
@@ -429,7 +429,7 @@
     },
     "name": "Shock Training",
     "isnegative": false,
-    "icon": "Buff_177.png",
+    "icon": "buff_177.png",
     "isengrave": true,
     "featuretype": 86
   },
@@ -451,7 +451,7 @@
     },
     "name": "Pistoleer",
     "isnegative": false,
-    "icon": "Buff_124.png",
+    "icon": "buff_124.png",
     "isengrave": true,
     "featuretype": 87
   },
@@ -473,7 +473,7 @@
     },
     "name": "Barrage Enhancement",
     "isnegative": false,
-    "icon": "GL_Skill_01_26.png",
+    "icon": "gl_skill_01_26.png",
     "isengrave": true,
     "featuretype": 88
   },
@@ -495,7 +495,7 @@
     },
     "name": "True Courage",
     "isnegative": false,
-    "icon": "Buff_220.png",
+    "icon": "buff_220.png",
     "isengrave": true,
     "featuretype": 89
   },
@@ -517,7 +517,7 @@
     },
     "name": "Desperate Salvation",
     "isnegative": false,
-    "icon": "Buff_135.png",
+    "icon": "buff_135.png",
     "isengrave": true,
     "featuretype": 90
   },
@@ -561,7 +561,7 @@
     },
     "name": "Gravity Training",
     "isnegative": false,
-    "icon": "Buff_42.png",
+    "icon": "buff_42.png",
     "isengrave": true,
     "featuretype": 92
   },
@@ -583,7 +583,7 @@
     },
     "name": "Master Summoner",
     "isnegative": false,
-    "icon": "Buff_78.png",
+    "icon": "buff_78.png",
     "isengrave": true,
     "featuretype": 93
   },
@@ -605,7 +605,7 @@
     },
     "name": "Communication Overflow",
     "isnegative": false,
-    "icon": "Buff_21.png",
+    "icon": "buff_21.png",
     "isengrave": true,
     "featuretype": 94
   },
@@ -618,7 +618,7 @@
     },
     "name": "Empress's Grace",
     "isnegative": false,
-    "icon": "Buff_1.png",
+    "icon": "buff_1.png",
     "isengrave": true,
     "featuretype": 95
   },
@@ -640,7 +640,7 @@
     },
     "name": "Order of the Emperor",
     "isnegative": false,
-    "icon": "Buff_236.png",
+    "icon": "buff_236.png",
     "isengrave": true,
     "featuretype": 96
   },
@@ -653,7 +653,7 @@
     },
     "name": "Master of Escape",
     "isnegative": false,
-    "icon": "Buff_10.png",
+    "icon": "buff_10.png",
     "isengrave": true,
     "featuretype": 97
   },
@@ -666,7 +666,7 @@
     },
     "name": "Vagabond",
     "isnegative": false,
-    "icon": "Buff_119.png",
+    "icon": "buff_119.png",
     "isengrave": false,
     "featuretype": 98
   },
@@ -679,7 +679,7 @@
     },
     "name": "Telescope",
     "isnegative": false,
-    "icon": "Buff_152.png",
+    "icon": "buff_152.png",
     "isengrave": true,
     "featuretype": 99
   },
@@ -701,7 +701,7 @@
     },
     "name": "Combat Readiness",
     "isnegative": false,
-    "icon": "Buff_19.png",
+    "icon": "buff_19.png",
     "isengrave": true,
     "featuretype": 100
   },
@@ -723,7 +723,7 @@
     },
     "name": "Lone Knight",
     "isnegative": false,
-    "icon": "Buff_13.png",
+    "icon": "buff_13.png",
     "isengrave": true,
     "featuretype": 101
   },
@@ -736,7 +736,7 @@
     },
     "name": "Fortitude",
     "isnegative": false,
-    "icon": "Buff_66.png",
+    "icon": "buff_66.png",
     "isengrave": true,
     "featuretype": 102
   },
@@ -758,7 +758,7 @@
     },
     "name": "Crushing Fist",
     "isnegative": false,
-    "icon": "Buff_83.png",
+    "icon": "buff_83.png",
     "isengrave": true,
     "featuretype": 103
   },
@@ -771,7 +771,7 @@
     },
     "name": "Shield Piercing",
     "isnegative": false,
-    "icon": "Buff_89.png",
+    "icon": "buff_89.png",
     "isengrave": true,
     "featuretype": 104
   },
@@ -784,7 +784,7 @@
     },
     "name": "Master's Tenacity",
     "isnegative": false,
-    "icon": "Buff_147.png",
+    "icon": "buff_147.png",
     "isengrave": true,
     "featuretype": 105
   },
@@ -806,7 +806,7 @@
     },
     "name": "Divine Protection",
     "isnegative": false,
-    "icon": "Buff_229.png",
+    "icon": "buff_229.png",
     "isengrave": true,
     "featuretype": 106
   },
@@ -828,7 +828,7 @@
     },
     "name": "Heavy Armor",
     "isnegative": false,
-    "icon": "Buff_46.png",
+    "icon": "buff_46.png",
     "isengrave": true,
     "featuretype": 107
   },
@@ -841,7 +841,7 @@
     },
     "name": "Explosive Expert",
     "isnegative": false,
-    "icon": "Buff_121.png",
+    "icon": "buff_121.png",
     "isengrave": true,
     "featuretype": 108
   },
@@ -863,7 +863,7 @@
     },
     "name": "Enhanced Shield",
     "isnegative": false,
-    "icon": "Buff_239.png",
+    "icon": "buff_239.png",
     "isengrave": true,
     "featuretype": 109
   },
@@ -876,7 +876,7 @@
     },
     "name": "Necromancy",
     "isnegative": false,
-    "icon": "Buff_29.png",
+    "icon": "buff_29.png",
     "isengrave": true,
     "featuretype": 110
   },
@@ -911,7 +911,7 @@
     },
     "name": "Broken Bone",
     "isnegative": false,
-    "icon": "Buff_94.png",
+    "icon": "buff_94.png",
     "isengrave": true,
     "featuretype": 112
   },
@@ -933,7 +933,7 @@
     },
     "name": "Lightning Fury",
     "isnegative": false,
-    "icon": "Buff_191.png",
+    "icon": "buff_191.png",
     "isengrave": true,
     "featuretype": 113
   },
@@ -946,7 +946,7 @@
     },
     "name": "Cursed Doll",
     "isnegative": false,
-    "icon": "Buff_237.png",
+    "icon": "buff_237.png",
     "isengrave": true,
     "featuretype": 114
   },
@@ -968,7 +968,7 @@
     },
     "name": "Contender",
     "isnegative": false,
-    "icon": "Buff_136.png",
+    "icon": "buff_136.png",
     "isengrave": true,
     "featuretype": 115
   },
@@ -981,7 +981,7 @@
     },
     "name": "Ambush Master",
     "isnegative": false,
-    "icon": "Buff_148.png",
+    "icon": "buff_148.png",
     "isengrave": true,
     "featuretype": 116
   },
@@ -994,7 +994,7 @@
     },
     "name": "Ether Blast",
     "isnegative": false,
-    "icon": "Buff_104.png",
+    "icon": "buff_104.png",
     "isengrave": false,
     "featuretype": 117
   },
@@ -1016,7 +1016,7 @@
     },
     "name": "Magick Stream",
     "isnegative": false,
-    "icon": "Buff_63.png",
+    "icon": "buff_63.png",
     "isengrave": true,
     "featuretype": 118
   },
@@ -1029,7 +1029,7 @@
     },
     "name": "Double Jump",
     "isnegative": false,
-    "icon": "Buff_243.png",
+    "icon": "buff_243.png",
     "isengrave": false,
     "featuretype": 119
   },
@@ -1042,7 +1042,7 @@
     },
     "name": "Barricade",
     "isnegative": false,
-    "icon": "Buff_170.png",
+    "icon": "buff_170.png",
     "isengrave": true,
     "featuretype": 120
   },
@@ -1055,7 +1055,7 @@
     },
     "name": "Raid Captain",
     "isnegative": false,
-    "icon": "Buff_210.png",
+    "icon": "buff_210.png",
     "isengrave": true,
     "featuretype": 121
   },
@@ -1068,7 +1068,7 @@
     },
     "name": "Awakening",
     "isnegative": false,
-    "icon": "Buff_113.png",
+    "icon": "buff_113.png",
     "isengrave": true,
     "featuretype": 122
   },
@@ -1090,7 +1090,7 @@
     },
     "name": "Energy Overflow",
     "isnegative": false,
-    "icon": "Buff_235.png",
+    "icon": "buff_235.png",
     "isengrave": true,
     "featuretype": 125
   },
@@ -1112,7 +1112,7 @@
     },
     "name": "Robust Spirit",
     "isnegative": false,
-    "icon": "Ability_45.png",
+    "icon": "ability_45.png",
     "isengrave": true,
     "featuretype": 126
   },
@@ -1134,7 +1134,7 @@
     },
     "name": "Loyal Companion",
     "isnegative": false,
-    "icon": "Buff_77.png",
+    "icon": "buff_77.png",
     "isengrave": true,
     "featuretype": 123
   },
@@ -1156,7 +1156,7 @@
     },
     "name": "Death Strike",
     "isnegative": false,
-    "icon": "Buff_245.png",
+    "icon": "buff_245.png",
     "isengrave": true,
     "featuretype": 124
   },
@@ -1169,7 +1169,7 @@
     },
     "name": "Twinkle Twinkle",
     "isnegative": false,
-    "icon": "Buff_115.png",
+    "icon": "buff_115.png",
     "isengrave": true,
     "featuretype": 7
   },
@@ -1182,7 +1182,7 @@
     },
     "name": "Servant",
     "isnegative": false,
-    "icon": "Buff_111.png",
+    "icon": "buff_111.png",
     "isengrave": true,
     "featuretype": 8
   },
@@ -1193,7 +1193,7 @@
     },
     "name": "Dynamite",
     "isnegative": false,
-    "icon": "Ability_91.png",
+    "icon": "ability_91.png",
     "isengrave": true,
     "featuretype": 38
   },
@@ -1202,7 +1202,7 @@
     "levels": { "1": { "desc": "Net Casting is always available, but it costs 5 Fishing Tools.", "values": [4] } },
     "name": "Master Net Caster",
     "isnegative": false,
-    "icon": "Ability_96.png",
+    "icon": "ability_96.png",
     "isengrave": true,
     "featuretype": 42
   },
@@ -1211,7 +1211,7 @@
     "levels": { "1": { "desc": "Cut down trees of a rank higher than your current logging level.", "values": [1] } },
     "name": "Giant Tree",
     "isnegative": false,
-    "icon": "Ability_92.png",
+    "icon": "ability_92.png",
     "isengrave": true,
     "featuretype": 44
   },
@@ -1224,7 +1224,7 @@
     },
     "name": "Sapling",
     "isnegative": false,
-    "icon": "Ability_93.png",
+    "icon": "ability_93.png",
     "isengrave": true,
     "featuretype": 45
   },
@@ -1237,7 +1237,7 @@
     },
     "name": "4-Leaf Clover",
     "isnegative": false,
-    "icon": "Ability_97.png",
+    "icon": "ability_97.png",
     "isengrave": true,
     "featuretype": 46
   },
@@ -1250,7 +1250,7 @@
     },
     "name": "Entomologist",
     "isnegative": false,
-    "icon": "Buff_157.png",
+    "icon": "buff_157.png",
     "isengrave": true,
     "featuretype": 48
   },
@@ -1263,7 +1263,7 @@
     },
     "name": "Butcher",
     "isnegative": false,
-    "icon": "Ability_95.png",
+    "icon": "ability_95.png",
     "isengrave": true,
     "featuretype": 50
   },
@@ -1277,7 +1277,7 @@
     },
     "name": "Delicate Brush",
     "isnegative": false,
-    "icon": "Ability_98.png",
+    "icon": "ability_98.png",
     "isengrave": true,
     "featuretype": 52
   },
@@ -1286,7 +1286,7 @@
     "levels": { "1": { "desc": "Mining Tool Level +1.", "values": [1] } },
     "name": "Increase Mining Tools",
     "isnegative": false,
-    "icon": "Ability_0.png",
+    "icon": "ability_0.png",
     "isengrave": true,
     "featuretype": 55
   },
@@ -1295,7 +1295,7 @@
     "levels": { "1": { "desc": "Mining Tool Moonlight Miner cost -1. ", "values": [1] } },
     "name": "Relentless Miner",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 56
   },
@@ -1308,7 +1308,7 @@
     },
     "name": "Bomb Enthusiast",
     "isnegative": false,
-    "icon": "Ability_101.png",
+    "icon": "ability_101.png",
     "isengrave": true,
     "featuretype": 57
   },
@@ -1317,7 +1317,7 @@
     "levels": { "1": { "desc": "Fishing Tool level +1.", "values": [1] } },
     "name": "Increase Fishing Tools",
     "isnegative": false,
-    "icon": "Ability_0.png",
+    "icon": "ability_0.png",
     "isengrave": true,
     "featuretype": 58
   },
@@ -1330,7 +1330,7 @@
     },
     "name": "Double Points",
     "isnegative": false,
-    "icon": "Ability_103.png",
+    "icon": "ability_103.png",
     "isengrave": true,
     "featuretype": 59
   },
@@ -1352,7 +1352,7 @@
     },
     "name": "Golden Bait",
     "isnegative": false,
-    "icon": "Ability_104.png",
+    "icon": "ability_104.png",
     "isengrave": true,
     "featuretype": 60
   },
@@ -1361,7 +1361,7 @@
     "levels": { "1": { "desc": "Logging Tool level +1.", "values": [1] } },
     "name": "Logging Tool Rank Boost",
     "isnegative": false,
-    "icon": "Ability_0.png",
+    "icon": "ability_0.png",
     "isengrave": true,
     "featuretype": 61
   },
@@ -1370,7 +1370,7 @@
     "levels": { "1": { "desc": "50% chance to reset Cooldown of Kick Tree is used.", "values": [5000] } },
     "name": "Rapid Kick",
     "isnegative": false,
-    "icon": "Ability_106.png",
+    "icon": "ability_106.png",
     "isengrave": true,
     "featuretype": 62
   },
@@ -1379,7 +1379,7 @@
     "levels": { "1": { "desc": "Foraging Tool level +1.", "values": [1] } },
     "name": "Increase Harvesting Tools",
     "isnegative": false,
-    "icon": "Ability_0.png",
+    "icon": "ability_0.png",
     "isengrave": true,
     "featuretype": 63
   },
@@ -1392,7 +1392,7 @@
     },
     "name": "Deceptive Foraging",
     "isnegative": false,
-    "icon": "Ability_108.png",
+    "icon": "ability_108.png",
     "isengrave": true,
     "featuretype": 64
   },
@@ -1401,7 +1401,7 @@
     "levels": { "1": { "desc": "Hunting Tool level +1.", "values": [1] } },
     "name": "Increase Hunting Tools",
     "isnegative": false,
-    "icon": "Ability_0.png",
+    "icon": "ability_0.png",
     "isengrave": true,
     "featuretype": 65
   },
@@ -1415,7 +1415,7 @@
     },
     "name": "Deadly Poison",
     "isnegative": false,
-    "icon": "Ability_110.png",
+    "icon": "ability_110.png",
     "isengrave": true,
     "featuretype": 66
   },
@@ -1428,7 +1428,7 @@
     },
     "name": "Golden Rabbit",
     "isnegative": false,
-    "icon": "Ability_111.png",
+    "icon": "ability_111.png",
     "isengrave": true,
     "featuretype": 67
   },
@@ -1437,7 +1437,7 @@
     "levels": { "1": { "desc": "Excavating Tool Level +1.", "values": [1] } },
     "name": "Increase Excavation Tools",
     "isnegative": false,
-    "icon": "Ability_0.png",
+    "icon": "ability_0.png",
     "isengrave": true,
     "featuretype": 68
   },
@@ -1450,7 +1450,7 @@
     },
     "name": "Loot Hunter",
     "isnegative": false,
-    "icon": "Ability_113.png",
+    "icon": "ability_113.png",
     "isengrave": true,
     "featuretype": 69
   },
@@ -1459,7 +1459,7 @@
     "levels": { "1": { "desc": "Sniffer Dog Cooldown -60%.", "values": [6000] } },
     "name": "Master Tamer",
     "isnegative": false,
-    "icon": "Ability_114.png",
+    "icon": "ability_114.png",
     "isengrave": true,
     "featuretype": 70
   },
@@ -1481,7 +1481,7 @@
     },
     "name": "Pinnacle",
     "isnegative": false,
-    "icon": "Ability_207.png",
+    "icon": "ability_207.png",
     "isengrave": true,
     "featuretype": 270
   },
@@ -1494,7 +1494,7 @@
     },
     "name": "Control",
     "isnegative": false,
-    "icon": "Ability_208.png",
+    "icon": "ability_208.png",
     "isengrave": true,
     "featuretype": 271
   },
@@ -1516,7 +1516,7 @@
     },
     "name": "Remaining Energy",
     "isnegative": false,
-    "icon": "Ability_209.png",
+    "icon": "ability_209.png",
     "isengrave": true,
     "featuretype": 283
   },
@@ -1538,7 +1538,7 @@
     },
     "name": "Surge",
     "isnegative": false,
-    "icon": "Ability_210.png",
+    "icon": "ability_210.png",
     "isengrave": true,
     "featuretype": 282
   },
@@ -1560,7 +1560,7 @@
     },
     "name": "Perfect Suppression",
     "isnegative": false,
-    "icon": "Ability_211.png",
+    "icon": "ability_211.png",
     "isengrave": true,
     "featuretype": 280
   },
@@ -1582,7 +1582,7 @@
     },
     "name": "Demonic Impulse",
     "isnegative": false,
-    "icon": "Ability_212.png",
+    "icon": "ability_212.png",
     "isengrave": true,
     "featuretype": 281
   },
@@ -1604,7 +1604,7 @@
     },
     "name": "Judgment",
     "isnegative": false,
-    "icon": "Ability_214.png",
+    "icon": "ability_214.png",
     "isengrave": true,
     "featuretype": 292
   },
@@ -1626,7 +1626,7 @@
     },
     "name": "Blessed Aura",
     "isnegative": false,
-    "icon": "Ability_215.png",
+    "icon": "ability_215.png",
     "isengrave": true,
     "featuretype": 293
   },
@@ -1648,7 +1648,7 @@
     },
     "name": "Arthetinean Skill",
     "isnegative": false,
-    "icon": "Ability_216.png",
+    "icon": "ability_216.png",
     "isengrave": true,
     "featuretype": 318
   },
@@ -1670,7 +1670,7 @@
     },
     "name": "Evolutionary Legacy",
     "isnegative": false,
-    "icon": "Ability_217.png",
+    "icon": "ability_217.png",
     "isengrave": true,
     "featuretype": 319
   },
@@ -1692,7 +1692,7 @@
     },
     "name": "Hunger",
     "isnegative": false,
-    "icon": "Ability_222.png",
+    "icon": "ability_222.png",
     "isengrave": true,
     "featuretype": 324
   },
@@ -1714,7 +1714,7 @@
     },
     "name": "Lunar Voice",
     "isnegative": false,
-    "icon": "Ability_223.png",
+    "icon": "ability_223.png",
     "isengrave": true,
     "featuretype": 323
   },
@@ -1727,7 +1727,7 @@
     },
     "name": "Master Brawler",
     "isnegative": false,
-    "icon": "Ability_224.png",
+    "icon": "ability_224.png",
     "isengrave": true,
     "featuretype": 325
   },
@@ -1749,7 +1749,7 @@
     },
     "name": "Peacemaker",
     "isnegative": false,
-    "icon": "Ability_225.png",
+    "icon": "ability_225.png",
     "isengrave": true,
     "featuretype": 326
   },
@@ -1762,7 +1762,7 @@
     },
     "name": "Time to Hunt",
     "isnegative": false,
-    "icon": "Ability_228.png",
+    "icon": "ability_228.png",
     "isengrave": true,
     "featuretype": 327
   },
@@ -1784,7 +1784,7 @@
     },
     "name": "Deathblow",
     "isnegative": false,
-    "icon": "Ability_230.png",
+    "icon": "ability_230.png",
     "isengrave": true,
     "featuretype": 328
   },
@@ -1806,7 +1806,7 @@
     },
     "name": "Esoteric Flurry",
     "isnegative": false,
-    "icon": "Ability_229.png",
+    "icon": "ability_229.png",
     "isengrave": true,
     "featuretype": 329
   },
@@ -1828,7 +1828,7 @@
     },
     "name": "Igniter",
     "isnegative": false,
-    "icon": "Ability_240.png",
+    "icon": "ability_240.png",
     "isengrave": true,
     "featuretype": 330
   },
@@ -1850,7 +1850,7 @@
     },
     "name": "Reflux",
     "isnegative": false,
-    "icon": "Ability_241.png",
+    "icon": "ability_241.png",
     "isengrave": true,
     "featuretype": 331
   },
@@ -1863,7 +1863,7 @@
     },
     "name": "Mass Increase",
     "isnegative": false,
-    "icon": "Ability_231.png",
+    "icon": "ability_231.png",
     "isengrave": true,
     "featuretype": 339
   },
@@ -1885,7 +1885,7 @@
     },
     "name": "Propulsion",
     "isnegative": false,
-    "icon": "Ability_232.png",
+    "icon": "ability_232.png",
     "isengrave": true,
     "featuretype": 332
   },
@@ -1907,7 +1907,7 @@
     },
     "name": "Hit Master",
     "isnegative": false,
-    "icon": "Ability_233.png",
+    "icon": "ability_233.png",
     "isengrave": true,
     "featuretype": 333
   },
@@ -1929,7 +1929,7 @@
     },
     "name": "Sight Focus",
     "isnegative": false,
-    "icon": "Ability_234.png",
+    "icon": "ability_234.png",
     "isengrave": true,
     "featuretype": 335
   },
@@ -1951,7 +1951,7 @@
     },
     "name": "Adrenaline",
     "isnegative": false,
-    "icon": "Ability_235.png",
+    "icon": "ability_235.png",
     "isengrave": true,
     "featuretype": 336
   },
@@ -1964,7 +1964,7 @@
     },
     "name": "All-Out Attack",
     "isnegative": false,
-    "icon": "Ability_236.png",
+    "icon": "ability_236.png",
     "isengrave": true,
     "featuretype": 340
   },
@@ -1986,7 +1986,7 @@
     },
     "name": "Expert",
     "isnegative": false,
-    "icon": "Ability_237.png",
+    "icon": "ability_237.png",
     "isengrave": true,
     "featuretype": 337
   },
@@ -2008,7 +2008,7 @@
     },
     "name": "Emergency Rescue",
     "isnegative": false,
-    "icon": "Ability_238.png",
+    "icon": "ability_238.png",
     "isengrave": true,
     "featuretype": 338
   },
@@ -2021,7 +2021,7 @@
     },
     "name": "Precise Dagger",
     "isnegative": false,
-    "icon": "Ability_239.png",
+    "icon": "ability_239.png",
     "isengrave": true,
     "featuretype": 334
   },
@@ -2053,7 +2053,7 @@
     },
     "name": "Recurrence",
     "isnegative": false,
-    "icon": "Ability_248.png",
+    "icon": "ability_248.png",
     "isengrave": true
   },
   "306": {
@@ -2071,7 +2071,7 @@
     },
     "name": "Full Bloom",
     "isnegative": false,
-    "icon": "Ability_249.png",
+    "icon": "ability_249.png",
     "isengrave": true
   },
   "307": {
@@ -2089,7 +2089,7 @@
     },
     "name": "Nothing Can Stop Me",
     "isnegative": false,
-    "icon": "Ability_258.png",
+    "icon": "ability_258.png",
     "isengrave": true
   },
   "308": {
@@ -2107,7 +2107,7 @@
     },
     "name": "Drizzle",
     "isnegative": false,
-    "icon": "Ability_259.png",
+    "icon": "ability_259.png",
     "isengrave": true
   },
   "100": {
@@ -2466,7 +2466,7 @@
     },
     "name": "Atk. Power Reduction",
     "isnegative": true,
-    "icon": "Ability_218.png",
+    "icon": "ability_218.png",
     "isengrave": true
   },
   "801": {
@@ -2474,7 +2474,7 @@
     "levels": { "1": { "desc": "Defense -5%." }, "2": { "desc": "Defense -10%." }, "3": { "desc": "Defense -15%." } },
     "name": "Defense Reduction",
     "isnegative": true,
-    "icon": "Ability_219.png",
+    "icon": "ability_219.png",
     "isengrave": true
   },
   "802": {
@@ -2486,7 +2486,7 @@
     },
     "name": "Atk. Speed Reduction",
     "isnegative": true,
-    "icon": "Ability_220.png",
+    "icon": "ability_220.png",
     "isengrave": true
   },
   "803": {
@@ -2498,7 +2498,7 @@
     },
     "name": "Move Speed Reduction",
     "isnegative": true,
-    "icon": "Ability_221.png",
+    "icon": "ability_221.png",
     "isengrave": true
   },
   "1000001": {
@@ -2506,7 +2506,7 @@
     "levels": { "1": { "desc": "5", "values": [500] } },
     "name": "항해 보조장비 희귀 - 수리비 감소",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 320
   },
@@ -2515,7 +2515,7 @@
     "levels": { "1": { "desc": "10", "values": [1000] } },
     "name": "항해 보조장비 희귀 - 수리비 감소",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 320
   },
@@ -2524,7 +2524,7 @@
     "levels": { "1": { "desc": "15", "values": [1500] } },
     "name": "항해 보조장비 희귀 - 수리비 감소",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 320
   },
@@ -2533,7 +2533,7 @@
     "levels": { "1": { "desc": "20", "values": [2000] } },
     "name": "항해 보조장비 희귀 - 수리비 감소",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 320
   },
@@ -2542,7 +2542,7 @@
     "levels": { "1": { "desc": "1", "values": [1] } },
     "name": "생활 보조장비 희귀 - 올 마스터리",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 322
   },
@@ -2551,7 +2551,7 @@
     "levels": { "1": { "desc": "2", "values": [2] } },
     "name": "생활 보조장비 희귀 - 올 마스터리",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 322
   },
@@ -2560,7 +2560,7 @@
     "levels": { "1": { "desc": "3", "values": [3] } },
     "name": "생활 보조장비 희귀 - 올 마스터리",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 322
   },
@@ -2569,7 +2569,7 @@
     "levels": { "1": { "desc": "4", "values": [4] } },
     "name": "생활 보조장비 희귀 - 올 마스터리",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 322
   },
@@ -2578,7 +2578,7 @@
     "levels": { "1": { "desc": "1", "values": [1] } },
     "name": "생활 보조장비 희귀 - 숙련도",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 321
   },
@@ -2587,7 +2587,7 @@
     "levels": { "1": { "desc": "2", "values": [2] } },
     "name": "생활 보조장비 희귀 - 숙련도",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 321
   },
@@ -2596,7 +2596,7 @@
     "levels": { "1": { "desc": "3", "values": [3] } },
     "name": "생활 보조장비 희귀 - 숙련도",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 321
   },
@@ -2605,7 +2605,7 @@
     "levels": { "1": { "desc": "4", "values": [4] } },
     "name": "생활 보조장비 희귀 - 숙련도",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true,
     "featuretype": 321
   },
@@ -2614,7 +2614,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "3-2노말 A",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10001": {
@@ -2622,7 +2622,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" } },
     "name": "3-2노말 b",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10002": {
@@ -2630,7 +2630,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "3-2유물B",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10003": {
@@ -2638,7 +2638,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "3-2유물D",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10004": {
@@ -2646,7 +2646,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "3-2유물D",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10005": {
@@ -2654,7 +2654,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "배신 상급",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10006": {
@@ -2662,7 +2662,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "배신 상급",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10007": {
@@ -2670,7 +2670,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "배신 상급 3lv",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": true
   },
   "10008": {
@@ -2678,7 +2678,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "샨디1단계",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10009": {
@@ -2686,7 +2686,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "아제나 1단계",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10010": {
@@ -2694,7 +2694,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "니나브 1단계",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10011": {
@@ -2702,7 +2702,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "구원 lv2 4세트",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10012": {
@@ -2710,7 +2710,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "구원 lv3 2세트",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10013": {
@@ -2718,7 +2718,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "구원 lv3 2세트",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10014": {
@@ -2726,7 +2726,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "아제나 1단계(한계돌파)",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "10015": {
@@ -2734,7 +2734,7 @@
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "니나브 1단계(한계돌파)",
     "isnegative": false,
-    "icon": "Ability_100.png",
+    "icon": "ability_100.png",
     "isengrave": false
   },
   "77300001": {
@@ -2746,7 +2746,7 @@
     },
     "name": "Expert",
     "isnegative": false,
-    "icon": "Ability_237.png",
+    "icon": "ability_237.png",
     "isengrave": true
   },
   "77300002": {
@@ -2758,7 +2758,7 @@
     },
     "name": "Emergency Rescue",
     "isnegative": false,
-    "icon": "Ability_238.png",
+    "icon": "ability_238.png",
     "isengrave": true
   }
 }
