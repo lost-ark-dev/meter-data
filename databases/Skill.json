@@ -24144,8 +24144,8 @@
   "422303": { "id": 422303, "name": "부관 돌프_방향전환", "desc": "", "classid": 0, "icon": "" },
   "4231203": { "id": 4231203, "name": "부선장 벨리카_방향전환", "desc": "", "classid": 0, "icon": "" },
   "20109": { "id": 20109, "name": "[AOS] [엘씨드] 엘씨드 기본 공격", "desc": "", "classid": 203, "icon": "" },
-  "13000": { "id": 13000, "name": "암살자 평타", "desc": "", "classid": 401, "icon": "" },
-  "13010": { "id": 13010, "name": "맨손 공격", "desc": "", "classid": 401, "icon": "" },
+  "13000": { "id": 13000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 401, "icon": "" },
+  "13010": { "id": 13010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 401, "icon": "" },
   "13020": {
     "id": 13020,
     "name": "High-Speed Move",
@@ -24216,8 +24216,8 @@
     "classid": 401,
     "icon": "bl_skill_01_4.png"
   },
-  "25000": { "id": 25000, "name": "블레이드 평타", "desc": "", "classid": 402, "icon": "" },
-  "25010": { "id": 25010, "name": "맨손 공격", "desc": "", "classid": 402, "icon": "" },
+  "25000": { "id": 25000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 402, "icon": "" },
+  "25010": { "id": 25010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 402, "icon": "" },
   "25020": {
     "id": 25020,
     "name": "High-Speed Move",
@@ -24429,8 +24429,8 @@
     "classid": 402,
     "icon": "bl_skill_01_19.png"
   },
-  "27000": { "id": 27000, "name": "[데모닉] [기본폼] [평타]", "desc": "", "classid": 403, "icon": "" },
-  "27010": { "id": 27010, "name": "[데모닉] [기본폼] [맨손 공격]", "desc": "", "classid": 403, "icon": "" },
+  "27000": { "id": 27000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 403, "icon": "" },
+  "27010": { "id": 27010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 403, "icon": "" },
   "27020": {
     "id": 27020,
     "name": "Rush",
@@ -24670,8 +24670,8 @@
     "classid": 403,
     "icon": "dm_skill_01_26.png"
   },
-  "12000": { "id": 12000, "name": "격투가 평타", "desc": "", "classid": 301, "icon": "" },
-  "12010": { "id": 12010, "name": "격투가 맨손 공격", "desc": "", "classid": 301, "icon": "" },
+  "12000": { "id": 12000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 301, "icon": "" },
+  "12010": { "id": 12010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 301, "icon": "" },
   "12020": {
     "id": 12020,
     "name": "Sky Shattering Blow",
@@ -24742,8 +24742,8 @@
     "classid": 301,
     "icon": "bm_skill_01_23.png"
   },
-  "22000": { "id": 22000, "name": "기본5연타", "desc": "", "classid": 302, "icon": "" },
-  "22010": { "id": 22010, "name": "맨손 공격", "desc": "", "classid": 302, "icon": "" },
+  "22000": { "id": 22000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 302, "icon": "" },
+  "22010": { "id": 22010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 302, "icon": "" },
   "22020": {
     "id": 22020,
     "name": "Esoteric Skill: Blast Formation",
@@ -24905,8 +24905,14 @@
     "classid": 302,
     "icon": "bm_skill_01_27.png"
   },
-  "23000": { "id": 23000, "name": "평타", "desc": "", "classid": 303, "icon": "skillicon20_0.png" },
-  "23010": { "id": 23010, "name": "맨손 공격", "desc": "", "classid": 303, "icon": "" },
+  "23000": {
+    "id": 23000,
+    "name": "Weapon Attack",
+    "desc": "Weapon Attack",
+    "classid": 303,
+    "icon": "skillicon20_0.png"
+  },
+  "23010": { "id": 23010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 303, "icon": "" },
   "23020": {
     "id": 23020,
     "name": "Charging Blow",
@@ -25082,8 +25088,8 @@
     "classid": 303,
     "icon": "if_skill_01_23.png"
   },
-  "24000": { "id": 24000, "name": "평타", "desc": "", "classid": 304, "icon": "" },
-  "24010": { "id": 24010, "name": "맨손 공격", "desc": "", "classid": 304, "icon": "" },
+  "24000": { "id": 24000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 304, "icon": "" },
+  "24010": { "id": 24010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 304, "icon": "" },
   "24280": { "id": 24280, "name": "운기조식 평타", "desc": "", "classid": 304, "icon": "" },
   "24020": {
     "id": 24020,
@@ -25282,8 +25288,8 @@
     "classid": 304,
     "icon": "so_skill_01_25.png"
   },
-  "39000": { "id": 39000, "name": "기본 평타", "desc": "", "classid": 312, "icon": "" },
-  "39010": { "id": 39010, "name": "맨손 공격", "desc": "", "classid": 312, "icon": "" },
+  "39000": { "id": 39000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 312, "icon": "" },
+  "39010": { "id": 39010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 312, "icon": "" },
   "39020": {
     "id": 39020,
     "name": "Esoteric Skill: Blast Formation",
@@ -25459,8 +25465,8 @@
     "classid": 312,
     "icon": "bm_skill_01_37.png"
   },
-  "14000": { "id": 14000, "name": "헌터 평타", "desc": "", "classid": 501, "icon": "" },
-  "14010": { "id": 14010, "name": "헌터 맨손 공격", "desc": "", "classid": 501, "icon": "" },
+  "14000": { "id": 14000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 501, "icon": "" },
+  "14010": { "id": 14010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 501, "icon": "" },
   "14020": {
     "id": 14020,
     "name": "Tumbling",
@@ -25531,8 +25537,8 @@
     "classid": 501,
     "icon": "dh_skill_01_5.png"
   },
-  "28000": { "id": 28000, "name": "호크아이 평타", "desc": "", "classid": 502, "icon": "" },
-  "28010": { "id": 28010, "name": "맨손 공격", "desc": "", "classid": 502, "icon": "" },
+  "28000": { "id": 28000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 502, "icon": "" },
+  "28010": { "id": 28010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 502, "icon": "" },
   "28015": {
     "id": 28015,
     "name": "Slide",
@@ -25726,10 +25732,10 @@
     "classid": 502,
     "icon": "he_skill_01_24.png"
   },
-  "29000": { "id": 29000, "name": "핸드건 평타", "desc": "", "classid": 503, "icon": "" },
+  "29000": { "id": 29000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 503, "icon": "" },
   "29001": { "id": 29001, "name": "샷건 평타", "desc": "", "classid": 503, "icon": "" },
   "29002": { "id": 29002, "name": "라이플 평타", "desc": "", "classid": 503, "icon": "" },
-  "29010": { "id": 29010, "name": "맨손 공격", "desc": "", "classid": 503, "icon": "" },
+  "29010": { "id": 29010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 503, "icon": "" },
   "29020": {
     "id": 29020,
     "name": "Enforce Execution",
@@ -25983,8 +25989,8 @@
     "classid": 503,
     "icon": "dh_skill_01_27.png"
   },
-  "30000": { "id": 30000, "name": "블래스터 평타", "desc": "", "classid": 504, "icon": "" },
-  "30010": { "id": 30010, "name": "맨손 공격", "desc": "", "classid": 504, "icon": "" },
+  "30000": { "id": 30000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 504, "icon": "" },
+  "30010": { "id": 30010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 504, "icon": "" },
   "30015": {
     "id": 30015,
     "name": "Roll",
@@ -26248,10 +26254,10 @@
     "classid": 504,
     "icon": "bs_skill_01_28.png"
   },
-  "38000": { "id": 38000, "name": "핸드건 평타", "desc": "", "classid": 512, "icon": "" },
+  "38000": { "id": 38000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 512, "icon": "" },
   "38001": { "id": 38001, "name": "샷건 평타", "desc": "", "classid": 512, "icon": "" },
   "38002": { "id": 38002, "name": "라이플 평타", "desc": "", "classid": 512, "icon": "" },
-  "38010": { "id": 38010, "name": "맨손 공격", "desc": "", "classid": 512, "icon": "" },
+  "38010": { "id": 38010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 512, "icon": "" },
   "38020": {
     "id": 38020,
     "name": "Quick Step",
@@ -26445,9 +26451,9 @@
     "classid": 512,
     "icon": "dh_skill_01_45.png"
   },
-  "36000": { "id": 36000, "name": "Basic Attack", "desc": "", "classid": 105, "icon": "" },
+  "36000": { "id": 36000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 105, "icon": "" },
   "36001": { "id": 36001, "name": "Heavenly Guardian Basic Attack", "desc": "", "classid": 105, "icon": "" },
-  "36010": { "id": 36010, "name": "Unarmed Basic Attack", "desc": "", "classid": 105, "icon": "" },
+  "36010": { "id": 36010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 105, "icon": "" },
   "36020": {
     "id": 36020,
     "name": "Sprint",
@@ -26639,8 +26645,8 @@
     "classid": 305,
     "icon": "lm_skill_01_2.png"
   },
-  "34009": { "id": 34009, "name": "맨손 공격", "desc": "", "classid": 305, "icon": "" },
-  "34010": { "id": 34010, "name": "긴 창_평타", "desc": "", "classid": 305, "icon": "" },
+  "34009": { "id": 34009, "name": "Hand Attack", "desc": "Hand Attack", "classid": 305, "icon": "" },
+  "34010": { "id": 34010, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 305, "icon": "" },
   "34020": {
     "id": 34020,
     "name": "Mirage Dash",
@@ -26847,12 +26853,12 @@
   },
   "11000": {
     "id": 11000,
-    "name": "[뿌리] [평타] 마력 유도탄",
-    "desc": "",
+    "name": "Weapon Attack",
+    "desc": "Weapon Attack",
     "classid": 201,
     "icon": "sm_skill_01_0.png"
   },
-  "11010": { "id": 11010, "name": "[뿌리] 맨손 공격", "desc": "", "classid": 201, "icon": "" },
+  "11010": { "id": 11010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 201, "icon": "" },
   "11020": {
     "id": 11020,
     "name": "Gale Bird",
@@ -26923,8 +26929,8 @@
     "classid": 201,
     "icon": "sm_skill_01_19.png"
   },
-  "19000": { "id": 19000, "name": "[아르카나] 평타", "desc": "", "classid": 202, "icon": "" },
-  "19010": { "id": 19010, "name": "맨손 공격", "desc": "", "classid": 202, "icon": "" },
+  "19000": { "id": 19000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 202, "icon": "" },
+  "19010": { "id": 19010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 202, "icon": "" },
   "19020": { "id": 19020, "name": "소울 컨플릭트 평타", "desc": "", "classid": 202, "icon": "" },
   "19270": { "id": 19270, "name": "삼두사 평타", "desc": "", "classid": 202, "icon": "" },
   "19030": {
@@ -27235,8 +27241,14 @@
     "classid": 202,
     "icon": "ac_skill_01_39.png"
   },
-  "20000": { "id": 20000, "name": "[서머너]평타", "desc": "", "classid": 203, "icon": "sm_skill_01_0.png" },
-  "20010": { "id": 20010, "name": "[서머너]맨손 공격", "desc": "", "classid": 203, "icon": "" },
+  "20000": {
+    "id": 20000,
+    "name": "Weapon Attack",
+    "desc": "Weapon Attack",
+    "classid": 203,
+    "icon": "sm_skill_01_0.png"
+  },
+  "20010": { "id": 20010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 203, "icon": "" },
   "20020": {
     "id": 20020,
     "name": "Crystalline Magick",
@@ -27643,8 +27655,14 @@
   },
   "20900": { "id": 20900, "name": "탐지견 스킬", "desc": "", "classid": 0, "icon": "" },
   "20901": { "id": 20901, "name": "탐지견 발견 스킬", "desc": "", "classid": 0, "icon": "" },
-  "21000": { "id": 21000, "name": "[바드]평타", "desc": "", "classid": 204, "icon": "bd_skill_01_0.png" },
-  "21010": { "id": 21010, "name": "맨손 공격", "desc": "", "classid": 204, "icon": "bd_skill_01_0.png" },
+  "21000": {
+    "id": 21000,
+    "name": "Weapon Attack",
+    "desc": "Weapon Attack",
+    "classid": 204,
+    "icon": "bd_skill_01_0.png"
+  },
+  "21010": { "id": 21010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 204, "icon": "bd_skill_01_0.png" },
   "21215": {
     "id": 21215,
     "name": "Stand Up",
@@ -27874,8 +27892,8 @@
     "classid": 204,
     "icon": "bd_skill_01_25.png"
   },
-  "26000": { "id": 26000, "name": "[리퍼] [평타]", "desc": "", "classid": 404, "icon": "" },
-  "26010": { "id": 26010, "name": "[리퍼] [맨손 공격]", "desc": "", "classid": 404, "icon": "" },
+  "26000": { "id": 26000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 404, "icon": "" },
+  "26010": { "id": 26010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 404, "icon": "" },
   "26020": {
     "id": 26020,
     "name": "Shadow Step",
@@ -28130,8 +28148,8 @@
     "classid": 404,
     "icon": "rp_skill_01_20.png"
   },
-  "35000": { "id": 35000, "name": "스카우터 평타", "desc": "", "classid": 505, "icon": "" },
-  "35010": { "id": 35010, "name": "맨손 공격", "desc": "", "classid": 505, "icon": "" },
+  "35000": { "id": 35000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 505, "icon": "" },
+  "35010": { "id": 35010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 505, "icon": "" },
   "35020": {
     "id": 35020,
     "name": "Tremors",
@@ -28409,8 +28427,8 @@
   "35970": { "id": 35970, "name": "드론 명령 A (노모션)", "desc": "", "classid": 505, "icon": "" },
   "35980": { "id": 35980, "name": "드론 명령 B (짧은 명령)", "desc": "", "classid": 505, "icon": "" },
   "35990": { "id": 35990, "name": "드론 명령 C (긴 명령)", "desc": "", "classid": 505, "icon": "" },
-  "37000": { "id": 37000, "name": "[소서리스] 기본 공격", "desc": "", "classid": 205, "icon": "" },
-  "37010": { "id": 37010, "name": "[소서리스] 맨손 평타", "desc": "", "classid": 205, "icon": "" },
+  "37000": { "id": 37000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 205, "icon": "" },
+  "37010": { "id": 37010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 205, "icon": "" },
   "37020": {
     "id": 37020,
     "name": "Phase Leap",
@@ -28607,8 +28625,8 @@
     "classid": 205,
     "icon": "scs_skill_01_22.png"
   },
-  "10000": { "id": 10000, "name": "Basic Attack", "desc": "", "classid": 101, "icon": "" },
-  "10010": { "id": 10010, "name": "Fist Attack", "desc": "", "classid": 101, "icon": "" },
+  "10000": { "id": 10000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 101, "icon": "" },
+  "10010": { "id": 10010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 101, "icon": "" },
   "10020": {
     "id": 10020,
     "name": "Double Slash",
@@ -28679,8 +28697,8 @@
     "classid": 101,
     "icon": "bk_skill_01_12.png"
   },
-  "16000": { "id": 16000, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "" },
-  "16010": { "id": 16010, "name": "Fist Attack", "desc": "", "classid": 102, "icon": "" },
+  "16000": { "id": 16000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 102, "icon": "" },
+  "16010": { "id": 16010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 102, "icon": "" },
   "16020": { "id": 16020, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "" },
   "16021": { "id": 16021, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "" },
   "16030": {
@@ -28874,8 +28892,8 @@
     "classid": 102,
     "icon": "bk_skill_01_23.png"
   },
-  "17000": { "id": 17000, "name": "Basic Attack 3 Combo Hits", "desc": "", "classid": 104, "icon": "" },
-  "17010": { "id": 17010, "name": "Fist Attack 3 Chain Hits", "desc": "", "classid": 104, "icon": "" },
+  "17000": { "id": 17000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 104, "icon": "" },
+  "17010": { "id": 17010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 104, "icon": "" },
   "17020": {
     "id": 17020,
     "name": "Back Step",
@@ -29053,7 +29071,7 @@
     "icon": "gl_skill_01_33.png"
   },
   "17830": { "id": 17830, "name": "수호태세 해제", "desc": "", "classid": 104, "icon": "gl_skill_01_32.png" },
-  "18000": { "id": 18000, "name": "Basic 3 Chain Hits", "desc": "", "classid": 103, "icon": "" },
+  "18000": { "id": 18000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 103, "icon": "" },
   "18010": { "id": 18010, "name": "Activate Hypergravity", "desc": "", "classid": 103, "icon": "dt_skill_01_22.png" },
   "18011": {
     "id": 18011,
@@ -29085,7 +29103,7 @@
     "icon": "dt_skill_01_19.png"
   },
   "18030": { "id": 18030, "name": "Hypergravity Basic Attack", "desc": "", "classid": 103, "icon": "" },
-  "18040": { "id": 18040, "name": "맨손 공격", "desc": "", "classid": 103, "icon": "" },
+  "18040": { "id": 18040, "name": "Hand Attack", "desc": "Hand Attack", "classid": 103, "icon": "" },
   "18050": {
     "id": 18050,
     "name": "Heavy Crush",
