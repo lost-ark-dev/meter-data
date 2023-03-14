@@ -26351,7 +26351,7 @@
     "desc": "",
     "classid": 504,
     "icon": "",
-    "summonsourceskill": 30285
+    "summonsourceskill": 30280
   },
   "30286": {
     "id": 30286,
@@ -26359,7 +26359,7 @@
     "desc": "",
     "classid": 504,
     "icon": "",
-    "summonsourceskill": 30285
+    "summonsourceskill": 30280
   },
   "30060": {
     "id": 30060,
@@ -27446,7 +27446,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20091
+    "summonsourceskill": 20090
   },
   "20096": {
     "id": 20096,
@@ -27481,7 +27481,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20092
+    "summonsourceskill": 20090
   },
   "20106": {
     "id": 20106,
@@ -27940,7 +27940,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20335
+    "summonsourceskill": 20110
   },
   "20322": { "id": 20322, "name": "파우루 리뉴얼 4번 원거리 공격", "desc": "", "classid": 203, "icon": "" },
   "20323": {
@@ -27957,7 +27957,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20330
+    "summonsourceskill": 20110
   },
   "20327": { "id": 20327, "name": "파우루 리뉴얼 4+7번 푸른불꽃 원거리 공격", "desc": "", "classid": 203, "icon": "" },
   "20328": {
@@ -27966,7 +27966,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20330
+    "summonsourceskill": 20110
   },
   "20329": {
     "id": 20329,
@@ -28614,7 +28614,7 @@
     "icon": "sc_skill_01_12.png",
     "summonids": [30140]
   },
-  "35061": { "id": 35061, "name": "[드론] 카펫", "desc": "", "classid": 505, "icon": "", "summonsourceskill": 35940 },
+  "35061": { "id": 35061, "name": "[드론] 카펫", "desc": "", "classid": 505, "icon": "", "summonsourceskill": 35060 },
   "35070": {
     "id": 35070,
     "name": "Command: Blockade",
@@ -28629,7 +28629,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35060
   },
   "35080": {
     "id": 35080,
@@ -28645,7 +28645,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35060
   },
   "35090": {
     "id": 35090,
@@ -28661,7 +28661,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35060
   },
   "35100": {
     "id": 35100,
@@ -28677,7 +28677,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35060
   },
   "35110": {
     "id": 35110,
@@ -28693,7 +28693,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35060
   },
   "35120": {
     "id": 35120,
@@ -28723,7 +28723,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35060
   },
   "35150": {
     "id": 35150,
@@ -28809,7 +28809,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35060
   },
   "35700": {
     "id": 35700,
