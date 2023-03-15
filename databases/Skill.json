@@ -26343,7 +26343,7 @@
     "desc": "",
     "classid": 504,
     "icon": "",
-    "summonsourceskill": 30285
+    "summonsourceskill": 30280
   },
   "30284": {
     "id": 30284,
@@ -27974,7 +27974,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20330
+    "summonsourceskill": 20120
   },
   "20330": {
     "id": 20330,
@@ -28018,9 +28018,30 @@
     "icon": "",
     "summonsourceskill": 20130
   },
-  "20344": { "id": 20344, "name": "마리린 4번 도발", "desc": "", "classid": 203, "icon": "" },
-  "20345": { "id": 20345, "name": "마리린 5번 돌진", "desc": "", "classid": 203, "icon": "" },
-  "20346": { "id": 20346, "name": "마리린 6번 무력화", "desc": "", "classid": 203, "icon": "" },
+  "20344": {
+    "id": 20344,
+    "name": "마리린 4번 도발",
+    "desc": "",
+    "classid": 203,
+    "icon": "",
+    "summonsourceskill": 20137
+  },
+  "20345": {
+    "id": 20345,
+    "name": "마리린 5번 돌진",
+    "desc": "",
+    "classid": 203,
+    "icon": "",
+    "summonsourceskill": 20138
+  },
+  "20346": {
+    "id": 20346,
+    "name": "마리린 6번 무력화",
+    "desc": "",
+    "classid": 203,
+    "icon": "",
+    "summonsourceskill": 20139
+  },
   "20347": {
     "id": 20347,
     "name": "Maririn - Taunt",
@@ -28429,7 +28450,14 @@
   "26260": { "id": 26260, "name": "[소환수] 샤벨 스팅거", "desc": "", "classid": 404, "icon": "" },
   "26270": { "id": 26270, "name": "[소환수] 데스 사이드", "desc": "", "classid": 404, "icon": "" },
   "26280": { "id": 26280, "name": "[소환수] 소환 생성시 연출 스킬", "desc": "", "classid": 404, "icon": "" },
-  "26290": { "id": 26290, "name": "[소환수] 소환 소멸시 연출 스킬", "desc": "", "classid": 404, "icon": "" },
+  "26290": {
+    "id": 26290,
+    "name": "[소환수] 소환 소멸시 연출 스킬",
+    "desc": "",
+    "classid": 404,
+    "icon": "",
+    "summonsourceskill": 26040
+  },
   "26310": { "id": 26310, "name": "[소환수] 블링크 소환수 표창 공격", "desc": "", "classid": 404, "icon": "" },
   "26320": { "id": 26320, "name": "[소환수] 블링크 - 4번 전진베기 명령", "desc": "", "classid": 404, "icon": "" },
   "26330": { "id": 26330, "name": "[소환수] 블링크 - 5번 소용돌이표창 명령", "desc": "", "classid": 404, "icon": "" },
@@ -28629,7 +28657,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35060
+    "summonsourceskill": 35070
   },
   "35080": {
     "id": 35080,
@@ -28645,7 +28673,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35060
+    "summonsourceskill": 35080
   },
   "35090": {
     "id": 35090,
@@ -28661,7 +28689,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35060
+    "summonsourceskill": 35090
   },
   "35100": {
     "id": 35100,
@@ -28677,7 +28705,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35060
+    "summonsourceskill": 35100
   },
   "35110": {
     "id": 35110,
@@ -28693,7 +28721,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35060
+    "summonsourceskill": 35110
   },
   "35120": {
     "id": 35120,
@@ -28723,7 +28751,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35060
+    "summonsourceskill": 35140
   },
   "35150": {
     "id": 35150,
@@ -28809,7 +28837,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35060
+    "summonsourceskill": 35940
   },
   "35700": {
     "id": 35700,
