@@ -110,7 +110,7 @@
   "121": {
     "id": 121,
     "levels": {
-      "1": { "desc": "Charge skills' charging speed 8%. Damage +4%.", "values": [800, 400] },
+      "1": { "desc": "Charge skills' charging speed +8%. Damage +4%.", "values": [800, 400] },
       "2": { "desc": "Charge skills' charging speed +20%. Damage +10%.", "values": [2000, 1000] },
       "3": { "desc": "Charge skills' charging speed +40%. Damage +20%.", "values": [4000, 2000] }
     },
@@ -150,15 +150,15 @@
     "id": 125,
     "levels": {
       "1": {
-        "desc": "Fury Meter remains at max, and turns into Burst Mode with the power of darkness. Burst Mode: Outgoing Damage +3%, Atk. and Move Speed +15%, all incoming Damage -65%. When Burst Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when Healing is applied. Can only receive 40% of healing effects and 25% of shield. Press the [X] key to cancel Burst Mode and recover 25% of Max HP, but cannot enter Burst Mode again for 30s.",
+        "desc": "Fury Meter remains at max and turns into Mayhem Mode with the power of darkness. Mayhem Mode: Outgoing Damage +3%, Atk. and Move Speed +15%, all incoming Damage -70%. When Mayhem Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when healing is applied. Can only receive 40% of healing effects and 25% of shield effects. Press the [X] key to cancel Mayhem Mode and recover 25% of Max HP; cannot enter Mayhem Mode again for 30s.",
         "values": [2500, 2500, 10080106, 10080110, 7500]
       },
       "2": {
-        "desc": "Fury Meter remains at max, and turns into Burst Mode with the power of darkness. Burst Mode: Outgoing Damage +8%, Atk. and Move Speed +15%, all incoming Damage -65%. When Burst Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when Healing is applied. Can only receive 40% of healing effects and 25% of shield. Press the [X] key to cancel Burst Mode and recover 25% of Max HP, but cannot enter Burst Mode again for 30s.",
+        "desc": "Fury Meter remains at max and turns into Mayhem Mode with the power of darkness. Mayhem Mode: Outgoing Damage +8%, Atk. and Move Speed +15%, all incoming Damage -70%. When Mayhem Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when healing is applied. Can only receive 40% of healing effects and 25% of shield effects. Press the [X] key to cancel Mayhem Mode and recover 25% of Max HP; cannot enter Mayhem Mode again for 30s.",
         "values": [2500, 2500, 10080107, 10080110, 7500]
       },
       "3": {
-        "desc": "Fury Meter remains at max, and turns into Burst Mode with the power of darkness. Burst Mode: Outgoing Damage +16%, Atk. and Move Speed +15%, all incoming Damage -65%. When Burst Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when Healing is applied. Can only receive 40% of healing effects and 25% of shield. Press the [X] key to cancel Burst Mode and recover 25% of Max HP, but cannot enter Burst Mode again for 30s.",
+        "desc": "Fury Meter remains at max and turns into Mayhem Mode with the power of darkness. Mayhem Mode: Outgoing Damage +16%, Atk. and Move Speed +15%, all incoming Damage -70%. When Mayhem Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when healing is applied. Can only receive 40% of healing effects and 25% of shield effects. Press the [X] key to cancel Mayhem Mode and recover 25% of Max HP; cannot enter Mayhem Mode again for 30s.",
         "values": [2500, 2500, 10080108, 10080110, 7500]
       }
     },
@@ -207,16 +207,16 @@
     "id": 130,
     "levels": {
       "1": {
-        "desc": "When the Firepower Meter is full, Overheat effect is triggered. Normal Skill Damage +4% and Firepower Meter duration +8s. When not in Barrage Mode, Incoming Damage -5%.",
-        "values": [0, 8000, 300217, 500]
+        "desc": "When the Firepower Meter is full, Overheat effect is triggered. Normal Skill Damage +5% and Firepower Meter duration +10s. When not in Barrage Mode, Incoming Damage -5%.",
+        "values": [0, 10000, 300217, 500]
       },
       "2": {
-        "desc": "When the Firepower Meter is full, Overheat effect is triggered. Normal Skill Damage +10% and Firepower Meter duration +10s. When not in Barrage Mode, Incoming Damage -10%.",
-        "values": [0, 10000, 300218, 1000]
+        "desc": "When the Firepower Meter is full, Overheat effect is triggered. Normal Skill Damage +12% and Firepower Meter duration +12s. When not in Barrage Mode, Incoming Damage -10%.",
+        "values": [0, 12000, 300218, 1000]
       },
       "3": {
-        "desc": "When the Firepower Meter is full, Overheat effect is triggered. Normal Skill Damage +20% and Firepower Meter duration +12s. When not in Barrage Mode, Incoming Damage -15%.",
-        "values": [0, 12000, 300219, 1500]
+        "desc": "When the Firepower Meter is full, Overheat effect is triggered. Normal Skill Damage +25% and Firepower Meter duration +14s. When not in Barrage Mode, Incoming Damage -15%.",
+        "values": [0, 14000, 300219, 1500]
       }
     },
     "name": "Firepower Enhancement",
@@ -376,8 +376,8 @@
     "id": 188,
     "levels": {
       "1": { "desc": "During Burst, Outgoing Damage +16%. After Burst, Exhaustion does not occur.", "values": [1600] },
-      "2": { "desc": "During Burst, Outgoing Damage +24%. After Burst, Exhaustion does not occur.", "values": [2400] },
-      "3": { "desc": "During Burst, Outgoing Damage +32%. After Burst, Exhaustion does not occur.", "values": [3200] }
+      "2": { "desc": "During Burst, Outgoing Damage +25%. After Burst, Exhaustion does not occur.", "values": [2500] },
+      "3": { "desc": "During Burst, Outgoing Damage +36%. After Burst, Exhaustion does not occur.", "values": [3600] }
     },
     "name": "Berserker's Technique",
     "isnegative": false,
@@ -437,16 +437,16 @@
     "id": 192,
     "levels": {
       "1": {
-        "desc": "Can only use the Handgun Stance. Handgun Skill Damage +30%. Stagger Damage +40%. Awakening Skill Damage +15%.",
-        "values": [3000, 4000, 1500]
+        "desc": "Can use only Handgun Stance. Handgun Skill Damage +35%. Stagger Damage +40%. Awakening Skill Damage +20%.",
+        "values": [3500, 4000, 2000]
       },
       "2": {
-        "desc": "Can only use Handgun Stance. Handgun Skill Damage +50%. Stagger Damage +40%. Awakening Skill Damage +22%.",
-        "values": [5000, 4000, 2200]
+        "desc": "Can use only Handgun Stance. Handgun Skill Damage +60%. Stagger Damage +40%. Awakening Skill Damage +30%.",
+        "values": [6000, 4000, 3000]
       },
       "3": {
-        "desc": "Can only use Handgun Stance. Handgun Skill Damage +70%. Stagger Damage +40%. Awakening Skill Damage +30%.",
-        "values": [7000, 4000, 3000]
+        "desc": "Can use only Handgun Stance. Handgun Skill Damage +85%. Stagger Damage +40%. Awakening Skill Damage +40%.",
+        "values": [8500, 4000, 4000]
       }
     },
     "name": "Pistoleer",
@@ -573,12 +573,12 @@
         "values": [1, 200, 300]
       },
       "2": {
-        "desc": "Enhances the Ancient Elemental Skill. Elemental Orb cost -1. Normal Skill Damage and Ancient Elemental Skill Damage +5% and Crit Rate +8%.",
-        "values": [1, 500, 800]
+        "desc": "Enhances the Ancient Elemental Skill. Elemental Orb cost -1. Normal Skill Damage and Ancient Elemental Skill Damage +6% and Crit Rate +8%.",
+        "values": [1, 600, 800]
       },
       "3": {
-        "desc": "Enhances the Ancient Elemental Skill. Elemental Orb cost -1. Normal Skill Damage and Ancient Elemental Skill Damage +10% and Crit Rate +16%.",
-        "values": [1, 1000, 1600]
+        "desc": "Enhances the Ancient Elemental Skill. Elemental Orb cost -1. Normal Skill Damage and Ancient Elemental Skill Damage +12% and Crit Rate +16%.",
+        "values": [1, 1200, 1600]
       }
     },
     "name": "Master Summoner",
@@ -591,15 +591,15 @@
     "id": 199,
     "levels": {
       "1": {
-        "desc": "Summon duration +5%, Damage +10%, Atk. Speed and Move Speed +3%, Command Skill Cooldown -3% for Maririn, Pauru, Elcid, Shurdi, and Kelsion.",
+        "desc": "Maririn, Pauru, Elcid, Shurdi, and Kelsion: Summon duration +5%, Damage +10%, Atk. Speed +3%, Move Speed +3%, and Command Skill Cooldown -3%.",
         "values": [199, 500, 1000, 32, 3]
       },
       "2": {
-        "desc": "Summon duration +10%, Damage +17%, Atk. Speed and Move Speed +6%, Command Skill Cooldown -6% for Maririn, Pauru, Elcid, Shurdi, and Kelsion.",
+        "desc": "Maririn, Pauru, Elcid, Shurdi, and Kelsion: Summon duration +10%, Damage +17%, Atk. Speed +6%, Move Speed +6%, and Command Skill Cooldown -6%.",
         "values": [199, 1000, 1700, 32, 6]
       },
       "3": {
-        "desc": "Summon duration +20%, Damage +25%, Atk. Speed and Move Speed +10%, Command Skill Cooldown -10% for Maririn, Pauru, Elcid, Shurdi, and Kelsion.",
+        "desc": "Maririn, Pauru, Elcid, Shurdi, and Kelsion: Summon duration +20%, Damage +25%, Atk. Speed +10%, Move Speed +10%, and Command Skill Cooldown -10%.",
         "values": [199, 2000, 2500, 32, 10]
       }
     },
@@ -687,16 +687,16 @@
     "id": 224,
     "levels": {
       "1": {
-        "desc": "Normal skills Damage +20%. Shield Amount +30% in Defensive Stance. Damage +4% for 10s when hit while in Defensive Stance (stacked up to 3 times, once every 1s).",
-        "values": [500041, 1000, 2000, 3000]
+        "desc": "Normal skills Damage +25%. Shield Amount +30% in Defensive Stance. Damage +2% for 10s when hit and when hitting while in Defensive Stance (stacks up to 3 times, once every 1s).",
+        "values": [500041, 1000, 2500, 3000]
       },
       "2": {
-        "desc": "Normal skills Damage +20%. Shield Amount +40% in Defensive Stance. Damage +5% for 10s when hit while in Defensive Stance (stacked up to 3 times, once every 1s).",
-        "values": [500042, 1000, 2000, 4000]
+        "desc": "Normal skills Damage +27.5%. Shield Amount +40% in Defensive Stance. Damage +3% for 10s when hit and when hitting foes while in Defensive Stance (stacks up to 3 times, once every 1s).",
+        "values": [500042, 1000, 2750, 4000]
       },
       "3": {
-        "desc": "Normal skills Damage +20%. Shield Amount +50% in Defensive Stance. Damage +6% for 10s when hit while in Defensive Stance (stacked up to 3 times, once every 1s).",
-        "values": [500043, 1000, 2000, 5000]
+        "desc": "+30% Normal skills damage. +50% Shield Amount in Defensive Stance. +4% Damage for 10s when hit and when hitting foes while in Defensive Stance (stacks up to 3 times, once per second).",
+        "values": [500043, 1000, 3000, 5000]
       }
     },
     "name": "Combat Readiness",
@@ -792,7 +792,7 @@
     "id": 239,
     "levels": {
       "1": {
-        "desc": "When attacked, there is a 20% chance of activing Divine Protection which reduces the Damage received by 60%. (Cooldown: 60s)",
+        "desc": "When attacked, there is a 20% chance of activating Divine Protection which reduces the Damage received by 60%. (Cooldown: 60s)",
         "values": [2000, 6000]
       },
       "2": {
@@ -1002,15 +1002,15 @@
     "id": 251,
     "levels": {
       "1": {
-        "desc": "Stacks up to +5% MP Recovery every 3s while you are not attacked. When the maximum stack is reached, skill Cooldown -3%. Being hit removes 1 stack of the effect with a Cooldown of 10s.",
+        "desc": "Stacks up to +5% MP Recovery every 3s while you are not attacked. When the maximum stack is reached, skill Cooldown -3%. Being hit removes 1 stack of the effect. A new stack cannot be gained for 10s.",
         "values": [500106]
       },
       "2": {
-        "desc": "Stacks up to +10% MP Recovery every 3s while you are not attacked. When the maximum stack is reached, skill Cooldown -6%. Being hit removes 1 stack of the effect with a Cooldown of 10s.",
+        "desc": "Stacks up to +10% MP Recovery every 3s while you are not attacked. When the maximum stack is reached, skill Cooldown -6%. Being hit removes 1 stack of the effect. A new stack cannot be gained for 10s.",
         "values": [500139]
       },
       "3": {
-        "desc": "Stacks up to +15% MP Recovery every 3s while you are not attacked. When the maximum stack is reached, skill Cooldown -10%. Being hit removes 1 stack of the effect with a Cooldown of 10s.",
+        "desc": "Stacks up to +15% MP Recovery every 3s while you are not attacked. When the maximum stack is reached, skill Cooldown -10%. Being hit removes 1 stack of the effect. A new stack cannot be gained for 10s.",
         "values": [500141]
       }
     },
@@ -1120,16 +1120,16 @@
     "id": 258,
     "levels": {
       "1": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Basic AoE Radius +60%, Silverhawk's Basic Attack Damage +100%, and Silverhawk's summon duration +30%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +4%. Additionally, when Silverhawk is summoned Atk. Power +3%.",
-        "values": [10000, 3000, 28160, 281301, 500197]
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +10%, Basic AoE Radius +60%, and Silverhawk's summon duration +30%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +3%. Additionally, when Silverhawk is summoned Atk. Power +1%.",
+        "values": [1000, 3000, 28160, 281301, 500197]
       },
       "2": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Basic AoE Radius +60%, Silverhawk's Basic Attack Damage +200%, and Silverhawk's summon duration +60%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +9%. Additionally, when Silverhawk is summoned Atk. Power +6%.",
-        "values": [20000, 6000, 28160, 281311, 500198]
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +20%, Basic AoE Radius +60%, and Silverhawk's summon duration +60%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +7%. Additionally, when Silverhawk is summoned Atk. Power +3%.",
+        "values": [2000, 6000, 28160, 281311, 500198]
       },
       "3": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Basic AoE Radius +60%, Silverhawk's Basic Attack Damage +300%, and Silverhawk's summon duration +100%. On basic attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +14%. Additionally, when Silverhawk is summoned Atk. Power +10%.",
-        "values": [30000, 10000, 28160, 281321, 500199]
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +40%, Basic AoE Radius +60%, and Silverhawk's summon duration +100%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +12%. Additionally, when Silverhawk is summoned Atk. Power +6%.",
+        "values": [4000, 10000, 28160, 281321, 500199]
       }
     },
     "name": "Loyal Companion",
@@ -1142,15 +1142,15 @@
     "id": 259,
     "levels": {
       "1": {
-        "desc": "When using Last Rush, recover 50% of the remaining Hawk Meter. Damage taken +22% for 8s.",
+        "desc": "When using Last Rush, recover 50% of the remaining Hawk Meter. Foe Damage received +30% for 8s.",
         "values": [281704, 5000, 28170]
       },
       "2": {
-        "desc": "When using Last Rush, recover 50% of the remaining Hawk Meter. Damage taken +33% for 8s.",
+        "desc": "When using Last Rush, recover 50% of the remaining Hawk Meter. Foe Damage received +40% for 8s.",
         "values": [281705, 5000, 28170]
       },
       "3": {
-        "desc": "When using Last Rush, recover 50% of the remaining Hawk Meter. Damage taken +44% for 8s.",
+        "desc": "When using Last Rush, recover 50% of the remaining Hawk Meter. Foe Damage received +50% for 8s.",
         "values": [281706, 5000, 28170]
       }
     },
@@ -1283,7 +1283,7 @@
   },
   "260": {
     "id": 260,
-    "levels": { "1": { "desc": "Mining Tool Level +1.", "values": [1] } },
+    "levels": { "1": { "desc": "Mining Tool Rank +1.", "values": [1] } },
     "name": "Increase Mining Tools",
     "isnegative": false,
     "icon": "ability_0.png",
@@ -1314,7 +1314,7 @@
   },
   "263": {
     "id": 263,
-    "levels": { "1": { "desc": "Fishing Tool level +1.", "values": [1] } },
+    "levels": { "1": { "desc": "Fishing Tool Rank +1.", "values": [1] } },
     "name": "Increase Fishing Tools",
     "isnegative": false,
     "icon": "ability_0.png",
@@ -1358,7 +1358,7 @@
   },
   "266": {
     "id": 266,
-    "levels": { "1": { "desc": "Logging Tool level +1.", "values": [1] } },
+    "levels": { "1": { "desc": "Logging Tool Rank +1.", "values": [1] } },
     "name": "Logging Tool Rank Boost",
     "isnegative": false,
     "icon": "ability_0.png",
@@ -1376,7 +1376,7 @@
   },
   "268": {
     "id": 268,
-    "levels": { "1": { "desc": "Foraging Tool level +1.", "values": [1] } },
+    "levels": { "1": { "desc": "Foraging Tool Rank +1.", "values": [1] } },
     "name": "Increase Harvesting Tools",
     "isnegative": false,
     "icon": "ability_0.png",
@@ -1398,7 +1398,7 @@
   },
   "270": {
     "id": 270,
-    "levels": { "1": { "desc": "Hunting Tool level +1.", "values": [1] } },
+    "levels": { "1": { "desc": "Hunting Tool Rank +1.", "values": [1] } },
     "name": "Increase Hunting Tools",
     "isnegative": false,
     "icon": "ability_0.png",
@@ -1434,7 +1434,7 @@
   },
   "273": {
     "id": 273,
-    "levels": { "1": { "desc": "Excavating Tool Level +1.", "values": [1] } },
+    "levels": { "1": { "desc": "Excavating Tool Rank +1.", "values": [1] } },
     "name": "Increase Excavation Tools",
     "isnegative": false,
     "icon": "ability_0.png",
@@ -1467,15 +1467,15 @@
     "id": 276,
     "levels": {
       "1": {
-        "desc": "Adds Pinnacle: Flurry/Focus I instead of the Flurry/Focus Stage 3 effect added upon changing stances while the Dual Meter is maxed at Level 3.\nPinnacle: Flurry I: Atk. Speed + 12.5%, Damage +12.5%, Crit Rate +20%\nPinnacle: Focus I: Move Speed +15%, Damage +15%, Crit Damage +37.5%",
+        "desc": "Adds Pinnacle: Flurry/Focus I instead of the Flurry/Focus Stage 3 effect added upon changing stances while the Dual Meter is maxed at Level 3.\nPinnacle: Flurry I: Atk. Speed + 12.5%, Damage +13%, Crit Rate +20%\nPinnacle: Focus I: Move Speed +15%, Damage +16%, Crit Damage +37.5%",
         "values": [2]
       },
       "2": {
-        "desc": "Adds Pinnacle: Flurry/Focus II instead of the Flurry/Focus Stage 3 effect added upon changing stances while the Dual Meter is maxed at Level 3.\nPinnacle: Flurry II: Atk. Speed + 13.8%, Damage +13.8%, Crit Rate +22.5%\nPinnacle: Focus II: Move Speed +15%, Damage +17.5%, Crit Damage +43.8%",
+        "desc": "Adds Pinnacle: Flurry/Focus II instead of the Flurry/Focus Stage 3 effect added upon changing stances while the Dual Meter is maxed at Level 3.\nPinnacle: Flurry II: Atk. Speed +13.8%, Damage +15%, Crit Rate +22.5%\nPinnacle: Focus II: Move Speed +15%, Damage +19%, Crit Damage +43.8%",
         "values": [3]
       },
       "3": {
-        "desc": "Adds Pinnacle: Flurry/Focus III instead of the Flurry/Focus Stage 3 effect added upon changing stances while the Dual Meter is maxed at Level 3.\nPinnacle: Flurry III: Atk. Speed + 15%, Damage +15%, Crit Rate +25%\nPinnacle: Focus III: Move Speed +15%, Damage +20%, Crit Damage +50%",
+        "desc": "Adds Pinnacle: Flurry/Focus III instead of the Flurry/Focus Stage 3 effect added upon changing stances while the Dual Meter is maxed at Level 3.\nPinnacle: Flurry III: Atk. Speed + 15%, Damage +17%, Crit Rate +25%\nPinnacle: Focus III: Move Speed +15%, Damage +22%, Crit Damage +50%",
         "values": [4]
       }
     },
@@ -1488,9 +1488,9 @@
   "277": {
     "id": 277,
     "levels": {
-      "1": { "desc": "Cannot use Focus stance. Flurry skills Damage +18%.", "values": [1800] },
-      "2": { "desc": "Cannot use Focus stance. Flurry skills Damage +27%.", "values": [2700] },
-      "3": { "desc": "Cannot use Focus stance. Flurry skills Damage +36%.", "values": [3600] }
+      "1": { "desc": "Cannot use Focus stance. Flurry skills Damage +20% .", "values": [2000] },
+      "2": { "desc": "Cannot use Focus stance. Flurry skills Damage +30%.", "values": [3000] },
+      "3": { "desc": "Cannot use Focus stance. Flurry skills Damage +40%.", "values": [4000] }
     },
     "name": "Control",
     "isnegative": false,
@@ -1502,15 +1502,15 @@
     "id": 278,
     "levels": {
       "1": {
-        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +6% and Atk. Power +(8%, 16%, 25%) depending on the number of Death Orbs available when using Deathblade Surge, for 30s.",
+        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +6% and Atk. Power +(11%, 22%, 33%) depending on the number of Death Orbs available when using Deathblade Surge, for 30s.",
         "values": [500120, 500121, 500122, 2000]
       },
       "2": {
-        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +9% and Atk. Power +(10%, 20%, 30%) depending on the number of Death Orbs available when using Deathblade Surge, for 30s.",
+        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +9% and Atk. Power +(13%, 26%, 39%) depending on the number of Death Orbs available when using Deathblade Surge, for 30s.",
         "values": [500123, 500124, 500125, 2000]
       },
       "3": {
-        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +12% and Atk. Power +(12%, 24%, 36%) depending on the number of Death Orbs available when using Deathblade Surge, for 30s.",
+        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +12% and Atk. Power +(16%, 32%, 48%) depending on the number of Death Orbs available when using Deathblade Surge, for 30s.",
         "values": [500143, 500144, 500145, 2000]
       }
     },
@@ -1594,12 +1594,12 @@
         "values": [1500, 10000, 5000, 552921]
       },
       "2": {
-        "desc": "Punishment Damage +20%. When Punishment hits, Piety Meter gain +100%. Duration of Sacred Executioner +125%.",
-        "values": [2000, 10000, 5556, 552921]
+        "desc": "Punishment Damage +22.5%. When Punishment hits, Piety Meter gain +100%. Duration of Sacred Executioner +125%.",
+        "values": [2250, 10000, 5556, 552921]
       },
       "3": {
-        "desc": "Punishment Damage +25%. When Punishment hits, Piety Meter gain +100%. Duration of Sacred Executioner +150%.",
-        "values": [2500, 10000, 6000, 552921]
+        "desc": "Punishment Damage +30%. When Punishment hits, Piety Meter gain +100%. Duration of Sacred Executioner +150%.",
+        "values": [3000, 10000, 6000, 552921]
       }
     },
     "name": "Judgment",
@@ -1634,15 +1634,15 @@
     "id": 284,
     "levels": {
       "1": {
-        "desc": "Increases damage of Drone and Joint skills by 15%, and increases Battery Max by 10%. Increase Move Speed by 10% when a Drone is attached to a Machinist.",
+        "desc": "Drone and Joint skill Damage +15%. Max Battery +10%. Move Speed +10% when Drones are attached to a Machinist.",
         "values": [1500, 1000, 500132]
       },
       "2": {
-        "desc": "Increases damage of Drone and Joint skills by 20%, and increases Battery Max by 15%. Increase Move Speed by 10% when a Drone is attached to a Machinist.",
+        "desc": "Drone and Joint skill Damage +20%. Max Battery +15%. Move Speed +10% when Drones are attached to a Machinist.",
         "values": [2000, 1500, 500132]
       },
       "3": {
-        "desc": "Increases damage of Drone and Joint skills by 25%, and increases Battery Max by 20%. Increase Move Speed by 10% when a Drone is attached to a Machinist.",
+        "desc": "Drone and Joint skill Damage +25%. Max Battery +20%. Move Speed +10% when Drones are attached to a Machinist.",
         "values": [2500, 2000, 500132]
       }
     },
@@ -1656,16 +1656,16 @@
     "id": 285,
     "levels": {
       "1": {
-        "desc": "During Hypersync Mode, on hit, Sync skills inflict Damage +2% (Max. 3 stacks) and Cooldown -0.5s. Also, Hypersync Mode returns 40% of its Core Energy cost when canceled. ",
-        "values": [500133, 4000, 69000001, 500]
+        "desc": "During Hypersync Mode, on hit, Sync skills inflict Damage +2% (Max. 3 stacks) and Cooldown for Sync skills excluding Movement skills and Stand Up skills -0.5s. Also, Cooldown of Sync skills is reset when entering Hypersync Mode, and it returns 40% of its Core Energy cost when canceled.",
+        "values": [500133, 4000, 69000001, 500, 10000]
       },
       "2": {
-        "desc": "During Hypersync Mode, on hit, Sync skills inflict Damage +4% (Max. 3 stacks) and Cooldown -0.5s. Also, Hypersync Mode returns 40% of its Core Energy cost when canceled.",
-        "values": [500134, 4000, 69000001, 500]
+        "desc": "During Hypersync Mode, on hit, Sync skills inflict Damage +4% (max. 3 stacks) and Cooldown for Sync skills excluding Movement skills and Stand Up skills -0.5s. Also, Cooldown of Sync skills is reset when entering Hypersync Mode, and it returns 40% of its Core Energy cost when canceled.",
+        "values": [500134, 4000, 69000001, 500, 10000]
       },
       "3": {
-        "desc": "During Hypersync Mode, on hit, Sync skills inflict Damage +6% (Max. 3 stacks) and Cooldown -0.5s. Also, Hypersync Mode returns 40% of its Core Energy cost when canceled.",
-        "values": [500135, 4000, 69000001, 500]
+        "desc": "During Hypersync Mode, on hit, Sync skills inflict Damage +6% (max. 3 stacks) and Cooldown for Sync skills excluding Movement skills and Stand Up skills -0.5s. Also, Cooldown of Sync skills is reset when entering Hypersync Mode, and it returns 40% of its Core Energy cost when canceled.",
+        "values": [500135, 4000, 69000001, 500, 10000]
       }
     },
     "name": "Evolutionary Legacy",
@@ -1678,15 +1678,15 @@
     "id": 286,
     "levels": {
       "1": {
-        "desc": "Chaos Meter +30%. Atk. Power +12% when the Chaos Meter is full.",
+        "desc": "Chaos Meter +30%. Atk. Power +16% when the Chaos Meter is full.",
         "values": [260405, 0, 260406, 3000]
       },
       "2": {
-        "desc": "Chaos Meter +30%. Atk. Power +18% when the Chaos Meter is full.",
+        "desc": "Chaos Meter +30%. Atk. Power +22% when the Chaos Meter is full.",
         "values": [260405, 0, 260407, 3000]
       },
       "3": {
-        "desc": "Chaos Meter +30%. Atk. Power +25% when the Chaos Meter is full",
+        "desc": "Chaos Meter +30%. Atk. Power +30% when the Chaos Meter is full.",
         "values": [260405, 0, 260408, 3000]
       }
     },
@@ -1700,15 +1700,15 @@
     "id": 287,
     "levels": {
       "1": {
-        "desc": "Swoop Damage +120% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode.",
+        "desc": "Swoop Damage +120% and Atk. Speed +10% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode.",
         "values": [260409]
       },
       "2": {
-        "desc": "Swoop Damage +140% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode.",
+        "desc": "Swoop Damage +140% and Atk. Speed +10% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode.",
         "values": [260410]
       },
       "3": {
-        "desc": "Swoop Damage +160% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode.",
+        "desc": "Swoop Damage +160% and Atk. Speed +10% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode.",
         "values": [260411]
       }
     },
@@ -1735,15 +1735,15 @@
     "id": 289,
     "levels": {
       "1": {
-        "desc": "Atk. Speed +8% in Handgun Stance. Crit Rate +10% and Outgoing Damage +5% in Shotgun Stance. Outgoing Damage +10% and additional Damage +10% for 9s to targets with 50% or lower HP while in Rifle Stance.",
+        "desc": "Atk. Speed +8% for 9s in Handgun Stance. Crit Rate +10% and Outgoing Damage +5% for 9s in Shotgun Stance. Outgoing Damage +10% and additional Damage +10% for 9s to targets with 50% or lower HP while in Rifle Stance.",
         "values": [500154, 500155, 500156]
       },
       "2": {
-        "desc": "Atk. Speed +12% in Handgun Stance. Crit Rate +10% and Outgoing Damage +10% in Shotgun Stance. Outgoing Damage +10% and additional Damage +20% for 9s to targets with 50% or lower HP while in Rifle Stance.",
+        "desc": "Atk. Speed +12% for 9s in Handgun Stance. Crit Rate +10% and Outgoing Damage +10% for 9s in Shotgun Stance. Outgoing Damage +10% and additional Damage +20% for 9s to targets with 50% or lower HP while in Rifle Stance.",
         "values": [500157, 500158, 500159]
       },
       "3": {
-        "desc": "Atk. Speed +16% in Handgun Stance. Crit Rate +10% and Outgoing Damage +15% in Shotgun Stance. Outgoing Damage +10% and additional Damage +30% for 9s to targets with 50% or lower HP while in Rifle Stance.",
+        "desc": "Atk. Speed +16% for 9s in Handgun Stance. Crit Rate +10% and Outgoing Damage +15% for 9s in Shotgun Stance. Outgoing Damage +10% and additional Damage +30% for 9s to targets with 50% or lower HP while in Rifle Stance.",
         "values": [500160, 500161, 500162]
       }
     },
@@ -1756,9 +1756,9 @@
   "290": {
     "id": 290,
     "levels": {
-      "1": { "desc": "Handgun and Rifle Skills' Crit Rate +22%. Unable to use Shotgun Stance.", "values": [2200] },
-      "2": { "desc": "Handgun and Rifle Skills' Crit Rate +33%. Unable to use Shotgun Stance.", "values": [3300] },
-      "3": { "desc": "Handgun and Rifle Skills' Crit Rate +45%. Unable to use Shotgun Stance.", "values": [4500] }
+      "1": { "desc": "Crit Rate +22%. Unable to use Shotgun Stance." },
+      "2": { "desc": "Crit Rate +33%. Unable to use Shotgun Stance." },
+      "3": { "desc": "Crit Rate +45%. Unable to use Shotgun Stance." }
     },
     "name": "Time to Hunt",
     "isnegative": false,
@@ -1836,16 +1836,16 @@
     "id": 294,
     "levels": {
       "1": {
-        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +8% and Cooldown -3%. ",
-        "values": [37110, 0, 800, 300]
+        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +10% and Cooldown -3%. ",
+        "values": [37110, 0, 1000, 300]
       },
       "2": {
-        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +12% and Cooldown -6%. ",
-        "values": [37110, 0, 1200, 600]
+        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +15% and Cooldown -6%. ",
+        "values": [37110, 0, 1500, 600]
       },
       "3": {
-        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +16% and Cooldown -10%. ",
-        "values": [37110, 0, 1600, 1000]
+        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +20% and Cooldown -10%. ",
+        "values": [37110, 0, 2000, 1000]
       }
     },
     "name": "Reflux",
@@ -2042,37 +2042,45 @@
     "id": 305,
     "levels": {
       "1": {
-        "desc": "Upon using Moonfall or Sunrise, gain an effect that increases the Artist's Crit Rate by <$CALC <$MACRO buffstat0_100 @1:500194/>/>% and Crit Damage by <$CALC <$MACRO buffstat1_100 @1:500194/>/>% for 60s."
+        "desc": "Upon using Moonfall or Sunrise, gain an effect that increases the Artist's Crit Rate by <$CALC <$MACRO buffstat0_100 @1:500194/>/>% and Crit Damage by <$CALC <$MACRO buffstat1_100 @1:500194/>/>% for 60s.",
+        "values": [500194]
       },
       "2": {
-        "desc": "Upon using Moonfall or Sunrise, gain an effect that increases the Artist's Crit Rate by <$CALC <$MACRO buffstat0_100 @1:500195/>/>% and Crit Damage by <$CALC <$MACRO buffstat1_100 @1:500195/>/>% for 60s."
+        "desc": "Upon using Moonfall or Sunrise, gain an effect that increases the Artist's Crit Rate by <$CALC <$MACRO buffstat0_100 @1:500195/>/>% and Crit Damage by <$CALC <$MACRO buffstat1_100 @1:500195/>/>% for 60s.",
+        "values": [500195]
       },
       "3": {
-        "desc": "Upon using Moonfall or Sunrise, gain an effect that increases the Artist's Crit Rate by <$CALC <$MACRO buffstat0_100 @1:500196/>/>% and Crit Damage by <$CALC <$MACRO buffstat1_100 @1:500196/>/>% for 60s."
+        "desc": "Upon using Moonfall or Sunrise, gain an effect that increases the Artist's Crit Rate by <$CALC <$MACRO buffstat0_100 @1:500196/>/>% and Crit Damage by <$CALC <$MACRO buffstat1_100 @1:500196/>/>% for 60s.",
+        "values": [500196]
       }
     },
     "name": "Recurrence",
     "isnegative": false,
     "icon": "ability_248.png",
-    "isengrave": true
+    "isengrave": true,
+    "featuretype": 342
   },
   "306": {
     "id": 306,
     "levels": {
       "1": {
-        "desc": "When casting Sunrise, the energy spreads to recover HP of Party Members within 24m of the Artist and Sun Marble. It recovers up to <$CALC (<$TABLE_SKILLEFFECT ValueD 311114/>/100)/>% of the Artist's max HP."
+        "desc": "When casting Sunrise, the energy spreads to recover HP of Party Members within 24m of the Artist and Sun Marble. It recovers up to <$CALC (<$TABLE_SKILLEFFECT ValueD 311114/>/100)/>% of the Artist's Max HP.",
+        "values": [31120]
       },
       "2": {
-        "desc": "When casting Sunrise, the energy spreads to recover HP of Party Members within 24m of the Artist and Sun Marble. It recovers up to <$CALC (<$TABLE_SKILLEFFECT ValueD 311119/>/100)/>% of the Artist's max HP."
+        "desc": "When casting Sunrise, the energy spreads to recover HP of Party Members within 24m of the Artist and Sun Marble. It recovers up to <$CALC (<$TABLE_SKILLEFFECT ValueD 311119/>/100)/>% of the Artist's Max HP.",
+        "values": [31130]
       },
       "3": {
-        "desc": "When casting Sunrise, the energy spreads to recover HP of Party Members within 24m of the Artist and Sun Marble. It recovers up to <$CALC (<$TABLE_SKILLEFFECT ValueD 311124/>/100)/>% of the Artist's max HP."
+        "desc": "When casting Sunrise, the energy spreads to recover HP of Party Members within 24m of the Artist and Sun Marble. It recovers up to <$CALC (<$TABLE_SKILLEFFECT ValueD 311124/>/100)/>% of the Artist's Max HP.",
+        "values": [31140]
       }
     },
     "name": "Full Bloom",
     "isnegative": false,
     "icon": "ability_249.png",
-    "isengrave": true
+    "isengrave": true,
+    "featuretype": 343
   },
   "307": {
     "id": 307,
@@ -2108,6 +2116,42 @@
     "name": "Drizzle",
     "isnegative": false,
     "icon": "ability_259.png",
+    "isengrave": true
+  },
+  "309": {
+    "id": 309,
+    "levels": {
+      "1": {
+        "desc": "Fury Meter +3% and MP +1% when hitting an enemy and absorbing their vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +10% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
+      },
+      "2": {
+        "desc": "Fury Meter +6% and MP +2% when hitting an enemy and absorbing their vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +25% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
+      },
+      "3": {
+        "desc": "Fury Meter +10% and MP +3% when hitting an enemy and absorbing their vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +40% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
+      }
+    },
+    "name": "Predator",
+    "isnegative": false,
+    "icon": "ability_260.png",
+    "isengrave": true
+  },
+  "310": {
+    "id": 310,
+    "levels": {
+      "1": {
+        "desc": "Damage +7% while in Burst Mode and Bloodlust Crit Rate +5%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur."
+      },
+      "2": {
+        "desc": "Damage +15% while in Burst Mode and Bloodlust Crit Rate +10%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur."
+      },
+      "3": {
+        "desc": "Damage +25% while in Burst Mode and Bloodlust Crit Rate +20%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur."
+      }
+    },
+    "name": "Punisher",
+    "isnegative": false,
+    "icon": "ability_261.png",
     "isengrave": true
   },
   "100": {
@@ -2742,12 +2786,18 @@
     "levels": {
       "1": {
         "desc": "Shield and Healing effectiveness on all Party Members +6%. If target's HP is 50% or lower, +3% additional effectiveness."
+      },
+      "2": {
+        "desc": "Shield and Healing effectiveness on all Party Members +6%. If target's HP is 50% or lower, +3% additional effectiveness."
+      },
+      "3": {
+        "desc": "Shield and Healing effectiveness on all Party Members +6%. If target's HP is 50% or lower, +3% additional effectiveness."
       }
     },
     "name": "Expert",
     "isnegative": false,
     "icon": "ability_237.png",
-    "isengrave": true
+    "isengrave": false
   },
   "77300002": {
     "id": 77300002,
@@ -2759,6 +2809,92 @@
     "name": "Emergency Rescue",
     "isnegative": false,
     "icon": "ability_238.png",
-    "isengrave": true
+    "isengrave": false
+  },
+  "77390001": {
+    "id": 77390001,
+    "levels": {
+      "1": {
+        "desc": "Normal skills Damage +25%. Shield Amount +30% in Defensive Stance. Damage +2% for 10s when hit and when hitting while in Defensive Stance (stacks up to 3 times, once every 1s)."
+      },
+      "2": {
+        "desc": "Normal skills Damage +27.5%. Shield Amount +40% in Defensive Stance. Damage +3% for 10s when hit and when hitting foes while in Defensive Stance (stacks up to 3 times, once every 1s)."
+      },
+      "3": {
+        "desc": "+30% Normal skills damage. +50% Shield Amount in Defensive Stance. +4% Damage for 10s when hit and when hitting foes while in Defensive Stance (stacks up to 3 times, once per second)."
+      }
+    },
+    "name": "Combat Readiness",
+    "isnegative": false,
+    "icon": "buff_19.png",
+    "isengrave": false
+  },
+  "77390201": {
+    "id": 77390201,
+    "levels": {
+      "1": { "desc": "Incoming Damage is reduced proportional to HP lost. (Max. 5%)" },
+      "2": { "desc": "Incoming Damage is reduced proportional to HP lost. (Max. 15%)" },
+      "3": { "desc": "Incoming Damage is reduced proportional to HP lost. (Max. 30%)" }
+    },
+    "name": "Fortitude",
+    "isnegative": false,
+    "icon": "buff_66.png",
+    "isengrave": false
+  },
+  "77390101": {
+    "id": 77390101,
+    "levels": {
+      "1": { "desc": "Damage to foes while shielded +3%." },
+      "2": { "desc": "Damage to foes while shielded +8%." },
+      "3": { "desc": "Damage to foes while shielded +16%." }
+    },
+    "name": "Barricade",
+    "isnegative": false,
+    "icon": "buff_170.png",
+    "isengrave": false
+  },
+  "77393001": {
+    "id": 77393001,
+    "levels": {
+      "1": {
+        "desc": "Maririn, Pauru, Elcid, Shurdi, and Kelsion: Summon duration +5%, Damage +10%, Atk. Speed +3%, Move Speed +3%, and Command Skill Cooldown -3%."
+      },
+      "2": {
+        "desc": "Maririn, Pauru, Elcid, Shurdi, and Kelsion: Summon duration +10%, Damage +17%, Atk. Speed +6%, Move Speed +6%, and Command Skill Cooldown -6%."
+      },
+      "3": {
+        "desc": "Maririn, Pauru, Elcid, Shurdi, and Kelsion: Summon duration +20%, Damage +25%, Atk. Speed +10%, Move Speed +10%, and Command Skill Cooldown -10%."
+      }
+    },
+    "name": "Communication Overflow",
+    "isnegative": false,
+    "icon": "buff_21.png",
+    "isengrave": false
+  },
+  "77392310": {
+    "id": 77392310,
+    "levels": {
+      "1": {
+        "desc": "Drone and Joint skill Damage +15%. Max Battery +10%. Move Speed +10% when Drones are attached to a Machinist."
+      },
+      "2": {
+        "desc": "Drone and Joint skill Damage +20%. Max Battery +15%. Move Speed +10% when Drones are attached to a Machinist."
+      },
+      "3": {
+        "desc": "Drone and Joint skill Damage +25%. Max Battery +20%. Move Speed +10% when Drones are attached to a Machinist."
+      }
+    },
+    "name": "Arthetinean Skill",
+    "isnegative": false,
+    "icon": "ability_0.png",
+    "isengrave": false
+  },
+  "77399999": {
+    "id": 77399999,
+    "levels": { "1": { "desc": "Movement Skill Cooldown -10%." } },
+    "name": "Fugitive",
+    "isnegative": false,
+    "icon": "buff_0.png",
+    "isengrave": false
   }
 }

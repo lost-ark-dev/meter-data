@@ -301,9 +301,14 @@
     ],
     "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
+  "292305": {
+    "id": 292305,
+    "conditions": [{ "type": "abnormal_move", "actor": "target", "arg": 4 }],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
   "292306": {
     "id": 292306,
-    "conditions": [{ "type": "abnormal_move", "actor": "target", "arg": 4 }],
+    "conditions": [{ "type": "npc_grade_greater", "actor": "target", "arg": 5 }],
     "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
   "292700": {
@@ -578,6 +583,14 @@
     ],
     "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
+  "171430": {
+    "id": 171430,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 17140 },
+      { "type": "abnormal_move_immune", "actor": "target", "arg": 0 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
   "400300": {
     "id": 400300,
     "conditions": [{ "type": "skill_effect_id", "actor": "target", "arg": 400300 }],
@@ -756,18 +769,23 @@
   },
   "580100": {
     "id": 580100,
-    "conditions": [{ "type": "abnormal_status", "actor": "target", "arg": 4 }],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
+    "conditions": [{ "type": "npc_id", "actor": "target", "arg": 506411 }],
+    "actions": [{ "type": "exec_active_effect_when_kill", "actor": "self" }]
   },
   "580201": {
     "id": 580201,
-    "conditions": [],
-    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+    "conditions": [{ "type": "npc_id", "actor": "target", "arg": 506411 }],
+    "actions": [{ "type": "exec_active_effect_when_kill", "actor": "self" }]
   },
   "582210": {
     "id": 582210,
     "conditions": [],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "584110": {
+    "id": 584110,
+    "conditions": [{ "type": "npc_id", "actor": "target", "arg": 506411 }],
+    "actions": [{ "type": "exec_active_effect_when_kill", "actor": "self" }]
   },
   "575621": {
     "id": 575621,
@@ -853,10 +871,34 @@
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
     "actions": [{ "type": "modify_reactive_damage", "actor": "self" }]
   },
-  "77399999": {
-    "id": 77399999,
-    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  "9405": {
+    "id": 9405,
+    "conditions": [
+      { "type": "pc", "actor": "self", "arg": 0 },
+      { "type": "skill_effect_id", "actor": "self", "arg": 9405 }
+    ],
+    "actions": [{ "type": "exec_after_effect", "actor": "self" }]
+  },
+  "9406": {
+    "id": 9406,
+    "conditions": [
+      { "type": "pc", "actor": "self", "arg": 0 },
+      { "type": "skill_effect_id", "actor": "self", "arg": 9406 }
+    ],
+    "actions": [{ "type": "exec_after_effect", "actor": "self" }]
+  },
+  "9407": {
+    "id": 9407,
+    "conditions": [
+      { "type": "pc", "actor": "self", "arg": 0 },
+      { "type": "skill_effect_id", "actor": "self", "arg": 9407 }
+    ],
+    "actions": [{ "type": "exec_after_effect", "actor": "self" }]
+  },
+  "99990006": {
+    "id": 99990006,
+    "conditions": [{ "type": "current_skill_group", "actor": "self", "arg": 991200 }],
+    "actions": [{ "type": "exec_start_skill", "actor": "self" }]
   },
   "77302010": {
     "id": 77302010,
@@ -868,6 +910,7 @@
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
   },
+  "77302002": { "id": 77302002, "conditions": [], "actions": [{ "type": "modify_reactive_damage", "actor": "self" }] },
   "77307000": {
     "id": 77307000,
     "conditions": [{ "type": "npc_grade_less", "actor": "target", "arg": 4 }],
@@ -899,6 +942,19 @@
     "id": 77307030,
     "conditions": [],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "77399998": {
+    "id": 77399998,
+    "conditions": [
+      { "type": "npc_species", "actor": "target", "arg": 9 },
+      { "type": "hp_less", "actor": "target", "arg": 15 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "77399999": {
+    "id": 77399999,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
   "77301020": {
     "id": 77301020,
@@ -932,6 +988,14 @@
     "id": 77301050,
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
     "actions": [{ "type": "exec_reactive_effect_when_damage", "actor": "target" }]
+  },
+  "77301270": {
+    "id": 77301270,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [
+      { "type": "exec_active_effect_when_damage", "actor": "target" },
+      { "type": "exec_active_effect_when_damage", "actor": "target" }
+    ]
   },
   "77301060": {
     "id": 77301060,
@@ -979,6 +1043,14 @@
     "conditions": [],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "caster" }]
   },
+  "77301280": {
+    "id": 77301280,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [
+      { "type": "exec_active_effect_when_damage", "actor": "caster" },
+      { "type": "exec_active_effect_when_damage", "actor": "target" }
+    ]
+  },
   "77301120": {
     "id": 77301120,
     "conditions": [],
@@ -1012,31 +1084,36 @@
     "conditions": [],
     "actions": [{ "type": "exec_active_effect_when_critical", "actor": "caster" }]
   },
-  "77301152": {
-    "id": 77301152,
-    "conditions": [],
-    "actions": [
-      { "type": "modify_critical_ratio", "actor": "target" },
-      { "type": "modify_critical_ratio", "actor": "target" }
-    ]
-  },
   "77301160": {
     "id": 77301160,
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
     "actions": [{ "type": "exec_active_effect_when_critical", "actor": "caster" }]
   },
+  "77301290": {
+    "id": 77301290,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [
+      { "type": "exec_active_effect_when_critical", "actor": "target" },
+      { "type": "exec_active_effect_when_critical", "actor": "self" }
+    ]
+  },
   "77301200": {
     "id": 77301200,
-    "conditions": [],
-    "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
-  },
-  "77301201": {
-    "id": 77301201,
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
     "actions": [
       { "type": "exec_active_effect_when_damage", "actor": "target" },
       { "type": "exec_active_effect_when_damage", "actor": "caster" }
     ]
+  },
+  "77301201": {
+    "id": 77301201,
+    "conditions": [],
+    "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
+  },
+  "77301202": {
+    "id": 77301202,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_kill", "actor": "caster" }]
   },
   "77301170": {
     "id": 77301170,
@@ -1048,11 +1125,19 @@
   },
   "77301171": {
     "id": 77301171,
-    "conditions": [],
-    "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
+    "conditions": [
+      { "type": "pc", "actor": "target", "arg": 0 },
+      { "type": "target_count", "actor": "target", "arg": 1 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
   "77301172": {
     "id": 77301172,
+    "conditions": [],
+    "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
+  },
+  "77301173": {
+    "id": 77301173,
     "conditions": [],
     "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
   },
@@ -1064,10 +1149,7 @@
   "77301181": {
     "id": 77301181,
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
-    "actions": [
-      { "type": "exec_active_effect_when_kill", "actor": "caster" },
-      { "type": "exec_active_effect_when_kill", "actor": "target" }
-    ]
+    "actions": [{ "type": "exec_active_effect_when_kill", "actor": "caster" }]
   },
   "77301182": {
     "id": 77301182,
@@ -1077,21 +1159,18 @@
       { "type": "exec_reactive_effect_when_damage", "actor": "self" }
     ]
   },
+  "77301183": {
+    "id": 77301183,
+    "conditions": [],
+    "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
+  },
   "77301190": {
     "id": 77301190,
-    "conditions": [
-      { "type": "pc", "actor": "target", "arg": 0 },
-      { "type": "hp_less", "actor": "target", "arg": 40 }
-    ],
+    "conditions": [],
     "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
   },
   "77301191": {
     "id": 77301191,
-    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
-    "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
-  },
-  "77301192": {
-    "id": 77301192,
     "conditions": [
       { "type": "pc", "actor": "target", "arg": 0 },
       { "type": "hp_less", "actor": "target", "arg": 40 }
@@ -1134,6 +1213,29 @@
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
     "actions": [{ "type": "modify_reactive_damage", "actor": "self" }]
   },
+  "77301300": {
+    "id": 77301300,
+    "conditions": [],
+    "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
+  },
+  "77301301": {
+    "id": 77301301,
+    "conditions": [],
+    "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
+  },
+  "77301302": {
+    "id": 77301302,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_kill", "actor": "caster" }]
+  },
+  "77301303": {
+    "id": 77301303,
+    "conditions": [],
+    "actions": [
+      { "type": "modify_penetration_addend", "actor": "target" },
+      { "type": "modify_penetration", "actor": "none" }
+    ]
+  },
   "77301220": {
     "id": 77301220,
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
@@ -1165,6 +1267,14 @@
   "77301262": {
     "id": 77301262,
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "77301310": {
+    "id": 77301310,
+    "conditions": [
+      { "type": "pc", "actor": "target", "arg": 0 },
+      { "type": "abnormal_move_status_all", "actor": "target", "arg": 0 }
+    ],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
   },
   "77303092": {
@@ -1200,7 +1310,7 @@
   },
   "77300180": {
     "id": 77300180,
-    "conditions": [],
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
     "actions": [
       { "type": "modify_critical_ratio", "actor": "target" },
       { "type": "modify_critical_multiplier", "actor": "target" }
@@ -1208,7 +1318,7 @@
   },
   "77300182": {
     "id": 77300182,
-    "conditions": [],
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
     "actions": [
       { "type": "modify_critical_ratio", "actor": "target" },
       { "type": "modify_critical_multiplier", "actor": "target" }
@@ -1217,7 +1327,23 @@
   "77300181": {
     "id": 77300181,
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
-    "actions": [{ "type": "exec_active_effect_when_kill", "actor": "caster" }]
+    "actions": [
+      { "type": "exec_active_effect_when_kill", "actor": "caster" },
+      { "type": "modify_penetration_addend", "actor": "target" }
+    ]
+  },
+  "77300183": {
+    "id": 77300183,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [
+      { "type": "exec_active_effect_when_kill", "actor": "caster" },
+      { "type": "modify_penetration_addend", "actor": "target" }
+    ]
+  },
+  "77300240": {
+    "id": 77300240,
+    "conditions": [],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "caster" }]
   },
   "171090": {
     "id": 171090,
@@ -1230,19 +1356,16 @@
       { "type": "exec_active_effect_when_damage", "actor": "target" }
     ]
   },
-  "171092": {
-    "id": 171092,
-    "conditions": [
-      { "type": "pc", "actor": "target", "arg": 0 },
-      { "type": "skill_effect_id", "actor": "self", "arg": 171092 }
-    ],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  "171591": {
+    "id": 171591,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
   },
   "170990": {
     "id": 170990,
     "conditions": [
       { "type": "current_skill", "actor": "self", "arg": 17099 },
-      { "type": "npc_grade_greater", "actor": "target", "arg": 0 }
+      { "type": "pc", "actor": "target", "arg": 0 }
     ],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
   },
@@ -1252,6 +1375,11 @@
       { "type": "current_skill", "actor": "self", "arg": 17099 },
       { "type": "pc", "actor": "target", "arg": 0 }
     ],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "171194": {
+    "id": 171194,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
   },
   "166190": {
@@ -1322,8 +1450,76 @@
   },
   "280891": {
     "id": 280891,
-    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 280891 }],
+    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 28089 }],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "77392201": {
+    "id": 77392201,
+    "conditions": [{ "type": "skill_effect_id", "actor": "self", "arg": 281190 }],
+    "actions": [{ "type": "exec_active_effect_when_critical", "actor": "target" }]
+  },
+  "77392202": {
+    "id": 77392202,
+    "conditions": [{ "type": "skill_effect_id", "actor": "self", "arg": 281190 }],
+    "actions": [{ "type": "exec_active_effect_when_critical", "actor": "target" }]
+  },
+  "77392203": {
+    "id": 77392203,
+    "conditions": [{ "type": "skill_effect_id", "actor": "self", "arg": 281190 }],
+    "actions": [{ "type": "exec_active_effect_when_critical", "actor": "target" }]
+  },
+  "350490": {
+    "id": 350490,
+    "conditions": [{ "type": "target_count", "actor": "target", "arg": 1 }],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "350491": {
+    "id": 350491,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 35049 },
+      { "type": "pc", "actor": "target", "arg": 0 }
+    ],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self" }]
+  },
+  "352091": {
+    "id": 352091,
+    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 35209 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self" }]
+  },
+  "351890": {
+    "id": 351890,
+    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 35049 }],
+    "actions": [{ "type": "modify_penetration_addend", "actor": "target" }]
+  },
+  "351891": { "id": 351891, "conditions": [], "actions": [{ "type": "modify_penetration_addend", "actor": "target" }] },
+  "350891": {
+    "id": 350891,
+    "conditions": [{ "type": "target_count", "actor": "target", "arg": 1 }],
+    "actions": [{ "type": "modify_critical_multiplier", "actor": "target" }]
+  },
+  "352190": { "id": 352190, "conditions": [], "actions": [{ "type": "modify_penetration", "actor": "target" }] },
+  "77392390": {
+    "id": 77392390,
+    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 35711 }],
+    "actions": [
+      { "type": "exec_start_skill", "actor": "self" },
+      { "type": "exec_start_skill", "actor": "self" }
+    ]
+  },
+  "77391211": {
+    "id": 77391211,
+    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 24022 }],
+    "actions": [{ "type": "exec_start_skill", "actor": "self" }]
+  },
+  "77391212": {
+    "id": 77391212,
+    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 24022 }],
+    "actions": [{ "type": "exec_start_skill", "actor": "self" }]
+  },
+  "77391213": {
+    "id": 77391213,
+    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 24022 }],
+    "actions": [{ "type": "exec_start_skill", "actor": "self" }]
   },
   "232291": {
     "id": 232291,
@@ -1347,13 +1543,50 @@
       { "type": "modify_critical_ratio", "actor": "target" }
     ]
   },
+  "232691": {
+    "id": 232691,
+    "conditions": [
+      { "type": "hp_less", "actor": "target", "arg": 50 },
+      { "type": "current_skill", "actor": "self", "arg": 23269 }
+    ],
+    "actions": [
+      { "type": "modify_damage", "actor": "target" },
+      { "type": "modify_critical_ratio", "actor": "target" }
+    ]
+  },
+  "231592": {
+    "id": 231592,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "77391000": {
+    "id": 77391000,
+    "conditions": [{ "type": "current_skill_group", "actor": "self", "arg": 77391000 }],
+    "actions": [
+      { "type": "exec_active_effect_when_damage", "actor": "target" },
+      { "type": "exec_active_effect_when_damage", "actor": "self" }
+    ]
+  },
+  "270595": {
+    "id": 270595,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_kill", "actor": "self" }]
+  },
+  "270990": {
+    "id": 270990,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 27099 },
+      { "type": "pc", "actor": "target", "arg": 0 }
+    ],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
   "272480": {
     "id": 272480,
     "conditions": [
       { "type": "skill_effect_id", "actor": "self", "arg": 272480 },
-      { "type": "abnormal_status", "actor": "target", "arg": 10 }
+      { "type": "abnormal_status", "actor": "target", "arg": 9 }
     ],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
+    "actions": [{ "type": "modify_critical_ratio", "actor": "target" }]
   },
   "272481": {
     "id": 272481,
@@ -1363,47 +1596,71 @@
     ],
     "actions": [{ "type": "exec_active_effect_when_kill", "actor": "self" }]
   },
-  "301896": {
-    "id": 301896,
+  "272290": {
+    "id": 272290,
+    "conditions": [
+      { "type": "skill_effect_id", "actor": "self", "arg": 27229 },
+      { "type": "hp_less", "actor": "target", "arg": 50 }
+    ],
+    "actions": [{ "type": "modify_critical_ratio", "actor": "target" }]
+  },
+  "77394190": {
+    "id": 77394190,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [
+      { "type": "exec_active_effect_when_damage", "actor": "target" },
+      { "type": "exec_active_effect_when_damage", "actor": "self" }
+    ]
+  },
+  "300991": {
+    "id": 300991,
+    "conditions": [{ "type": "hp_less", "actor": "target", "arg": 70 }],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "77392190": {
+    "id": 77392190,
     "conditions": [{ "type": "hp_less", "actor": "self", "arg": 40 }],
     "actions": [
       { "type": "exec_reactive_effect_when_damage", "actor": "self" },
       { "type": "exec_reactive_effect_when_damage", "actor": "self" }
     ]
   },
-  "300890": {
-    "id": 300890,
-    "conditions": [],
+  "77392101": {
+    "id": 77392101,
+    "conditions": [{ "type": "current_skill_group", "actor": "self", "arg": 77392101 }],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
   },
-  "221791": {
-    "id": 221791,
-    "conditions": [
-      { "type": "current_skill", "actor": "self", "arg": 22179 },
-      { "type": "abnormal_move", "actor": "target", "arg": 3 }
-    ],
+  "77392102": {
+    "id": 77392102,
+    "conditions": [{ "type": "current_skill_group", "actor": "self", "arg": 77392101 }],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
   },
-  "223291": {
-    "id": 223291,
-    "conditions": [
-      { "type": "current_skill", "actor": "self", "arg": 22329 },
-      { "type": "abnormal_move", "actor": "target", "arg": 3 }
-    ],
+  "77392103": {
+    "id": 77392103,
+    "conditions": [{ "type": "current_skill_group", "actor": "self", "arg": 77392101 }],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
-  },
-  "222890": {
-    "id": 222890,
-    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 22289 }],
-    "actions": [
-      { "type": "exec_active_effect_when_damage", "actor": "target" },
-      { "type": "exec_active_effect_when_damage", "actor": "target" }
-    ]
   },
   "372591": {
     "id": 372591,
     "conditions": [{ "type": "current_skill", "actor": "self", "arg": 37259 }],
     "actions": [{ "type": "modify_penetration", "actor": "target" }]
+  },
+  "77393300": {
+    "id": 77393300,
+    "conditions": [
+      { "type": "pc", "actor": "target", "arg": 0 },
+      { "type": "hp_less", "actor": "self", "arg": 50 },
+      { "type": "mp_greater", "actor": "self", "arg": 60 }
+    ],
+    "actions": [
+      { "type": "exec_reactive_effect_when_damage", "actor": "self" },
+      { "type": "exec_reactive_effect_when_damage", "actor": "self" }
+    ]
+  },
+  "77393303": {
+    "id": 77393303,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_reactive_effect_when_damage", "actor": "self" }]
   },
   "210691": {
     "id": 210691,
@@ -1413,6 +1670,31 @@
     ],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
   },
+  "212690": {
+    "id": 212690,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "77393211": {
+    "id": 77393211,
+    "conditions": [{ "type": "current_skill_group", "actor": "self", "arg": 77393211 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "77393212": {
+    "id": 77393212,
+    "conditions": [{ "type": "current_skill_group", "actor": "self", "arg": 77393211 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "77393213": {
+    "id": 77393213,
+    "conditions": [{ "type": "current_skill_group", "actor": "self", "arg": 77393211 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "200290": {
+    "id": 200290,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_kill", "actor": "caster" }]
+  },
   "201891": {
     "id": 201891,
     "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
@@ -1420,6 +1702,53 @@
       { "type": "exec_active_effect_when_damage", "actor": "target" },
       { "type": "exec_active_effect_when_damage", "actor": "target" }
     ]
+  },
+  "192191": {
+    "id": 192191,
+    "conditions": [],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self" }]
+  },
+  "190593": {
+    "id": 190593,
+    "conditions": [],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self" }]
+  },
+  "192090": { "id": 192090, "conditions": [], "actions": [{ "type": "modify_critical_ratio", "actor": "target" }] },
+  "192091": { "id": 192091, "conditions": [], "actions": [{ "type": "modify_critical_ratio", "actor": "target" }] },
+  "192092": { "id": 192092, "conditions": [], "actions": [{ "type": "modify_critical_ratio", "actor": "target" }] },
+  "192093": { "id": 192093, "conditions": [], "actions": [{ "type": "modify_critical_ratio", "actor": "target" }] },
+  "191690": {
+    "id": 191690,
+    "conditions": [{ "type": "identity_stack_count", "actor": "target", "arg": 4 }],
+    "actions": [{ "type": "exec_after_effect", "actor": "target" }]
+  },
+  "191694": {
+    "id": 191694,
+    "conditions": [
+      { "type": "skill_effect_id", "actor": "self", "arg": 191690 },
+      { "type": "identity_stack_count", "actor": "target", "arg": 4 }
+    ],
+    "actions": [{ "type": "exec_after_effect", "actor": "self" }]
+  },
+  "77393100": {
+    "id": 77393100,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_kill", "actor": "self" }]
+  },
+  "312090": {
+    "id": 312090,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "314291": {
+    "id": 314291,
+    "conditions": [{ "type": "pc", "actor": "target", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "77395000": {
+    "id": 77395000,
+    "conditions": [],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "caster" }]
   },
   "77390000": {
     "id": 77390000,
@@ -1901,106 +2230,6 @@
     "conditions": [],
     "actions": [{ "type": "modify_penetration_addend_when_critical", "actor": "target" }]
   },
-  "77394501": {
-    "id": 77394501,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394502": {
-    "id": 77394502,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394503": {
-    "id": 77394503,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394504": {
-    "id": 77394504,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394505": {
-    "id": 77394505,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394506": {
-    "id": 77394506,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394507": {
-    "id": 77394507,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394508": {
-    "id": 77394508,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394509": {
-    "id": 77394509,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394510": {
-    "id": 77394510,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394511": {
-    "id": 77394511,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394512": {
-    "id": 77394512,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394513": {
-    "id": 77394513,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394514": {
-    "id": 77394514,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394515": {
-    "id": 77394515,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394516": {
-    "id": 77394516,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394517": {
-    "id": 77394517,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394518": {
-    "id": 77394518,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394519": {
-    "id": 77394519,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
-  "77394520": {
-    "id": 77394520,
-    "conditions": [],
-    "actions": [{ "type": "modify_reactive_critical_multiplier", "actor": "target" }]
-  },
   "190401": { "id": 190401, "conditions": [], "actions": [{ "type": "exec_after_effect", "actor": "target" }] },
   "190402": {
     "id": 190402,
@@ -2262,64 +2491,6 @@
   "192600": {
     "id": 192600,
     "conditions": [{ "type": "abnormal_move_immune", "actor": "target", "arg": 0 }],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
-  },
-  "192321": {
-    "id": 192321,
-    "conditions": [{ "type": "abnormal_move", "actor": "target", "arg": 2 }],
-    "actions": [{ "type": "exec_after_effect", "actor": "target" }]
-  },
-  "192323": {
-    "id": 192323,
-    "conditions": [{ "type": "abnormal_move", "actor": "target", "arg": 2 }],
-    "actions": [{ "type": "exec_after_effect", "actor": "target" }]
-  },
-  "192325": {
-    "id": 192325,
-    "conditions": [{ "type": "abnormal_move", "actor": "target", "arg": 2 }],
-    "actions": [{ "type": "exec_after_effect", "actor": "target" }]
-  },
-  "192337": {
-    "id": 192337,
-    "conditions": [{ "type": "abnormal_move", "actor": "target", "arg": 2 }],
-    "actions": [{ "type": "exec_after_effect", "actor": "target" }]
-  },
-  "192339": {
-    "id": 192339,
-    "conditions": [{ "type": "abnormal_move", "actor": "target", "arg": 2 }],
-    "actions": [{ "type": "exec_after_effect", "actor": "target" }]
-  },
-  "192341": {
-    "id": 192341,
-    "conditions": [{ "type": "abnormal_move", "actor": "target", "arg": 2 }],
-    "actions": [{ "type": "exec_after_effect", "actor": "target" }]
-  },
-  "192342": {
-    "id": 192342,
-    "conditions": [
-      { "type": "abnormal_move_immune", "actor": "target", "arg": 0 },
-      { "type": "current_skill", "actor": "self", "arg": 19230 }
-    ],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
-  },
-  "192351": {
-    "id": 192351,
-    "conditions": [{ "type": "abnormal_move_immune", "actor": "target", "arg": 0 }],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
-  },
-  "192352": {
-    "id": 192352,
-    "conditions": [{ "type": "abnormal_move_immune", "actor": "target", "arg": 0 }],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
-  },
-  "192353": {
-    "id": 192353,
-    "conditions": [{ "type": "abnormal_move_immune", "actor": "target", "arg": 0 }],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
-  },
-  "192354": {
-    "id": 192354,
-    "conditions": [{ "type": "abnormal_move", "actor": "target", "arg": 2 }],
     "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
   "193100": {
@@ -2928,10 +3099,11 @@
     "id": 160506,
     "conditions": [
       { "type": "current_skill", "actor": "self", "arg": 16050 },
-      { "type": "identity_stance", "actor": "self", "arg": 3 }
+      { "type": "identity_stance", "actor": "self", "arg": 1 }
     ],
     "actions": [{ "type": "modify_damage", "actor": "self" }]
   },
+  "160507": { "id": 160507, "conditions": [], "actions": [{ "type": "exec_after_effect", "actor": "self" }] },
   "161101": {
     "id": 161101,
     "conditions": [
@@ -3049,19 +3221,6 @@
     ],
     "actions": [{ "type": "modify_damage", "actor": "self" }]
   },
-  "164001": {
-    "id": 164001,
-    "conditions": [
-      { "type": "target_count", "actor": "target", "arg": 1 },
-      { "type": "current_skill", "actor": "self", "arg": 16400 }
-    ],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
-  },
-  "164002": {
-    "id": 164002,
-    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 16400 }],
-    "actions": [{ "type": "modify_penetration", "actor": "target" }]
-  },
   "166002": {
     "id": 166002,
     "conditions": [
@@ -3114,59 +3273,101 @@
     ],
     "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
-  "451101": {
-    "id": 451101,
+  "166430": {
+    "id": 166430,
     "conditions": [
-      { "type": "current_skill", "actor": "self", "arg": 45110 },
-      { "type": "abnormal_move_all", "actor": "target", "arg": 0 }
+      { "type": "current_skill", "actor": "self", "arg": 16640 },
+      { "type": "abnormal_move_immune", "actor": "target", "arg": 0 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "self" }]
+  },
+  "166440": {
+    "id": 166440,
+    "conditions": [
+      { "type": "identity_stance", "actor": "self", "arg": 1 },
+      { "type": "current_skill", "actor": "self", "arg": 16640 }
+    ],
+    "actions": [{ "type": "exec_after_skill", "actor": "self" }]
+  },
+  "166450": {
+    "id": 166450,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 16640 },
+      { "type": "identity_stance", "actor": "self", "arg": 1 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "self" }]
+  },
+  "166451": { "id": 166451, "conditions": [], "actions": [{ "type": "exec_after_effect", "actor": "self" }] },
+  "166460": {
+    "id": 166460,
+    "conditions": [
+      { "type": "hp_less", "actor": "self", "arg": 50 },
+      { "type": "current_skill", "actor": "self", "arg": 16640 }
     ],
     "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
-  "451104": {
-    "id": 451104,
+  "166350": {
+    "id": 166350,
     "conditions": [
-      { "type": "hp_less", "actor": "target", "arg": 30 },
-      { "type": "current_skill", "actor": "self", "arg": 45110 }
+      { "type": "current_skill", "actor": "self", "arg": 16630 },
+      { "type": "abnormal_move_immune", "actor": "target", "arg": 0 }
     ],
-    "actions": [{ "type": "modify_critical_ratio", "actor": "self" }]
+    "actions": [{ "type": "modify_damage", "actor": "self" }]
   },
-  "451105": {
-    "id": 451105,
+  "166360": {
+    "id": 166360,
     "conditions": [
-      { "type": "target_count", "actor": "target", "arg": 1 },
-      { "type": "skill_effect_id", "actor": "self", "arg": 451100 }
+      { "type": "current_skill", "actor": "self", "arg": 16630 },
+      { "type": "identity_stance", "actor": "self", "arg": 1 }
     ],
-    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+    "actions": [{ "type": "modify_damage", "actor": "self" }]
   },
-  "451106": {
-    "id": 451106,
+  "166361": { "id": 166361, "conditions": [], "actions": [{ "type": "exec_after_effect", "actor": "self" }] },
+  "450500": {
+    "id": 450500,
     "conditions": [
-      { "type": "target_count", "actor": "target", "arg": 1 },
-      { "type": "skill_effect_id", "actor": "self", "arg": 451104 }
+      { "type": "current_skill", "actor": "self", "arg": 45050 },
+      { "type": "abnormal_move_immune", "actor": "target", "arg": 0 }
     ],
-    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+    "actions": [{ "type": "modify_damage", "actor": "self" }]
   },
-  "451107": {
-    "id": 451107,
+  "450506": {
+    "id": 450506,
     "conditions": [
-      { "type": "target_count", "actor": "target", "arg": 1 },
-      { "type": "skill_effect_id", "actor": "self", "arg": 451106 }
+      { "type": "current_skill", "actor": "self", "arg": 45050 },
+      { "type": "identity_stance", "actor": "self", "arg": 1 }
     ],
-    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+    "actions": [{ "type": "modify_damage", "actor": "self" }]
   },
-  "451108": {
-    "id": 451108,
+  "450807": {
+    "id": 450807,
     "conditions": [
-      { "type": "target_count", "actor": "target", "arg": 1 },
-      { "type": "skill_effect_id", "actor": "self", "arg": 451107 }
+      { "type": "current_skill", "actor": "self", "arg": 45080 },
+      { "type": "npc_grade_less", "actor": "target", "arg": 2 }
     ],
-    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
   "450808": {
     "id": 450808,
     "conditions": [
-      { "type": "hp_less", "actor": "self", "arg": 50 },
-      { "type": "current_skill", "actor": "self", "arg": 45080 }
+      { "type": "current_skill", "actor": "self", "arg": 45080 },
+      { "type": "identity_stance", "actor": "self", "arg": 1 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "451105": {
+    "id": 451105,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45110 },
+      { "type": "identity_stance", "actor": "self", "arg": 1 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "451106": {
+    "id": 451106,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45110 },
+      { "type": "target_count", "actor": "target", "arg": 1 }
     ],
     "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
@@ -3178,13 +3379,13 @@
     ],
     "actions": [{ "type": "modify_damage", "actor": "self" }]
   },
-  "452104": {
-    "id": 452104,
+  "452108": {
+    "id": 452108,
     "conditions": [
-      { "type": "target_count", "actor": "target", "arg": 1 },
-      { "type": "current_skill", "actor": "self", "arg": 45210 }
+      { "type": "current_skill", "actor": "self", "arg": 45210 },
+      { "type": "npc_grade_greater", "actor": "target", "arg": 6 }
     ],
-    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
   "452201": {
     "id": 452201,
@@ -3210,6 +3411,22 @@
     ],
     "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
+  "453002": {
+    "id": 453002,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45300 },
+      { "type": "identity_stance", "actor": "self", "arg": 1 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "453005": {
+    "id": 453005,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45300 },
+      { "type": "npc_grade_less", "actor": "target", "arg": 2 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
   "453006": {
     "id": 453006,
     "conditions": [
@@ -3218,14 +3435,6 @@
     ],
     "actions": [{ "type": "modify_damage", "actor": "self" }]
   },
-  "456002": {
-    "id": 456002,
-    "conditions": [
-      { "type": "hp_less", "actor": "self", "arg": 50 },
-      { "type": "current_skill", "actor": "self", "arg": 45600 }
-    ],
-    "actions": [{ "type": "modify_damage", "actor": "target" }]
-  },
   "456003": {
     "id": 456003,
     "conditions": [
@@ -3233,6 +3442,107 @@
       { "type": "abnormal_move_immune", "actor": "target", "arg": 0 }
     ],
     "actions": [{ "type": "modify_damage", "actor": "self" }]
+  },
+  "456206": {
+    "id": 456206,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45620 },
+      { "type": "npc_grade_less", "actor": "target", "arg": 2 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "457100": {
+    "id": 457100,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45710 },
+      { "type": "abnormal_move", "actor": "target", "arg": 3 }
+    ],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "457130": {
+    "id": 457130,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45710 },
+      { "type": "abnormal_move", "actor": "target", "arg": 3 }
+    ],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "457140": {
+    "id": 457140,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45710 },
+      { "type": "identity_stance", "actor": "self", "arg": 1 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "457150": {
+    "id": 457150,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45710 },
+      { "type": "abnormal_move_all", "actor": "target", "arg": 0 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "457205": {
+    "id": 457205,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45720 },
+      { "type": "target_count", "actor": "target", "arg": 1 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "457208": {
+    "id": 457208,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45720 },
+      { "type": "npc_grade_less", "actor": "target", "arg": 2 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "457301": {
+    "id": 457301,
+    "conditions": [{ "type": "current_skill", "actor": "self", "arg": 45730 }],
+    "actions": [{ "type": "modify_penetration", "actor": "target" }]
+  },
+  "457302": {
+    "id": 457302,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45730 },
+      { "type": "npc_grade_less", "actor": "target", "arg": 2 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "457303": {
+    "id": 457303,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45730 },
+      { "type": "abnormal_move_immune", "actor": "target", "arg": 0 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "457405": {
+    "id": 457405,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45740 },
+      { "type": "npc_grade_less", "actor": "target", "arg": 2 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "457406": {
+    "id": 457406,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45740 },
+      { "type": "abnormal_move_immune", "actor": "target", "arg": 0 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "self" }]
+  },
+  "457408": {
+    "id": 457408,
+    "conditions": [
+      { "type": "current_skill", "actor": "self", "arg": 45740 },
+      { "type": "identity_stance", "actor": "self", "arg": 1 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
   },
   "130410": {
     "id": 130410,
@@ -5535,6 +5845,78 @@
     "conditions": [{ "type": "skill_effect_id", "actor": "self", "arg": 90000703 }],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
   },
+  "282506": {
+    "id": 282506,
+    "conditions": [
+      { "type": "npc_grade_less", "actor": "target", "arg": 5 },
+      { "type": "current_skill", "actor": "self", "arg": 28250 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "280803": {
+    "id": 280803,
+    "conditions": [
+      { "type": "npc_grade_less", "actor": "target", "arg": 5 },
+      { "type": "current_skill", "actor": "self", "arg": 28080 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "281506": {
+    "id": 281506,
+    "conditions": [
+      { "type": "identity_stance", "actor": "self", "arg": 0 },
+      { "type": "current_skill", "actor": "self", "arg": 28150 }
+    ],
+    "actions": [{ "type": "modify_critical_multiplier", "actor": "target" }]
+  },
+  "281416": {
+    "id": 281416,
+    "conditions": [
+      { "type": "identity_stance", "actor": "self", "arg": 0 },
+      { "type": "current_skill", "actor": "self", "arg": 28140 }
+    ],
+    "actions": [{ "type": "modify_critical_multiplier", "actor": "target" }]
+  },
+  "281903": {
+    "id": 281903,
+    "conditions": [
+      { "type": "identity_stance", "actor": "self", "arg": 0 },
+      { "type": "current_skill", "actor": "self", "arg": 28190 }
+    ],
+    "actions": [{ "type": "modify_critical_multiplier", "actor": "target" }]
+  },
+  "281315": {
+    "id": 281315,
+    "conditions": [
+      { "type": "identity_stance", "actor": "self", "arg": 0 },
+      { "type": "current_skill", "actor": "self", "arg": 28130 }
+    ],
+    "actions": [{ "type": "modify_critical_multiplier", "actor": "target" }]
+  },
+  "280716": {
+    "id": 280716,
+    "conditions": [
+      { "type": "identity_stance", "actor": "self", "arg": 1 },
+      { "type": "current_skill", "actor": "self", "arg": 28070 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "280906": {
+    "id": 280906,
+    "conditions": [
+      { "type": "identity_stance", "actor": "self", "arg": 1 },
+      { "type": "current_skill", "actor": "self", "arg": 28090 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
+  "281004": {
+    "id": 281004,
+    "conditions": [
+      { "type": "identity_stance", "actor": "self", "arg": 1 },
+      { "type": "current_skill", "actor": "self", "arg": 28100 }
+    ],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
   "360304": {
     "id": 360304,
     "conditions": [
@@ -6030,6 +6412,9 @@
   "500000034": { "id": 500000034, "conditions": [], "actions": [{ "type": "modify_damage", "actor": "target" }] },
   "500000035": { "id": 500000035, "conditions": [], "actions": [{ "type": "modify_damage", "actor": "target" }] },
   "500000036": { "id": 500000036, "conditions": [], "actions": [{ "type": "modify_damage", "actor": "target" }] },
+  "500000037": { "id": 500000037, "conditions": [], "actions": [{ "type": "modify_damage", "actor": "target" }] },
+  "500000038": { "id": 500000038, "conditions": [], "actions": [{ "type": "modify_damage", "actor": "target" }] },
+  "500000039": { "id": 500000039, "conditions": [], "actions": [{ "type": "modify_damage", "actor": "target" }] },
   "400000001": {
     "id": 400000001,
     "conditions": [{ "type": "current_skill", "actor": "self", "arg": 10000 }],
@@ -6765,6 +7150,29 @@
     "id": 610000070,
     "conditions": [{ "type": "pc_skill", "actor": "self", "arg": 0 }],
     "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self" }]
+  },
+  "610000080": {
+    "id": 610000080,
+    "conditions": [{ "type": "pc_skill", "actor": "self", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "610000081": {
+    "id": 610000081,
+    "conditions": [{ "type": "pc_skill", "actor": "self", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "610000082": {
+    "id": 610000082,
+    "conditions": [{ "type": "pc_skill", "actor": "self", "arg": 0 }],
+    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
+  },
+  "610000083": {
+    "id": 610000083,
+    "conditions": [{ "type": "hp_less", "actor": "self", "arg": 30 }],
+    "actions": [
+      { "type": "exec_reactive_effect_when_damage", "actor": "self" },
+      { "type": "exec_reactive_effect_when_damage", "actor": "self" }
+    ]
   },
   "611000000": {
     "id": 611000000,
@@ -8642,6 +9050,21 @@
       { "type": "exec_after_effect", "actor": "target" }
     ]
   },
+  "425810301": {
+    "id": 425810301,
+    "conditions": [{ "type": "damage_attr", "actor": "self", "arg": 1 }],
+    "actions": [{ "type": "exec_reactive_effect_when_damage", "actor": "self" }]
+  },
+  "425810304": {
+    "id": 425810304,
+    "conditions": [{ "type": "damage_attr", "actor": "self", "arg": 1 }],
+    "actions": [{ "type": "exec_reactive_effect_when_damage", "actor": "self" }]
+  },
+  "426020109": {
+    "id": 426020109,
+    "conditions": [{ "type": "npc_id", "actor": "target", "arg": 494831 }],
+    "actions": [{ "type": "modify_damage", "actor": "target" }]
+  },
   "260560": {
     "id": 260560,
     "conditions": [
@@ -8665,11 +9088,6 @@
       { "type": "current_skill", "actor": "self", "arg": 26080 }
     ],
     "actions": [{ "type": "modify_damage", "actor": "target" }]
-  },
-  "260897": {
-    "id": 260897,
-    "conditions": [],
-    "actions": [{ "type": "exec_active_effect_when_damage", "actor": "target" }]
   },
   "260900": {
     "id": 260900,

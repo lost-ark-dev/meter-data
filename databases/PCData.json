@@ -1,12 +1,12 @@
 {
   "0": "ENUMNULL",
-  "101": "Warrior",
+  "101": "Warrior (Male)",
   "102": "Berserker",
   "103": "Destroyer",
   "104": "Gunlancer",
   "105": "Paladin",
-  "111": "warrior_female",
-  "112": "berserker_female",
+  "111": "Female Warrior",
+  "112": "Slayer",
   "201": "Mage",
   "202": "Arcanist",
   "203": "Summoner",
@@ -30,8 +30,8 @@
   "505": "Machinist",
   "511": "Gunner (Female)",
   "512": "Gunslinger",
-  "601": "specialist",
-  "602": "yinyangshi",
-  "603": "weather_artist",
+  "601": "Specialist",
+  "602": "Artist",
+  "603": "Aeromancer",
   "604": "Alchemist"
 }
