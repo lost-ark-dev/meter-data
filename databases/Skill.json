@@ -9666,8 +9666,7 @@
     "name": "파우루 7번 화염의 숨결 명령",
     "desc": "",
     "classid": 203,
-    "icon": "sm_skill_01_33.png",
-    "summonids": [30011]
+    "icon": "sm_skill_01_33.png"
   },
   "9920121": { "id": 9920121, "name": "파우루 8번 화염의 기본 공격", "desc": "", "classid": 203, "icon": "" },
   "9920122": { "id": 9920122, "name": "파우루 4+8번 화염의 원거리 공격", "desc": "", "classid": 203, "icon": "" },
@@ -9678,8 +9677,7 @@
     "name": "파우루 8번 화염의 체인 자폭 명령",
     "desc": "",
     "classid": 203,
-    "icon": "sm_skill_01_27.png",
-    "summonids": [30012]
+    "icon": "sm_skill_01_27.png"
   },
   "9920130": { "id": 9920130, "name": "[서머너]마리린", "desc": "", "classid": 203, "icon": "sm_skill_01_39.png" },
   "9920131": { "id": 9920131, "name": "마리린 기본 공격", "desc": "", "classid": 203, "icon": "" },
@@ -9798,8 +9796,7 @@
     "name": "켈시온 - 낙뢰 스킬 명령",
     "desc": "",
     "classid": 203,
-    "icon": "sm_skill_01_32.png",
-    "summonids": [30039]
+    "icon": "sm_skill_01_32.png"
   },
   "9920300": {
     "id": 9920300,
@@ -9942,61 +9939,48 @@
   "9935030": { "id": 9935030, "name": "기상액션", "desc": "", "classid": 505, "icon": "sc_skill_01_2.png" },
   "9935040": { "id": 9935040, "name": "[정찰] 불릿 해일", "desc": "", "classid": 505, "icon": "sc_skill_01_3.png" },
   "9935050": { "id": 9935050, "name": "[정찰] 과충전 배터리", "desc": "", "classid": 505, "icon": "sc_skill_01_4.png" },
-  "9935060": {
-    "id": 9935060,
-    "name": "[드론명령] 카펫",
-    "desc": "",
-    "classid": 505,
-    "icon": "sc_skill_01_12.png",
-    "summonids": [30140]
-  },
+  "9935060": { "id": 9935060, "name": "[드론명령] 카펫", "desc": "", "classid": 505, "icon": "sc_skill_01_12.png" },
   "9935070": {
     "id": 9935070,
     "name": "[드론명령] 블록케이드",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_14.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_14.png"
   },
   "9935080": {
     "id": 9935080,
     "name": "[드론명령] 플레어 빔",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_16.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_16.png"
   },
   "9935090": {
     "id": 9935090,
     "name": "[드론명령] 액티브 펄스",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_13.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_13.png"
   },
   "9935100": {
     "id": 9935100,
     "name": "[드론명령] 베이비 드론",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_17.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_17.png"
   },
   "9935110": {
     "id": 9935110,
     "name": "[드론명령] 레이드 미사일",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_18.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_18.png"
   },
   "9935140": {
     "id": 9935140,
     "name": "[드론명령] M143 기관총",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_15.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_15.png"
   },
   "9935150": {
     "id": 9935150,
@@ -10049,8 +10033,7 @@
     "name": "[각성기] [드론명령] 파이널 익스플로전",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_31.png",
-    "summonids": [0]
+    "icon": "sc_skill_01_31.png"
   },
   "9935941": { "id": 9935941, "name": "[각성기] [드론] 파이널 익스플로전", "desc": "", "classid": 505, "icon": "" },
   "9935700": {
@@ -10136,14 +10119,7 @@
     "classid": 505,
     "icon": "sc_skill_01_29.png"
   },
-  "9935950": {
-    "id": 9935950,
-    "name": "드론 소환 (노모션)",
-    "desc": "",
-    "classid": 505,
-    "icon": "",
-    "summonids": [9930140]
-  },
+  "9935950": { "id": 9935950, "name": "드론 소환 (노모션)", "desc": "", "classid": 505, "icon": "" },
   "9935960": { "id": 9935960, "name": "드론 명령 리액션", "desc": "", "classid": 505, "icon": "" },
   "9935970": { "id": 9935970, "name": "드론 명령 A (노모션)", "desc": "", "classid": 505, "icon": "" },
   "9935980": { "id": 9935980, "name": "드론 명령 B (짧은 명령)", "desc": "", "classid": 505, "icon": "" },
@@ -10943,24 +10919,21 @@
     "name": "[드론명령] 플레어 빔",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_16.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_16.png"
   },
   "9835100": {
     "id": 9835100,
     "name": "[드론명령] 베이비 드론",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_17.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_17.png"
   },
   "9835110": {
     "id": 9835110,
     "name": "[드론명령] 레이드 미사일",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_18.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_18.png"
   },
   "9835120": { "id": 9835120, "name": "[합작] 이스케이프", "desc": "", "classid": 505, "icon": "sc_skill_01_20.png" },
   "9835160": { "id": 9835160, "name": "[정찰] 고전압탄", "desc": "", "classid": 505, "icon": "sc_skill_01_5.png" },
@@ -11002,14 +10975,7 @@
   "9821080": { "id": 9821080, "name": "[바드]폭풍의 서곡", "desc": "", "classid": 204, "icon": "bd_skill_01_7.png" },
   "9821150": { "id": 9821150, "name": "[바드]리듬 벅샷", "desc": "", "classid": 204, "icon": "bd_skill_01_9.png" },
   "9821170": { "id": 9821170, "name": "[바드]음파 진동", "desc": "", "classid": 204, "icon": "bd_skill_01_13.png" },
-  "9821180": {
-    "id": 9821180,
-    "name": "[바드]율동의 하프",
-    "desc": "",
-    "classid": 204,
-    "icon": "bd_skill_01_18.png",
-    "summonids": [30051]
-  },
+  "9821180": { "id": 9821180, "name": "[바드]율동의 하프", "desc": "", "classid": 204, "icon": "bd_skill_01_18.png" },
   "9821250": { "id": 9821250, "name": "[바드]수호의 연주", "desc": "", "classid": 204, "icon": "bd_skill_01_21.png" },
   "9821260": { "id": 9821260, "name": "[바드]빛의 광시곡", "desc": "", "classid": 204, "icon": "bd_skill_01_22.png" },
   "9821270": { "id": 9821270, "name": "[바드]행진곡", "desc": "", "classid": 204, "icon": "bd_skill_01_24.png" },
@@ -25356,7 +25322,7 @@
     "classid": 403,
     "icon": "dm_skill_01_28.png"
   },
-  "27800": { "id": 27800, "name": "Basic Attack", "desc": "", "classid": 403, "icon": "" },
+  "27800": { "id": 27800, "name": "Basic Attack", "desc": "", "classid": 403, "icon": "", "sourcecskill": 27000 },
   "27801": {
     "id": 27801,
     "name": "Rift Walk",
@@ -25834,7 +25800,7 @@
   },
   "24000": { "id": 24000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 304, "icon": "" },
   "24010": { "id": 24010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 304, "icon": "" },
-  "24280": { "id": 24280, "name": "운기조식 평타", "desc": "", "classid": 304, "icon": "" },
+  "24280": { "id": 24280, "name": "운기조식 평타", "desc": "", "classid": 304, "icon": "", "sourcecskill": 24000 },
   "24020": {
     "id": 24020,
     "name": "Hype",
@@ -26016,8 +25982,7 @@
     "name": "Energy Release",
     "desc": "Rotate your arms, and then stomp on the ground in a controlled manner, sending forth a shockwave. All party members within a <FONT COLOR='#ffff99'>24-meter </FONT>radius receive -<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:242500/>%</FONT> Damage for <$MACRO bufftime @1:242500/>s.",
     "classid": 304,
-    "icon": "so_skill_01_20.png",
-    "summonids": [34000]
+    "icon": "so_skill_01_20.png"
   },
   "24260": {
     "id": 24260,
@@ -26402,16 +26367,14 @@
     "name": "Summon Silverhawk",
     "desc": "Summons a Silverhawk that periodically attacks nearby foes. Powerful special skills can be used while Silverhawk is summoned.  Move Speed +<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:281582/>%</FONT> to to all party members in a <FONT COLOR='#ffff99'>24-meter </FONT>radius.",
     "classid": 502,
-    "icon": "he_skill_01_19.png",
-    "summonids": [30101]
+    "icon": "he_skill_01_19.png"
   },
   "28158": {
     "id": 28158,
     "name": "Summon Silverhawk",
     "desc": "Summons a Silverhawk that periodically attacks nearby foes. Powerful special skills can be used while Silverhawk is summoned.  Move Speed +<FONT COLOR='#99ff99'><$MACRO buffstat0_100 @1:281582/>%</FONT> to to all party members in a <FONT COLOR='#ffff99'>24-meter </FONT>radius.",
     "classid": 502,
-    "icon": "he_skill_01_19.png",
-    "summonids": [30100]
+    "icon": "he_skill_01_19.png"
   },
   "28159": {
     "id": 28159,
@@ -26494,8 +26457,8 @@
     "icon": "he_skill_01_25.png"
   },
   "29000": { "id": 29000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 503, "icon": "" },
-  "29001": { "id": 29001, "name": "샷건 평타", "desc": "", "classid": 503, "icon": "" },
-  "29002": { "id": 29002, "name": "라이플 평타", "desc": "", "classid": 503, "icon": "" },
+  "29001": { "id": 29001, "name": "샷건 평타", "desc": "", "classid": 503, "icon": "", "sourcecskill": 29002 },
+  "29002": { "id": 29002, "name": "라이플 평타", "desc": "", "classid": 503, "icon": "", "sourcecskill": 29001 },
   "29010": { "id": 29010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 503, "icon": "" },
   "29020": {
     "id": 29020,
@@ -26794,8 +26757,7 @@
     "name": "Summon Turret",
     "desc": "Summon a turret equipped with a machine gun. The turret attacks surrounding foes for <FONT COLOR='#ffff99'>10s</FONT>, inflicting <$MACRO physic @1:90000500/> Damage with every attack.",
     "classid": 504,
-    "icon": "bs_skill_01_5.png",
-    "summonids": [30040, 30041]
+    "icon": "bs_skill_01_5.png"
   },
   "30101": {
     "id": 30101,
@@ -27019,16 +26981,14 @@
     "name": "Heavy Turret",
     "desc": "Summon a heavy turret that lasts for <FONT COLOR='#ffff99'>20s</FONT>, inflicting <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 90000805/>/10000)+((<$TABLE_SKILLEFFECT ValueA 90000805/> + <$TABLE_SKILLEFFECT ValueB 90000805/>)/2))*4/></FONT> and <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 90000808/>/10000)+((<$TABLE_SKILLEFFECT ValueA 90000808/> + <$TABLE_SKILLEFFECT ValueB 90000808/>)/2))*4/></FONT> Damage with satellite-guided bombs and laser shots.",
     "classid": 504,
-    "icon": "bs_skill_01_26.png",
-    "summonids": [30160, 30161]
+    "icon": "bs_skill_01_26.png"
   },
   "30285": {
     "id": 30285,
     "name": "Photoelectronic Cannon",
     "desc": "Command the heavy turret to fire photoelectron cannons to inflict <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 90000806/>/10000)+((<$TABLE_SKILLEFFECT ValueA 90000806/> + <$TABLE_SKILLEFFECT ValueB 90000806/>)/2))*4/></FONT>, <FONT COLOR='#00ccff'><$CALC ((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)* (<$TABLE_SKILLEFFECT ValueF 90000807/>/10000)+((<$TABLE_SKILLEFFECT ValueA 90000807/> + <$TABLE_SKILLEFFECT ValueB 90000807/>)/2))*6/></FONT> Damage.",
     "classid": 504,
-    "icon": "bs_skill_01_27.png",
-    "summonids": [30161]
+    "icon": "bs_skill_01_27.png"
   },
   "30281": {
     "id": 30281,
@@ -27052,7 +27012,7 @@
     "desc": "",
     "classid": 504,
     "icon": "",
-    "summonsourceskill": 30280
+    "summonsourceskill": 30285
   },
   "30284": {
     "id": 30284,
@@ -27060,7 +27020,7 @@
     "desc": "",
     "classid": 504,
     "icon": "",
-    "summonsourceskill": 30280
+    "summonsourceskill": 30285
   },
   "30286": {
     "id": 30286,
@@ -27068,7 +27028,7 @@
     "desc": "",
     "classid": 504,
     "icon": "",
-    "summonsourceskill": 30280
+    "summonsourceskill": 30285
   },
   "30060": {
     "id": 30060,
@@ -27078,8 +27038,8 @@
     "icon": "bs_skill_01_28.png"
   },
   "38000": { "id": 38000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 512, "icon": "" },
-  "38001": { "id": 38001, "name": "샷건 평타", "desc": "", "classid": 512, "icon": "" },
-  "38002": { "id": 38002, "name": "라이플 평타", "desc": "", "classid": 512, "icon": "" },
+  "38001": { "id": 38001, "name": "샷건 평타", "desc": "", "classid": 512, "icon": "", "sourcecskill": 38000 },
+  "38002": { "id": 38002, "name": "라이플 평타", "desc": "", "classid": 512, "icon": "", "sourcecskill": 38000 },
   "38010": { "id": 38010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 512, "icon": "" },
   "38020": {
     "id": 38020,
@@ -27274,9 +27234,16 @@
     "classid": 512,
     "icon": "dh_skill_01_45.png"
   },
-  "36000": { "id": 36000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 105, "icon": "" },
-  "36001": { "id": 36001, "name": "Heavenly Guardian Basic Attack", "desc": "", "classid": 105, "icon": "" },
-  "36010": { "id": 36010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 105, "icon": "" },
+  "36000": { "id": 36000, "name": "Basic Attack", "desc": "", "classid": 105, "icon": "" },
+  "36001": {
+    "id": 36001,
+    "name": "Heavenly Guardian Basic Attack",
+    "desc": "",
+    "classid": 105,
+    "icon": "",
+    "sourcecskill": 36000
+  },
+  "36010": { "id": 36010, "name": "Unarmed Basic Attack", "desc": "", "classid": 105, "icon": "" },
   "36020": {
     "id": 36020,
     "name": "Sprint",
@@ -27610,7 +27577,7 @@
     "classid": 305,
     "icon": "lm_skill_01_1.png"
   },
-  "34510": { "id": 34510, "name": "짧은 창_평타", "desc": "", "classid": 305, "icon": "" },
+  "34510": { "id": 34510, "name": "짧은 창_평타", "desc": "", "classid": 305, "icon": "", "sourcecskill": 34010 },
   "34520": {
     "id": 34520,
     "name": "Breakthrough",
@@ -27749,7 +27716,7 @@
   "19000": { "id": 19000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 202, "icon": "" },
   "19010": { "id": 19010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 202, "icon": "" },
   "19020": { "id": 19020, "name": "소울 컨플릭트 평타", "desc": "", "classid": 202, "icon": "" },
-  "19270": { "id": 19270, "name": "삼두사 평타", "desc": "", "classid": 202, "icon": "" },
+  "19270": { "id": 19270, "name": "삼두사 평타", "desc": "", "classid": 202, "icon": "", "sourcecskill": 19000 },
   "19030": {
     "id": 19030,
     "name": "Evoke",
@@ -28135,18 +28102,10 @@
     "name": "Elcid",
     "desc": "Summon <FONT COLOR='#ffff99'>2</FONT> Elcids, the Lily Elementals. Elcids attack nearby foes for <FONT COLOR='#ffff99'>10</FONT>s, inflicting <$MACRO physic @1:90002211/> Damage with their basic attack.",
     "classid": 203,
-    "icon": "sm_skill_01_36.png",
-    "summonids": [32400]
+    "icon": "sm_skill_01_36.png"
   },
-  "20091": { "id": 20091, "name": "엘씨드 기본 공격", "desc": "", "classid": 203, "icon": "", "summonids": [32400] },
-  "20092": {
-    "id": 20092,
-    "name": "엘씨드 4번 맹독 공격",
-    "desc": "",
-    "classid": 203,
-    "icon": "",
-    "summonids": [32403]
-  },
+  "20091": { "id": 20091, "name": "엘씨드 기본 공격", "desc": "", "classid": 203, "icon": "" },
+  "20092": { "id": 20092, "name": "엘씨드 4번 맹독 공격", "desc": "", "classid": 203, "icon": "" },
   "20093": { "id": 20093, "name": "엘씨드 5번 얼음 공격", "desc": "", "classid": 203, "icon": "" },
   "20094": { "id": 20094, "name": "엘씨드 6번 갑옷파괴 공격", "desc": "", "classid": 203, "icon": "" },
   "20095": {
@@ -28213,8 +28172,7 @@
     "name": "Pauru",
     "desc": "Hurl a ball of fire at the target location to inflict <$MACRO magic @1:201102/> [Fire] Damage and summon the Fire Elemental Pauru. Pauru attacks nearby foes for <FONT COLOR='#ffff99'>15s</FONT>, inflicting <$MACRO magic @1:90017353/> [Fire] Damage with its basic attack.",
     "classid": 203,
-    "icon": "sm_skill_01_37.png",
-    "summonids": [32410, 32411, 32412]
+    "icon": "sm_skill_01_37.png"
   },
   "20111": {
     "id": 20111,
@@ -28256,8 +28214,7 @@
     "name": "Pauru - Flame Breath",
     "desc": "Command Pauru to let out a fiery breath.\nPauru breathes fire at foes, blowing them away and inflicting <$MACRO magic @1:90017352/> Damage.",
     "classid": 203,
-    "icon": "sm_skill_01_33.png",
-    "summonids": [30011]
+    "icon": "sm_skill_01_33.png"
   },
   "20121": { "id": 20121, "name": "파우루 8번 화염의 기본 공격", "desc": "", "classid": 203, "icon": "" },
   "20122": { "id": 20122, "name": "파우루 4+8번 화염의 원거리 공격", "desc": "", "classid": 203, "icon": "" },
@@ -28282,16 +28239,14 @@
     "name": "Pauru - Self-Destruct",
     "desc": "Command Pauru to self-destruct.\nPauru explodes, sending surrounding foes flying and inflicting <$MACRO magic @1:90017350/> Damage.",
     "classid": 203,
-    "icon": "sm_skill_01_27.png",
-    "summonids": [30012]
+    "icon": "sm_skill_01_27.png"
   },
   "20130": {
     "id": 20130,
     "name": "Maririn",
     "desc": "Summon Maririn. Maririn attacks nearby foes for <FONT COLOR='#ffff99'>20s</FONT>, inflicting <$MACRO physic @1:90017360/> Damage with its basic attack.",
     "classid": 203,
-    "icon": "sm_skill_01_39.png",
-    "summonids": [32420, 32425]
+    "icon": "sm_skill_01_39.png"
   },
   "20131": { "id": 20131, "name": "마리린 기본 공격", "desc": "", "classid": 203, "icon": "" },
   "20134": { "id": 20134, "name": "마리린 4번 도발", "desc": "", "classid": 203, "icon": "" },
@@ -28323,8 +28278,7 @@
     "name": "Shurdi",
     "desc": "Summon Shurdi, a small Light Elemental. Shurdi moves with you for <FONT COLOR='#ffff99'>20s</FONT>, inflicting <$MACRO magic @1:90000371/> Damage on nearby foes.",
     "classid": 203,
-    "icon": "sm_skill_01_25.png",
-    "summonids": [30030, 30031, 30032, 30033]
+    "icon": "sm_skill_01_25.png"
   },
   "20161": {
     "id": 20161,
@@ -28587,8 +28541,7 @@
     "name": "Kelsion",
     "desc": "Summon Kelsion, lightning incarnate, who launches foes in the air inflicting <$MACRO physic @1:202902/> [Lightning] Damage. Kelsion attacks surrounding foes for <FONT COLOR='#ffff99'>20s</FONT>.",
     "classid": 203,
-    "icon": "sm_skill_01_23.png",
-    "summonids": [30039]
+    "icon": "sm_skill_01_23.png"
   },
   "20291": {
     "id": 20291,
@@ -28619,8 +28572,7 @@
     "name": "Kelsion - Thunderstroke",
     "desc": "Command Kelsion to call forth thunderbolts.\nKelsion drops thunderbolts onto foes, knocking them down inflicting <$MACRO physic @1:90000443/> [Lightning] Damage.",
     "classid": 203,
-    "icon": "sm_skill_01_32.png",
-    "summonids": [30039]
+    "icon": "sm_skill_01_32.png"
   },
   "20300": {
     "id": 20300,
@@ -28649,7 +28601,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20110
+    "summonsourceskill": 20335
   },
   "20322": { "id": 20322, "name": "파우루 리뉴얼 4번 원거리 공격", "desc": "", "classid": 203, "icon": "" },
   "20323": {
@@ -28666,7 +28618,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20110
+    "summonsourceskill": 20330
   },
   "20327": { "id": 20327, "name": "파우루 리뉴얼 4+7번 푸른불꽃 원거리 공격", "desc": "", "classid": 203, "icon": "" },
   "20328": {
@@ -28675,7 +28627,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20110
+    "summonsourceskill": 20330
   },
   "20329": {
     "id": 20329,
@@ -28683,15 +28635,14 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20120
+    "summonsourceskill": 20330
   },
   "20330": {
     "id": 20330,
     "name": "Pauru - Flame Breath",
     "desc": "Command Pauru to let out a fiery breath.\nPauru breathes fire at foes, blowing them away and inflicting <$MACRO magic @1:90017352/> Damage.",
     "classid": 203,
-    "icon": "sm_skill_01_38.png",
-    "summonids": [32411]
+    "icon": "sm_skill_01_38.png"
   },
   "20331": { "id": 20331, "name": "파우루 리뉴얼 8번 화염의 기본 공격", "desc": "", "classid": 203, "icon": "" },
   "20332": { "id": 20332, "name": "파우루 리뉴얼 4+8번 화염의 원거리 공격", "desc": "", "classid": 203, "icon": "" },
@@ -28716,8 +28667,7 @@
     "name": "Pauru - Self-Destruct",
     "desc": "Command Pauru to self-destruct.\nPauru explodes, sending surrounding foes flying and inflicting <$MACRO magic @1:90017350/> Damage.",
     "classid": 203,
-    "icon": "sm_skill_01_27.png",
-    "summonids": [32412]
+    "icon": "sm_skill_01_27.png"
   },
   "20341": {
     "id": 20341,
@@ -28725,7 +28675,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20130
+    "summonsourceskill": 20349
   },
   "20344": {
     "id": 20344,
@@ -28945,8 +28895,7 @@
     "name": "Harp of Rhythm",
     "desc": "Summon a harp that has a will of its own. The harp shoots a guided musical note that inflicts <$MACRO magic @1:90000601/> Damage to foes within a <FONT COLOR='#ffff99'>14-meter</FONT> radius.",
     "classid": 204,
-    "icon": "bd_skill_01_18.png",
-    "summonids": [30050, 30051, 30052, 30053, 30054, 30055]
+    "icon": "bd_skill_01_18.png"
   },
   "21190": {
     "id": 21190,
@@ -29070,8 +29019,7 @@
     "name": "Persona",
     "desc": "Quickly glide backward and enter Persona Mode.",
     "classid": 404,
-    "icon": "rp_skill_01_2.png",
-    "summonids": [30200]
+    "icon": "rp_skill_01_2.png"
   },
   "26050": {
     "id": 26050,
@@ -29165,7 +29113,7 @@
     "desc": "",
     "classid": 404,
     "icon": "",
-    "summonsourceskill": 26040
+    "summonsourceskill": 26530
   },
   "26310": { "id": 26310, "name": "[소환수] 블링크 소환수 표창 공격", "desc": "", "classid": 404, "icon": "" },
   "26320": { "id": 26320, "name": "[소환수] 블링크 - 4번 전진베기 명령", "desc": "", "classid": 404, "icon": "" },
@@ -29184,8 +29132,7 @@
     "name": "Shadow Double",
     "desc": "Summon a shadow clone at the target location that lasts for <FONT COLOR='#ffff99'>6s</FONT>. Use the skill again for you and your clone to throw a shuriken at the target location, inflicting <$MACRO magic @1:265400/> [Dark] Damage.",
     "classid": 404,
-    "icon": "rp_skill_01_11.png",
-    "summonids": [30300]
+    "icon": "rp_skill_01_11.png"
   },
   "26530": {
     "id": 26530,
@@ -29348,17 +29295,15 @@
     "name": "Command: Carpet",
     "desc": "Send a drone flying toward the <FONT COLOR='#99ff99'>target location</FONT> and drop <FONT COLOR='#ffff99'>4</FONT> bombs that inflict <$MACRO physic @1:90000901/> Damage.",
     "classid": 505,
-    "icon": "sc_skill_01_12.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_12.png"
   },
-  "35061": { "id": 35061, "name": "[드론] 카펫", "desc": "", "classid": 505, "icon": "", "summonsourceskill": 35060 },
+  "35061": { "id": 35061, "name": "[드론] 카펫", "desc": "", "classid": 505, "icon": "", "summonsourceskill": 35940 },
   "35070": {
     "id": 35070,
     "name": "Command: Blockade",
     "desc": "Send a drone flying toward the <FONT COLOR='#99ff99'>target location</FONT>. The drone fires at foes as it spins around for <FONT COLOR='#ffff99'>3s</FONT>, inflicting <FONT COLOR='#ffbb00'><$CALC (((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 90001001/>/10000)+((<$TABLE_SKILLEFFECT ValueA 90001001/> + <$TABLE_SKILLEFFECT ValueB 90001001/>)/2)))*11/></FONT> Damage.",
     "classid": 505,
-    "icon": "sc_skill_01_14.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_14.png"
   },
   "35071": {
     "id": 35071,
@@ -29366,15 +29311,14 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35070
+    "summonsourceskill": 35940
   },
   "35080": {
     "id": 35080,
     "name": "Command: Flare Beam",
     "desc": "The drone fires <FONT COLOR='#ffff99'>2</FONT> laser beams at the <FONT COLOR='#99ff99'>target location</FONT>, inflicting <$MACRO magic @1:90001137/> Damage and <$MACRO magic @1:90001101/> [Fire] Damage.",
     "classid": 505,
-    "icon": "sc_skill_01_16.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_16.png"
   },
   "35081": {
     "id": 35081,
@@ -29382,15 +29326,14 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35080
+    "summonsourceskill": 35940
   },
   "35090": {
     "id": 35090,
     "name": "Command: Active Pulse",
     "desc": "The drone immediately generates a pulsating wave that attacks the surroundings from the <FONT COLOR='#99ff99'>current position</FONT> and inflicts <$MACRO magic @1:90001200/> Damage.",
     "classid": 505,
-    "icon": "sc_skill_01_13.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_13.png"
   },
   "35091": {
     "id": 35091,
@@ -29398,15 +29341,14 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35090
+    "summonsourceskill": 35940
   },
   "35100": {
     "id": 35100,
     "name": "Command: Baby Drones",
     "desc": "The drone sends <FONT COLOR='#ffff99'>9</FONT> small self-destructing drones to the<FONT COLOR='#99ff99'> target location</FONT>, inflicting <FONT COLOR='#ffbb00'><$CALC (((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 90001304/>/10000)+((<$TABLE_SKILLEFFECT ValueA 90001304/> + <$TABLE_SKILLEFFECT ValueB 90001304/>)/2)))*9/></FONT> total Damage.",
     "classid": 505,
-    "icon": "sc_skill_01_17.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_17.png"
   },
   "35101": {
     "id": 35101,
@@ -29414,15 +29356,14 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35100
+    "summonsourceskill": 35940
   },
   "35110": {
     "id": 35110,
     "name": "Command: Raid Missile",
     "desc": "The drone fires <FONT COLOR='#ffff99'>6</FONT> missiles at the <FONT COLOR='#99ff99'>target location</FONT> and inflicts <FONT COLOR='#ffbb00'><$CALC (((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 90001401/>/10000)+((<$TABLE_SKILLEFFECT ValueA 90001401/> + <$TABLE_SKILLEFFECT ValueB 90001401/>)/2)))*6/></FONT> total Damage, knocking down hit foes.",
     "classid": 505,
-    "icon": "sc_skill_01_18.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_18.png"
   },
   "35111": {
     "id": 35111,
@@ -29430,7 +29371,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35110
+    "summonsourceskill": 35940
   },
   "35120": {
     "id": 35120,
@@ -29451,8 +29392,7 @@
     "name": "Command: M143 Machine Gun",
     "desc": "The drone flies <FONT COLOR='#ffff99'>8 meters</FONT> toward the <FONT COLOR='#99ff99'>target location</FONT> while firing at foes and inflicting <FONT COLOR='#ffbb00'><$CALC (((<$PLAYER_INFO STAT STAT_ATTACK_POWER/>)*(<$TABLE_SKILLEFFECT ValueF 90001500/>/10000)+((<$TABLE_SKILLEFFECT ValueA 90001500/> + <$TABLE_SKILLEFFECT ValueB 90001500/>)/2)))*5/></FONT> total Damage.",
     "classid": 505,
-    "icon": "sc_skill_01_15.png",
-    "summonids": [30140]
+    "icon": "sc_skill_01_15.png"
   },
   "35141": {
     "id": 35141,
@@ -29460,7 +29400,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35140
+    "summonsourceskill": 35940
   },
   "35150": {
     "id": 35150,
@@ -29537,8 +29477,7 @@
     "name": "Command: Final Explosion",
     "desc": "Order the drone to self-destruct. The drone will immediately self-destruct at the <FONT COLOR='#99ff99'>current position</FONT>, inflicting <$MACRO physic @1:90001600/> Damage to nearby foes.\n\n<FONT COLOR='#ff9999'>※ After the skill is complete, the drone will be regenerated at your location in an attached state. You cannot use drone skills, joint skills, or Hypersync while the drone is completing the Final Explosion command.</FONT>",
     "classid": 505,
-    "icon": "sc_skill_01_31.png",
-    "summonids": [0]
+    "icon": "sc_skill_01_31.png"
   },
   "35941": {
     "id": 35941,
@@ -29571,7 +29510,7 @@
     "classid": 505,
     "icon": "ability_216.png"
   },
-  "35720": { "id": 35720, "name": "Basic Attack", "desc": "", "classid": 505, "icon": "" },
+  "35720": { "id": 35720, "name": "Basic Attack", "desc": "", "classid": 505, "icon": "", "sourcecskill": 35000 },
   "35730": {
     "id": 35730,
     "name": "Thruster Move",
@@ -29600,7 +29539,14 @@
     "classid": 505,
     "icon": "sc_skill_01_25.png"
   },
-  "35761": { "id": 35761, "name": "[싱크] 슬러그 샷 (연결)", "desc": "", "classid": 505, "icon": "sc_skill_01_25.png" },
+  "35761": {
+    "id": 35761,
+    "name": "[싱크] 슬러그 샷 (연결)",
+    "desc": "",
+    "classid": 505,
+    "icon": "sc_skill_01_25.png",
+    "sourcecskill": 35760
+  },
   "35770": {
     "id": 35770,
     "name": "Laser Blade",
@@ -29613,7 +29559,8 @@
     "name": "[싱크] 레이저 블레이드 (연결)",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_26.png"
+    "icon": "sc_skill_01_26.png",
+    "sourcecskill": 35770
   },
   "35780": {
     "id": 35780,
@@ -29627,7 +29574,8 @@
     "name": "[싱크] 엑셀리온 빔 (연결)",
     "desc": "",
     "classid": 505,
-    "icon": "sc_skill_01_27.png"
+    "icon": "sc_skill_01_27.png",
+    "sourcecskill": 35780
   },
   "35790": {
     "id": 35790,
@@ -29643,7 +29591,7 @@
     "classid": 505,
     "icon": "sc_skill_01_29.png"
   },
-  "35950": { "id": 35950, "name": "드론 소환 (노모션)", "desc": "", "classid": 505, "icon": "", "summonids": [30140] },
+  "35950": { "id": 35950, "name": "드론 소환 (노모션)", "desc": "", "classid": 505, "icon": "" },
   "35951": { "id": 35951, "name": "드론 소환", "desc": "", "classid": 505, "icon": "" },
   "35960": { "id": 35960, "name": "드론 명령 리액션", "desc": "", "classid": 505, "icon": "" },
   "35970": { "id": 35970, "name": "드론 명령 A (노모션)", "desc": "", "classid": 505, "icon": "" },
@@ -29847,8 +29795,8 @@
     "classid": 205,
     "icon": "scs_skill_01_22.png"
   },
-  "10000": { "id": 10000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 101, "icon": "" },
-  "10010": { "id": 10010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 101, "icon": "" },
+  "10000": { "id": 10000, "name": "Basic Attack", "desc": "", "classid": 101, "icon": "" },
+  "10010": { "id": 10010, "name": "Fist Attack", "desc": "", "classid": 101, "icon": "" },
   "10020": {
     "id": 10020,
     "name": "Double Slash",
@@ -29919,10 +29867,10 @@
     "classid": 101,
     "icon": "bk_skill_01_12.png"
   },
-  "16000": { "id": 16000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 102, "icon": "" },
-  "16010": { "id": 16010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 102, "icon": "" },
-  "16020": { "id": 16020, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "" },
-  "16021": { "id": 16021, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "" },
+  "16000": { "id": 16000, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "" },
+  "16010": { "id": 16010, "name": "Fist Attack", "desc": "", "classid": 102, "icon": "" },
+  "16020": { "id": 16020, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "", "sourcecskill": 16000 },
+  "16021": { "id": 16021, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "", "sourcecskill": 16000 },
   "16030": {
     "id": 16030,
     "name": "Power Break",
@@ -30114,8 +30062,8 @@
     "classid": 102,
     "icon": "bk_skill_01_23.png"
   },
-  "17000": { "id": 17000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 104, "icon": "" },
-  "17010": { "id": 17010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 104, "icon": "" },
+  "17000": { "id": 17000, "name": "Basic Attack 3 Combo Hits", "desc": "", "classid": 104, "icon": "" },
+  "17010": { "id": 17010, "name": "Fist Attack 3 Chain Hits", "desc": "", "classid": 104, "icon": "" },
   "17020": {
     "id": 17020,
     "name": "Back Step",
@@ -30300,7 +30248,7 @@
     "classid": 104,
     "icon": "gl_skill_01_32.png"
   },
-  "18000": { "id": 18000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 103, "icon": "" },
+  "18000": { "id": 18000, "name": "Basic 3 Chain Hits", "desc": "", "classid": 103, "icon": "" },
   "18010": { "id": 18010, "name": "Activate Hypergravity", "desc": "", "classid": 103, "icon": "dt_skill_01_22.png" },
   "18011": {
     "id": 18011,
@@ -30331,7 +30279,14 @@
     "classid": 103,
     "icon": "dt_skill_01_19.png"
   },
-  "18030": { "id": 18030, "name": "Hypergravity Basic Attack", "desc": "", "classid": 103, "icon": "" },
+  "18030": {
+    "id": 18030,
+    "name": "Hypergravity Basic Attack",
+    "desc": "",
+    "classid": 103,
+    "icon": "",
+    "sourcecskill": 18000
+  },
   "18040": { "id": 18040, "name": "Hand Attack", "desc": "Hand Attack", "classid": 103, "icon": "" },
   "18050": {
     "id": 18050,
@@ -30474,7 +30429,7 @@
     "icon": "dt_skill_01_21.png"
   },
   "45000": { "id": 45000, "name": "전사 평타", "desc": "", "classid": 112, "icon": "" },
-  "45001": { "id": 45001, "name": "폭주 평타", "desc": "", "classid": 112, "icon": "" },
+  "45001": { "id": 45001, "name": "폭주 평타", "desc": "", "classid": 112, "icon": "", "sourcecskill": 45000 },
   "45002": { "id": 45002, "name": "맨손 평타", "desc": "", "classid": 112, "icon": "" },
   "45003": { "id": 45003, "name": "폭주", "desc": "", "classid": 112, "icon": "bk_skill_01_3.png" },
   "45004": {
@@ -30648,7 +30603,14 @@
     "icon": "bk_skill_01_34.png"
   },
   "32000": { "id": 32000, "name": "[기상술사] 기본 공격", "desc": "", "classid": 603, "icon": "" },
-  "32001": { "id": 32001, "name": "[기상술사] 기본 공격_여우비상태", "desc": "", "classid": 603, "icon": "" },
+  "32001": {
+    "id": 32001,
+    "name": "[기상술사] 기본 공격_여우비상태",
+    "desc": "",
+    "classid": 603,
+    "icon": "",
+    "sourcecskill": 32000
+  },
   "32010": { "id": 32010, "name": "[기상술사] 맨손 공격", "desc": "", "classid": 603, "icon": "" },
   "32020": {
     "id": 32020,
