@@ -25322,7 +25322,7 @@
     "classid": 403,
     "icon": "dm_skill_01_28.png"
   },
-  "27800": { "id": 27800, "name": "Basic Attack", "desc": "", "classid": 403, "icon": "", "sourcecskill": 27000 },
+  "27800": { "id": 27800, "name": "Basic Attack", "desc": "", "classid": 403, "icon": "", "sourceskill": 27000 },
   "27801": {
     "id": 27801,
     "name": "Rift Walk",
@@ -25800,7 +25800,7 @@
   },
   "24000": { "id": 24000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 304, "icon": "" },
   "24010": { "id": 24010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 304, "icon": "" },
-  "24280": { "id": 24280, "name": "운기조식 평타", "desc": "", "classid": 304, "icon": "", "sourcecskill": 24000 },
+  "24280": { "id": 24280, "name": "운기조식 평타", "desc": "", "classid": 304, "icon": "", "sourceskill": 24000 },
   "24020": {
     "id": 24020,
     "name": "Hype",
@@ -26457,8 +26457,8 @@
     "icon": "he_skill_01_25.png"
   },
   "29000": { "id": 29000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 503, "icon": "" },
-  "29001": { "id": 29001, "name": "샷건 평타", "desc": "", "classid": 503, "icon": "", "sourcecskill": 29002 },
-  "29002": { "id": 29002, "name": "라이플 평타", "desc": "", "classid": 503, "icon": "", "sourcecskill": 29001 },
+  "29001": { "id": 29001, "name": "샷건 평타", "desc": "", "classid": 503, "icon": "", "sourceskill": 29000 },
+  "29002": { "id": 29002, "name": "라이플 평타", "desc": "", "classid": 503, "icon": "", "sourceskill": 29000 },
   "29010": { "id": 29010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 503, "icon": "" },
   "29020": {
     "id": 29020,
@@ -27038,8 +27038,8 @@
     "icon": "bs_skill_01_28.png"
   },
   "38000": { "id": 38000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 512, "icon": "" },
-  "38001": { "id": 38001, "name": "샷건 평타", "desc": "", "classid": 512, "icon": "", "sourcecskill": 38000 },
-  "38002": { "id": 38002, "name": "라이플 평타", "desc": "", "classid": 512, "icon": "", "sourcecskill": 38000 },
+  "38001": { "id": 38001, "name": "샷건 평타", "desc": "", "classid": 512, "icon": "", "sourceskill": 38000 },
+  "38002": { "id": 38002, "name": "라이플 평타", "desc": "", "classid": 512, "icon": "", "sourceskill": 38000 },
   "38010": { "id": 38010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 512, "icon": "" },
   "38020": {
     "id": 38020,
@@ -27241,7 +27241,7 @@
     "desc": "",
     "classid": 105,
     "icon": "",
-    "sourcecskill": 36000
+    "sourceskill": 36000
   },
   "36010": { "id": 36010, "name": "Unarmed Basic Attack", "desc": "", "classid": 105, "icon": "" },
   "36020": {
@@ -27577,7 +27577,7 @@
     "classid": 305,
     "icon": "lm_skill_01_1.png"
   },
-  "34510": { "id": 34510, "name": "짧은 창_평타", "desc": "", "classid": 305, "icon": "", "sourcecskill": 34010 },
+  "34510": { "id": 34510, "name": "짧은 창_평타", "desc": "", "classid": 305, "icon": "", "sourceskill": 34010 },
   "34520": {
     "id": 34520,
     "name": "Breakthrough",
@@ -27716,7 +27716,7 @@
   "19000": { "id": 19000, "name": "Weapon Attack", "desc": "Weapon Attack", "classid": 202, "icon": "" },
   "19010": { "id": 19010, "name": "Hand Attack", "desc": "Hand Attack", "classid": 202, "icon": "" },
   "19020": { "id": 19020, "name": "소울 컨플릭트 평타", "desc": "", "classid": 202, "icon": "" },
-  "19270": { "id": 19270, "name": "삼두사 평타", "desc": "", "classid": 202, "icon": "", "sourcecskill": 19000 },
+  "19270": { "id": 19270, "name": "삼두사 평타", "desc": "", "classid": 202, "icon": "", "sourceskill": 19000 },
   "19030": {
     "id": 19030,
     "name": "Evoke",
@@ -29510,7 +29510,7 @@
     "classid": 505,
     "icon": "ability_216.png"
   },
-  "35720": { "id": 35720, "name": "Basic Attack", "desc": "", "classid": 505, "icon": "", "sourcecskill": 35000 },
+  "35720": { "id": 35720, "name": "Basic Attack", "desc": "", "classid": 505, "icon": "", "sourceskill": 35000 },
   "35730": {
     "id": 35730,
     "name": "Thruster Move",
@@ -29545,7 +29545,7 @@
     "desc": "",
     "classid": 505,
     "icon": "sc_skill_01_25.png",
-    "sourcecskill": 35760
+    "sourceskill": 35760
   },
   "35770": {
     "id": 35770,
@@ -29560,7 +29560,7 @@
     "desc": "",
     "classid": 505,
     "icon": "sc_skill_01_26.png",
-    "sourcecskill": 35770
+    "sourceskill": 35770
   },
   "35780": {
     "id": 35780,
@@ -29575,7 +29575,7 @@
     "desc": "",
     "classid": 505,
     "icon": "sc_skill_01_27.png",
-    "sourcecskill": 35780
+    "sourceskill": 35780
   },
   "35790": {
     "id": 35790,
@@ -29869,8 +29869,8 @@
   },
   "16000": { "id": 16000, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "" },
   "16010": { "id": 16010, "name": "Fist Attack", "desc": "", "classid": 102, "icon": "" },
-  "16020": { "id": 16020, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "", "sourcecskill": 16000 },
-  "16021": { "id": 16021, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "", "sourcecskill": 16000 },
+  "16020": { "id": 16020, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "", "sourceskill": 16000 },
+  "16021": { "id": 16021, "name": "Basic Attack", "desc": "", "classid": 102, "icon": "", "sourceskill": 16000 },
   "16030": {
     "id": 16030,
     "name": "Power Break",
@@ -30285,7 +30285,7 @@
     "desc": "",
     "classid": 103,
     "icon": "",
-    "sourcecskill": 18000
+    "sourceskill": 18000
   },
   "18040": { "id": 18040, "name": "Hand Attack", "desc": "Hand Attack", "classid": 103, "icon": "" },
   "18050": {
@@ -30429,7 +30429,7 @@
     "icon": "dt_skill_01_21.png"
   },
   "45000": { "id": 45000, "name": "전사 평타", "desc": "", "classid": 112, "icon": "" },
-  "45001": { "id": 45001, "name": "폭주 평타", "desc": "", "classid": 112, "icon": "", "sourcecskill": 45000 },
+  "45001": { "id": 45001, "name": "폭주 평타", "desc": "", "classid": 112, "icon": "", "sourceskill": 45000 },
   "45002": { "id": 45002, "name": "맨손 평타", "desc": "", "classid": 112, "icon": "" },
   "45003": { "id": 45003, "name": "폭주", "desc": "", "classid": 112, "icon": "bk_skill_01_3.png" },
   "45004": {
@@ -30609,7 +30609,7 @@
     "desc": "",
     "classid": 603,
     "icon": "",
-    "sourcecskill": 32000
+    "sourceskill": 32000
   },
   "32010": { "id": 32010, "name": "[기상술사] 맨손 공격", "desc": "", "classid": 603, "icon": "" },
   "32020": {
