@@ -27012,7 +27012,7 @@
     "desc": "",
     "classid": 504,
     "icon": "",
-    "summonsourceskill": 30285
+    "summonsourceskill": 30280
   },
   "30284": {
     "id": 30284,
@@ -27020,7 +27020,7 @@
     "desc": "",
     "classid": 504,
     "icon": "",
-    "summonsourceskill": 30285
+    "summonsourceskill": 30280
   },
   "30286": {
     "id": 30286,
@@ -27028,7 +27028,7 @@
     "desc": "",
     "classid": 504,
     "icon": "",
-    "summonsourceskill": 30285
+    "summonsourceskill": 30280
   },
   "30060": {
     "id": 30060,
@@ -28549,7 +28549,7 @@
     "desc": "Summon Kelsion, lightning incarnate, who launches foes in the air inflicting <$MACRO physic @1:202902/> [Lightning] Damage. Kelsion attacks surrounding foes for <FONT COLOR='#ffff99'>20s</FONT>.",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20294
+    "summonsourceskill": 20290
   },
   "20292": {
     "id": 20292,
@@ -28557,7 +28557,7 @@
     "desc": "Summon Kelsion, lightning incarnate, who launches foes in the air inflicting <$MACRO physic @1:202902/> [Lightning] Damage. Kelsion attacks surrounding foes for <FONT COLOR='#ffff99'>20s</FONT>.",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20294
+    "summonsourceskill": 20290
   },
   "20293": {
     "id": 20293,
@@ -28565,7 +28565,7 @@
     "desc": "Summon Kelsion, lightning incarnate, who launches foes in the air inflicting <$MACRO physic @1:202902/> [Lightning] Damage. Kelsion attacks surrounding foes for <FONT COLOR='#ffff99'>20s</FONT>.",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20294
+    "summonsourceskill": 20290
   },
   "20294": {
     "id": 20294,
@@ -28601,7 +28601,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20335
+    "summonsourceskill": 20110
   },
   "20322": { "id": 20322, "name": "파우루 리뉴얼 4번 원거리 공격", "desc": "", "classid": 203, "icon": "" },
   "20323": {
@@ -28618,7 +28618,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20330
+    "summonsourceskill": 20110
   },
   "20327": { "id": 20327, "name": "파우루 리뉴얼 4+7번 푸른불꽃 원거리 공격", "desc": "", "classid": 203, "icon": "" },
   "20328": {
@@ -28627,7 +28627,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20330
+    "summonsourceskill": 20110
   },
   "20329": {
     "id": 20329,
@@ -28635,7 +28635,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20330
+    "summonsourceskill": 20110
   },
   "20330": {
     "id": 20330,
@@ -28652,7 +28652,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20335
+    "summonsourceskill": 20110
   },
   "20334": {
     "id": 20334,
@@ -28660,7 +28660,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20335
+    "summonsourceskill": 20110
   },
   "20335": {
     "id": 20335,
@@ -28675,7 +28675,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20349
+    "summonsourceskill": 20130
   },
   "20344": {
     "id": 20344,
@@ -28683,7 +28683,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20137
+    "summonsourceskill": 20347
   },
   "20345": {
     "id": 20345,
@@ -28691,7 +28691,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20138
+    "summonsourceskill": 20348
   },
   "20346": {
     "id": 20346,
@@ -28699,7 +28699,7 @@
     "desc": "",
     "classid": 203,
     "icon": "",
-    "summonsourceskill": 20139
+    "summonsourceskill": 20349
   },
   "20347": {
     "id": 20347,
@@ -29113,12 +29113,40 @@
     "desc": "",
     "classid": 404,
     "icon": "",
-    "summonsourceskill": 26530
+    "summonsourceskill": 26040
   },
-  "26310": { "id": 26310, "name": "[소환수] 블링크 소환수 표창 공격", "desc": "", "classid": 404, "icon": "" },
-  "26320": { "id": 26320, "name": "[소환수] 블링크 - 4번 전진베기 명령", "desc": "", "classid": 404, "icon": "" },
-  "26330": { "id": 26330, "name": "[소환수] 블링크 - 5번 소용돌이표창 명령", "desc": "", "classid": 404, "icon": "" },
-  "26340": { "id": 26340, "name": "[소환수] 블링크 - 6번 분쇄표창 명령", "desc": "", "classid": 404, "icon": "" },
+  "26310": {
+    "id": 26310,
+    "name": "[소환수] 블링크 소환수 표창 공격",
+    "desc": "",
+    "classid": 404,
+    "icon": "",
+    "summonsourceskill": 26520
+  },
+  "26320": {
+    "id": 26320,
+    "name": "[소환수] 블링크 - 4번 전진베기 명령",
+    "desc": "",
+    "classid": 404,
+    "icon": "",
+    "summonsourceskill": 26520
+  },
+  "26330": {
+    "id": 26330,
+    "name": "[소환수] 블링크 - 5번 소용돌이표창 명령",
+    "desc": "",
+    "classid": 404,
+    "icon": "",
+    "summonsourceskill": 26520
+  },
+  "26340": {
+    "id": 26340,
+    "name": "[소환수] 블링크 - 6번 분쇄표창 명령",
+    "desc": "",
+    "classid": 404,
+    "icon": "",
+    "summonsourceskill": 26520
+  },
   "26500": { "id": 26500, "name": "", "desc": "", "classid": 404, "icon": "hk_skill_01_1.png" },
   "26510": {
     "id": 26510,
@@ -29297,7 +29325,7 @@
     "classid": 505,
     "icon": "sc_skill_01_12.png"
   },
-  "35061": { "id": 35061, "name": "[드론] 카펫", "desc": "", "classid": 505, "icon": "", "summonsourceskill": 35940 },
+  "35061": { "id": 35061, "name": "[드론] 카펫", "desc": "", "classid": 505, "icon": "", "summonsourceskill": 35060 },
   "35070": {
     "id": 35070,
     "name": "Command: Blockade",
@@ -29311,7 +29339,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35070
   },
   "35080": {
     "id": 35080,
@@ -29326,7 +29354,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35080
   },
   "35090": {
     "id": 35090,
@@ -29341,7 +29369,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35090
   },
   "35100": {
     "id": 35100,
@@ -29356,7 +29384,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35100
   },
   "35110": {
     "id": 35110,
@@ -29371,7 +29399,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35110
   },
   "35120": {
     "id": 35120,
@@ -29400,7 +29428,7 @@
     "desc": "",
     "classid": 505,
     "icon": "",
-    "summonsourceskill": 35940
+    "summonsourceskill": 35140
   },
   "35150": {
     "id": 35150,
