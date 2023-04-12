@@ -1120,15 +1120,15 @@
     "id": 258,
     "levels": {
       "1": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +10%, Basic AoE Radius +60%, and Silverhawk's summon duration +30%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +3%. Additionally, when Silverhawk is summoned Atk. Power +1%.",
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +8%, Silverhawk's Crit Rate +10%, Basic AoE Radius +60%, and Silverhawk's summon duration +30%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +3%. Additionally, when Silverhawk is summoned Atk. Power +1%.",
         "values": [1000, 3000, 28160, 281301, 500197]
       },
       "2": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +20%, Basic AoE Radius +60%, and Silverhawk's summon duration +60%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +7%. Additionally, when Silverhawk is summoned Atk. Power +3%.",
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +8%, Silverhawk's Crit Rate +20%, Basic AoE Radius +60%, and Silverhawk's summon duration +60%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +7%. Additionally, when Silverhawk is summoned Atk. Power +3%.",
         "values": [2000, 6000, 28160, 281311, 500198]
       },
       "3": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +40%, Basic AoE Radius +60%, and Silverhawk's summon duration +100%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +12%. Additionally, when Silverhawk is summoned Atk. Power +6%.",
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +8%, Silverhawk's Crit Rate +40%, Basic AoE Radius +60%, and Silverhawk's summon duration +100%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +12%. Additionally, when Silverhawk is summoned Atk. Power +6%.",
         "values": [4000, 10000, 28160, 281321, 500199]
       }
     },
@@ -1634,15 +1634,15 @@
     "id": 284,
     "levels": {
       "1": {
-        "desc": "Drone and Joint skill Damage +15%. Max Battery +10%. Move Speed +10% when Drones are attached to a Machinist.",
+        "desc": "Normal, Drone, and Joint skill Damage +15%. Max Battery +10%. Move Speed +10% when Drones are attached to a Machinist.",
         "values": [1500, 1000, 500132]
       },
       "2": {
-        "desc": "Drone and Joint skill Damage +20%. Max Battery +15%. Move Speed +10% when Drones are attached to a Machinist.",
+        "desc": "Normal, Drone, Joint skill Damage +20%. Max Battery +15%. Move Speed +10% when Drones are attached to a Machinist.",
         "values": [2000, 1500, 500132]
       },
       "3": {
-        "desc": "Drone and Joint skill Damage +25%. Max Battery +20%. Move Speed +10% when Drones are attached to a Machinist.",
+        "desc": "Normal, Drone, Joint skill Damage +25%. Max Battery +20%. Move Speed +10% when Drones are attached to a Machinist.",
         "values": [2500, 2000, 500132]
       }
     },
@@ -2122,13 +2122,13 @@
     "id": 309,
     "levels": {
       "1": {
-        "desc": "Fury Meter +3% and MP +1% when hitting an enemy and absorbing their vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +10% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
+        "desc": "Fury Meter +3% and MP +1% when hitting an enemy and absorbing their Vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +10% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
       },
       "2": {
-        "desc": "Fury Meter +6% and MP +2% when hitting an enemy and absorbing their vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +25% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
+        "desc": "Fury Meter +6% and MP +2% when hitting an enemy and absorbing their Vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +25% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
       },
       "3": {
-        "desc": "Fury Meter +10% and MP +3% when hitting an enemy and absorbing their vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +40% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
+        "desc": "Fury Meter +10% and MP +3% when hitting an enemy and absorbing their Vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +40% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
       }
     },
     "name": "Predator",
@@ -2875,13 +2875,13 @@
     "id": 77392310,
     "levels": {
       "1": {
-        "desc": "Drone and Joint skill Damage +15%. Max Battery +10%. Move Speed +10% when Drones are attached to a Machinist."
+        "desc": "Normal, Drone, and Joint skill Damage +15%. Max Battery +10%. Move Speed +10% when Drones are attached to a Machinist."
       },
       "2": {
-        "desc": "Drone and Joint skill Damage +20%. Max Battery +15%. Move Speed +10% when Drones are attached to a Machinist."
+        "desc": "Normal, Drone, Joint skill Damage +20%. Max Battery +15%. Move Speed +10% when Drones are attached to a Machinist."
       },
       "3": {
-        "desc": "Drone and Joint skill Damage +25%. Max Battery +20%. Move Speed +10% when Drones are attached to a Machinist."
+        "desc": "Normal, Drone, Joint skill Damage +25%. Max Battery +20%. Move Speed +10% when Drones are attached to a Machinist."
       }
     },
     "name": "Arthetinean Skill",
