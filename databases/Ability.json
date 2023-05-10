@@ -207,7 +207,7 @@
     "id": 130,
     "levels": {
       "1": {
-        "desc": "When the Firepower Meter is full, Overheat effect is triggered. Normal Skill Damage +5% and Firepower Meter duration +10s. When not in Barrage Mode, Incoming Damage -5%.",
+        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +5% and Firepower Meter duration +10s. When not in Barrage Mode, Incoming Damage -5%.",
         "values": [0, 10000, 300217, 500]
       },
       "2": {
@@ -953,18 +953,9 @@
   "248": {
     "id": 248,
     "levels": {
-      "1": {
-        "desc": "Atk. Power +1% for 15s after killing a foe. (Max. 5 stacks)",
-        "values": [500102, 500103, 500104]
-      },
-      "2": {
-        "desc": "Atk. Power +1.5% for 25s after killing a foe. (Max. 6 stacks)",
-        "values": [501102, 501103, 501104]
-      },
-      "3": {
-        "desc": "Atk. Power +2.5% for 40s after killing a foe. (Max. 7 stacks)",
-        "values": [502102, 502103, 502104]
-      }
+      "1": { "desc": "Atk. Power +1% for 15s after killing a foe. (Max. 5 stacks)", "values": [500102] },
+      "2": { "desc": "Atk. Power +1.5% for 25s after killing a foe. (Max. 6 stacks)", "values": [500103] },
+      "3": { "desc": "Atk. Power +2.5% for 40s after killing a foe. (Max. 7 stacks)", "values": [500104] }
     },
     "name": "Contender",
     "isnegative": false,
@@ -1076,15 +1067,15 @@
     "id": 256,
     "levels": {
       "1": {
-        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype. If Energy is below 30%, Damage to foes +5%.",
+        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype or Combat Resource Recovery. If Energy is below 30%, Damage to foes +5%.",
         "values": [500, 3000]
       },
       "2": {
-        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype. If Energy is below 30%, Damage to foes +10%.",
+        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype or Combat Resource Recovery. If Energy is below 30%, Damage to foes +10%.",
         "values": [1000, 3000]
       },
       "3": {
-        "desc": "Energy does not go below 1, but additional Energy recovery effect is not applied during Hype. If Energy is below 30%, Damage to foes +15%.",
+        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype or Combat Resource Recovery. If Energy is below 30%, Damage to foes +15%.",
         "values": [1500, 3000]
       }
     },
@@ -1120,15 +1111,15 @@
     "id": 258,
     "levels": {
       "1": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +8%, Silverhawk's Crit Rate +10%, Basic AoE Radius +60%, and Silverhawk's summon duration +30%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +3%. Additionally, when Silverhawk is summoned Atk. Power +1%.",
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +10%, Basic AoE Radius +60%, and Silverhawk's summon duration +30%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +3%. Additionally, when Silverhawk is summoned Atk. Power +1%.",
         "values": [1000, 3000, 28160, 281301, 500197]
       },
       "2": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +8%, Silverhawk's Crit Rate +20%, Basic AoE Radius +60%, and Silverhawk's summon duration +60%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +7%. Additionally, when Silverhawk is summoned Atk. Power +3%.",
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +20%, Basic AoE Radius +60%, and Silverhawk's summon duration +60%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +7%. Additionally, when Silverhawk is summoned Atk. Power +3%.",
         "values": [2000, 6000, 28160, 281311, 500198]
       },
       "3": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +8%, Silverhawk's Crit Rate +40%, Basic AoE Radius +60%, and Silverhawk's summon duration +100%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +12%. Additionally, when Silverhawk is summoned Atk. Power +6%.",
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +40%, Basic AoE Radius +60%, and Silverhawk's summon duration +100%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +12%. Additionally, when Silverhawk is summoned Atk. Power +6%.",
         "values": [4000, 10000, 28160, 281321, 500199]
       }
     },
@@ -1568,15 +1559,15 @@
     "id": 281,
     "levels": {
       "1": {
-        "desc": "The Composure effect does not activate when Demonize ends. Upon Demonize, Demonic Skill Cooldown is reset.",
+        "desc": "The Composure effect does not activate when Demonize ends. Upon Demonize, Demon Skill Cooldown is reset.",
         "values": [552821]
       },
       "2": {
-        "desc": "The Composure effect does not activate when Demonize ends. Upon Demonize, Demonic Skill Cooldown is reset, and Crit Rate +15% while Demonic Mode is active.",
+        "desc": "The Composure effect does not activate when Demonize ends. Upon Demonize, Demon Skill Cooldown is reset, and Crit Rate +15% while Demonic Mode is active.",
         "values": [552822]
       },
       "3": {
-        "desc": "The Composure effect does not activate when Demonize ends. Upon Demonize, Demonic Skill Cooldown is reset, and Crit Rate +30% while Demonic Mode is active.",
+        "desc": "The Composure effect does not activate when Demonize ends. Upon Demonize, Demon Skill Cooldown is reset, and Crit Rate +30% while Demonic Mode is active.",
         "values": [552823]
       }
     },
@@ -2122,37 +2113,45 @@
     "id": 309,
     "levels": {
       "1": {
-        "desc": "Fury Meter +3% and MP +1% when hitting an enemy and absorbing their Vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +10% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
+        "desc": "Fury Meter +3% and MP +1% when hitting an enemy and absorbing their Vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +10% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends.",
+        "values": [500215, 3, 500214, 300, 100]
       },
       "2": {
-        "desc": "Fury Meter +6% and MP +2% when hitting an enemy and absorbing their Vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +25% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
+        "desc": "Fury Meter +6% and MP +2% when hitting an enemy and absorbing their Vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +25% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends.",
+        "values": [500216, 3, 500214, 600, 200]
       },
       "3": {
-        "desc": "Fury Meter +10% and MP +3% when hitting an enemy and absorbing their Vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +40% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends."
+        "desc": "Fury Meter +10% and MP +3% when hitting an enemy and absorbing their Vigor. (Cooldown: 1s) In Burst Mode, Crit Damage +40% and gain Fatigue every 3s. Fatigue: Fury Meter Consumption +10% every 3s, and cannot use Bloodlust. When Burst Mode ends, the duration of Exhaustion will be reduced according to the stacks of Fatigue. The Fury Meter is fully recovered when Exhaustion ends.",
+        "values": [500217, 3, 500214, 1000, 300]
       }
     },
     "name": "Predator",
     "isnegative": false,
     "icon": "ability_260.png",
-    "isengrave": true
+    "isengrave": true,
+    "featuretype": 346
   },
   "310": {
     "id": 310,
     "levels": {
       "1": {
-        "desc": "Damage +7% while in Burst Mode and Bloodlust Crit Rate +5%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur."
+        "desc": "Damage +7% while in Burst Mode and Bloodlust Crit Rate +5%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur.",
+        "values": [500, 500211, 2500, 10000]
       },
       "2": {
-        "desc": "Damage +15% while in Burst Mode and Bloodlust Crit Rate +10%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur."
+        "desc": "Damage +15% while in Burst Mode and Bloodlust Crit Rate +10%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur.",
+        "values": [1000, 500212, 2500, 10000]
       },
       "3": {
-        "desc": "Damage +25% while in Burst Mode and Bloodlust Crit Rate +20%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur."
+        "desc": "Damage +25% while in Burst Mode and Bloodlust Crit Rate +20%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur.",
+        "values": [2000, 500213, 2500, 10000]
       }
     },
     "name": "Punisher",
     "isnegative": false,
     "icon": "ability_261.png",
-    "isengrave": true
+    "isengrave": true,
+    "featuretype": 347
   },
   "100": {
     "id": 100,
@@ -2885,6 +2884,18 @@
       }
     },
     "name": "Arthetinean Skill",
+    "isnegative": false,
+    "icon": "ability_0.png",
+    "isengrave": false
+  },
+  "77394200": {
+    "id": 77394200,
+    "levels": {
+      "1": {
+        "desc": "Swoop Damage +120% and Atk. Speed +10% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode."
+      }
+    },
+    "name": "Lunar Voice",
     "isnegative": false,
     "icon": "ability_0.png",
     "isengrave": false

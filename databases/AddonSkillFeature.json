@@ -1497,6 +1497,39 @@
     ]
   },
   "361014018": { "1": [{ "skillid": 36100, "paramtype": "absolute", "params": [1] }] },
+  "231592": {
+    "27": [{ "skillid": 23159, "paramtype": "absolute", "params": [0, 100] }],
+    "31": [{ "skillid": 23159, "paramtype": "relative", "params": [50] }],
+    "30": [{ "skillid": 23159, "paramtype": "absolute", "params": [0, 10000] }]
+  },
+  "900001": {
+    "13": [
+      { "skillid": 20329, "paramtype": "relative", "params": [-100, 5] },
+      { "skillid": 20330, "paramtype": "relative", "params": [-100, 5] },
+      { "skillid": 20334, "paramtype": "relative", "params": [-100, 5] },
+      { "skillid": 20335, "paramtype": "relative", "params": [-100, 5] },
+      { "skillid": 20344, "paramtype": "relative", "params": [-100, 5] },
+      { "skillid": 20345, "paramtype": "relative", "params": [-100, 5] },
+      { "skillid": 20346, "paramtype": "relative", "params": [-100, 5] },
+      { "skillid": 20347, "paramtype": "relative", "params": [-100, 5] },
+      { "skillid": 20348, "paramtype": "relative", "params": [-100, 5] },
+      { "skillid": 20349, "paramtype": "relative", "params": [-100, 5] }
+    ]
+  },
+  "900002": {
+    "13": [
+      { "skillid": 20329, "paramtype": "relative", "params": [-100, 10] },
+      { "skillid": 20330, "paramtype": "relative", "params": [-100, 10] },
+      { "skillid": 20334, "paramtype": "relative", "params": [-100, 10] },
+      { "skillid": 20335, "paramtype": "relative", "params": [-100, 10] },
+      { "skillid": 20344, "paramtype": "relative", "params": [-100, 10] },
+      { "skillid": 20345, "paramtype": "relative", "params": [-100, 10] },
+      { "skillid": 20346, "paramtype": "relative", "params": [-100, 10] },
+      { "skillid": 20347, "paramtype": "relative", "params": [-100, 10] },
+      { "skillid": 20348, "paramtype": "relative", "params": [-100, 10] },
+      { "skillid": 20349, "paramtype": "relative", "params": [-100, 10] }
+    ]
+  },
   "70000020": { "31": [{ "skillid": 0, "paramtype": "relative", "params": [5] }] },
   "70000021": { "31": [{ "skillid": 0, "paramtype": "relative", "params": [8] }] },
   "70000022": { "31": [{ "skillid": 0, "paramtype": "relative", "params": [12] }] },
