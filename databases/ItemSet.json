@@ -1,0 +1,787 @@
+{
+  "Sunset": {
+    "1": {
+      "itemids": [
+        12101101, 113119115, 113119125, 113119135, 113119145, 113119165, 113119215, 113119225, 113119235, 113119245,
+        113119315, 113119325, 113119335, 113119345, 113119365, 113119415, 113119425, 113119435, 113119515, 113119525,
+        113119535, 113119545, 113119565, 113119615
+      ],
+      "value": {
+        "2": {
+          "desc": "Chance to drop a Purified Ether every <FONT COLOR='#ffff99'>10</FONT>s at the monsters' location when attacking Normal rank monsters with less than <FONT COLOR='#99FF99'>30%</FONT> HP.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020073, "value": 0 }]
+        },
+        "5": {
+          "desc": "Increases Domination by <FONT COLOR='#99FF99'>50</FONT> for <FONT COLOR='#ffff99'>15</FONT>s, up to <FONT COLOR='#ffff99'>7</FONT> times when attacking a target with Paralysis. (Cooldown: <FONT COLOR='#ffff99'>1</FONT>s)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020074, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Warm Evening": {
+    "1": {
+      "itemids": [
+        12101102, 113113115, 113113125, 113113135, 113113145, 113113165, 113113215, 113113225, 113113235, 113113245,
+        113113315, 113113325, 113113335, 113113345, 113113365, 113113415, 113113425, 113113435, 113113515, 113113525,
+        113113535, 113113545, 113113565, 113113615
+      ],
+      "value": {
+        "2": {
+          "desc": "Decreases Movement Skill's cooldown by <FONT COLOR='#99FF99'>10%</FONT>.",
+          "options": [
+            { "type": "skill_group_cooldown_reduction", "keystat": "none", "keyindex": 991100, "value": 1000 }
+          ]
+        },
+        "5": {
+          "desc": "+<FONT COLOR='#ffff99'>12</FONT>s of Festival when using a skill.\nAt <FONT COLOR='#ffff99'>6</FONT> stacks, gain Finale: +<FONT COLOR='#99FF99'>10%</FONT> Damage to foes for <FONT COLOR='#ffff99'>1</FONT>m. Additionally, when the skill is used <FONT COLOR='#ffff99'>17</FONT> times, gain Mayhem: +<FONT COLOR='#99FF99'>15%</FONT> Damage to foes for <FONT COLOR='#ffff99'>20</FONT>s. Mayhem and Festival do not stack.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020076, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Dazzling Twilight": {
+    "1": {
+      "itemids": [
+        12101103, 113114115, 113114125, 113114135, 113114145, 113114165, 113114215, 113114225, 113114235, 113114245,
+        113114315, 113114325, 113114335, 113114345, 113114365, 113114415, 113114425, 113114435, 113114515, 113114525,
+        113114535, 113114545, 113114565, 113114615
+      ],
+      "value": {
+        "2": {
+          "desc": "When attacking a foe, +<FONT COLOR='#99FF99'>3%</FONT> Atk. Speed for <FONT COLOR='#ffff99'>8</FONT>s, up to <FONT COLOR='#99FF99'>9%</FONT> total. (Cooldown: <FONT COLOR='#ffff99'>3</FONT>s)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020077, "value": 0 }]
+        },
+        "5": {
+          "desc": "Increases Move Speed by <FONT COLOR='#99FF99'>20%</FONT> for <FONT COLOR='#ffff99'>20</FONT>s when attacking Boss monsters or above. If the buff lasts its full duration then Atk. Speed will increase by <FONT COLOR='#99FF99'>15%</FONT> and deal <FONT COLOR='#99FF99'>20%</FONT> additional Damage for <FONT COLOR='#ffff99'>10</FONT>s. The buff will be removed if attacked. (Cooldown: <FONT COLOR='#ffff99'>30</FONT>s)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020078, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Select": {
+    "1": {
+      "itemids": [
+        12201104, 113220115, 113220125, 113220135, 113220145, 113220165, 113220215, 113220225, 113220235, 113220245,
+        113220315, 113220325, 113220335, 113220345, 113220365, 113220415, 113220425, 113220435, 113220515, 113220525,
+        113220535, 113220545, 113220565, 113220615
+      ],
+      "value": {
+        "2": {
+          "desc": "Decreases Movement Skill's cooldown by <FONT COLOR='#99FF99'>10%</FONT>.",
+          "options": [
+            { "type": "skill_group_cooldown_reduction", "keystat": "none", "keyindex": 991100, "value": 1000 }
+          ]
+        },
+        "5": {
+          "desc": "+<FONT COLOR='#ffff99'>12</FONT>s of Festival when using a skill.\nAt <FONT COLOR='#ffff99'>6</FONT> stacks, gain Finale: +<FONT COLOR='#99FF99'>10%</FONT> Damage to foes for <FONT COLOR='#ffff99'>1</FONT>m. Additionally, when the skill is used <FONT COLOR='#ffff99'>17</FONT> times, gain Mayhem: +<FONT COLOR='#99FF99'>15%</FONT> Damage to foes for <FONT COLOR='#ffff99'>20</FONT>s. Mayhem and Festival do not stack.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020076, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Preordained Diligence": {
+    "1": {
+      "itemids": [
+        12201105, 113221115, 113221125, 113221135, 113221145, 113221165, 113221215, 113221225, 113221235, 113221245,
+        113221315, 113221325, 113221335, 113221345, 113221365, 113221415, 113221425, 113221435, 113221515, 113221525,
+        113221535, 113221545, 113221565, 113221615
+      ],
+      "value": {
+        "2": {
+          "desc": "On hit, gain Solar Power for <FONT COLOR='#ffff99'>6s</FONT> every <FONT COLOR='#ffff99'>2s</FONT>.\nSolar Power: Crit Rate +<FONT COLOR='#99FF99'>3%</FONT> (Max. <FONT COLOR='#ffff99'>5</FONT> stacks. Cannot be used in conjunction with Lunar Power)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020087, "value": 0 }]
+        },
+        "5": {
+          "desc": "At <FONT COLOR='#ffff99'>5</FONT> stacks of Solar Power, gain Midday.\nIf a party member with an effect that is activated with 5 sets of Oath is within <FONT COLOR='#ffff99'>3 meters</FONT> while Midday is active, you will gain Total Solar Eclipse.\n Midday: Crit Rate +<FONT COLOR='#99FF99'>25%</FONT> for <FONT COLOR='#ffff99'>15</FONT>s.\n Total Solar Eclipse: Crit Rate +<FONT COLOR='#99FF99'>25%</FONT> and Crit Damage +<FONT COLOR='#99FF99'>50%</FONT> for <FONT COLOR='#ffff99'>15</FONT>s.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020088, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Harsh Oath": {
+    "1": {
+      "itemids": [
+        12201106, 113222115, 113222125, 113222135, 113222145, 113222165, 113222215, 113222225, 113222235, 113222245,
+        113222315, 113222325, 113222335, 113222345, 113222365, 113222415, 113222425, 113222435, 113222515, 113222525,
+        113222535, 113222545, 113222565, 113222615
+      ],
+      "value": {
+        "2": {
+          "desc": "Gain Lunar Power for <FONT COLOR='#ffff99'>6</FONT>s every <FONT COLOR='#ffff99'>2</FONT>s when you hit a foe.\nLunar Power: Crit Damage +<FONT COLOR='#99FF99'>6%</FONT> (Max. <FONT COLOR='#ffff99'>5</FONT> stacks. Cannot be used in conjunction with Solar Power.)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020089, "value": 0 }]
+        },
+        "5": {
+          "desc": "At <FONT COLOR='#ffff99'>5</FONT> stacks of Lunar Power, change to Full Moon.\nIf a party member with an effect that is activated with 5 sets of Determination is within <FONT COLOR='#ffff99'>3 meters</FONT> while Full Moon is active, you gain Total Lunar Eclipse.\n Full Moon: Crit Damage +<FONT COLOR='#99FF99'>50%</FONT> for <FONT COLOR='#ffff99'>15</FONT>s.\n Total Lunar Eclipse: Crit Rate +<FONT COLOR='#99FF99'>25%</FONT> and Crit Damage +<FONT COLOR='#99FF99'>50%</FONT> for <FONT COLOR='#ffff99'>15</FONT>s.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020090, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Express": {
+    "1": {
+      "itemids": [
+        40001101, 119111115, 119111125, 119111135, 119111145, 119111215, 119111225, 119111235, 119111245, 119111315,
+        119111325, 119111335, 119111345, 119111365, 119111415, 119111425, 119111435, 119111515, 119111525, 119111535,
+        119111545, 119111565
+      ],
+      "value": {
+        "2": {
+          "desc": "Move Speed: +<FONT COLOR='#99FF99'>5%</FONT>",
+          "options": [{ "type": "stat", "keystat": "move_speed_rate", "keyindex": 0, "value": 500 }]
+        },
+        "5": {
+          "desc": "Damage from all monsters -<FONT COLOR='#99FF99'>50%</FONT>",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020000, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Demon Beast": {
+    "1": {
+      "itemids": [
+        12311101, 113231115, 113231125, 113231135, 113231145, 113231165, 113231215, 113231225, 113231235, 113231245,
+        113231315, 113231325, 113231335, 113231345, 113231365, 113231415, 113231425, 113231435, 113231515, 113231525,
+        113231535, 113231545, 113231565, 113231615
+      ],
+      "value": {
+        "2": {
+          "desc": "On successful attack, gain Valtan's Power every <FONT COLOR='#99ff99'>1s</FONT>: +<FONT COLOR='#99FF99'>1%</FONT> additional Damage to your foe for <FONT COLOR='#ffff99'>12s</FONT>. (Max <FONT COLOR='#ffff99'>10</FONT> stacks)\nStacks decrease when you receive Damage.",
+          "options": [{ "type": "ability_point", "keystat": "none", "keyindex": 10000, "value": 5 }]
+        },
+        "4": {
+          "desc": "The effect of Valtan's Power increases by <FONT COLOR='#99FF99'>1%</FONT>, changing to Enhanced Valtan's Power. Using a Movement Skill increases Move Speed and Atk. Speed by <FONT COLOR='#99FF99'>10%</FONT> for<FONT COLOR='#ffff99'>10s</FONT>.",
+          "options": [
+            { "type": "ability_point", "keystat": "none", "keyindex": 10000, "value": 5 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600020099, "value": 0 }
+          ]
+        },
+        "6": {
+          "desc": "Enhanced Valtan's Power increases by <FONT COLOR='#99FF99'>2%</FONT>, changing to Powerful Valtan's Power. Damage taken from foes -<FONT COLOR='#99FF99'>10%</FONT>.",
+          "options": [
+            { "type": "ability_point", "keystat": "none", "keyindex": 10000, "value": 5 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600020100, "value": 0 }
+          ]
+        }
+      }
+    }
+  },
+  "Greed": {
+    "1": {
+      "itemids": [
+        12311102, 113232115, 113232125, 113232135, 113232145, 113232165, 113232215, 113232225, 113232235, 113232245,
+        113232315, 113232325, 113232335, 113232345, 113232365, 113232415, 113232425, 113232435, 113232515, 113232525,
+        113232535, 113232545, 113232565, 113232615
+      ],
+      "value": {
+        "2": {
+          "desc": "On successful non-crit hit, gain Seduction every <FONT COLOR='#99ff99'>0.3s</FONT>. This effect is removed when you critically hit.\nSeduction: Crit Rate +<FONT COLOR='#99FF99'>10%</FONT> for <FONT COLOR='#ffff99'>12s</FONT>. Max <FONT COLOR='#99FF99'>10</FONT> stacks.",
+          "options": [{ "type": "ability_point", "keystat": "none", "keyindex": 10001, "value": 5 }]
+        },
+        "4": {
+          "desc": "Charm's effect +<FONT COLOR='#99FF99'>15%</FONT>, changing it to Seduction.\nSeduction: Crit Rate +<FONT COLOR='#99FF99'>25%</FONT> for <FONT COLOR='#99FF99'>12s</FONT>. (Max <FONT COLOR='#99FF99'>4</FONT> stacks.)",
+          "options": [{ "type": "ability_point", "keystat": "none", "keyindex": 10001, "value": 5 }]
+        },
+        "6": {
+          "desc": "Increases Crit Damage +<FONT COLOR='#99FF99'>40%</FONT>.",
+          "options": [{ "type": "stat", "keystat": "critical_dam_rate", "keyindex": 0, "value": 4000 }]
+        }
+      }
+    }
+  },
+  "Dominion": {
+    "1": {
+      "itemids": [
+        12321102, 113452115, 113452125, 113452135, 113452145, 113452165, 113452215, 113452225, 113452235, 113452245,
+        113452315, 113452325, 113452335, 113452345, 113452365, 113452415, 113452425, 113452435, 113452515, 113452525,
+        113452535, 113452545, 113452565, 113452615
+      ],
+      "value": {
+        "2": {
+          "desc": "Damage of Awakening Skills to foes -<FONT COLOR='#ff9999'>50%</FONT>, but Cooldown -<FONT COLOR='#99FF99'>20%</FONT> and Awakening Skill usage +<FONT COLOR='#99FF99'>1</FONT>.\nWhen using an Awakening Skill, gain Inner Awakening for <FONT COLOR='#99ff99'>2m</FONT>.\nInner Awakening: Cooldown of all skills except Awakening Skills and Movement Skills -<FONT COLOR='#99FF99'>18%</FONT>. Skill Damage +<FONT COLOR='#99FF99'>10%</FONT>. ",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000106, "value": 5 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000109, "value": 0 },
+            { "type": "skill_group_cooldown_reduction", "keystat": "none", "keyindex": 10000000, "value": 2000 }
+          ]
+        },
+        "4": {
+          "desc": "Awakening Skill usage +<FONT COLOR='#99FF99'>1</FONT>. Enhances Inner Awakening: Cooldown of all skills except Awakening Skills and Movement Skills -<FONT COLOR='#99FF99'>18%</FONT>, Skill Damage +<FONT COLOR='#99FF99'>25%</FONT>. ",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000107, "value": 5 },
+            { "type": "awakening_usable_count_addend", "keystat": "none", "keyindex": 0, "value": 1 }
+          ]
+        },
+        "6": {
+          "desc": "Awakening Skill usage +<FONT COLOR='#99FF99'>1</FONT>. When Inner Awakening is active, Movement Skill Cooldown -<FONT COLOR='#99FF99'>30%</FONT> and Damage to foes +<FONT COLOR='#99FF99'>15%</FONT> for <FONT COLOR='#99ff99'>2</FONT> minutes.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000108, "value": 5 },
+            { "type": "awakening_usable_count_addend", "keystat": "none", "keyindex": 0, "value": 1 }
+          ]
+        }
+      }
+    },
+    "2": {
+      "itemids": [
+        12321102, 113462115, 113462125, 113462135, 113462145, 113462165, 113462215, 113462225, 113462235, 113462245,
+        113462315, 113462325, 113462335, 113462345, 113462365, 113462415, 113462425, 113462435, 113462515, 113462525,
+        113462535, 113462545, 113462565, 113462615
+      ],
+      "value": {
+        "2": {
+          "desc": "Damage of Awakening Skills to foes -<FONT COLOR='#ff9999'>30%</FONT>, but Cooldown -<FONT COLOR='#99FF99'>20%</FONT> and Awakening Skill usage +<FONT COLOR='#99FF99'>1</FONT>.\nWhen using an Awakening Skill, gain Inner Awakening for <FONT COLOR='#99ff99'>2m</FONT>.\nInner Awakening: Cooldown of all skills except Awakening Skills and Movement Skills -<FONT COLOR='#99FF99'>18%</FONT>. Skill Damage +<FONT COLOR='#99FF99'>10%</FONT>. ",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000106, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000109, "value": 0 },
+            { "type": "skill_group_cooldown_reduction", "keystat": "none", "keyindex": 10000000, "value": 2000 }
+          ]
+        },
+        "4": {
+          "desc": "Awakening Skill usage +<FONT COLOR='#99FF99'>1</FONT>. Enhances Inner Awakening: Cooldown of all skills except Awakening Skills and Movement Skills -<FONT COLOR='#99FF99'>18%</FONT>, Skill Damage +<FONT COLOR='#99FF99'>28%</FONT>. ",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000107, "value": 0 },
+            { "type": "awakening_usable_count_addend", "keystat": "none", "keyindex": 0, "value": 1 }
+          ]
+        },
+        "6": {
+          "desc": "Awakening Skill usage +<FONT COLOR='#99FF99'>1</FONT>. When Inner Awakening is active, Movement Skill Cooldown -<FONT COLOR='#99FF99'>30%</FONT> and Damage to foes +<FONT COLOR='#99FF99'>18%</FONT> for <FONT COLOR='#99ff99'>2</FONT> minutes.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000108, "value": 0 },
+            { "type": "awakening_usable_count_addend", "keystat": "none", "keyindex": 0, "value": 1 }
+          ]
+        }
+      }
+    }
+  },
+  "Betrayal": {
+    "1": {
+      "itemids": [
+        12321103, 113453115, 113453125, 113453135, 113453145, 113453165, 113453215, 113453225, 113453235, 113453245,
+        113453315, 113453325, 113453335, 113453345, 113453365, 113453415, 113453425, 113453435, 113453515, 113453525,
+        113453535, 113453545, 113453565, 113453615
+      ],
+      "value": {
+        "2": {
+          "desc": "Creates a Powerful Ether with the Ether Enhancement Engraving Effect that only you can use within <FONT COLOR='#99ff99'>3</FONT> meters. (Cooldown: <FONT COLOR='#99ff99'>1</FONT>m)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000110, "value": 0 }]
+        },
+        "4": {
+          "desc": "Creates another powerful Ether. Damage dealt to foes increases proportionally to the number of Ethers of the same type. ",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000111, "value": 0 }]
+        },
+        "6": {
+          "desc": "Creates a max of <FONT COLOR='#99ff99'>3</FONT> Ether, and the Transcendence effect is activated when <FONT COLOR='#99ff99'>3</FONT> different Ether effects are activated.\nTranscendence: Increases Atk. Speed by <FONT COLOR='#99ff99'>40%</FONT>, decreases Cooldown of skills excluding Movement Skills and Awakening Skills by <FONT COLOR='#99ff99'>50%</FONT>.\nRemoves all debuffs periodically, and restores MP and Specialty gauges by <FONT COLOR='#99ff99'>100%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000112, "value": 0 }]
+        }
+      }
+    },
+    "2": {
+      "itemids": [
+        12321103, 113463115, 113463125, 113463135, 113463145, 113463165, 113463215, 113463225, 113463235, 113463245,
+        113463315, 113463325, 113463335, 113463345, 113463365, 113463415, 113463425, 113463435, 113463515, 113463525,
+        113463535, 113463545, 113463565, 113463615
+      ],
+      "value": {
+        "2": {
+          "desc": "Creates a Powerful Ether with the Ether Enhancement Engraving Effect that only you can use within <FONT COLOR='#99ff99'>3</FONT> meters. (Cooldown: <FONT COLOR='#99ff99'>1m</FONT>)\nEther generation Cooldown -<FONT COLOR='#99ff99'>3s</FONT>.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000110, "value": 0 },
+            { "type": "combat_effect_cooldown_reduction", "keystat": "none", "keyindex": 600000112, "value": -3000 },
+            { "type": "combat_effect_cooldown_reduction", "keystat": "none", "keyindex": 600000110, "value": -3000 }
+          ]
+        },
+        "4": {
+          "desc": "Creates another powerful Ether. Damage dealt to foes increases proportionally to the number of Ethers of the same type. Ether generation Cooldown -<FONT COLOR='#99ff99'>3s</FONT>.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000111, "value": 0 },
+            { "type": "combat_effect_cooldown_reduction", "keystat": "none", "keyindex": 600000112, "value": -3000 },
+            { "type": "combat_effect_cooldown_reduction", "keystat": "none", "keyindex": 600000110, "value": -3000 }
+          ]
+        },
+        "6": {
+          "desc": "Creates a max of <FONT COLOR='#99ff99'>3</FONT> Ether, and Transcendence is activated when <FONT COLOR='#99ff99'>3</FONT> different Ether effects are activated.\nEther generation Cooldown -<FONT COLOR='#99ff99'>4s</FONT>.\nTranscendence: Atk. Speed +<FONT COLOR='#99ff99'>40%</FONT>. Cooldown of Skills (excluding Movement Skills and Awakening Skills) -<FONT COLOR='#99ff99'>50%</FONT>.\nRemoves all debuffs periodically, and restores MP and Specialty Meter by <FONT COLOR='#99ff99'>100%</FONT>.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000112, "value": 0 },
+            { "type": "combat_effect_cooldown_reduction", "keystat": "none", "keyindex": 600000112, "value": -4000 },
+            { "type": "combat_effect_cooldown_reduction", "keystat": "none", "keyindex": 600000110, "value": -4000 }
+          ]
+        }
+      }
+    }
+  },
+  "Yearning": {
+    "1": {
+      "itemids": [
+        12321104, 113454115, 113454125, 113454135, 113454145, 113454165, 113454215, 113454225, 113454235, 113454245,
+        113454315, 113454325, 113454335, 113454345, 113454365, 113454415, 113454425, 113454435, 113454515, 113454525,
+        113454535, 113454545, 113454565, 113454615
+      ],
+      "value": {
+        "2": {
+          "desc": "On successful hit, gain Wartorn Blessing: +<FONT COLOR='#99ff99'>15%</FONT> Move Speed and Specialty Meter gain from landing an attack for <FONT COLOR='#99ff99'>16s</FONT>. ",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000118, "value": 0 }]
+        },
+        "4": {
+          "desc": "While Blessing of Battle lasts, a speed-enhancing effect is granted to party members that are within <FONT COLOR='#99ff99'>8</FONT> meters every 1s for <FONT COLOR='#99ff99'>16s</FONT>.\nSwiftness: Atk./Move Speed +<FONT COLOR='#99ff99'>8%</FONT>",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600010118, "value": 0 }]
+        },
+        "6": {
+          "desc": "While Blessing of Battle lasts, a Dexterity effect is granted to party members that are within <FONT COLOR='#99ff99'>8</FONT> meters everys for <FONT COLOR='#99ff99'>16</FONT>s.\nDexterity: Increases additional Damage to foes by +<FONT COLOR='#99ff99'>8%</FONT>",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020118, "value": 0 }]
+        }
+      }
+    },
+    "2": {
+      "itemids": [
+        12321104, 113464115, 113464125, 113464135, 113464145, 113464165, 113464215, 113464225, 113464235, 113464245,
+        113464315, 113464325, 113464335, 113464345, 113464365, 113464415, 113464425, 113464435, 113464515, 113464525,
+        113464535, 113464545, 113464565, 113464615
+      ],
+      "value": {
+        "2": {
+          "desc": "On successful hit, gain Wartorn Blessing: +<FONT COLOR='#99ff99'>18%</FONT> Move Speed and Specialty Meter gain from landing an attack for <FONT COLOR='#99ff99'>16s</FONT>. ",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000118, "value": 0 }]
+        },
+        "4": {
+          "desc": "While Blessing of Battle lasts, a Swiftness effect is granted to party members that are within <FONT COLOR='#99ff99'>8</FONT> meters everys for <FONT COLOR='#99ff99'>16s</FONT>.\nSwiftness: +<FONT COLOR='#99ff99'>10%</FONT>",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610010118, "value": 0 }]
+        },
+        "6": {
+          "desc": "While Blessing of Battle lasts, a Dexterity effect is granted to party members that are within <FONT COLOR='#99ff99'>8</FONT> meters everys for <FONT COLOR='#99ff99'>16</FONT>s.\nDexterity: Increases additional Damage to foes by +<FONT COLOR='#99ff99'>10%</FONT>",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610020118, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Destruction": {
+    "1": {
+      "itemids": [
+        12321105, 113455115, 113455125, 113455135, 113455145, 113455165, 113455215, 113455225, 113455235, 113455245,
+        113455315, 113455325, 113455335, 113455345, 113455365, 113455415, 113455425, 113455435, 113455515, 113455525,
+        113455535, 113455545, 113455565, 113455615
+      ],
+      "value": {
+        "2": {
+          "desc": "Targets that have protection effects (Shield, HP Regen, Damage Reduction) from party effects will have the Seed of Life applied for <FONT COLOR='#99ff99'>12s</FONT>.\nSeed of Life: Endurance +<FONT COLOR='#99ff99'>25</FONT> (Max <FONT COLOR='#99ff99'>20</FONT> stacks)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000119, "value": 0 }]
+        },
+        "4": {
+          "desc": "When Seed of Life is stacked <FONT COLOR='#99ff99'>20</FONT> times, the Seed of Life effect is removed and Life Activation is triggered for <FONT COLOR='#99ff99'>10s</FONT>.\nLife Activation: Endurance +<FONT COLOR='#99ff99'>500</FONT>, recovers HP by <FONT COLOR='#99ff99'>697</FONT> every second, and an additional <FONT COLOR='#99ff99'>0.5%</FONT> of the caster's Max HP. Healing effect is <FONT COLOR='#99ff99'>doubled</FONT> if Current HP is below <FONT COLOR='#99ff99'>30%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600010119, "value": 0 }]
+        },
+        "6": {
+          "desc": "Life Activation grants Second Wind for <FONT COLOR='#99ff99'>3s</FONT> each time HP is recovered.\nSecond Wind: Additional Damage +<FONT COLOR='#99ff99'>2.4%</FONT> Max <FONT COLOR='#99ff99'>10</FONT> stacks.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020120, "value": 0 }]
+        }
+      }
+    },
+    "2": {
+      "itemids": [
+        12321105, 113465115, 113465125, 113465135, 113465145, 113465165, 113465215, 113465225, 113465235, 113465245,
+        113465315, 113465325, 113465335, 113465345, 113465365, 113465415, 113465425, 113465435, 113465515, 113465525,
+        113465535, 113465545, 113465565, 113465615
+      ],
+      "value": {
+        "2": {
+          "desc": "Targets that have protection effects (Shield, HP Regen, Damage Reduction) from party effects will have the Seed of Life applied for <FONT COLOR='#99ff99'>12s</FONT>.\nSeed of Life: Endurance +<FONT COLOR='#99ff99'>30</FONT> (Max <FONT COLOR='#99ff99'>20</FONT> stacks)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000119, "value": 0 }]
+        },
+        "4": {
+          "desc": "When Seed of Life is stacked <FONT COLOR='#99ff99'>20</FONT> times, the Seed of Life effect is removed and Life Activation is triggered for <FONT COLOR='#99ff99'>10s</FONT>.\nLife Activation: Endurance +<FONT COLOR='#99ff99'>600</FONT>, recovers HP by <FONT COLOR='#99ff99'>910</FONT> every second, and an additional <FONT COLOR='#99ff99'>0.5%</FONT> of the caster's Max HP. Healing effect is <FONT COLOR='#99ff99'>doubled</FONT> if Current HP is below <FONT COLOR='#99ff99'>30%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610010119, "value": 0 }]
+        },
+        "6": {
+          "desc": "Life Activation grants Second Wind for <FONT COLOR='#99ff99'>3s</FONT> each time HP is recovered.\nSecond Wind: Additional Damage +<FONT COLOR='#99ff99'>3.5%</FONT> Max <FONT COLOR='#99ff99'>8</FONT> stacks.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610020120, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Charm": {
+    "1": {
+      "itemids": [
+        12321106, 113456115, 113456125, 113456135, 113456145, 113456165, 113456215, 113456225, 113456235, 113456245,
+        113456315, 113456325, 113456335, 113456345, 113456365, 113456415, 113456425, 113456435, 113456515, 113456525,
+        113456535, 113456545, 113456565, 113456615
+      ],
+      "value": {
+        "2": {
+          "desc": "On successful hit, gain a chance to trigger an Electric Attack, which applies Flame Vulnerability. (Cooldown: <FONT COLOR='#99ff99'>0.5s</FONT>)\nThis Damage decreases by up to <FONT COLOR='#ff9999'>80%</FONT> when striking multiple foes.\nFlame Vulnerability: + additional Flame Damage when dealing Flame Damage. This additional Flame Damage does not give Electric Vulnerability.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000123, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600010123, "value": 0 }
+          ]
+        },
+        "4": {
+          "desc": "On successful hit, gain a chance to trigger a Flame Attack, which applies Electric Vulnerability. (Cooldown: <FONT COLOR='#99ff99'>0.5s</FONT>)\nThis Damage decreases by up to <FONT COLOR='#ff9999'>80%</FONT> when striking multiple foes.\nElectric Vulnerablity: + additional Electric Damage when dealing Electric Damage. This additional Electric Damage does not give Flame Vulnerability.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000122, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600010122, "value": 0 }
+          ]
+        },
+        "6": {
+          "desc": "When Electric and Flame Damage are inflicted, gain stacks of Exoelemental Energy. When Exoelemental Energy has <FONT COLOR='#99ff99'>30</FONT> stacks, gain Amplify for <FONT COLOR='#99ff99'>20s</FONT>.\nAmplify: Electric and Flame Damage +<FONT COLOR='#99ff99'>100%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000124, "value": 0 }]
+        }
+      }
+    },
+    "2": {
+      "itemids": [
+        12321106, 113466115, 113466125, 113466135, 113466145, 113466165, 113466215, 113466225, 113466235, 113466245,
+        113466315, 113466325, 113466335, 113466345, 113466365, 113466415, 113466425, 113466435, 113466515, 113466525,
+        113466535, 113466545, 113466565, 113466615
+      ],
+      "value": {
+        "2": {
+          "desc": "On successful hit, gain a chance to trigger a powerful Electric Attack, which applies Flame Vulnerability. (Cooldown: <FONT COLOR='#99ff99'>0.5s</FONT>)\nThis Damage decreases by up to <FONT COLOR='#ff9999'>80%</FONT> when striking multiple foes.\nFlame Vulnerability: + additional Flame Damage when dealing Flame Damage. This additional Flame Damage does not give Electric Vulnerability.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000123, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600010123, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000123, "value": 0 }
+          ]
+        },
+        "4": {
+          "desc": "On successful hit, gain a chance to trigger a powerful Flame Attack, which applies Electric Vulnerability. (Cooldown: <FONT COLOR='#99ff99'>0.5s</FONT>)\nThis Damage decreases by up to <FONT COLOR='#ff9999'>80%</FONT> when striking multiple foes.\nElectric Vulnerablity: + additional Electric Damage when dealing Electric Damage. This additional Electric Damage does not give Flame Vulnerability.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000122, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600010122, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000122, "value": 0 }
+          ]
+        },
+        "6": {
+          "desc": "When Electric and Flame Damage are inflicted, gain stacks of Exoelemental Energy. When Exoelemental Energy has <FONT COLOR='#99ff99'>30</FONT> stacks, gain Amplify for <FONT COLOR='#99ff99'>20s</FONT>.\nAmplify: Electric and Flame Damage +<FONT COLOR='#99ff99'>120%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000124, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Entropy": {
+    "1": {
+      "itemids": [
+        12321107, 113457115, 113457125, 113457135, 113457145, 113457165, 113457215, 113457225, 113457235, 113457245,
+        113457315, 113457325, 113457335, 113457345, 113457365, 113457415, 113457425, 113457435, 113457515, 113457525,
+        113457535, 113457545, 113457565, 113457615
+      ],
+      "value": {
+        "2": {
+          "desc": "Crit Damage +<FONT COLOR='#99FF99'>17%</FONT>.\nBack and Frontal Attacks modify this to <FONT COLOR='#99FF99'>55%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000103, "value": 0 }]
+        },
+        "4": {
+          "desc": "Crit Rate +<FONT COLOR='#99FF99'>17%</FONT>.",
+          "options": [{ "type": "stat", "keystat": "critical_hit_rate", "keyindex": 0, "value": 1700 }]
+        },
+        "6": {
+          "desc": "Damage to foes +<FONT COLOR='#99ff99'>7%</FONT>.\nBack and Frontal Attacks modify this to <FONT COLOR='#99ff99'>21%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000105, "value": 0 }]
+        }
+      }
+    },
+    "2": {
+      "itemids": [
+        12321107, 113467115, 113467125, 113467135, 113467145, 113467165, 113467215, 113467225, 113467235, 113467245,
+        113467315, 113467325, 113467335, 113467345, 113467365, 113467415, 113467425, 113467435, 113467515, 113467525,
+        113467535, 113467545, 113467565, 113467615
+      ],
+      "value": {
+        "2": {
+          "desc": "Crit Damage +<FONT COLOR='#99FF99'>20%</FONT>.\nBack and Frontal Attacks modify this to <FONT COLOR='#99FF99'>60%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000103, "value": 0 }]
+        },
+        "4": {
+          "desc": "Crit Rate +<FONT COLOR='#99FF99'>20%</FONT>.",
+          "options": [{ "type": "stat", "keystat": "critical_hit_rate", "keyindex": 0, "value": 2000 }]
+        },
+        "6": {
+          "desc": "Damage to foes +<FONT COLOR='#99ff99'>8%</FONT>.\nBack and Frontal Attacks modify this to <FONT COLOR='#99ff99'>24%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000105, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Nightmare": {
+    "1": {
+      "itemids": [
+        12321108, 113458115, 113458125, 113458135, 113458145, 113458165, 113458215, 113458225, 113458235, 113458245,
+        113458315, 113458325, 113458335, 113458345, 113458365, 113458415, 113458425, 113458435, 113458515, 113458525,
+        113458535, 113458545, 113458565, 113458615
+      ],
+      "value": {
+        "2": {
+          "desc": "MP cost -<FONT COLOR='#99FF99'>50%</FONT>. Damage of skills that consume MP +<FONT COLOR='#99FF99'>12%</FONT>.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000125, "value": 0 },
+            { "type": "mana_reduction", "keystat": "none", "keyindex": 0, "value": 5000 }
+          ]
+        },
+        "4": {
+          "desc": "When a Class that possesses MP uses an Awakening Skill, gain Magick Addiction.\nWhen MP reaches <FONT COLOR='#99FF99'>30%</FONT> or lower, Magick Addiction is removed and Boundless MP is gained.\nWhen current MP becomes <FONT COLOR='#99FF99'>100%</FONT> while Boundless MP is active, the effect is removed and Magick Addiction is gained. Both effects cannot be active at the same time.\nMagick Addiction: Damage +<FONT COLOR='#99FF99'>15%</FONT>. When using a skill that consumes MP, Max MP -<FONT COLOR='#ff9999'>7%</FONT>.\nBoundless MP: Recover +<FONT COLOR='#99FF99'>3%</FONT> of Max MP every 1s. Cooldown -<FONT COLOR='#99FF99'>20%</FONT>. Atk./Move Speed +<FONT COLOR='#99FF99'>12%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000126, "value": 0 }]
+        },
+        "6": {
+          "desc": "When 'Magick Addiction' is active, Damage to foes +<FONT COLOR='#99FF99'>15%</FONT>. \nWhen 'Boundless MP' is active, Atk./Move Speed +<FONT COLOR='#99FF99'>3%</FONT> and Cooldown -<FONT COLOR='#99FF99'>15%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000127, "value": 0 }]
+        }
+      }
+    },
+    "2": {
+      "itemids": [
+        12321108, 113468115, 113468125, 113468135, 113468145, 113468165, 113468215, 113468225, 113468235, 113468245,
+        113468315, 113468325, 113468335, 113468345, 113468365, 113468415, 113468425, 113468435, 113468515, 113468525,
+        113468535, 113468545, 113468565, 113468615
+      ],
+      "value": {
+        "2": {
+          "desc": "MP cost -<FONT COLOR='#99FF99'>50%</FONT>. Damage of skills that consume MP +<FONT COLOR='#99FF99'>15%</FONT>.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000125, "value": 0 },
+            { "type": "mana_reduction", "keystat": "none", "keyindex": 0, "value": 5000 }
+          ]
+        },
+        "4": {
+          "desc": "When a Class that possesses MP uses an Awakening Skill, gain Magick Addiction.\nWhen MP reaches <FONT COLOR='#99FF99'>30%</FONT> or lower, Magick Addiction is removed and Boundless MP is gained.\nWhen current MP becomes <FONT COLOR='#99FF99'>100%</FONT> while Boundless MP is active, the effect is removed and Magick Addiction is gained. Both effects cannot be active at the same time.\nMagick Addiction: Damage +<FONT COLOR='#99FF99'>18%</FONT>. When using a skill that consumes MP, Max MP -<FONT COLOR='#ff9999'>7%</FONT>.\nBoundless MP: Recover +<FONT COLOR='#99FF99'>3%</FONT> of Max MP every 1s. Cooldown -<FONT COLOR='#99FF99'>22%</FONT>. Atk./Move Speed +<FONT COLOR='#99FF99'>12%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000126, "value": 0 }]
+        },
+        "6": {
+          "desc": "When 'Magick Addiction' is active, Damage to foes +<FONT COLOR='#99FF99'>18%</FONT>. \nWhen 'Boundless MP' is active, Atk./Move Speed +<FONT COLOR='#99FF99'>3%</FONT> and Cooldown -<FONT COLOR='#99FF99'>18%</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000127, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Hallucination": {
+    "1": {
+      "itemids": [
+        12321109, 113459115, 113459125, 113459135, 113459145, 113459165, 113459215, 113459225, 113459235, 113459245,
+        113459315, 113459325, 113459335, 113459345, 113459365, 113459415, 113459425, 113459435, 113459515, 113459525,
+        113459535, 113459545, 113459565, 113459615
+      ],
+      "value": {
+        "2": {
+          "desc": "On successful attack, gain Hallucination for <FONT COLOR='#ffff99'>6s</FONT>. Hallucination: Damage against foes +<FONT COLOR='#99FF99'>13%</FONT>.\nHallucination cannot be refreshed and cannot trigger again for <FONT COLOR='#ffff99'>3s</FONT> after it ends.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000131, "value": 0 }]
+        },
+        "4": {
+          "desc": "Crit Rate +<FONT COLOR='#99FF99'>15%</FONT>.\nOn hit, Hallucination's duration +<FONT COLOR='#ffff99'>1s</FONT>. Cooldown: <FONT COLOR='#ffff99'>0.4</FONT>s.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000132, "value": 0 },
+            { "type": "stat", "keystat": "critical_hit_rate", "keyindex": 0, "value": 1500 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600010132, "value": 0 }
+          ]
+        },
+        "6": {
+          "desc": "If Hallucination lasts more than <FONT COLOR='#ffff99'>9s</FONT>, gain Reality for <FONT COLOR='#ffff99'>120</FONT>s. Reality: Damage to foes +<FONT COLOR='#99FF99'>12%</FONT>. Crit Rate +<FONT COLOR='#99FF99'>5%</FONT>.\nOn hit, Reality's duration resets. Cooldown: <FONT COLOR='#ffff99'>0.4s</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000133, "value": 0 }]
+        }
+      }
+    },
+    "2": {
+      "itemids": [
+        12321109, 113469115, 113469125, 113469135, 113469145, 113469165, 113469215, 113469225, 113469235, 113469245,
+        113469315, 113469325, 113469335, 113469345, 113469365, 113469415, 113469425, 113469435, 113469515, 113469525,
+        113469535, 113469545, 113469565, 113469615
+      ],
+      "value": {
+        "2": {
+          "desc": "On successful attack, gain Hallucination for <FONT COLOR='#ffff99'>6s</FONT>. Hallucination: Damage against foes +<FONT COLOR='#99FF99'>15%</FONT>.\nHallucination cannot be refreshed and cannot trigger again for <FONT COLOR='#ffff99'>3s</FONT> after it ends.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000131, "value": 0 }]
+        },
+        "4": {
+          "desc": "Crit Rate +<FONT COLOR='#99FF99'>18%</FONT>.\nOn hit, Hallucination's duration +<FONT COLOR='#ffff99'>1s</FONT>. Cooldown: <FONT COLOR='#ffff99'>0.4</FONT>s.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000132, "value": 0 },
+            { "type": "stat", "keystat": "critical_hit_rate", "keyindex": 0, "value": 1800 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610010132, "value": 0 }
+          ]
+        },
+        "6": {
+          "desc": "If Hallucination lasts more than <FONT COLOR='#ffff99'>9s</FONT>, gain Reality for <FONT COLOR='#ffff99'>120</FONT>s. Reality: Damage to foes +<FONT COLOR='#99FF99'>14%</FONT>. Crit Rate +<FONT COLOR='#99FF99'>7%</FONT>.\nOn hit, Reality's duration resets. Cooldown: <FONT COLOR='#ffff99'>0.4s</FONT>.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000133, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Salvation": {
+    "1": {
+      "itemids": [
+        12321101, 113451115, 113451125, 113451135, 113451145, 113451165, 113451215, 113451225, 113451235, 113451245,
+        113451315, 113451325, 113451335, 113451345, 113451365, 113451415, 113451425, 113451435, 113451515, 113451525,
+        113451535, 113451545, 113451565, 113451615
+      ],
+      "value": {
+        "2": {
+          "desc": "Gain the effect Boost every <FONT COLOR='#99ff99'>1</FONT>s upon a successful attack. For <FONT COLOR='#ffff99'>120</FONT>s, Damage to enemy +<FONT COLOR='#99FF99'>0.7%</FONT>. (Stacks up to <FONT COLOR='#ffff99'>20</FONT> times)\nIf the attack is a Crit Hit, gain <FONT COLOR='#ffff99'>2</FONT> stacks.\nIf attacked by a monster while HP is below <FONT COLOR='#ffff99'>30%</FONT>, all stacks disappear, but the cooldown of Movement Skills and Stand Up Skills are reset, and for <FONT COLOR='#ffff99'>8</FONT>s, all incoming Damage from monsters -<FONT COLOR='#99FF99'>30%</FONT>. (Cooldown: <FONT COLOR='#ffff99'>8s</FONT>)",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000134, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600050134, "value": 0 }
+          ]
+        },
+        "4": {
+          "desc": "Effect of Boost increased by an additional +<FONT COLOR='#99FF99'>0.7%</FONT>.\nAt max stack, Atk. Speed +<FONT COLOR='#99FF99'>10%</FONT>.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000135, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600010135, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600040135, "value": 0 }
+          ]
+        },
+        "6": {
+          "desc": "Effect of Boost increased by an additional +<FONT COLOR='#99FF99'>0.7%</FONT>.\nAt max stacks, Damage +<FONT COLOR='#99FF99'>5%</FONT>.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600000136, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600010136, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600040136, "value": 0 }
+          ]
+        }
+      }
+    },
+    "2": {
+      "itemids": [
+        12321101, 113461115, 113461125, 113461135, 113461145, 113461165, 113461215, 113461225, 113461235, 113461245,
+        113461315, 113461325, 113461335, 113461345, 113461365, 113461415, 113461425, 113461435, 113461515, 113461525,
+        113461535, 113461545, 113461565, 113461615
+      ],
+      "value": {
+        "2": {
+          "desc": "Gain the effect Boost every <FONT COLOR='#99ff99'>1</FONT>s upon a successful attack. For <FONT COLOR='#ffff99'>120</FONT>s, Damage to enemy +<FONT COLOR='#99FF99'>0.9%</FONT>. (Stacks up to <FONT COLOR='#ffff99'>20</FONT> times)\nIf the attack is a Crit Hit, gain <FONT COLOR='#ffff99'>2</FONT> stacks.\nIf attacked by a monster while HP is below <FONT COLOR='#ffff99'>30%</FONT>, all stacks disappear, but the cooldown of Movement Skills and Stand Up Skills are reset, and for <FONT COLOR='#ffff99'>8</FONT>s, all incoming Damage from monsters -<FONT COLOR='#99FF99'>30%</FONT>. (Cooldown: <FONT COLOR='#ffff99'>8s</FONT>)",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000134, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610010134, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610020134, "value": 0 }
+          ]
+        },
+        "4": {
+          "desc": "Effect of Boost increased by an additional +<FONT COLOR='#99FF99'>0.9%</FONT>.\nAt max stacks, Atk. Speed +<FONT COLOR='#99FF99'>10%</FONT>.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000135, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610010135, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600040135, "value": 0 }
+          ]
+        },
+        "6": {
+          "desc": "Effect of Boost increased by an additional +<FONT COLOR='#99FF99'>0.9%</FONT>.\nAt max stacks, Damage +<FONT COLOR='#99FF99'>5%</FONT>.",
+          "options": [
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610000136, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 600040136, "value": 0 },
+            { "type": "combat_effect", "keystat": "none", "keyindex": 610010136, "value": 0 }
+          ]
+        }
+      }
+    }
+  },
+  "Seraphic Oath": {
+    "1": {
+      "itemids": [
+        10401101, 111131115, 111131125, 111131135, 111131145, 111131165, 111131215, 111131225, 111131235, 111131245,
+        111131315, 111131325, 111131335, 111131345, 111131365, 111131415, 111131425, 111131435, 111131515, 111131525,
+        111131535, 111131545, 111131565, 111131615
+      ],
+      "value": {
+        "2": {
+          "desc": "Atk. Speed <FONT COLOR='#99FF99'>+8%</FONT>",
+          "options": [{ "type": "stat", "keystat": "attack_speed_rate", "keyindex": 0, "value": 800 }]
+        },
+        "5": {
+          "desc": "Additional Damage <FONT COLOR='#99FF99'>+10%</FONT>",
+          "options": [{ "type": "stat", "keystat": "skill_damage_rate", "keyindex": 0, "value": 1000 }]
+        }
+      }
+    }
+  },
+  "Enraged Nature": {
+    "1": {
+      "itemids": [
+        10401102, 111231115, 111231125, 111231135, 111231145, 111231165, 111231215, 111231225, 111231235, 111231245,
+        111231315, 111231325, 111231335, 111231345, 111231365, 111231415, 111231425, 111231435, 111231515, 111231525,
+        111231535, 111231545, 111231565, 111231615
+      ],
+      "value": {
+        "2": {
+          "desc": "Move Speed <FONT COLOR='#99FF99'>+8%</FONT>",
+          "options": [{ "type": "stat", "keystat": "move_speed_rate", "keyindex": 0, "value": 800 }]
+        },
+        "5": {
+          "desc": "Atk. Power +<FONT COLOR='#99FF99'>4%</FONT> for <FONT COLOR='#ffff99'>8</FONT>s, up to <FONT COLOR='#99FF99'>12%</FONT> when attacking a monster Boss rank or above. (Cooldown: <FONT COLOR='#ffff99'>3</FONT>s)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020004, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Boisterous Elemental": {
+    "1": {
+      "itemids": [
+        10401103, 111232115, 111232125, 111232135, 111232145, 111232165, 111232215, 111232225, 111232235, 111232245,
+        111232315, 111232325, 111232335, 111232345, 111232365, 111232415, 111232425, 111232435, 111232515, 111232525,
+        111232535, 111232545, 111232565, 111232615
+      ],
+      "value": {
+        "2": {
+          "desc": "Atk. Speed and Move Speed +<FONT COLOR='#99FF99'>4%</FONT> for <FONT COLOR='#ffff99'>6</FONT>s, up to <FONT COLOR='#99FF99'>8%</FONT> when attacking monsters Boss rank or above. (Cooldown: <FONT COLOR='#ffff99'>3</FONT>s)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020041, "value": 0 }]
+        },
+        "5": {
+          "desc": "Damage to monsters Boss rank or above +<FONT COLOR='#99FF99'>12%</FONT>",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020042, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Marvelous Earth": {
+    "1": {
+      "itemids": [
+        11401101, 112131115, 112131125, 112131135, 112131145, 112131165, 112131215, 112131225, 112131235, 112131245,
+        112131315, 112131325, 112131335, 112131345, 112131365, 112131415, 112131425, 112131435, 112131515, 112131525,
+        112131535, 112131545, 112131565, 112131615
+      ],
+      "value": {
+        "2": {
+          "desc": "Atk. Speed and Move Speed <FONT COLOR='#99FF99'>+4%</FONT>.",
+          "options": [
+            { "type": "stat", "keystat": "attack_speed_rate", "keyindex": 0, "value": 400 },
+            { "type": "stat", "keystat": "move_speed_rate", "keyindex": 0, "value": 400 }
+          ]
+        },
+        "5": {
+          "desc": "Has a chance to trigger Velcruze's Evil Energy effect when an attack lands successfully. (Cooldown: <FONT COLOR='#ffff99'>12</FONT>s)",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020040, "value": 0 }]
+        }
+      }
+    }
+  },
+  "Unyielding Will": {
+    "1": {
+      "itemids": [
+        11401102, 112231115, 112231125, 112231135, 112231145, 112231165, 112231215, 112231225, 112231235, 112231245,
+        112231315, 112231325, 112231335, 112231345, 112231365, 112231415, 112231425, 112231435, 112231515, 112231525,
+        112231535, 112231545, 112231565, 112231615
+      ],
+      "value": {
+        "2": {
+          "desc": "Atk. Speed and Move Speed +<FONT COLOR='#99FF99'>8%</FONT> for <FONT COLOR='#ffff99'>4</FONT>s when using Movement Skill.",
+          "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020051, "value": 0 }]
+        },
+        "5": {
+          "desc": "Crit Rate <FONT COLOR='#99FF99'>+15%</FONT>.",
+          "options": [{ "type": "stat", "keystat": "critical_hit_rate", "keyindex": 0, "value": 1500 }]
+        }
+      }
+    }
+  },
+  "Mute Guardian": {
+    "1": {
+      "itemids": [
+        11401103, 112232115, 112232125, 112232135, 112232145, 112232165, 112232215, 112232225, 112232235, 112232245,
+        112232315, 112232325, 112232335, 112232345, 112232365, 112232415, 112232425, 112232435, 112232515, 112232525,
+        112232535, 112232545, 112232565, 112232615
+      ],
+      "value": {
+        "2": {
+          "desc": "Combat Resource Recovery Speed +<FONT COLOR='#99FF99'>30%</FONT>.",
+          "options": [{ "type": "stat", "keystat": "resource_recovery_rate", "keyindex": 0, "value": 3000 }]
+        },
+        "5": {
+          "desc": "Crit Damage <FONT COLOR='#99FF99'>+25%</FONT>.",
+          "options": [{ "type": "stat", "keystat": "critical_dam_rate", "keyindex": 0, "value": 2500 }]
+        }
+      }
+    }
+  }
+}
