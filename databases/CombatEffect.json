@@ -23464,7 +23464,7 @@
     "effects": [
       {
         "ratio": 10000,
-        "cooldown": 0,
+        "cooldown": 500,
         "conditions": [],
         "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self", "args": [0, 0, 600000118, 0, 0, 0] }]
       }
@@ -23475,7 +23475,7 @@
     "effects": [
       {
         "ratio": 10000,
-        "cooldown": 0,
+        "cooldown": 500,
         "conditions": [],
         "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self", "args": [0, 0, 600020118, 0, 0, 0] }]
       }
@@ -23486,7 +23486,7 @@
     "effects": [
       {
         "ratio": 10000,
-        "cooldown": 0,
+        "cooldown": 500,
         "conditions": [],
         "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self", "args": [0, 0, 600030118, 0, 0, 0] }]
       }
@@ -24125,7 +24125,7 @@
     "effects": [
       {
         "ratio": 10000,
-        "cooldown": 0,
+        "cooldown": 500,
         "conditions": [],
         "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self", "args": [0, 0, 610000118, 0, 0, 0] }]
       }
@@ -24136,7 +24136,7 @@
     "effects": [
       {
         "ratio": 10000,
-        "cooldown": 0,
+        "cooldown": 500,
         "conditions": [],
         "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self", "args": [0, 0, 610020118, 0, 0, 0] }]
       }
@@ -24147,7 +24147,7 @@
     "effects": [
       {
         "ratio": 10000,
-        "cooldown": 0,
+        "cooldown": 500,
         "conditions": [],
         "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self", "args": [0, 0, 610030118, 0, 0, 0] }]
       }
@@ -24776,7 +24776,7 @@
     "effects": [
       {
         "ratio": 10000,
-        "cooldown": 0,
+        "cooldown": 500,
         "conditions": [],
         "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self", "args": [0, 0, 620000118, 0, 0, 0] }]
       }
@@ -24787,7 +24787,7 @@
     "effects": [
       {
         "ratio": 10000,
-        "cooldown": 0,
+        "cooldown": 500,
         "conditions": [],
         "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self", "args": [0, 0, 620020118, 0, 0, 0] }]
       }
@@ -24798,7 +24798,7 @@
     "effects": [
       {
         "ratio": 10000,
-        "cooldown": 0,
+        "cooldown": 500,
         "conditions": [],
         "actions": [{ "type": "exec_active_effect_when_damage", "actor": "self", "args": [0, 0, 620030118, 0, 0, 0] }]
       }

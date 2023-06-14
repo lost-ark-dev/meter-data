@@ -79,7 +79,7 @@
       "2": { "desc": "Cutting skill Lv. +2. ", "values": [2] },
       "3": { "desc": "Cutting skill Lv. +3. ", "values": [3] }
     },
-    "name": "Master of Cutting",
+    "name": "Master of Slashes",
     "isnegative": false,
     "icon": "buff_107.png",
     "isengrave": true,
@@ -150,15 +150,15 @@
     "id": 125,
     "levels": {
       "1": {
-        "desc": "Fury Meter remains at max and turns into Mayhem Mode with the power of darkness. Mayhem Mode: Outgoing Damage +3%, Atk. and Move Speed +15%, all incoming Damage -70%. When Mayhem Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when healing is applied. Can only receive 40% of healing effects and 25% of shield effects. Press the [X] key to cancel Mayhem Mode and recover 25% of Max HP; cannot enter Mayhem Mode again for 30s.",
+        "desc": "Fury Meter remains at max and turns into Mayhem Mode with the power of darkness. Mayhem Mode: Outgoing Damage +3%, Atk. and Move Speed +15%, all incoming Damage -70%. When Mayhem Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when healing is applied. Can only receive 40% of healing and 25% of shield. Press the [X] key to cancel Mayhem Mode and recover 25% of Max HP; cannot enter Mayhem Mode again for 30s.",
         "values": [2500, 2500, 10080106, 10080110, 7500]
       },
       "2": {
-        "desc": "Fury Meter remains at max and turns into Mayhem Mode with the power of darkness. Mayhem Mode: Outgoing Damage +8%, Atk. and Move Speed +15%, all incoming Damage -70%. When Mayhem Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when healing is applied. Can only receive 40% of healing effects and 25% of shield effects. Press the [X] key to cancel Mayhem Mode and recover 25% of Max HP; cannot enter Mayhem Mode again for 30s.",
+        "desc": "Fury Meter remains at max and turns into Mayhem Mode with the power of darkness. Mayhem Mode: Outgoing Damage +8%, Atk. and Move Speed +15%, all incoming Damage -70%. When Mayhem Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when healing is applied. Can only receive 40% of healing and 25% of shield. Press the [X] key to cancel Mayhem Mode and recover 25% of Max HP; cannot enter Mayhem Mode again for 30s.",
         "values": [2500, 2500, 10080107, 10080110, 7500]
       },
       "3": {
-        "desc": "Fury Meter remains at max and turns into Mayhem Mode with the power of darkness. Mayhem Mode: Outgoing Damage +16%, Atk. and Move Speed +15%, all incoming Damage -70%. When Mayhem Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when healing is applied. Can only receive 40% of healing effects and 25% of shield effects. Press the [X] key to cancel Mayhem Mode and recover 25% of Max HP; cannot enter Mayhem Mode again for 30s.",
+        "desc": "Fury Meter remains at max and turns into Mayhem Mode with the power of darkness. Mayhem Mode: Outgoing Damage +16%, Atk. and Move Speed +15%, all incoming Damage -70%. When Mayhem Mode activates, HP is reduced to 25% of Max HP; this cannot be exceeded even when healing is applied. Can only receive 40% of healing and 25% of shield. Press the [X] key to cancel Mayhem Mode and recover 25% of Max HP; cannot enter Mayhem Mode again for 30s.",
         "values": [2500, 2500, 10080108, 10080110, 7500]
       }
     },
@@ -437,15 +437,15 @@
     "id": 192,
     "levels": {
       "1": {
-        "desc": "Can use only Handgun Stance. Handgun Skill Damage +35%. Stagger Damage +40%. Awakening Skill Damage +20%.",
+        "desc": "Can only use Handgun Stance. Handgun Skill Damage +35%. Stagger Damage +40%. Awakening Skill Damage +20%.",
         "values": [3500, 4000, 2000]
       },
       "2": {
-        "desc": "Can use only Handgun Stance. Handgun Skill Damage +60%. Stagger Damage +40%. Awakening Skill Damage +30%.",
+        "desc": "Can only use Handgun Stance. Handgun Skill Damage +60%. Stagger Damage +40%. Awakening Skill Damage +30%.",
         "values": [6000, 4000, 3000]
       },
       "3": {
-        "desc": "Can use only Handgun Stance. Handgun Skill Damage +85%. Stagger Damage +40%. Awakening Skill Damage +40%.",
+        "desc": "Can only use Handgun Stance. Handgun Skill Damage +85%. Stagger Damage +40%. Awakening Skill Damage +40%.",
         "values": [8500, 4000, 4000]
       }
     },
@@ -1097,7 +1097,7 @@
         "values": [24023, 146, 240240, 20000]
       },
       "3": {
-        "desc": "When using Hype, enters level 3 immediately While in Hype Mode, Energy recovery speed +200%. Damage +30%.",
+        "desc": "When using Hype, enters level 3 immediately. While in Hype Mode, Energy recovery speed +200%. Damage +30%.",
         "values": [24023, 146, 240250, 20000]
       }
     },
@@ -1805,15 +1805,15 @@
     "id": 293,
     "levels": {
       "1": {
-        "desc": "When Magick Amplification is triggered, normal skills' Cooldown -50%. During Magick Amplification, Crit Rate +10% and Crit Damage +20%.",
+        "desc": "When Arcane Torrent is triggered, normal skills' Cooldown -50%. During Arcane Torrent, Crit Rate +10% and Crit Damage +20%.",
         "values": [2500, 500187]
       },
       "2": {
-        "desc": "When Magick Amplification is triggered, normal skills' Cooldown -50%. During Magick Amplification, Crit Rate +17% and Crit Damage +35%.",
+        "desc": "When Arcane Torrent is triggered, normal skills' Cooldown -50%. During Arcane Torrent, Crit Rate +17% and Crit Damage +35%.",
         "values": [2500, 500188]
       },
       "3": {
-        "desc": "When Magick Amplification is triggered, normal skills' Cooldown -50%. During Magick Amplification, Crit Rate +25% and Crit Damage +50%.",
+        "desc": "When Arcane Torrent is triggered, normal skills' Cooldown -50%. During Arcane Torrent, Crit Rate +25% and Crit Damage +50%.",
         "values": [2500, 500189]
       }
     },
@@ -2135,15 +2135,15 @@
     "id": 310,
     "levels": {
       "1": {
-        "desc": "Damage +7% while in Burst Mode and Bloodlust Crit Rate +5%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur.",
+        "desc": "Damage +7% while in Burst Mode and Bloodlust Crit Rate +5%. Fury Meter gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur.",
         "values": [500, 500211, 2500, 10000]
       },
       "2": {
-        "desc": "Damage +15% while in Burst Mode and Bloodlust Crit Rate +10%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur.",
+        "desc": "Damage +15% while in Burst Mode and Bloodlust Crit Rate +10%. Fury Meter gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur.",
         "values": [1000, 500212, 2500, 10000]
       },
       "3": {
-        "desc": "Damage +25% while in Burst Mode and Bloodlust Crit Rate +20%. Fury gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur.",
+        "desc": "Damage +25% while in Burst Mode and Bloodlust Crit Rate +20%. Fury Meter gain -25% and Burst duration -50%. When Burst ends, Exhaustion does not occur.",
         "values": [2000, 500213, 2500, 10000]
       }
     },
