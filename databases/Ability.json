@@ -207,15 +207,15 @@
     "id": 130,
     "levels": {
       "1": {
-        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +5% and Firepower Meter duration +10s. When not in Barrage Mode, Incoming Damage -5%.",
+        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +5% and Firepower Meter duration +10s. When not in Barrage Mode, incoming Damage -5%.",
         "values": [0, 10000, 300217, 500]
       },
       "2": {
-        "desc": "When the Firepower Meter is full, Overheat effect is triggered. Normal Skill Damage +12% and Firepower Meter duration +12s. When not in Barrage Mode, Incoming Damage -10%.",
+        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +12% and Firepower Meter duration +12s. When not in Barrage Mode, incoming Damage -10%.",
         "values": [0, 12000, 300218, 1000]
       },
       "3": {
-        "desc": "When the Firepower Meter is full, Overheat effect is triggered. Normal Skill Damage +25% and Firepower Meter duration +14s. When not in Barrage Mode, Incoming Damage -15%.",
+        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +25% and Firepower Meter duration +14s. When not in Barrage Mode, incoming Damage -15%.",
         "values": [0, 14000, 300219, 1500]
       }
     },
