@@ -54,6 +54,8 @@
   "58": "Mag. Defense",
   "59": "Phy. Defense",
   "60": "Mag. Defense",
+  "65": "critical_physical_inc_rate",
+  "66": "critical_magical_inc_rate",
   "67": "Phy. Defense Piercing",
   "68": "Mag. Defense Piercing",
   "69": "Phy. Damage Reduction",

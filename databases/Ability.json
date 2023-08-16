@@ -199,7 +199,7 @@
     },
     "name": "Enhanced Weapon",
     "isnegative": false,
-    "icon": "buff_33.png",
+    "icon": "ability_242.png",
     "isengrave": true,
     "featuretype": 18
   },
@@ -273,15 +273,15 @@
     "id": 140,
     "levels": {
       "1": {
-        "desc": "When receiving fatal Damage, become invincible for 3s, recovering 50% of the Damage taken during invincibility as HP. (Cooldown: 15m)",
+        "desc": "When receiving fatal Damage, become invincible for 3s, recovering 50% of the Damage taken during invincibility as HP. Resets Movement Skill cooldown. (Cooldown: 15m)",
         "values": [500029, 500030]
       },
       "2": {
-        "desc": "When receiving fatal Damage, become invincible for 3s, recovering 50% of the Damage taken during invincibility as HP. (Cooldown: 12m)",
+        "desc": "When receiving fatal Damage, become invincible for 3s, recovering 50% of the Damage taken during invincibility as HP. Resets Movement Skill cooldown. (Cooldown: 12m)",
         "values": [500029, 500089]
       },
       "3": {
-        "desc": "When receiving fatal Damage, become invincible for 3s, recovering 50% of the Damage taken during invincibility as HP. (Cooldown: 9m)",
+        "desc": "When receiving fatal Damage, become invincible for 3s, recovering 50% of the Damage taken during invincibility as HP. Resets Movement Skill cooldown. (Cooldown: 9m)",
         "values": [500029, 500090]
       }
     },
@@ -388,9 +388,9 @@
   "189": {
     "id": 189,
     "levels": {
-      "1": { "desc": "Damage to foes +16%, but you can no longer gain Esoteric Meter." },
-      "2": { "desc": "Damage to foes +24%, but you can no longer gain Esoteric Meter." },
-      "3": { "desc": "Damage to foes +32%, but you can no longer gain Esoteric Meter." }
+      "1": { "desc": "Damage to foes +20%, but you can no longer gain Esoteric Meter." },
+      "2": { "desc": "Damage to foes +30%, but you can no longer gain Esoteric Meter." },
+      "3": { "desc": "Damage to foes +40%, but you can no longer gain Esoteric Meter." }
     },
     "name": "First Intention",
     "isnegative": false,
@@ -437,21 +437,21 @@
     "id": 192,
     "levels": {
       "1": {
-        "desc": "Can only use Handgun Stance. Handgun Skill Damage +35%. Stagger Damage +40%. Awakening Skill Damage +20%.",
-        "values": [3500, 4000, 2000]
+        "desc": "Can only use Handgun Stance. Handgun Skill Damage +35%. Awakening Skill Clay Bombardment Damage +20%. Stagger Damage +40%. Movement Skill is replaced with Relentless Assault. Each hit with Handgun Skill decreases the Cooldown of Movement Skill by 0.1s.",
+        "values": [3500, 4000, 2000, 0, 29320, 100]
       },
       "2": {
-        "desc": "Can only use Handgun Stance. Handgun Skill Damage +60%. Stagger Damage +40%. Awakening Skill Damage +30%.",
-        "values": [6000, 4000, 3000]
+        "desc": "Can only use Handgun Stance. Handgun Skill Damage +55%. Awakening Skill Clay Bombardment Damage +35%. Stagger Damage +40%. Also, Movement Skill is replaced with Relentless Assault. Each hit with Handgun Skill decreases the Cooldown of Movement Skill by 0.1s.",
+        "values": [5500, 4000, 3500, 0, 29320, 100]
       },
       "3": {
-        "desc": "Can only use Handgun Stance. Handgun Skill Damage +85%. Stagger Damage +40%. Awakening Skill Damage +40%.",
-        "values": [8500, 4000, 4000]
+        "desc": "Can only use Handgun Stance. Handgun Skill Damage +75%. Awakening Skill Clay Bombardment Damage +50%. Stagger Damage +40%. Also, Movement Skill is replaced with Relentless Assault. Each hit with Handgun Skill decreases the Cooldown of Movement Skill by 0.1s.",
+        "values": [7500, 4000, 5000, 0, 29320, 100]
       }
     },
     "name": "Pistoleer",
     "isnegative": false,
-    "icon": "buff_124.png",
+    "icon": "buff_600.png",
     "isengrave": true,
     "featuretype": 87
   },
@@ -968,7 +968,7 @@
     "levels": {
       "1": { "desc": "Damage +5% for successful back attacks.", "values": [500] },
       "2": { "desc": "Damage +12% for successful back attacks.", "values": [1200] },
-      "3": { "desc": "Damage +25% for successful back attacks.    ", "values": [2500] }
+      "3": { "desc": "Damage +25% for successful back attacks.", "values": [2500] }
     },
     "name": "Ambush Master",
     "isnegative": false,
@@ -1067,16 +1067,16 @@
     "id": 256,
     "levels": {
       "1": {
-        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype or Combat Resource Recovery. If Energy is below 30%, Damage to foes +5%.",
+        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype or Combat Resource Recovery. If Energy is 30% or below, Damage to foes +5%.",
         "values": [500, 3000]
       },
       "2": {
-        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype or Combat Resource Recovery. If Energy is below 30%, Damage to foes +10%.",
+        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype or Combat Resource Recovery. If Energy is 30% or below, Damage to foes +10%.",
         "values": [1000, 3000]
       },
       "3": {
-        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype or Combat Resource Recovery. If Energy is below 30%, Damage to foes +15%.",
-        "values": [1500, 3000]
+        "desc": "Energy does not go below 1, but additional Energy Recovery effect is not applied during Hype or Combat Resource Recovery. If Energy is 30% or below, Damage to foes +18%.",
+        "values": [1800, 3000]
       }
     },
     "name": "Energy Overflow",
@@ -1089,16 +1089,16 @@
     "id": 257,
     "levels": {
       "1": {
-        "desc": "When using Hype, enters level 3 immediately. While in Hype Mode, Energy recovery speed +200%. Damage +10%.",
-        "values": [24023, 146, 240230, 20000]
+        "desc": "Awakening Skill Damage +5%. When using Hype, enter level 3 immediately. While in Hype Mode, Energy recovery speed +300%, Damage +20%.",
+        "values": [24023, 146, 240230, 30000, 500]
       },
       "2": {
-        "desc": "When using Hype, enters level 3 immediately. While in Hype Mode, Energy recovery speed +200%. Damage +20%.",
-        "values": [24023, 146, 240240, 20000]
+        "desc": "Awakening Skill Damage +10%. When using Hype, enter level 3 immediately. While in Hype Mode, Energy recovery speed +300%, Damage +30%.",
+        "values": [24023, 146, 240240, 30000, 1000]
       },
       "3": {
-        "desc": "When using Hype, enters level 3 immediately. While in Hype Mode, Energy recovery speed +200%. Damage +30%.",
-        "values": [24023, 146, 240250, 20000]
+        "desc": "Awakening Skill Damage +20%. When using Hype, enter level 3 immediately. While in Hype Mode, Energy recovery speed +300%, Damage +40%.",
+        "values": [24023, 146, 240250, 30000, 2000]
       }
     },
     "name": "Robust Spirit",
@@ -1133,16 +1133,16 @@
     "id": 259,
     "levels": {
       "1": {
-        "desc": "When using Last Rush, recover 50% of the remaining Hawk Meter. Foe Damage received +30% for 8s.",
-        "values": [281704, 5000, 28170]
+        "desc": "On hit, outgoing Damage +3% if Silverhawk isn't summoned. When using Last Rush, recover 50% of the remaining Hawk Meter. Adds Mark of Death II to hit targets which increases their incoming Damage by 20% for 8s.",
+        "values": [281704, 5000, 28170, 300]
       },
       "2": {
-        "desc": "When using Last Rush, recover 50% of the remaining Hawk Meter. Foe Damage received +40% for 8s.",
-        "values": [281705, 5000, 28170]
+        "desc": "On hit, outgoing Damage +7% if Silverhawk isn't summoned. When using Last Rush, recover 50% of the remaining Hawk Meter. Adds Mark of Death II to hit targets which increases their incoming Damage by 25% for 8s.",
+        "values": [281705, 5000, 28170, 700]
       },
       "3": {
-        "desc": "When using Last Rush, recover 50% of the remaining Hawk Meter. Foe Damage received +50% for 8s.",
-        "values": [281706, 5000, 28170]
+        "desc": "On hit, outgoing Damage +12% if Silverhawk isn't summoned. When using Last Rush, recover 50% of the remaining Hawk Meter. Adds Mark of Death II to hit targets which increases their incoming Damage by 30% for 8s.",
+        "values": [281706, 5000, 28170, 1200]
       }
     },
     "name": "Death Strike",
@@ -1458,15 +1458,15 @@
     "id": 276,
     "levels": {
       "1": {
-        "desc": "Adds Pinnacle: Flurry/Focus I instead of the Flurry/Focus Stage 3 effect added upon changing stances while the Dual Meter is maxed at Level 3.\nPinnacle: Flurry I: Atk. Speed + 12.5%, Damage +13%, Crit Rate +20%\nPinnacle: Focus I: Move Speed +15%, Damage +16%, Crit Damage +37.5%",
+        "desc": "In addition to acquiring Flurry / Focus when switching stance, gain 40% of opposite stance's effects.",
         "values": [2]
       },
       "2": {
-        "desc": "Adds Pinnacle: Flurry/Focus II instead of the Flurry/Focus Stage 3 effect added upon changing stances while the Dual Meter is maxed at Level 3.\nPinnacle: Flurry II: Atk. Speed +13.8%, Damage +15%, Crit Rate +22.5%\nPinnacle: Focus II: Move Speed +15%, Damage +19%, Crit Damage +43.8%",
+        "desc": "In addition to acquiring Flurry / Focus when switching stance, gain 60% of opposite stance's effects.",
         "values": [3]
       },
       "3": {
-        "desc": "Adds Pinnacle: Flurry/Focus III instead of the Flurry/Focus Stage 3 effect added upon changing stances while the Dual Meter is maxed at Level 3.\nPinnacle: Flurry III: Atk. Speed + 15%, Damage +17%, Crit Rate +25%\nPinnacle: Focus III: Move Speed +15%, Damage +22%, Crit Damage +50%",
+        "desc": "In addition to acquiring Flurry / Focus when switching stance, gain 100% of opposite stance's effects.",
         "values": [4]
       }
     },
@@ -1479,9 +1479,18 @@
   "277": {
     "id": 277,
     "levels": {
-      "1": { "desc": "Cannot use Focus stance. Flurry skills Damage +20% .", "values": [2000] },
-      "2": { "desc": "Cannot use Focus stance. Flurry skills Damage +30%.", "values": [3000] },
-      "3": { "desc": "Cannot use Focus stance. Flurry skills Damage +40%.", "values": [4000] }
+      "1": {
+        "desc": "Cannot use Focus Stance. Flurry skills Damage +20%, Dual Meter gain +50%.",
+        "values": [2000, 5000]
+      },
+      "2": {
+        "desc": "Cannot use Focus Stance. Flurry skills Damage +30%, Dual Meter gain +75%.",
+        "values": [3000, 7500]
+      },
+      "3": {
+        "desc": "Cannot use Focus Stance. Flurry skills Damage +40%, Dual Meter gain +100%.",
+        "values": [4000, 10000]
+      }
     },
     "name": "Control",
     "isnegative": false,
@@ -1541,12 +1550,12 @@
         "values": [2000, 5000]
       },
       "2": {
-        "desc": "Normal Skill Damage +25%. Shadowburst Meter +50% for all skills. Disables Demonize.",
-        "values": [2500, 5000]
+        "desc": "Normal Skill Damage +28%. Shadowburst Meter +50% for all skills. Disables Demonize.",
+        "values": [2800, 5000]
       },
       "3": {
-        "desc": "Normal Skill Damage +30%. Shadowburst Meter +50% for all skills. Disables Demonize.",
-        "values": [3000, 5000]
+        "desc": "Normal Skill Damage +36%. Shadowburst Meter +50% for all skills. Disables Demonize.",
+        "values": [3600, 5000]
       }
     },
     "name": "Perfect Suppression",
@@ -1625,16 +1634,16 @@
     "id": 284,
     "levels": {
       "1": {
-        "desc": "Normal, Drone, and Joint skill Damage +15%. Max Battery +10%. Move Speed +10% when Drones are attached to a Machinist.",
-        "values": [1500, 1000, 500132]
+        "desc": "Increases Normal Skill, Drone Skill, and Joint Skill Damage by 16%. Battery max capacity +10%. Upgraded drone technology increases Drone Move Speed. When using a Joint Skill or retrieving the drone with [X], Drone Defense System triggers every 10s, generating a Shield that has 2% of Max HP for 5s. Additionally, when the drone is attached to the Machinist, caster's Move Speed +10%.",
+        "values": [1600, 1000, 500132, 500219, 10000, 200]
       },
       "2": {
-        "desc": "Normal, Drone, Joint skill Damage +20%. Max Battery +15%. Move Speed +10% when Drones are attached to a Machinist.",
-        "values": [2000, 1500, 500132]
+        "desc": "Increases Normal Skill, Drone Skill, and Joint Skill Damage by 22%. Battery max capacity +15%. Upgraded drone technology increases Drone Move Speed. When using a Joint Skill or retrieving the drone with [X], Drone Defense System triggers every 10s, generating a Shield that has 4% of Max HP for 5s. Additionally, when the drone is attached to the Machinist, caster's Move Speed +10%.",
+        "values": [2200, 1500, 500132, 500220, 10000, 200]
       },
       "3": {
-        "desc": "Normal, Drone, Joint skill Damage +25%. Max Battery +20%. Move Speed +10% when Drones are attached to a Machinist.",
-        "values": [2500, 2000, 500132]
+        "desc": "Increases Normal Skill, Drone Skill, and Joint Skill Damage by 32%. Battery max capacity +20%. Upgraded drone technology increases Drone Move Speed. When using a Joint Skill or retrieving the drone with [X], Drone Defense System triggers every 10s, generating a Shield that has 8% of Max HP for 5s. Additionally, when the drone is attached to the Machinist, caster's Move Speed +10%.",
+        "values": [3200, 2000, 500132, 500221, 10000, 200]
       }
     },
     "name": "Arthetinean Skill",
@@ -1783,16 +1792,16 @@
     "id": 292,
     "levels": {
       "1": {
-        "desc": "Only 1 Esoteric Orb is used when using Esoteric Skill, and Esoteric Skill Damage +8%.",
-        "values": [-800, 1]
+        "desc": "Only 1 Esoteric Orb is used when using Esoteric Skill, and Esoteric Skill Damage +15%.",
+        "values": [-1500, 1]
       },
       "2": {
-        "desc": "Only 1 Esoteric Orb is used when using Esoteric Skill, and Esoteric Skill Damage +13%.",
-        "values": [-1300, 1]
+        "desc": "Only 1 Esoteric Orb is used when using Esoteric Skill, and Esoteric Skill Damage +22%.",
+        "values": [-2200, 1]
       },
       "3": {
-        "desc": "Only 1 Esoteric Orb is used when using Esoteric Skill, and Esoteric Skill Damage +18%.",
-        "values": [-1800, 1]
+        "desc": "Only 1 Esoteric Orb is used when using Esoteric Skill, and Esoteric Skill Damage +30%.",
+        "values": [-3000, 1]
       }
     },
     "name": "Esoteric Flurry",
@@ -1805,15 +1814,15 @@
     "id": 293,
     "levels": {
       "1": {
-        "desc": "When Arcane Torrent is triggered, normal skills' Cooldown -50%. During Arcane Torrent, Crit Rate +10% and Crit Damage +20%.",
+        "desc": "When Arcane Torrent is triggered, remaining skills Cooldown -50% (except Movement Skills and Awakening Skills). During Arcane Torrent, Crit Rate +10% and Crit Damage +10%.",
         "values": [2500, 500187]
       },
       "2": {
-        "desc": "When Arcane Torrent is triggered, normal skills' Cooldown -50%. During Arcane Torrent, Crit Rate +17% and Crit Damage +35%.",
+        "desc": "When Arcane Torrent is triggered, remaining skills Cooldown -50% (except Movement Skills and Awakening Skills). During Arcane Torrent, Crit Rate +17% and Crit Damage +25%.",
         "values": [2500, 500188]
       },
       "3": {
-        "desc": "When Arcane Torrent is triggered, normal skills' Cooldown -50%. During Arcane Torrent, Crit Rate +25% and Crit Damage +50%.",
+        "desc": "When Arcane Torrent is triggered, remaining skills Cooldown -50% (except Movement Skills and Awakening Skills). During Arcane Torrent, Crit Rate +25% and Crit Damage +40%.",
         "values": [2500, 500189]
       }
     },
@@ -2077,37 +2086,45 @@
     "id": 307,
     "levels": {
       "1": {
-        "desc": "Crit Rate +7% of the basic Move Speed Bonus percentage, and Crit damage +22% of the basic Atk. Speed Increase percentage. If Umbrella skill is used and then again within 3s, recover max 12% of Raindrop Meter. Sun Shower is enhanced and counts as an Umbrella skill. Sun Shower AoE radius is reduced and Raindrop Meter consumption +50%. Foes no longer receive the Atk. Power Reduction effect, but Atk. Speed and Move Speed Increase of allies +12%."
+        "desc": "Crit Rate +7% of the basic Move Speed Bonus percentage, and Crit damage +22% of the basic Atk. Speed Increase percentage. If Umbrella skill is used and then again within 3s, recover max 12% of Raindrop Meter. Sun Shower is enhanced and counts as an Umbrella skill. Sun Shower AoE radius is reduced and Raindrop Meter consumption +50%. Foes no longer receive the Atk. Power Reduction effect, but Atk. Speed and Move Speed Increase of allies +12%.",
+        "values": [500200, 32041, 5000, 2200, 700, 1200]
       },
       "2": {
-        "desc": "Crit Rate +15% of the basic Move Speed Bonus percentage, and Crit damage +45% of the basic Atk. Speed Increase percentage. If Umbrella skill is used and then again within 3s, recover max 12% of Raindrop Meter. Sun Shower is enhanced and counts as an Umbrella skill. Sun Shower AoE radius is reduced and Raindrop Meter consumption +50%. Foes no longer receive the Atk. Power Reduction effect, but Atk. Speed and Move Speed Increase of allies +12%. "
+        "desc": "Crit Rate +15% of the basic Move Speed Bonus percentage, and Crit damage +45% of the basic Atk. Speed Increase percentage. If Umbrella skill is used and then again within 3s, recover max 12% of Raindrop Meter. Sun Shower is enhanced and counts as an Umbrella skill. Sun Shower AoE radius is reduced and Raindrop Meter consumption +50%. Foes no longer receive the Atk. Power Reduction effect, but Atk. Speed and Move Speed Increase of allies +12%. ",
+        "values": [500201, 32041, 5000, 4500, 1500, 1200]
       },
       "3": {
-        "desc": "Crit Rate +30% of the basic Move Speed Bonus percentage, and Crit damage +90% of the basic Atk. Speed Increase percentage. If Umbrella skill is used and then again within 3s, recover max 12% of Raindrop Meter. Sun Shower is enhanced and counts as an Umbrella skill. Sun Shower AoE radius is reduced and Raindrop Meter consumption +50%. Foes no longer receive the Atk. Power Reduction effect, but Atk. Speed and Move Speed Increase of allies +12%."
+        "desc": "Crit Rate +30% of the basic Move Speed Bonus percentage, and Crit damage +90% of the basic Atk. Speed Increase percentage. If Umbrella skill is used and then again within 3s, recover max 12% of Raindrop Meter. Sun Shower is enhanced and counts as an Umbrella skill. Sun Shower AoE radius is reduced and Raindrop Meter consumption +50%. Foes no longer receive the Atk. Power Reduction effect, but Atk. Speed and Move Speed Increase of allies +12%.",
+        "values": [500202, 32041, 5000, 9000, 3000, 1200]
       }
     },
-    "name": "Nothing Can Stop Me",
+    "name": "Wind Fury",
     "isnegative": false,
     "icon": "ability_258.png",
-    "isengrave": true
+    "isengrave": true,
+    "featuretype": 345
   },
   "308": {
     "id": 308,
     "levels": {
       "1": {
-        "desc": "Sun Shower's Raindrop Meter consumption decreases by 50%. While Sun Shower is active, damage dealt by Weather skills increases by 7%."
+        "desc": "Sun Shower's Raindrop Meter consumption decreases by 50%. While Sun Shower is active, damage dealt by Weather skills increases by 7%.",
+        "values": [32040, 5000, 700]
       },
       "2": {
-        "desc": "Sun Shower's Raindrop Meter consumption decreases by 50%. While Sun Shower is active, damage dealt by Weather skills increases by 15%."
+        "desc": "Sun Shower's Raindrop Meter consumption decreases by 50%. While Sun Shower is active, damage dealt by Weather skills increases by 15%.",
+        "values": [32040, 5000, 1500]
       },
       "3": {
-        "desc": "Sun Shower's Raindrop Meter consumption decreases by 50%. While Sun Shower is active, damage dealt by Weather skills increases by 30%."
+        "desc": "Sun Shower's Raindrop Meter consumption decreases by 50%. While Sun Shower is active, damage dealt by Weather skills increases by 30%.",
+        "values": [32040, 5000, 3000]
       }
     },
     "name": "Drizzle",
     "isnegative": false,
     "icon": "ability_259.png",
-    "isengrave": true
+    "isengrave": true,
+    "featuretype": 344
   },
   "309": {
     "id": 309,
@@ -2153,93 +2170,34 @@
     "isengrave": true,
     "featuretype": 347
   },
-  "100": {
-    "id": 100,
-    "levels": { "1": { "desc": "Atk. Power +30%." } },
-    "name": "Atk. Power",
+  "311": {
+    "id": 311,
+    "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
+    "name": "세번의 부름",
     "isnegative": false,
-    "icon": "",
+    "icon": "ability_263.png",
     "isengrave": true
   },
-  "101": {
-    "id": 101,
-    "levels": { "1": { "desc": "Crit Damage +80%" } },
-    "name": "Crit Damage",
+  "312": {
+    "id": 312,
+    "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
+    "name": "아사르의 낫",
     "isnegative": false,
-    "icon": "",
+    "icon": "ability_264.png",
     "isengrave": true
   },
-  "102": {
-    "id": 102,
-    "levels": { "1": { "desc": "Atk. Speed +20%" } },
-    "name": "Atk. Speed",
+  "313": {
+    "id": 313,
+    "levels": {
+      "1": { "desc": "위기모면3", "values": [900605, 900606] },
+      "2": { "desc": "위기모면3", "values": [900605, 900606] },
+      "3": { "desc": "위기모면3", "values": [900605, 900606] }
+    },
+    "name": "위기모면3",
     "isnegative": false,
     "icon": "",
-    "isengrave": true
-  },
-  "104": {
-    "id": 104,
-    "levels": { "1": { "desc": "HP +30%." } },
-    "name": "HP",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "105": {
-    "id": 105,
-    "levels": { "1": { "desc": "Move Speed +20%" } },
-    "name": "Move Speed",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "169": {
-    "id": 169,
-    "levels": { "1": { "desc": "Fire Damage +45%." } },
-    "name": "Fire Damage",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "171": {
-    "id": 171,
-    "levels": { "1": { "desc": "Lightning Damage +45%." } },
-    "name": "Lightning Damage",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "172": {
-    "id": 172,
-    "levels": { "1": { "desc": "Water Damage +45%." } },
-    "name": "Water Damage",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "173": {
-    "id": 173,
-    "levels": { "1": { "desc": "Earth Damage +45%." } },
-    "name": "Earth Damage",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "174": {
-    "id": 174,
-    "levels": { "1": { "desc": "Holy Damage +45%." } },
-    "name": "Holy Damage",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "175": {
-    "id": 175,
-    "levels": { "1": { "desc": "Dark Damage +45%." } },
-    "name": "Dark Damage",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
+    "isengrave": false,
+    "featuretype": 350
   },
   "176": {
     "id": 176,
@@ -2340,14 +2298,6 @@
     "isengrave": true,
     "featuretype": 81
   },
-  "113": {
-    "id": 113,
-    "levels": { "1": { "desc": "Dark Damage -60%." } },
-    "name": "Dark Resistance",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
   "122": {
     "id": 122,
     "levels": { "1": { "desc": "Stun Immunity", "values": [100001] } },
@@ -2356,46 +2306,6 @@
     "icon": "",
     "isengrave": true,
     "featuretype": 13
-  },
-  "143": {
-    "id": 143,
-    "levels": { "1": { "desc": "Fire Damage -60%." } },
-    "name": "Fire Resistance",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "145": {
-    "id": 145,
-    "levels": { "1": { "desc": "Lightning Damage +60%." } },
-    "name": "Lightning Resistance",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "146": {
-    "id": 146,
-    "levels": { "1": { "desc": "Water Damage -60%." } },
-    "name": "Water Resistance",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "147": {
-    "id": 147,
-    "levels": { "1": { "desc": "Earth Damage -60%." } },
-    "name": "Earth Resistance",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "148": {
-    "id": 148,
-    "levels": { "1": { "desc": "Holy Damage -60%." } },
-    "name": "Holy Resistance",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
   },
   "149": {
     "id": 149,
@@ -2459,46 +2369,6 @@
     "icon": "",
     "isengrave": true,
     "featuretype": 35
-  },
-  "159": {
-    "id": 159,
-    "levels": { "1": { "desc": "Physical Piercing +60%." } },
-    "name": "Phy. Defense Piercing",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "160": {
-    "id": 160,
-    "levels": { "1": { "desc": "Magick Piercing +60%." } },
-    "name": "Mag. Defense Piercing",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "162": {
-    "id": 162,
-    "levels": { "1": { "desc": "Crit Resistance +60%." } },
-    "name": "Crit Resistance",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "163": {
-    "id": 163,
-    "levels": { "1": { "desc": "Phy. Defense +150%." } },
-    "name": "Phy. Defense",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
-  },
-  "164": {
-    "id": 164,
-    "levels": { "1": { "desc": "Mag. Defense +150%." } },
-    "name": "Mag. Defense",
-    "isnegative": false,
-    "icon": "",
-    "isengrave": true
   },
   "800": {
     "id": 800,
@@ -2780,6 +2650,22 @@
     "icon": "ability_100.png",
     "isengrave": false
   },
+  "10101": {
+    "id": 10101,
+    "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
+    "name": "오레하/아르고스 1",
+    "isnegative": false,
+    "icon": "ability_100.png",
+    "isengrave": false
+  },
+  "10102": {
+    "id": 10102,
+    "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
+    "name": "오레하/아르고스 2",
+    "isnegative": false,
+    "icon": "ability_100.png",
+    "isengrave": false
+  },
   "77300001": {
     "id": 77300001,
     "levels": {
@@ -2874,13 +2760,13 @@
     "id": 77392310,
     "levels": {
       "1": {
-        "desc": "Normal, Drone, and Joint skill Damage +15%. Max Battery +10%. Move Speed +10% when Drones are attached to a Machinist."
+        "desc": "Increases Normal Skill, Drone Skill, and Joint Skill Damage by 16%. Battery max capacity +10%. Upgraded drone technology increases Drone Move Speed. When using a Joint Skill or retrieving the drone with [X], Drone Defense System triggers every 10s, generating a Shield that has 2% of Max HP for 5s. Additionally, when the drone is attached to the Machinist, caster's Move Speed +10%."
       },
       "2": {
-        "desc": "Normal, Drone, Joint skill Damage +20%. Max Battery +15%. Move Speed +10% when Drones are attached to a Machinist."
+        "desc": "Increases Normal Skill, Drone Skill, and Joint Skill Damage by 22%. Battery max capacity +15%. Upgraded drone technology increases Drone Move Speed. When using a Joint Skill or retrieving the drone with [X], Drone Defense System triggers every 10s, generating a Shield that has 4% of Max HP for 5s. Additionally, when the drone is attached to the Machinist, caster's Move Speed +10%."
       },
       "3": {
-        "desc": "Normal, Drone, Joint skill Damage +25%. Max Battery +20%. Move Speed +10% when Drones are attached to a Machinist."
+        "desc": "Increases Normal Skill, Drone Skill, and Joint Skill Damage by 32%. Battery max capacity +20%. Upgraded drone technology increases Drone Move Speed. When using a Joint Skill or retrieving the drone with [X], Drone Defense System triggers every 10s, generating a Shield that has 8% of Max HP for 5s. Additionally, when the drone is attached to the Machinist, caster's Move Speed +10%."
       }
     },
     "name": "Arthetinean Skill",
