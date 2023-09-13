@@ -207,15 +207,15 @@
     "id": 130,
     "levels": {
       "1": {
-        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +5% and Firepower Meter duration +10s. When not in Barrage Mode, incoming Damage -5%.",
+        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +7% and Firepower Meter duration +10s. When not in Barrage Mode, incoming Damage -5%.",
         "values": [0, 10000, 300217, 500]
       },
       "2": {
-        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +12% and Firepower Meter duration +12s. When not in Barrage Mode, incoming Damage -10%.",
+        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +14% and Firepower Meter duration +12s. When not in Barrage Mode, incoming Damage -10%.",
         "values": [0, 12000, 300218, 1000]
       },
       "3": {
-        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +25% and Firepower Meter duration +14s. When not in Barrage Mode, incoming Damage -15%.",
+        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +28% and Firepower Meter duration +14s. When not in Barrage Mode, incoming Damage -15%.",
         "values": [0, 14000, 300219, 1500]
       }
     },
@@ -388,9 +388,9 @@
   "189": {
     "id": 189,
     "levels": {
-      "1": { "desc": "Damage to foes +20%, but you can no longer gain Esoteric Meter." },
-      "2": { "desc": "Damage to foes +30%, but you can no longer gain Esoteric Meter." },
-      "3": { "desc": "Damage to foes +40%, but you can no longer gain Esoteric Meter." }
+      "1": { "desc": "Damage to foes +30%, but you can no longer raise your Esoteric Meter." },
+      "2": { "desc": "Damage to foes +40%, but you can no longer raise your Esoteric Meter." },
+      "3": { "desc": "Damage to foes +50%, but you can no longer raise your Esoteric Meter." }
     },
     "name": "First Intention",
     "isnegative": false,
@@ -402,16 +402,16 @@
     "id": 190,
     "levels": {
       "1": {
-        "desc": "Natural recovery speed of Stamina Energy +300%. Stamina skill Damage +35%. Shock Skill Damage -30%.",
-        "values": [30000, 3500, 3000]
+        "desc": "Natural recovery speed of Stamina Energy +300%. Stamina Skill Damage +40%. Shock Skill Damage -30%.",
+        "values": [30000, 4000, 3000]
       },
       "2": {
-        "desc": "Natural recovery speed of Stamina Energy +450%. Stamina Skill Damage +50%. Shock Skill Damage -30%.",
-        "values": [45000, 5000, 3000]
+        "desc": "Natural recovery speed of Stamina Energy +450%. Stamina Skill Damage +55%. Shock Skill Damage -30%.",
+        "values": [45000, 5500, 3000]
       },
       "3": {
-        "desc": "Natural recovery speed of Stamina Energy +600%. Stamina Skill Damage +65%. Shock Skill Damage -30%.",
-        "values": [60000, 6500, 3000]
+        "desc": "Natural recovery speed of Stamina Energy +600%. Stamina Skill Damage +70%. Shock Skill Damage -30%.",
+        "values": [60000, 7000, 3000]
       }
     },
     "name": "Ultimate Skill: Taijutsu",
@@ -1502,15 +1502,15 @@
     "id": 278,
     "levels": {
       "1": {
-        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +6% and Atk. Power +(11%, 22%, 33%) depending on the number of Death Orbs available when using Deathblade Surge, for 30s.",
+        "desc": "Art Meter does not drain for 2s when Art is activated. Atk./Move Speed +6% and Atk. Power +(12%, 24%, 36%) depending on the Surge level when using Surge, for 30s.",
         "values": [500120, 500121, 500122, 2000]
       },
       "2": {
-        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +9% and Atk. Power +(13%, 26%, 39%) depending on the number of Death Orbs available when using Deathblade Surge, for 30s.",
+        "desc": "Art Meter does not drain for 2s when Art is activated. Atk./Move Speed +9% and Atk. Power +(14%, 28%, 42%) depending on the Surge level when using Surge, for 30s.",
         "values": [500123, 500124, 500125, 2000]
       },
       "3": {
-        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +12% and Atk. Power +(16%, 32%, 48%) depending on the number of Death Orbs available when using Deathblade Surge, for 30s.",
+        "desc": "Art Meter does not drain for 2s when Art is activated. Atk./Move Speed +12% and Atk. Power +(18%, 36%, 54%) depending on the Surge level when using Surge, for 30s.",
         "values": [500143, 500144, 500145, 2000]
       }
     },
@@ -1836,16 +1836,16 @@
     "id": 294,
     "levels": {
       "1": {
-        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +10% and Cooldown -3%. ",
-        "values": [37110, 0, 1000, 300]
+        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +16% and Cooldown -3%. ",
+        "values": [37110, 0, 1600, 300]
       },
       "2": {
-        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +15% and Cooldown -6%. ",
-        "values": [37110, 0, 1500, 600]
+        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +22% and Cooldown -6%. ",
+        "values": [37110, 0, 2200, 600]
       },
       "3": {
-        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +20% and Cooldown -10%. ",
-        "values": [37110, 0, 2000, 1000]
+        "desc": "Disables Arcane Rupture, but Damage of skills (except Awakening and Movement skills) +28% and Cooldown -10%. ",
+        "values": [37110, 0, 2800, 1000]
       }
     },
     "name": "Reflux",

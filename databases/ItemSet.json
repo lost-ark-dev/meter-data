@@ -674,7 +674,7 @@
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000126, "value": 0 }]
         },
         "6": {
-          "desc": "When 'Magick Addiction' is active, Damage to foes +<FONT COLOR='#99FF99'>15%</FONT>. \nWhen 'Boundless MP' is active, Atk./Move Speed +<FONT COLOR='#99FF99'>3%</FONT> and Cooldown -<FONT COLOR='#99FF99'>15%</FONT>.",
+          "desc": "When \"Magick Addiction\" is active, Damage to foes +<FONT COLOR='#99FF99'>15%</FONT>. \nWhen \"Boundless MP\" is active, Atk./Move Speed +<FONT COLOR='#99FF99'>3%</FONT> and Cooldown -<FONT COLOR='#99FF99'>15%</FONT>.",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000127, "value": 0 }]
         }
       }
@@ -698,7 +698,7 @@
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000126, "value": 0 }]
         },
         "6": {
-          "desc": "When 'Magick Addiction' is active, Damage to foes +<FONT COLOR='#99FF99'>18%</FONT>. \nWhen 'Boundless MP' is active, Atk./Move Speed +<FONT COLOR='#99FF99'>3%</FONT> and Cooldown -<FONT COLOR='#99FF99'>18%</FONT>.",
+          "desc": "When \"Magick Addiction\" is active, Damage to foes +<FONT COLOR='#99FF99'>18%</FONT>. \nWhen \"Boundless MP\" is active, Atk./Move Speed +<FONT COLOR='#99FF99'>3%</FONT> and Cooldown -<FONT COLOR='#99FF99'>18%</FONT>.",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000127, "value": 0 }]
         }
       }
