@@ -126,5 +126,6 @@
   "147": "skill_damage_sub_rate_1",
   "148": "skill_damage_sub_rate_2",
   "149": "Basic Combat Resource Natural Recovery rate",
-  "151": "Weapon Power"
+  "151": "Weapon Power",
+  "152": "weapon_dam_x"
 }

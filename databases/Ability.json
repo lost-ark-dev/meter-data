@@ -164,7 +164,7 @@
     },
     "name": "Mayhem",
     "isnegative": false,
-    "icon": "buff_173.png",
+    "icon": "ability_270.png",
     "isengrave": true,
     "featuretype": 16
   },
@@ -221,7 +221,7 @@
     },
     "name": "Firepower Enhancement",
     "isnegative": false,
-    "icon": "buff_171.png",
+    "icon": "ability_271.png",
     "isengrave": true,
     "featuretype": 19
   },
@@ -381,16 +381,16 @@
     },
     "name": "Berserker's Technique",
     "isnegative": false,
-    "icon": "buff_138.png",
+    "icon": "ability_269.png",
     "isengrave": true,
     "featuretype": 83
   },
   "189": {
     "id": 189,
     "levels": {
-      "1": { "desc": "Damage to foes +30%, but you can no longer raise your Esoteric Meter." },
-      "2": { "desc": "Damage to foes +40%, but you can no longer raise your Esoteric Meter." },
-      "3": { "desc": "Damage to foes +50%, but you can no longer raise your Esoteric Meter." }
+      "1": { "desc": "Damage to foes +30%, but you can no longer gain Esoteric Meter." },
+      "2": { "desc": "Damage to foes +40%, but you can no longer gain Esoteric Meter." },
+      "3": { "desc": "Damage to foes +50%, but you can no longer gain Esoteric Meter." }
     },
     "name": "First Intention",
     "isnegative": false,
@@ -495,7 +495,7 @@
     },
     "name": "True Courage",
     "isnegative": false,
-    "icon": "buff_220.png",
+    "icon": "ability_275.png",
     "isengrave": true,
     "featuretype": 89
   },
@@ -517,7 +517,7 @@
     },
     "name": "Desperate Salvation",
     "isnegative": false,
-    "icon": "buff_135.png",
+    "icon": "ability_276.png",
     "isengrave": true,
     "featuretype": 90
   },
@@ -561,7 +561,7 @@
     },
     "name": "Gravity Training",
     "isnegative": false,
-    "icon": "buff_42.png",
+    "icon": "ability_268.png",
     "isengrave": true,
     "featuretype": 92
   },
@@ -605,7 +605,7 @@
     },
     "name": "Communication Overflow",
     "isnegative": false,
-    "icon": "buff_21.png",
+    "icon": "ability_274.png",
     "isengrave": true,
     "featuretype": 94
   },
@@ -618,7 +618,7 @@
     },
     "name": "Empress's Grace",
     "isnegative": false,
-    "icon": "buff_1.png",
+    "icon": "ability_272.png",
     "isengrave": true,
     "featuretype": 95
   },
@@ -640,7 +640,7 @@
     },
     "name": "Order of the Emperor",
     "isnegative": false,
-    "icon": "buff_236.png",
+    "icon": "ability_273.png",
     "isengrave": true,
     "featuretype": 96
   },
@@ -701,7 +701,7 @@
     },
     "name": "Combat Readiness",
     "isnegative": false,
-    "icon": "buff_19.png",
+    "icon": "ability_266.png",
     "isengrave": true,
     "featuretype": 100
   },
@@ -723,7 +723,7 @@
     },
     "name": "Lone Knight",
     "isnegative": false,
-    "icon": "buff_13.png",
+    "icon": "ability_267.png",
     "isengrave": true,
     "featuretype": 101
   },
@@ -1125,7 +1125,7 @@
     },
     "name": "Loyal Companion",
     "isnegative": false,
-    "icon": "buff_77.png",
+    "icon": "ability_47.png",
     "isengrave": true,
     "featuretype": 123
   },
@@ -1502,15 +1502,15 @@
     "id": 278,
     "levels": {
       "1": {
-        "desc": "Art Meter does not drain for 2s when Art is activated. Atk./Move Speed +6% and Atk. Power +(12%, 24%, 36%) depending on the Surge level when using Surge, for 30s.",
+        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +6% and Atk. Power +(12%, 24%, 36%) for 30s when using Surge, depending on the Surge level.",
         "values": [500120, 500121, 500122, 2000]
       },
       "2": {
-        "desc": "Art Meter does not drain for 2s when Art is activated. Atk./Move Speed +9% and Atk. Power +(14%, 28%, 42%) depending on the Surge level when using Surge, for 30s.",
+        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +9% and Atk. Power +(14%, 28%, 42%) for 30s when using Surge, depending on the Surge level.",
         "values": [500123, 500124, 500125, 2000]
       },
       "3": {
-        "desc": "Art Meter does not drain for 2s when Art is activated. Atk./Move Speed +12% and Atk. Power +(18%, 36%, 54%) depending on the Surge level when using Surge, for 30s.",
+        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +12% and Atk. Power +(18%, 36%, 54%) for 30s when using Surge, depending on the Surge level.",
         "values": [500143, 500144, 500145, 2000]
       }
     },
@@ -2172,19 +2172,47 @@
   },
   "311": {
     "id": 311,
-    "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
-    "name": "세번의 부름",
+    "levels": {
+      "1": {
+        "desc": "Crit Rate +3%. Upon using Soul Stone, recover Possession Meter by 5%. Upon entering while in Deathlord Mode, the cooldown of Deathlord Skills resets and Deathlord Skills's Damage while in Deathlord Mode +5%, Deathlord Skills's cooldown -50%.",
+        "values": [300, 500, 5000, 500]
+      },
+      "2": {
+        "desc": "Crit Rate +8%. Upon using Soul Stone, recover Possession Meter by 5%. Upon entering while in Deathlord Mode, the cooldown of Deathlord Skills resets and Deathlord Skills's Damage while in Deathlord Mode +10%, Deathlord Skills's cooldown -60%.",
+        "values": [800, 1000, 6000, 500]
+      },
+      "3": {
+        "desc": "Crit Rate +14%. Upon using Soul Stone, recover Possession Meter by 5%. Upon entering while in Deathlord Mode, the cooldown of Deathlord Skills resets and Deathlord Skills's Damage while in Deathlord Mode +15%, Deathlord Skills's cooldown -70%.",
+        "values": [1400, 1500, 7000, 500]
+      }
+    },
+    "name": "Full Moon Harvester",
     "isnegative": false,
     "icon": "ability_263.png",
-    "isengrave": true
+    "isengrave": true,
+    "featuretype": 348
   },
   "312": {
     "id": 312,
-    "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
-    "name": "아사르의 낫",
+    "levels": {
+      "1": {
+        "desc": "Possession Meter turns into Edge Meter, disabling Deathlord Mode. Edge Meter increases upon using Deathlord Skills. When the Edge Meter is full, Deathlord Skills are disabled for 12s, but Ghast Skills are enhanced. Using Deathlord Skills does not consume Soul Stones. However, upon gathering 3 Soul Stones, instead of consuming all, the enhanced Deathlord Skills are used. Ghast and Deathlord Skills's Damage +20%. Additionally, the enhanced Deathlord Skills's Damage +25%.",
+        "values": [1000, 3000, 12000, 4000, 6000, 2000, 2500]
+      },
+      "2": {
+        "desc": "Possession Meter turns into Edge Meter, disabling Deathlord Mode. Edge Meter increases upon using Deathlord Skills. When the Edge Meter is full, Deathlord Skills are disabled for 12s, but Ghast Skills are enhanced. Using Deathlord Skills does not consume Soul Stones. However, upon gathering 3 Soul Stones, instead of consuming all, the enhanced Deathlord Skills are used. Ghast and Deathlord Skills's Damage +30%. Additionally, the enhanced Deathlord Skills's Damage +35%.",
+        "values": [1000, 3000, 12000, 4000, 6000, 3000, 3500]
+      },
+      "3": {
+        "desc": "Possession Meter turns into Edge Meter, disabling Deathlord Mode. Edge Meter increases upon using Deathlord Skills. When the Edge Meter is full, Deathlord Skills are disabled for 12s, but Ghast Skills are enhanced. Using Deathlord Skills does not consume Soul Stones. However, upon gathering 3 Soul Stones, instead of consuming all, the enhanced Deathlord Skills are used. Ghast and Deathlord Skills's Damage +40%. Additionally, the enhanced Deathlord Skills's Damage +50%.",
+        "values": [1000, 3000, 12000, 4000, 6000, 4000, 5000]
+      }
+    },
+    "name": "Night's Edge",
     "isnegative": false,
     "icon": "ability_264.png",
-    "isengrave": true
+    "isengrave": true,
+    "featuretype": 349
   },
   "313": {
     "id": 313,
@@ -2662,6 +2690,22 @@
     "id": 10102,
     "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
     "name": "오레하/아르고스 2",
+    "isnegative": false,
+    "icon": "ability_100.png",
+    "isengrave": false
+  },
+  "10200": {
+    "id": 10200,
+    "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
+    "name": "초월 상의 5별 효과",
+    "isnegative": false,
+    "icon": "ability_100.png",
+    "isengrave": false
+  },
+  "10201": {
+    "id": 10201,
+    "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
+    "name": "초월 하의 10별 효과",
     "isnegative": false,
     "icon": "ability_100.png",
     "isengrave": false
