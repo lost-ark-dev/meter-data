@@ -1190,7 +1190,7 @@
   },
   "211": {
     "id": 211,
-    "levels": { "1": { "desc": "Net Casting is always available, but it costs 5 Fishing Tools.", "values": [4] } },
+    "levels": { "1": { "desc": "Net Fishing is always available, but it costs 5 Fishing Tools.", "values": [4] } },
     "name": "Master Net Caster",
     "isnegative": false,
     "icon": "ability_96.png",

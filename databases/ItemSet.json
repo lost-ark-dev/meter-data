@@ -313,7 +313,7 @@
       ],
       "value": {
         "2": {
-          "desc": "Creates a Powerful Ether with the Ether Enhancement Engraving Effect that only you can use within <FONT COLOR='#99ff99'>3</FONT> meters. (Cooldown: <FONT COLOR='#99ff99'>1m</FONT>)\nEther generation Cooldown -<FONT COLOR='#99ff99'>3s</FONT>.",
+          "desc": "Creates a Powerful Ether with the Ether Enhancement Engraving Effect that only you can use within <FONT COLOR='#99ff99'>3</FONT> meters. (Cooldown: <FONT COLOR='#99ff99'>1m</FONT>)\nEther Generation Cooldown -<FONT COLOR='#99ff99'>3s</FONT>.",
           "options": [
             { "type": "combat_effect", "keystat": "none", "keyindex": 600000110, "value": 0 },
             { "type": "combat_effect_cooldown_reduction", "keystat": "none", "keyindex": 600000112, "value": -3000 },
@@ -346,7 +346,7 @@
       ],
       "value": {
         "2": {
-          "desc": "Creates a Powerful Ether with the Ether Enhancement Engraving Effect that only you can use within <FONT COLOR='#99ff99'>3</FONT> meters. Cooldown: <FONT COLOR='#99ff99'>1m</FONT>.\nEther generation Cooldown -<FONT COLOR='#99ff99'>5s</FONT>.",
+          "desc": "Creates a Powerful Ether with the Ether Enhancement Engraving Effect that only you can use within <FONT COLOR='#99ff99'>3</FONT> meters. Cooldown: <FONT COLOR='#99ff99'>1m</FONT>.\nEther Generation Cooldown -<FONT COLOR='#99ff99'>5s</FONT>.",
           "options": [
             { "type": "combat_effect", "keystat": "none", "keyindex": 600000110, "value": 0 },
             { "type": "combat_effect_cooldown_reduction", "keystat": "none", "keyindex": 600000112, "value": -5000 },
@@ -354,7 +354,7 @@
           ]
         },
         "4": {
-          "desc": "Creates another Powerful Ether. Damage dealt to foes increases proportionally to the number of Ethers of the same type. Ether generation Cooldown -<FONT COLOR='#99ff99'>6s</FONT>.",
+          "desc": "Creates another Powerful Ether. Damage dealt to foes increases proportionally to the number of Ethers of the same type. Ether Generation Cooldown -<FONT COLOR='#99ff99'>6s</FONT>.",
           "options": [
             { "type": "combat_effect", "keystat": "none", "keyindex": 600000111, "value": 0 },
             { "type": "combat_effect_cooldown_reduction", "keystat": "none", "keyindex": 600000112, "value": -6000 },
@@ -362,7 +362,7 @@
           ]
         },
         "6": {
-          "desc": "Creates a max of <FONT COLOR='#99ff99'>3</FONT> Ether. Transcendence is activated when <FONT COLOR='#99ff99'>3</FONT> different Ether effects are active.\nEther generation Cooldown -<FONT COLOR='#99ff99'>7s</FONT>.\nTranscendence: Atk. Speed +<FONT COLOR='#99ff99'>40%</FONT>. Skill Cooldown (excluding Movement Skills and Awakening Skills) -<FONT COLOR='#99ff99'>50%</FONT>.\nPeriodically removes all debuffs, and restores MP and Specialty Meter by <FONT COLOR='#99ff99'>100%</FONT>.",
+          "desc": "Creates a max of <FONT COLOR='#99ff99'>3</FONT> Ether. Transcendence is activated when <FONT COLOR='#99ff99'>3</FONT> different Ether effects are active.\nEther Generation Cooldown -<FONT COLOR='#99ff99'>7s</FONT>.\nTranscendence: Atk. Speed +<FONT COLOR='#99ff99'>40%</FONT>. Skill Cooldown (excluding Movement Skills and Awakening Skills) -<FONT COLOR='#99ff99'>50%</FONT>.\nPeriodically removes all debuffs, and restores MP and Specialty Meter by <FONT COLOR='#99ff99'>100%</FONT>.",
           "options": [
             { "type": "combat_effect", "keystat": "none", "keyindex": 600000112, "value": 0 },
             { "type": "combat_effect_cooldown_reduction", "keystat": "none", "keyindex": 600000112, "value": -7000 },
