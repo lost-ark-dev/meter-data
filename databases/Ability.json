@@ -207,15 +207,15 @@
     "id": 130,
     "levels": {
       "1": {
-        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +7% and Firepower Meter duration +10s. When not in Barrage Mode, incoming Damage -5%.",
+        "desc": "If Firepower Level 1 or more, Overheat is triggered. Normal Skill Damage +7% and Firepower Meter duration +10s. When not in Barrage Mode, incoming Damage -5%.",
         "values": [0, 10000, 300217, 500]
       },
       "2": {
-        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +14% and Firepower Meter duration +12s. When not in Barrage Mode, incoming Damage -10%.",
+        "desc": "If Firepower Level 1 or more, Overheat is triggered. Normal Skill Damage +14% and Firepower Meter duration +12s. When not in Barrage Mode, incoming Damage -10%.",
         "values": [0, 12000, 300218, 1000]
       },
       "3": {
-        "desc": "When the Firepower Meter is full, Overheat is triggered. Normal Skill Damage +28% and Firepower Meter duration +14s. When not in Barrage Mode, incoming Damage -15%.",
+        "desc": "If Firepower Level 1 or more, Overheat is triggered. Normal Skill Damage +28% and Firepower Meter duration +14s. When not in Barrage Mode, incoming Damage -15%.",
         "values": [0, 14000, 300219, 1500]
       }
     },
@@ -402,16 +402,16 @@
     "id": 190,
     "levels": {
       "1": {
-        "desc": "Natural recovery speed of Stamina Energy +300%. Stamina Skill Damage +40%. Shock Skill Damage -30%.",
-        "values": [30000, 4000, 3000]
+        "desc": "Natural recovery speed of Stamina Energy +300%. Stamina Skill Damage +25%. Shock Skill Damage -30%. Gain 3 Tenacious Power when using Stamina Skills. Gain Paralysis Immunity in Tenacity Release state.",
+        "values": [30000, 2500, 3000, 300]
       },
       "2": {
-        "desc": "Natural recovery speed of Stamina Energy +450%. Stamina Skill Damage +55%. Shock Skill Damage -30%.",
-        "values": [45000, 5500, 3000]
+        "desc": "Natural recovery speed of Stamina Energy +450%. Stamina Skill Damage +35%. Shock Skill Damage -30%. Gain 4 Tenacious Power when using Stamina Skills. Gain Paralysis Immunity in Tenacity Release state.",
+        "values": [45000, 3500, 3000, 400]
       },
       "3": {
-        "desc": "Natural recovery speed of Stamina Energy +600%. Stamina Skill Damage +70%. Shock Skill Damage -30%.",
-        "values": [60000, 7000, 3000]
+        "desc": "Natural recovery speed of Stamina Energy +600%. Stamina Skill Damage +45%. Shock Skill Damage -30%. Gain 5 Tenacious Power when using Stamina Skills. Gain Paralysis Immunity in Tenacity Release state.",
+        "values": [60000, 4500, 3000, 500]
       }
     },
     "name": "Ultimate Skill: Taijutsu",
@@ -423,9 +423,18 @@
   "191": {
     "id": 191,
     "levels": {
-      "1": { "desc": "Shock Skill Damage +10%. 2% of max Shock Energy recovered every 1s.", "values": [200, 1000] },
-      "2": { "desc": "Shock Skill Damage +15%. 3% of max Shock Energy recovered every 1s.", "values": [300, 1500] },
-      "3": { "desc": "Shock Skill Damage +20%. 4% of max Shock Energy recovered every 1s.", "values": [400, 2000] }
+      "1": {
+        "desc": "Shock Skill Damage +10% and 5% of Shock Energy consumed upon using Shock Skill will be returned. Atk. Speed +20% in Tenacity Release status, but duration decreases by 5s.",
+        "values": [0, 1000, 500]
+      },
+      "2": {
+        "desc": "Shock Skill Damage +15% and 10% of Shock Energy consumed upon using Shock Skill will be returned. Atk. Speed +20% in Tenacity Release status, but duration decreases by 5s.",
+        "values": [0, 1500, 1000]
+      },
+      "3": {
+        "desc": "Shock Skill Damage +20% and 20% of Shock Energy consumed upon using Shock Skill will be returned. Atk. Speed +20% in Tenacity Release status, but duration decreases by 5s.",
+        "values": [0, 2000, 2000]
+      }
     },
     "name": "Shock Training",
     "isnegative": false,
@@ -459,15 +468,15 @@
     "id": 193,
     "levels": {
       "1": {
-        "desc": "Barrage Skill Damage +5%. Barrage Skill Crit Rate +20%. Barrage Meter Gain +30%. Does not enter in cooling state.",
+        "desc": "Barrage Skill Damage +5%. Barrage Skill Crit Rate +20%. Barrage Meter Gain +30%. Does not enter in cooling state. Gain 70% Firepower Meter upon entering Barrage Mode.",
         "values": [500, 2000, 3000]
       },
       "2": {
-        "desc": "Barrage Skill Damage +12%. Barrage Skill Crit Rate +30%. Barrage Meter Gain +30%. Does not enter in cooling state.",
+        "desc": "Barrage Skill Damage +12%. Barrage Skill Crit Rate +30%. Barrage Meter Gain +30%. Does not enter in cooling state. Gain 70% Firepower Meter upon entering Barrage Mode.",
         "values": [1200, 3000, 3000]
       },
       "3": {
-        "desc": "Barrage Skill Damage +20%. Barrage Skill Crit Rate +40%. Barrage Meter Gain +30%. Does not enter in cooling state.",
+        "desc": "Barrage Skill Damage +20%. Barrage Skill Crit Rate +40%. Barrage Meter Gain +30%. Does not enter in cooling state. Gain 70% Firepower Meter upon entering Barrage Mode.",
         "values": [2000, 4000, 3000]
       }
     },
@@ -525,16 +534,16 @@
     "id": 196,
     "levels": {
       "1": {
-        "desc": "When using a Gravity Release Skill, Crit Rate +3% and Crit Damage +5% based on the amount of Cores used.",
-        "values": [300, 500]
+        "desc": "When using a Gravity Release Skill, Crit Rate +3% and Crit Damage +6% based on the amount of Cores used.",
+        "values": [300, 600]
       },
       "2": {
-        "desc": "When using a Gravity Release Skill, Crit Rate +4% and Crit Damage +10% based on the amount of Cores used.",
-        "values": [400, 1000]
+        "desc": "When using a Gravity Release Skill, Crit Rate +4% and Crit Damage +12% based on the amount of Cores used.",
+        "values": [400, 1200]
       },
       "3": {
-        "desc": "When using a Gravity Release Skill, Crit Rate+5% and Crit Damage +15% based on the amount of Cores used.",
-        "values": [500, 1500]
+        "desc": "When using a Gravity Release Skill, Crit Rate+5% and Crit Damage +18% based on the amount of Cores used.",
+        "values": [500, 1800]
       }
     },
     "name": "Rage Hammer",
@@ -709,15 +718,15 @@
     "id": 225,
     "levels": {
       "1": {
-        "desc": "Gunlance skill Crit Rate +5%. Crit Damage +30%. Battlefield Shield cannot be used. Shield Meter consumption during Defensive Stance +100%.",
+        "desc": "Gunlance skill Damage and Crit Rate +5%. Crit Damage +30%. Battlefield Shield cannot be used. Shield Meter consumption during Defensive Stance +100%.",
         "values": [100, 500, 3000]
       },
       "2": {
-        "desc": "Gunlance skill Crit Rate +10%. Crit Damage +40%. Battlefield Shield cannot be used. Shield Meter consumption during Defensive Stance +100%.",
+        "desc": "Gunlance skill Damage and Crit Rate +10%. Crit Damage +40%. Battlefield Shield cannot be used. Shield Meter consumption during Defensive Stance +100%.",
         "values": [100, 1000, 4000]
       },
       "3": {
-        "desc": "Crit Rate of Gunlance skills +15%. Crit Damage +50%. Battlefield Shield cannot be used. Consumption of the Shield Meter during Defensive Stance +100%.",
+        "desc": "Gunlance skill Damage and Crit Rate +15%. Crit Damage +50%. Battlefield Shield cannot be used. Consumption of the Shield Meter during Defensive Stance +100%.",
         "values": [100, 1500, 5000]
       }
     },
@@ -1111,15 +1120,15 @@
     "id": 258,
     "levels": {
       "1": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +10%, Basic AoE Radius +60%, and Silverhawk's summon duration +30%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +3%. Additionally, when Silverhawk is summoned Atk. Power +1%.",
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +10%, Basic AoE Radius +60%, and Silverhawk's summon duration +30%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +3%. Additionally, when Silverhawk is summoned Atk. Power +2%.",
         "values": [1000, 3000, 28160, 281301, 500197]
       },
       "2": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +20%, Basic AoE Radius +60%, and Silverhawk's summon duration +60%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +7%. Additionally, when Silverhawk is summoned Atk. Power +3%.",
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +20%, Basic AoE Radius +60%, and Silverhawk's summon duration +60%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +7%. Additionally, when Silverhawk is summoned Atk. Power +5%.",
         "values": [2000, 6000, 28160, 281311, 500198]
       },
       "3": {
-        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +40%, Basic AoE Radius +60%, and Silverhawk's summon duration +100%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +12%. Additionally, when Silverhawk is summoned Atk. Power +6%.",
+        "desc": "Summons Silverhawk MK-II, allowing Move Speed +4%, Silverhawk's Crit Rate +40%, Basic AoE Radius +60%, and Silverhawk's summon duration +100%. On Basic Attack or Wings of Storm hit, foes get a Mark of Death: foe Damage taken +12%. Additionally, when Silverhawk is summoned Atk. Power +10%.",
         "values": [4000, 10000, 28160, 281321, 500199]
       }
     },
@@ -1502,16 +1511,16 @@
     "id": 278,
     "levels": {
       "1": {
-        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +6% and Atk. Power +(12%, 24%, 36%) for 30s when using Surge, depending on the Surge level.",
-        "values": [500120, 500121, 500122, 2000]
+        "desc": "Deathblade Surge skill Damage -30%. When Art is activated, Death Orb is immediately consumed to activate Deathblade Surge. Atk. Power +6%, Move Speed +6%, Atk. Power +10%, +20%, +30% for 30s according to the number of Death Orbs consumed.",
+        "values": [500120, 500121, 500122]
       },
       "2": {
-        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +9% and Atk. Power +(14%, 28%, 42%) for 30s when using Surge, depending on the Surge level.",
-        "values": [500123, 500124, 500125, 2000]
+        "desc": "Deathblade Surge skill Damage -30%. When Art is activated, Death Orb is immediately consumed to activate Deathblade Surge. Atk. Power +9%, Move Speed +9%, Atk. Power +12%, +24%, +36% for 30s according to the number of Death Orbs consumed.",
+        "values": [500123, 500124, 500125]
       },
       "3": {
-        "desc": "Death Trance does not consume Death Orb Meter for 2s when activated. Atk./Move Speed +12% and Atk. Power +(18%, 36%, 54%) for 30s when using Surge, depending on the Surge level.",
-        "values": [500143, 500144, 500145, 2000]
+        "desc": "Deathblade Surge skill Damage -30%. When Art is activated, Death Orb is immediately consumed to activate Deathblade Surge. Atk. Power +12%, Move Speed +12%, Atk. Power +15%, +30%, +45% for 30s according to the number of Death Orbs consumed.",
+        "values": [500143, 500144, 500145]
       }
     },
     "name": "Remaining Energy",
@@ -1524,16 +1533,16 @@
     "id": 279,
     "levels": {
       "1": {
-        "desc": "Activates the top level of Deathblade Surge, which unleashes the same powerful attack regardless of the number of Death Orbs available. With this, the buffs from the Remaining Energy Engraving do not occur. When Death Trance is activated and skills other than Basic Attacks and Awakening Skills hit, Surge Enhancement effects will begin to stack every 0.4 seconds to a max of 20 stacks. This effect causes Damage to increase up to 100%, Damage increases even more with larger stacks. When Death Trance ends, gain up to 100% Death Orb Meter for each Surge Enhancement effect you have. ",
-        "values": [25038, 250316, 400]
+        "desc": "Activates the top level of Deathblade Surge, which unleashes the same powerful Attack regardless of the number of Death Orbs available. When skills other than basic attacks hit while in Death Trance state, Surge Enhancement effects will stack in proportion to the number of hits. This effect increases damage dealt through Deathblade Surge by up to 45%. Damage doubles at the max stack of 60 stacks. When Death Trance ends, gain up to 100% Death Orb Meter according to the number of Surge Enhancement stacks.",
+        "values": [25038, 250316]
       },
       "2": {
-        "desc": "Activates the top level of Deathblade Surge, which unleashes the same powerful attack regardless of the number of Death Orbs available. With this, the buffs from the Remaining Energy Engraving do not occur. When Death Trance is activated and skills other than Basic Attacks and Awakening Skills hit, Surge Enhancement effects will begin to stack every 0.4 seconds to a max of 20 stacks. This effect causes Damage to increase up to 110%, Damage increases even more with larger stacks. Each stack increases Atk. Power additionally by 0.5%. When Death Trance ends, gain up to 100% Death Orb Meter for each Surge Enhancement effect you have. ",
-        "values": [25038, 250317, 400]
+        "desc": "Activates the top level of Deathblade Surge, which unleashes the same powerful Attack regardless of the number of Death Orbs available. When skills other than basic attacks hit while in Death Trance state, Surge Enhancement effects will stack in proportion to the number of hits. This effect increases damage dealt through Deathblade Surge by up to 60%. Damage doubles at the max stack of 60 stacks. When Death Trance ends, gain up to 100% Death Orb Meter according to the number of Surge Enhancement stacks.",
+        "values": [25038, 250317]
       },
       "3": {
-        "desc": "Activates the top level of Deathblade Surge, which unleashes the same powerful attack regardless of the number of Death Orbs available. With this, the buffs from the Remaining Energy Engraving do not occur. When Death Trance is activated and skills other than Basic Attacks and Awakening Skills hit, Surge Enhancement effects will begin to stack every 0.4 seconds to a max of 20 stacks. This effect causes Damage to increase up to 120%, Damage increases even more with larger stacks. Each stack increases Atk. Power additionally by 1%. When Death Trance ends, gain up to 100% Death Orb Meter for each Surge Enhancement effect you have. ",
-        "values": [25038, 250318, 400]
+        "desc": "Activates the top level of Deathblade Surge, which unleashes the same powerful Attack regardless of the number of Death Orbs available. When skills other than basic attacks hit while in Death Trance state, Surge Enhancement effects will stack in proportion to the number of hits. This effect increases damage dealt through Deathblade Surge by up to 85%. Damage doubles at the max stack of 60 stacks. When Death Trance ends, gain up to 100% Death Orb Meter according to the number of Surge Enhancement stacks. ",
+        "values": [25038, 250318]
       }
     },
     "name": "Surge",
@@ -1678,16 +1687,16 @@
     "id": 286,
     "levels": {
       "1": {
-        "desc": "Chaos Meter +30%. Atk. Power +16% when the Chaos Meter is full.",
-        "values": [260405, 0, 260406, 3000]
+        "desc": "Chaos Meter +50%. Atk. Power +12% and Crit Rate +3% when the Chaos Meter is full.",
+        "values": [260405, 0, 260406, 5000]
       },
       "2": {
-        "desc": "Chaos Meter +30%. Atk. Power +22% when the Chaos Meter is full.",
-        "values": [260405, 0, 260407, 3000]
+        "desc": "Chaos Meter +50%. Atk. Power +18% and Crit Rate +5% when the Chaos Meter is full.",
+        "values": [260405, 0, 260407, 5000]
       },
       "3": {
-        "desc": "Chaos Meter +30%. Atk. Power +30% when the Chaos Meter is full.",
-        "values": [260405, 0, 260408, 3000]
+        "desc": "Chaos Meter +50%. Atk. Power +25% and Crit Rate +8% when the Chaos Meter is full.",
+        "values": [260405, 0, 260408, 5000]
       }
     },
     "name": "Hunger",
@@ -1700,15 +1709,15 @@
     "id": 287,
     "levels": {
       "1": {
-        "desc": "Swoop Damage +120% and Atk. Speed +10% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode.",
+        "desc": "Upon switching to Persona Mode, gain the \"Lunar Voice\" effect instead of the Swoop Enhancement effect that stacks every second. Upon gaining the \"Lunar Voice\" effect, Swoop skill Damage +120%, Atk. Speed +10%, and \"Shadow Step\" skill cooldown is reset.",
         "values": [260409]
       },
       "2": {
-        "desc": "Swoop Damage +140% and Atk. Speed +10% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode.",
+        "desc": "Upon switching to Persona Mode, gain the \"Lunar Voice\" effect instead of the Swoop Enhancement effect that stacks every second. Upon gaining the \"Lunar Voice\" effect, Swoop skill Damage +135%, Crit Rate +5%, Atk. Speed +10%, and \"Shadow Step\" skill cooldown is reset.",
         "values": [260410]
       },
       "3": {
-        "desc": "Swoop Damage +160% and Atk. Speed +10% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode.",
+        "desc": "Upon switching to Persona Mode, gain the \"Lunar Voice\" effect instead of the Swoop Enhancement effect that stacks every second. Upon gaining the \"Lunar Voice\" effect, Swoop skill Damage +150%, Crit Rate +10%, Atk. Speed +10%, and \"Shadow Step\" skill cooldown is reset.",
         "values": [260411]
       }
     },
@@ -1735,15 +1744,15 @@
     "id": 289,
     "levels": {
       "1": {
-        "desc": "Atk. Speed +8% for 9s in Handgun Stance. Crit Rate +10% and Outgoing Damage +5% for 9s in Shotgun Stance. Outgoing Damage +10% and additional Damage +10% for 9s to targets with 50% or lower HP while in Rifle Stance.",
+        "desc": "Atk. Speed +8% for 9s in Handgun Stance. Crit Rate +10% and Outgoing Damage +10% for 9s in Shotgun Stance. Outgoing Damage +16% for 9s while in Rifle Stance.",
         "values": [500154, 500155, 500156]
       },
       "2": {
-        "desc": "Atk. Speed +12% for 9s in Handgun Stance. Crit Rate +10% and Outgoing Damage +10% for 9s in Shotgun Stance. Outgoing Damage +10% and additional Damage +20% for 9s to targets with 50% or lower HP while in Rifle Stance.",
+        "desc": "Atk. Speed +12% for 9s in Handgun Stance. Crit Rate +10% and Outgoing Damage +17% for 9s in Shotgun Stance. Outgoing Damage +22% for 9s while in Rifle Stance.",
         "values": [500157, 500158, 500159]
       },
       "3": {
-        "desc": "Atk. Speed +16% for 9s in Handgun Stance. Crit Rate +10% and Outgoing Damage +15% for 9s in Shotgun Stance. Outgoing Damage +10% and additional Damage +30% for 9s to targets with 50% or lower HP while in Rifle Stance.",
+        "desc": "Atk. Speed +16% for 9s in Handgun Stance. Crit Rate +10% and Outgoing Damage +24% for 9s in Shotgun Stance. Outgoing Damage +28% for 9s while in Rifle Stance.",
         "values": [500160, 500161, 500162]
       }
     },
@@ -1757,8 +1766,8 @@
     "id": 290,
     "levels": {
       "1": { "desc": "Crit Rate +22%. Unable to use Shotgun Stance." },
-      "2": { "desc": "Crit Rate +33%. Unable to use Shotgun Stance." },
-      "3": { "desc": "Crit Rate +45%. Unable to use Shotgun Stance." }
+      "2": { "desc": "Crit Rate +33%. Crit Damage +6%. Unable to use Shotgun Stance." },
+      "3": { "desc": "Crit Rate +45%. Crit Damage +15%. Unable to use Shotgun Stance." }
     },
     "name": "Time to Hunt",
     "isnegative": false,
@@ -1814,15 +1823,15 @@
     "id": 293,
     "levels": {
       "1": {
-        "desc": "When Arcane Torrent is triggered, remaining skills Cooldown -50% (except Movement Skills and Awakening Skills). During Arcane Torrent, Crit Rate +10% and Crit Damage +10%.",
+        "desc": "When Arcane Torrent is triggered, remaining skills Cooldown -50% (except Movement Skills and Awakening Skills). During Arcane Torrent, Crit Rate +10% and Crit Damage +20%.",
         "values": [2500, 500187]
       },
       "2": {
-        "desc": "When Arcane Torrent is triggered, remaining skills Cooldown -50% (except Movement Skills and Awakening Skills). During Arcane Torrent, Crit Rate +17% and Crit Damage +25%.",
+        "desc": "When Arcane Torrent is triggered, remaining skills Cooldown -50% (except Movement Skills and Awakening Skills). During Arcane Torrent, Crit Rate +17% and Crit Damage +37%.",
         "values": [2500, 500188]
       },
       "3": {
-        "desc": "When Arcane Torrent is triggered, remaining skills Cooldown -50% (except Movement Skills and Awakening Skills). During Arcane Torrent, Crit Rate +25% and Crit Damage +40%.",
+        "desc": "When Arcane Torrent is triggered, remaining skills Cooldown -50% (except Movement Skills and Awakening Skills). During Arcane Torrent, Crit Rate +25% and Crit Damage +55%.",
         "values": [2500, 500189]
       }
     },
@@ -2227,6 +2236,14 @@
     "isengrave": false,
     "featuretype": 350
   },
+  "314": {
+    "id": 314,
+    "levels": { "1": { "desc": "" }, "2": { "desc": "" }, "3": { "desc": "" } },
+    "name": "황혼의 무도가",
+    "isnegative": false,
+    "icon": "ability_277.png",
+    "isengrave": true
+  },
   "176": {
     "id": 176,
     "levels": { "1": { "desc": "Lightning Immunity Rate", "values": [100061] } },
@@ -2391,7 +2408,7 @@
   },
   "155": {
     "id": 155,
-    "levels": { "1": { "desc": "Slow Immunity", "values": [100161] } },
+    "levels": { "1": { "desc": "Slow Immunity Rate", "values": [100161] } },
     "name": "Slow Immunity",
     "isnegative": false,
     "icon": "",
@@ -2822,7 +2839,7 @@
     "id": 77394200,
     "levels": {
       "1": {
-        "desc": "Swoop Damage +120% and Atk. Speed +10% instead of the Swoop Enhancement effect that stacks every 1s upon switching to Persona Mode."
+        "desc": "Upon switching to Persona Mode, gain the \"Lunar Voice\" effect instead of the Swoop Enhancement effect that stacks every second. Upon gaining the \"Lunar Voice\" effect, Swoop skill Damage +120%, Atk. Speed +10%, and \"Shadow Step\" skill cooldown is reset."
       }
     },
     "name": "Lunar Voice",

@@ -1597,7 +1597,9 @@
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 10, 10, 10] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 10, 10, 10] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 10, 10, 10] },
-      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 10, 10, 10] }
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 68, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 69, 10, 10, 10] }
     ],
     "80": [
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 10, 10, 10] },
@@ -1619,7 +1621,9 @@
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 10, 10, 10] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 10, 10, 10] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 10, 10, 10] },
-      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 10, 10, 10] }
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 68, 10, 10, 10] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 69, 10, 10, 10] }
     ]
   },
   "70000121": {
@@ -1643,7 +1647,9 @@
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 20, 20, 20] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 20, 20, 20] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 20, 20, 20] },
-      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 20, 20, 20] }
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 68, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 69, 20, 20, 20] }
     ],
     "80": [
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 20, 20, 20] },
@@ -1665,7 +1671,9 @@
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 20, 20, 20] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 20, 20, 20] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 20, 20, 20] },
-      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 20, 20, 20] }
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 68, 20, 20, 20] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 69, 20, 20, 20] }
     ]
   },
   "70000122": {
@@ -1689,7 +1697,9 @@
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 30, 30, 30] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 30, 30, 30] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 30, 30, 30] },
-      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 30, 30, 30] }
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 68, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 69, 30, 30, 30] }
     ],
     "80": [
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 30, 30, 30] },
@@ -1711,7 +1721,9 @@
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 30, 30, 30] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 30, 30, 30] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 30, 30, 30] },
-      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 30, 30, 30] }
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 68, 30, 30, 30] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 69, 30, 30, 30] }
     ]
   },
   "70000123": {
@@ -1735,7 +1747,9 @@
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 40, 40, 40] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 40, 40, 40] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 40, 40, 40] },
-      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 40, 40, 40] }
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 68, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 69, 40, 40, 40] }
     ],
     "80": [
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 40, 40, 40] },
@@ -1757,7 +1771,9 @@
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 40, 40, 40] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 40, 40, 40] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 40, 40, 40] },
-      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 40, 40, 40] }
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 68, 40, 40, 40] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 69, 40, 40, 40] }
     ]
   },
   "70000124": {
@@ -1781,7 +1797,9 @@
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 50, 50, 50] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 50, 50, 50] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 50, 50, 50] },
-      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 50, 50, 50] }
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 68, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 69, 50, 50, 50] }
     ],
     "80": [
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 1, 50, 50, 50] },
@@ -1803,7 +1821,9 @@
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 43, 50, 50, 50] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 0, 54, 50, 50, 50] },
       { "skillid": 0, "paramtype": "relative", "params": [0, 1, 61, 50, 50, 50] },
-      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 50, 50, 50] }
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 64, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 68, 50, 50, 50] },
+      { "skillid": 0, "paramtype": "relative", "params": [0, 0, 69, 50, 50, 50] }
     ]
   },
   "70000130": { "52": [{ "skillid": 0, "paramtype": "absolute", "params": [70000130] }] },

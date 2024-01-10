@@ -62,18 +62,18 @@
     "1": {
       "itemids": [
         12201104, 113220115, 113220125, 113220135, 113220145, 113220165, 113220215, 113220225, 113220235, 113220245,
-        113220315, 113220325, 113220335, 113220345, 113220365, 113220415, 113220425, 113220435, 113220515, 113220525,
-        113220535, 113220545, 113220565, 113220615, 113220625
+        113220315, 113220325, 113220335, 113220345, 113220365, 113220415, 113220425, 113220435, 113220445, 113220515,
+        113220525, 113220535, 113220545, 113220565, 113220615, 113220625
       ],
       "value": {
         "2": {
-          "desc": "Decreases Movement Skill's cooldown by <FONT COLOR='#99FF99'>10%</FONT>.",
+          "desc": "",
           "options": [
             { "type": "skill_group_cooldown_reduction", "keystat": "none", "keyindex": 991100, "value": 1000 }
           ]
         },
         "5": {
-          "desc": "+<FONT COLOR='#ffff99'>12</FONT>s of Festival when using a skill.\nAt <FONT COLOR='#ffff99'>6</FONT> stacks, gain Finale: +<FONT COLOR='#99FF99'>10%</FONT> Damage to foes for <FONT COLOR='#ffff99'>1</FONT>m. Additionally, when the skill is used <FONT COLOR='#ffff99'>17</FONT> times, gain Mayhem: +<FONT COLOR='#99FF99'>15%</FONT> Damage to foes for <FONT COLOR='#ffff99'>20</FONT>s. Mayhem and Festival do not stack.",
+          "desc": "",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020076, "value": 0 }]
         }
       }
