@@ -12,7 +12,7 @@
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020073, "value": 0 }]
         },
         "5": {
-          "desc": "Increases Domination by <FONT COLOR='#99FF99'>50</FONT> for <FONT COLOR='#ffff99'>15</FONT>s, up to <FONT COLOR='#ffff99'>7</FONT> times when attacking a target with Paralysis. (Cooldown: <FONT COLOR='#ffff99'>1</FONT>s)",
+          "desc": "Increases Domination by <FONT COLOR='#99FF99'>50</FONT> for <FONT COLOR='#ffff99'>15s</FONT>, up to <FONT COLOR='#ffff99'>7</FONT> times when attacking a target with Paralysis. (Cooldown: <FONT COLOR='#ffff99'>1s</FONT>)",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020074, "value": 0 }]
         }
       }
@@ -92,7 +92,7 @@
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020087, "value": 0 }]
         },
         "5": {
-          "desc": "At <FONT COLOR='#ffff99'>5</FONT> stacks of Solar Power, gain Midday.\nIf a party member with an effect that is activated with 5 sets of Oath is within <FONT COLOR='#ffff99'>3 meters</FONT> while Midday is active, you will gain Total Solar Eclipse.\n Midday: Crit Rate +<FONT COLOR='#99FF99'>25%</FONT> for <FONT COLOR='#ffff99'>15</FONT>s.\n Total Solar Eclipse: Crit Rate +<FONT COLOR='#99FF99'>25%</FONT> and Crit Damage +<FONT COLOR='#99FF99'>50%</FONT> for <FONT COLOR='#ffff99'>15</FONT>s.",
+          "desc": "At <FONT COLOR='#ffff99'>5</FONT> stacks of Solar Power, gain Midday.\nIf a party member with an effect that is activated with 5 sets of Oath is within <FONT COLOR='#ffff99'>3 meters</FONT> while Midday is active, you will gain Total Solar Eclipse.\n Midday: Crit Rate +<FONT COLOR='#99FF99'>25%</FONT> for <FONT COLOR='#ffff99'>15s</FONT>.\n Total Solar Eclipse: Crit Rate +<FONT COLOR='#99FF99'>25%</FONT> and Crit Damage +<FONT COLOR='#99FF99'>50%</FONT> for <FONT COLOR='#ffff99'>15s</FONT>.",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020088, "value": 0 }]
         }
       }
@@ -107,11 +107,11 @@
       ],
       "value": {
         "2": {
-          "desc": "Gain Lunar Power for <FONT COLOR='#ffff99'>6</FONT>s every <FONT COLOR='#ffff99'>2</FONT>s when you hit a foe.\nLunar Power: Crit Damage +<FONT COLOR='#99FF99'>6%</FONT> (Max. <FONT COLOR='#ffff99'>5</FONT> stacks. Cannot be used in conjunction with Solar Power.)",
+          "desc": "Gain Lunar Power for <FONT COLOR='#ffff99'>6s</FONT> every <FONT COLOR='#ffff99'>2s</FONT> when you hit a foe.\nLunar Power: Crit Damage +<FONT COLOR='#99FF99'>6%</FONT> (Max. <FONT COLOR='#ffff99'>5</FONT> stacks. Cannot be used in conjunction with Solar Power.)",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020089, "value": 0 }]
         },
         "5": {
-          "desc": "At <FONT COLOR='#ffff99'>5</FONT> stacks of Lunar Power, change to Full Moon.\nIf a party member with an effect that is activated with 5 sets of Determination is within <FONT COLOR='#ffff99'>3 meters</FONT> while Full Moon is active, you gain Total Lunar Eclipse.\n Full Moon: Crit Damage +<FONT COLOR='#99FF99'>50%</FONT> for <FONT COLOR='#ffff99'>15</FONT>s.\n Total Lunar Eclipse: Crit Rate +<FONT COLOR='#99FF99'>25%</FONT> and Crit Damage +<FONT COLOR='#99FF99'>50%</FONT> for <FONT COLOR='#ffff99'>15</FONT>s.",
+          "desc": "At <FONT COLOR='#ffff99'>5</FONT> stacks of Lunar Power, change to Full Moon.\nIf a party member with an effect that is activated with 5 sets of Determination is within <FONT COLOR='#ffff99'>3 meters</FONT> while Full Moon is active, you gain Total Lunar Eclipse.\n Full Moon: Crit Damage +<FONT COLOR='#99FF99'>50%</FONT> for <FONT COLOR='#ffff99'>15s</FONT>.\n Total Lunar Eclipse: Crit Rate +<FONT COLOR='#99FF99'>25%</FONT> and Crit Damage +<FONT COLOR='#99FF99'>50%</FONT> for <FONT COLOR='#ffff99'>15s</FONT>.",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020090, "value": 0 }]
         }
       }
@@ -381,7 +381,7 @@
       ],
       "value": {
         "2": {
-          "desc": "On successful hit, gain Blessing of Battle. Move Speed and Specialty Meter gain from landing an attack increases by <FONT COLOR='#99ff99'>15%</FONT> for <FONT COLOR='#99ff99'>16</FONT>s. (Cooldown: <FONT COLOR='#99ff99'>0.5</FONT>s)",
+          "desc": "On successful hit, gain Blessing of Battle. Move Speed and Specialty Meter gain from landing an attack increases by <FONT COLOR='#99ff99'>15%</FONT> for <FONT COLOR='#99ff99'>16s</FONT>. (Cooldown: <FONT COLOR='#99ff99'>0.5s</FONT>)",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000118, "value": 0 }]
         },
         "4": {
@@ -389,7 +389,7 @@
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600010118, "value": 0 }]
         },
         "6": {
-          "desc": "While Blessing of Battle lasts, a Dexterity effect is granted to party members that are within <FONT COLOR='#99ff99'>8</FONT> meters everys for <FONT COLOR='#99ff99'>16</FONT>s.\nDexterity: Increases additional Damage to foes by +<FONT COLOR='#99ff99'>8%</FONT>",
+          "desc": "While Blessing of Battle lasts, a Dexterity effect is granted to party members that are within <FONT COLOR='#99ff99'>8</FONT> meters everys for <FONT COLOR='#99ff99'>16s</FONT>.\nDexterity: Increases additional Damage to foes by +<FONT COLOR='#99ff99'>8%</FONT>",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020118, "value": 0 }]
         }
       }
@@ -402,7 +402,7 @@
       ],
       "value": {
         "2": {
-          "desc": "On successful hit, gain Blessing of Battle. Move Speed and Specialty Meter gain from landing an attack increases by <FONT COLOR='#99ff99'>18%</FONT> for <FONT COLOR='#99ff99'>16</FONT>s. (Cooldown: <FONT COLOR='#99ff99'>0.5</FONT>s)",
+          "desc": "On successful hit, gain Blessing of Battle. Move Speed and Specialty Meter gain from landing an attack increases by <FONT COLOR='#99ff99'>18%</FONT> for <FONT COLOR='#99ff99'>16s</FONT>. (Cooldown: <FONT COLOR='#99ff99'>0.5s</FONT>)",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610000118, "value": 0 }]
         },
         "4": {
@@ -410,7 +410,7 @@
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610010118, "value": 0 }]
         },
         "6": {
-          "desc": "While Blessing of Battle lasts, a Dexterity effect is granted to party members that are within <FONT COLOR='#99ff99'>8</FONT> meters everys for <FONT COLOR='#99ff99'>16</FONT>s.\nDexterity: Increases additional Damage to foes by +<FONT COLOR='#99ff99'>10%</FONT>",
+          "desc": "While Blessing of Battle lasts, a Dexterity effect is granted to party members that are within <FONT COLOR='#99ff99'>8</FONT> meters everys for <FONT COLOR='#99ff99'>16s</FONT>.\nDexterity: Increases additional Damage to foes by +<FONT COLOR='#99ff99'>10%</FONT>",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 610020118, "value": 0 }]
         }
       }
@@ -423,7 +423,7 @@
       ],
       "value": {
         "2": {
-          "desc": "On successful hit, gain Blessing of Battle. Move Speed and Specialty Meter gain from landing an attack increases by <FONT COLOR='#99ff99'>20%</FONT> for <FONT COLOR='#99ff99'>16</FONT>s. (Cooldown: <FONT COLOR='#99ff99'>0.5</FONT>s)",
+          "desc": "On successful hit, gain Blessing of Battle. Move Speed and Specialty Meter gain from landing an attack increases by <FONT COLOR='#99ff99'>20%</FONT> for <FONT COLOR='#99ff99'>16s</FONT>. (Cooldown: <FONT COLOR='#99ff99'>0.5s</FONT>)",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 620000118, "value": 0 }]
         },
         "4": {
@@ -518,7 +518,7 @@
           ]
         },
         "4": {
-          "desc": "On successful hit, gain a chance to trigger a Flame Attack, which applies Electric Vulnerability. (Cooldown: <FONT COLOR='#99ff99'>0.5s</FONT>)\nThis Damage decreases by up to <FONT COLOR='#ff9999'>80%</FONT> when striking multiple foes.\nElectric Vulnerablity: + additional Electric Damage when dealing Electric Damage. This additional Electric Damage does not give Flame Vulnerability.",
+          "desc": "On successful hit, gain a chance to trigger a Flame Attack, which applies Electric Vulnerability. (Cooldown: <FONT COLOR='#99ff99'>0.5s</FONT>)\nThis Damage decreases by up to <FONT COLOR='#ff9999'>80%</FONT> when striking multiple foes.\nElectric Vulnerability: + additional Electric Damage when dealing Electric Damage. This additional Electric Damage does not give Flame Vulnerability.",
           "options": [
             { "type": "combat_effect", "keystat": "none", "keyindex": 600000122, "value": 0 },
             { "type": "combat_effect", "keystat": "none", "keyindex": 600010122, "value": 0 }
@@ -965,7 +965,7 @@
       ],
       "value": {
         "2": {
-          "desc": "Atk. Speed and Move Speed +<FONT COLOR='#99FF99'>4%</FONT> for <FONT COLOR='#ffff99'>6</FONT>s, up to <FONT COLOR='#99FF99'>8%</FONT> when attacking monsters Boss rank or above. (Cooldown: <FONT COLOR='#ffff99'>3</FONT>s)",
+          "desc": "Atk. Speed and Move Speed +<FONT COLOR='#99FF99'>4%</FONT> for <FONT COLOR='#ffff99'>6s</FONT>, up to <FONT COLOR='#99FF99'>8%</FONT> when attacking monsters Boss rank or above. (Cooldown: <FONT COLOR='#ffff99'>3s</FONT>)",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600020041, "value": 0 }]
         },
         "5": {
@@ -1069,7 +1069,7 @@
           ]
         },
         "6": {
-          "desc": "The targeted enemy becomes more vulnerable to incoming Damage from the caster and party members by <FONT COLOR='#99ff99'>5%</FONT> for <FONT COLOR='#99ff99'>6</FONT>s.",
+          "desc": "The targeted enemy becomes more vulnerable to incoming Damage from the caster and party members by <FONT COLOR='#99ff99'>5%</FONT> for <FONT COLOR='#99ff99'>6s</FONT>.",
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000203, "value": 0 }]
         }
       }
@@ -1088,7 +1088,7 @@
           "options": [{ "type": "combat_effect", "keystat": "none", "keyindex": 600000204, "value": 0 }]
         },
         "4": {
-          "desc": "On hit, gain Agitated every second for <FONT COLOR='#99ff99'>6</FONT>s. (Cooldown: <FONT COLOR='#99ff99'>1</FONT>s)\nAgitated: Crit Damage +<FONT COLOR='#99ff99'>6%</FONT>. (Stacks up to <FONT COLOR='#99ff99'>5</FONT> times)",
+          "desc": "On hit, gain Agitated every second for <FONT COLOR='#99ff99'>6s</FONT>. (Cooldown: <FONT COLOR='#99ff99'>1s</FONT>)\nAgitated: Crit Damage +<FONT COLOR='#99ff99'>6%</FONT>. (Stacks up to <FONT COLOR='#99ff99'>5</FONT> times)",
           "options": [{ "type": "ability_point", "keystat": "none", "keyindex": 10101, "value": 10 }]
         },
         "6": {
@@ -1114,7 +1114,7 @@
           ]
         },
         "4": {
-          "desc": "On hit, gain Composure every second for <FONT COLOR='#99ff99'>6</FONT>s. (Cooldown: <FONT COLOR='#99ff99'>1</FONT>s)\nComposure: Phy. and Mag. Defense +<FONT COLOR='#99ff99'>6%</FONT>. (Stacks up to <FONT COLOR='#99ff99'>5</FONT> times)",
+          "desc": "On hit, gain Composure every second for <FONT COLOR='#99ff99'>6s</FONT>. (Cooldown: <FONT COLOR='#99ff99'>1s</FONT>)\nComposure: Phy. and Mag. Defense +<FONT COLOR='#99ff99'>6%</FONT>. (Stacks up to <FONT COLOR='#99ff99'>5</FONT> times)",
           "options": [{ "type": "ability_point", "keystat": "none", "keyindex": 10102, "value": 10 }]
         },
         "6": {

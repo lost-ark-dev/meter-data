@@ -2246,8 +2246,8 @@
   },
   "176": {
     "id": 176,
-    "levels": { "1": { "desc": "Lightning Immunity Rate", "values": [100061] } },
-    "name": "Lightning Immunity Rate",
+    "levels": { "1": { "desc": "Electrocution Immunity Rate", "values": [100061] } },
+    "name": "Electrocution Immunity Rate",
     "isnegative": false,
     "icon": "",
     "isengrave": true,
