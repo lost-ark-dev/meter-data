@@ -4258,7 +4258,8 @@
     "34": "back_step",
     "35": "close",
     "36": "join_security_service",
-    "37": "appeal"
+    "37": "appeal",
+    "38": "fast_login"
   },
   "dialogcreatetype": { "0": "singular", "1": "multiple", "2": "stacksingular" },
   "diegameactioncontentstype": { "0": "na", "1": "tower" },
