@@ -1,0 +1,1737 @@
+{
+  "option": {
+    "10000": {
+      "name": "",
+      "class": 101,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10001": {
+      "name": "Strength",
+      "class": 102,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10002": {
+      "name": "Strength",
+      "class": 103,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10003": {
+      "name": "Strength",
+      "class": 104,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10004": {
+      "name": "Strength",
+      "class": 105,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10005": {
+      "name": "Strength",
+      "class": 111,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10006": {
+      "name": "Strength",
+      "class": 112,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10007": {
+      "name": "Strength",
+      "class": 201,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "int",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10008": {
+      "name": "Intelligence",
+      "class": 202,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "int",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10009": {
+      "name": "Intelligence",
+      "class": 203,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "int",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10010": {
+      "name": "Intelligence",
+      "class": 204,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "int",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10011": {
+      "name": "Intelligence",
+      "class": 205,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "int",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10012": {
+      "name": "Intelligence",
+      "class": 301,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10013": {
+      "name": "Strength",
+      "class": 302,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10014": {
+      "name": "Strength",
+      "class": 303,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10015": {
+      "name": "Strength",
+      "class": 304,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10016": {
+      "name": "Strength",
+      "class": 305,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10017": {
+      "name": "Strength",
+      "class": 311,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10018": {
+      "name": "Strength",
+      "class": 312,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10019": {
+      "name": "Strength",
+      "class": 401,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10020": {
+      "name": "Dexterity",
+      "class": 402,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10021": {
+      "name": "Dexterity",
+      "class": 403,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10022": {
+      "name": "Dexterity",
+      "class": 404,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10023": {
+      "name": "Dexterity",
+      "class": 501,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10024": {
+      "name": "Dexterity",
+      "class": 502,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10025": {
+      "name": "Dexterity",
+      "class": 503,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10026": {
+      "name": "Dexterity",
+      "class": 504,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10027": {
+      "name": "Dexterity",
+      "class": 505,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10028": {
+      "name": "Dexterity",
+      "class": 511,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10029": {
+      "name": "Dexterity",
+      "class": 512,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10030": {
+      "name": "Dexterity",
+      "class": 601,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "int",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10031": {
+      "name": "Intelligence",
+      "class": 602,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "int",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10032": {
+      "name": "Intelligence",
+      "class": 603,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "int",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10033": {
+      "name": "Dexterity",
+      "class": 405,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "agi",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10034": {
+      "name": "Strength",
+      "class": 313,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "str",
+          "values": [
+            [0, 864],
+            [0, 1782],
+            [0, 2700],
+            [0, 4050],
+            [0, 5400]
+          ]
+        }
+      ]
+    },
+    "10100": {
+      "name": "Atk. Power",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "attack_power_addend_2",
+          "values": [
+            [0, 122],
+            [0, 253],
+            [0, 383],
+            [0, 575],
+            [0, 767]
+          ]
+        }
+      ]
+    },
+    "10101": {
+      "name": "Weapon Power",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "weapon_dam",
+          "values": [
+            [0, 236],
+            [0, 488],
+            [0, 740],
+            [0, 1110],
+            [0, 1480]
+          ]
+        }
+      ]
+    },
+    "10102": {
+      "name": "Escape Expert",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "skill_group_cooldown_reduction",
+          "keystat": "none",
+          "values": [
+            [991200, 38],
+            [991200, 79],
+            [991200, 120],
+            [991200, 180],
+            [991200, 240]
+          ]
+        }
+      ]
+    },
+    "10103": {
+      "name": "Master of Evasion",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "skill_group_cooldown_reduction",
+          "keystat": "none",
+          "values": [
+            [991100, 38],
+            [991100, 79],
+            [991100, 120],
+            [991100, 180],
+            [991100, 240]
+          ]
+        }
+      ]
+    },
+    "10104": {
+      "name": "MP",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "max_mp",
+          "values": [
+            [0, 15],
+            [0, 32],
+            [0, 49],
+            [0, 73],
+            [0, 98]
+          ]
+        }
+      ]
+    },
+    "10105": {
+      "name": "Blessing of Life",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "combat_hp_recovery",
+          "values": [
+            [0, 6],
+            [0, 12],
+            [0, 19],
+            [0, 29],
+            [0, 39]
+          ]
+        }
+      ]
+    },
+    "10106": {
+      "name": "Resource Blessing",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "resource_recovery_rate",
+          "values": [
+            [0, 46],
+            [0, 95],
+            [0, 145],
+            [0, 217],
+            [0, 290]
+          ]
+        }
+      ]
+    },
+    "10107": {
+      "name": "Vagabond",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "not_in_party_damage",
+          "keystat": "none",
+          "values": [
+            [0, 80],
+            [0, 165],
+            [0, 250],
+            [0, 375],
+            [0, 500]
+          ]
+        }
+      ]
+    },
+    "10108": {
+      "name": "Stagger",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "paralyzation_point_rate",
+          "values": [
+            [0, 38],
+            [0, 79],
+            [0, 120],
+            [0, 180],
+            [0, 240]
+          ]
+        }
+      ]
+    },
+    "10109": {
+      "name": "Potion Poisoning",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "battle_item_heal",
+          "keystat": "none",
+          "values": [
+            [0, 113],
+            [0, 234],
+            [0, 355],
+            [0, 532],
+            [0, 710]
+          ]
+        }
+      ]
+    },
+    "10110": {
+      "name": "Explosives Expert",
+      "class": 0,
+      "part": 0,
+      "stats": [
+        {
+          "type": "skill_effect_group_set_damage",
+          "keystat": "none",
+          "values": [
+            [3100, 160],
+            [3100, 330],
+            [3100, 500],
+            [3100, 750],
+            [3100, 1000]
+          ]
+        }
+      ]
+    },
+    "11000": {
+      "name": "Luck (Order)",
+      "class": 0,
+      "part": 1,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "attack_power_rate",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "def",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 100
+    },
+    "11001": {
+      "name": "Critical (Order)",
+      "class": 0,
+      "part": 1,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "attack_power_rate",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "def",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 101
+    },
+    "11002": {
+      "name": "Master (Order)",
+      "class": 0,
+      "part": 1,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "attack_power_rate",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "def",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 102
+    },
+    "11003": {
+      "name": "Fierce Strength (Order)",
+      "class": 0,
+      "part": 1,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "attack_power_rate",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "def",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 103
+    },
+    "11004": {
+      "name": "Bladed Shield (Order)",
+      "class": 0,
+      "part": 1,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "attack_power_rate",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "def",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 104
+    },
+    "11005": {
+      "name": "Vanguard (Order)",
+      "class": 0,
+      "part": 1,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "attack_power_rate",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "def",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 105
+    },
+    "11006": {
+      "name": "Luminary (Order)",
+      "class": 0,
+      "part": 1,
+      "stats": [
+        {
+          "type": "attack_power_amplify_multiplier",
+          "keystat": "none",
+          "values": [
+            [0, 64],
+            [0, 132],
+            [0, 200],
+            [0, 300],
+            [0, 400]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "max_hp",
+          "values": [
+            [0, 800],
+            [0, 1650],
+            [0, 2500],
+            [0, 3750],
+            [0, 5000]
+          ]
+        }
+      ],
+      "setid": 106
+    },
+    "11007": {
+      "name": "Advance (Order)",
+      "class": 0,
+      "part": 1,
+      "stats": [
+        {
+          "type": "attack_power_amplify_multiplier",
+          "keystat": "none",
+          "values": [
+            [0, 64],
+            [0, 132],
+            [0, 200],
+            [0, 300],
+            [0, 400]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "max_hp",
+          "values": [
+            [0, 800],
+            [0, 1650],
+            [0, 2500],
+            [0, 3750],
+            [0, 5000]
+          ]
+        }
+      ],
+      "setid": 107
+    },
+    "11008": {
+      "name": "Faith (Order)",
+      "class": 0,
+      "part": 1,
+      "stats": [
+        {
+          "type": "attack_power_amplify_multiplier",
+          "keystat": "none",
+          "values": [
+            [0, 64],
+            [0, 132],
+            [0, 200],
+            [0, 300],
+            [0, 400]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "max_hp",
+          "values": [
+            [0, 800],
+            [0, 1650],
+            [0, 2500],
+            [0, 3750],
+            [0, 5000]
+          ]
+        }
+      ],
+      "setid": 108
+    },
+    "12000": {
+      "name": "Boss Damage",
+      "class": 0,
+      "part": 5,
+      "stats": [
+        {
+          "type": "combat_effect",
+          "keystat": "none",
+          "values": [
+            [606120000, 0],
+            [606120001, 0],
+            [606120002, 0],
+            [606120003, 0],
+            [606120004, 0]
+          ]
+        }
+      ]
+    },
+    "12001": {
+      "name": "Awakening Skill Damage",
+      "class": 0,
+      "part": 5,
+      "stats": [
+        {
+          "type": "skill_group_damage",
+          "keystat": "none",
+          "values": [
+            [991001, 120],
+            [991001, 247],
+            [991001, 375],
+            [991001, 562],
+            [991001, 750]
+          ]
+        }
+      ]
+    },
+    "12002": {
+      "name": "Shield Enhancement",
+      "class": 0,
+      "part": 5,
+      "stats": [
+        {
+          "type": "party_shield",
+          "keystat": "none",
+          "values": [
+            [0, 67],
+            [0, 138],
+            [0, 210],
+            [0, 315],
+            [0, 420]
+          ]
+        }
+      ]
+    },
+    "12003": {
+      "name": "Healing Enhancement",
+      "class": 0,
+      "part": 5,
+      "stats": [
+        {
+          "type": "party_heal",
+          "keystat": "none",
+          "values": [
+            [0, 67],
+            [0, 138],
+            [0, 210],
+            [0, 315],
+            [0, 420]
+          ]
+        }
+      ]
+    },
+    "13000": {
+      "name": "Max HP",
+      "class": 0,
+      "part": 2,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "max_hp",
+          "values": [
+            [0, 2720],
+            [0, 5610],
+            [0, 8500],
+            [0, 12750],
+            [0, 17000]
+          ]
+        }
+      ]
+    },
+    "13001": {
+      "name": "Incoming Damage Reduction",
+      "class": 0,
+      "part": 2,
+      "stats": [
+        {
+          "type": "combat_effect",
+          "keystat": "none",
+          "values": [
+            [606130011, 0],
+            [606130012, 0],
+            [606130013, 0],
+            [606130014, 0],
+            [606130015, 0]
+          ]
+        }
+      ]
+    },
+    "13002": {
+      "name": "Phy. Defense",
+      "class": 0,
+      "part": 2,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "def",
+          "values": [
+            [0, 960],
+            [0, 1980],
+            [0, 3000],
+            [0, 4500],
+            [0, 6000]
+          ]
+        }
+      ]
+    },
+    "13003": {
+      "name": "Mag. Defense",
+      "class": 0,
+      "part": 2,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "res",
+          "values": [
+            [0, 960],
+            [0, 1980],
+            [0, 3000],
+            [0, 4500],
+            [0, 6000]
+          ]
+        }
+      ]
+    },
+    "14000": {
+      "name": "Crit Damage",
+      "class": 0,
+      "part": 3,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "critical_dam_rate",
+          "values": [
+            [0, 112],
+            [0, 231],
+            [0, 350],
+            [0, 525],
+            [0, 700]
+          ]
+        }
+      ]
+    },
+    "14001": {
+      "name": "Additional Damage",
+      "class": 0,
+      "part": 3,
+      "stats": [
+        {
+          "type": "stat",
+          "keystat": "skill_damage_rate",
+          "values": [
+            [0, 49],
+            [0, 102],
+            [0, 155],
+            [0, 232],
+            [0, 310]
+          ]
+        }
+      ]
+    },
+    "14002": {
+      "name": "Specialty Gain",
+      "class": 0,
+      "part": 3,
+      "stats": [
+        {
+          "type": "identity_gauge",
+          "keystat": "none",
+          "values": [
+            [0, 64],
+            [0, 132],
+            [0, 200],
+            [0, 300],
+            [0, 400]
+          ]
+        }
+      ]
+    },
+    "14003": {
+      "name": "Ally Enhancement",
+      "class": 0,
+      "part": 3,
+      "stats": [
+        {
+          "type": "attack_power_amplify_multiplier",
+          "keystat": "none",
+          "values": [
+            [0, 96],
+            [0, 198],
+            [0, 300],
+            [0, 450],
+            [0, 600]
+          ]
+        }
+      ]
+    },
+    "15000": {
+      "name": "Luck (Chaos)",
+      "class": 0,
+      "part": 4,
+      "stats": [
+        {
+          "type": "combat_effect",
+          "keystat": "none",
+          "values": [
+            [606150000, 0],
+            [606150001, 0],
+            [606150002, 0],
+            [606150003, 0],
+            [606150004, 0]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "res",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 100
+    },
+    "15001": {
+      "name": "Critical (Chaos)",
+      "class": 0,
+      "part": 4,
+      "stats": [
+        {
+          "type": "combat_effect",
+          "keystat": "none",
+          "values": [
+            [606150010, 0],
+            [606150011, 0],
+            [606150012, 0],
+            [606150013, 0],
+            [606150014, 0]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "res",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 101
+    },
+    "15002": {
+      "name": "Master (Chaos)",
+      "class": 0,
+      "part": 4,
+      "stats": [
+        {
+          "type": "combat_effect",
+          "keystat": "none",
+          "values": [
+            [606150020, 0],
+            [606150021, 0],
+            [606150022, 0],
+            [606150023, 0],
+            [606150024, 0]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "res",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 102
+    },
+    "15003": {
+      "name": "Fierce Strength (Chaos)",
+      "class": 0,
+      "part": 4,
+      "stats": [
+        {
+          "type": "combat_effect",
+          "keystat": "none",
+          "values": [
+            [606150030, 0],
+            [606150031, 0],
+            [606150032, 0],
+            [606150033, 0],
+            [606150034, 0]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "res",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 103
+    },
+    "15004": {
+      "name": "Bladed Shield (Chaos)",
+      "class": 0,
+      "part": 4,
+      "stats": [
+        {
+          "type": "combat_effect",
+          "keystat": "none",
+          "values": [
+            [606150040, 0],
+            [606150041, 0],
+            [606150042, 0],
+            [606150043, 0],
+            [606150044, 0]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "res",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 104
+    },
+    "15005": {
+      "name": "Vanguard (Chaos)",
+      "class": 0,
+      "part": 4,
+      "stats": [
+        {
+          "type": "combat_effect",
+          "keystat": "none",
+          "values": [
+            [606150050, 0],
+            [606150051, 0],
+            [606150052, 0],
+            [606150053, 0],
+            [606150054, 0]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "res",
+          "values": [
+            [0, 480],
+            [0, 990],
+            [0, 1500],
+            [0, 2250],
+            [0, 3000]
+          ]
+        }
+      ],
+      "setid": 105
+    },
+    "15006": {
+      "name": "Luminary (Chaos)",
+      "class": 0,
+      "part": 4,
+      "stats": [
+        {
+          "type": "party_shield",
+          "keystat": "none",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "combat_hp_recovery",
+          "values": [
+            [0, 9],
+            [0, 19],
+            [0, 29],
+            [0, 43],
+            [0, 58]
+          ]
+        },
+        {
+          "type": "party_heal",
+          "keystat": "none",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        }
+      ],
+      "setid": 106
+    },
+    "15007": {
+      "name": "Advance (Chaos)",
+      "class": 0,
+      "part": 4,
+      "stats": [
+        {
+          "type": "party_shield",
+          "keystat": "none",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "combat_hp_recovery",
+          "values": [
+            [0, 9],
+            [0, 19],
+            [0, 29],
+            [0, 43],
+            [0, 58]
+          ]
+        },
+        {
+          "type": "party_heal",
+          "keystat": "none",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        }
+      ],
+      "setid": 107
+    },
+    "15008": {
+      "name": "Faith (Chaos)",
+      "class": 0,
+      "part": 4,
+      "stats": [
+        {
+          "type": "party_shield",
+          "keystat": "none",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        },
+        {
+          "type": "stat",
+          "keystat": "combat_hp_recovery",
+          "values": [
+            [0, 9],
+            [0, 19],
+            [0, 29],
+            [0, 43],
+            [0, 58]
+          ]
+        },
+        {
+          "type": "party_heal",
+          "keystat": "none",
+          "values": [
+            [0, 23],
+            [0, 47],
+            [0, 72],
+            [0, 108],
+            [0, 144]
+          ]
+        }
+      ],
+      "setid": 108
+    }
+  },
+  "set": {
+    "100": {
+      "35": {
+        "name": "Luck",
+        "stats": [{ "type": "combat_effect", "keystat": "none", "keyindex": 606000001, "value": 0 }]
+      },
+      "40": {
+        "name": "Luck",
+        "stats": [{ "type": "combat_effect", "keystat": "none", "keyindex": 606010001, "value": 0 }]
+      }
+    },
+    "101": {
+      "35": {
+        "name": "Critical",
+        "stats": [{ "type": "combat_effect", "keystat": "none", "keyindex": 606000002, "value": 0 }]
+      },
+      "40": {
+        "name": "Critical",
+        "stats": [{ "type": "combat_effect", "keystat": "none", "keyindex": 606010002, "value": 0 }]
+      }
+    },
+    "102": {
+      "35": {
+        "name": "Master",
+        "stats": [
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606000003, "value": 0 },
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606000103, "value": 0 }
+        ]
+      },
+      "40": {
+        "name": "Master",
+        "stats": [
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606010003, "value": 0 },
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606010103, "value": 0 }
+        ]
+      }
+    },
+    "103": {
+      "35": {
+        "name": "Fierce Strength",
+        "stats": [
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606000004, "value": 0 },
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606000104, "value": 0 }
+        ]
+      },
+      "40": {
+        "name": "Fierce Strength",
+        "stats": [
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606010004, "value": 0 },
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606010104, "value": 0 }
+        ]
+      }
+    },
+    "104": {
+      "35": {
+        "name": "Bladed Shield",
+        "stats": [
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606000005, "value": 0 },
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606000105, "value": 0 }
+        ]
+      },
+      "40": {
+        "name": "Bladed Shield",
+        "stats": [
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606010005, "value": 0 },
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606010105, "value": 0 }
+        ]
+      }
+    },
+    "105": {
+      "35": {
+        "name": "Vanguard",
+        "stats": [
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606000006, "value": 0 },
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606000106, "value": 0 }
+        ]
+      },
+      "40": {
+        "name": "Vanguard",
+        "stats": [
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606010006, "value": 0 },
+          { "type": "combat_effect", "keystat": "none", "keyindex": 606010106, "value": 0 }
+        ]
+      }
+    },
+    "106": {
+      "35": {
+        "name": "Luminary",
+        "stats": [{ "type": "combat_effect", "keystat": "none", "keyindex": 606000007, "value": 0 }]
+      },
+      "40": {
+        "name": "Luminary",
+        "stats": [{ "type": "combat_effect", "keystat": "none", "keyindex": 606010007, "value": 0 }]
+      }
+    },
+    "107": {
+      "35": {
+        "name": "Advance",
+        "stats": [{ "type": "combat_effect", "keystat": "none", "keyindex": 606000008, "value": 0 }]
+      },
+      "40": {
+        "name": "Advance",
+        "stats": [{ "type": "combat_effect", "keystat": "none", "keyindex": 606010008, "value": 0 }]
+      }
+    },
+    "108": {
+      "35": {
+        "name": "Faith",
+        "stats": [{ "type": "combat_effect", "keystat": "none", "keyindex": 606000009, "value": 0 }]
+      },
+      "40": {
+        "name": "Faith",
+        "stats": [{ "type": "combat_effect", "keystat": "none", "keyindex": 606010009, "value": 0 }]
+      }
+    }
+  }
+}

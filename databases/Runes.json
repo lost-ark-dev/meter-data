@@ -1,0 +1,301 @@
+{
+  "70000020": { "grade": 1, "name": "Galewind", "desc": "Skill Casting Speed +5%", "icon": "use_7_194.png" },
+  "70000021": { "grade": 2, "name": "Galewind", "desc": "Skill Casting Speed +8%", "icon": "use_7_194.png" },
+  "70000022": { "grade": 3, "name": "Galewind", "desc": "Skill Casting Speed +12%", "icon": "use_7_194.png" },
+  "70000023": { "grade": 4, "name": "Galewind", "desc": "Skill Casting Speed +14%.", "icon": "use_7_194.png" },
+  "70000024": { "grade": 5, "name": "Galewind", "desc": "Skill Casting Speed +16%.", "icon": "use_7_194.png" },
+  "70000030": {
+    "grade": 1,
+    "name": "Iron Wall",
+    "desc": "Damage received -5% while casting skill",
+    "icon": "use_7_195.png"
+  },
+  "70000031": {
+    "grade": 2,
+    "name": "Iron Wall",
+    "desc": "Damage received -8% while casting skill",
+    "icon": "use_7_195.png"
+  },
+  "70000032": {
+    "grade": 3,
+    "name": "Iron Wall",
+    "desc": "Damage received -12% while casting skill",
+    "icon": "use_7_195.png"
+  },
+  "70000033": {
+    "grade": 4,
+    "name": "Iron Wall",
+    "desc": "Damage received -16% while casting skill",
+    "icon": "use_7_195.png"
+  },
+  "70000034": {
+    "grade": 5,
+    "name": "Iron Wall",
+    "desc": "Damage received -20% while casting skill",
+    "icon": "use_7_195.png"
+  },
+  "70000040": {
+    "grade": 1,
+    "name": "Quick Recharge",
+    "desc": "Chance of all Cooldown times -5% when skill is used",
+    "icon": "use_7_196.png"
+  },
+  "70000041": {
+    "grade": 2,
+    "name": "Quick Recharge",
+    "desc": "Chance of all Cooldown times -8% when skill is used",
+    "icon": "use_7_196.png"
+  },
+  "70000042": {
+    "grade": 3,
+    "name": "Quick Recharge",
+    "desc": "Chance of all Cooldown times -12% when skill is used",
+    "icon": "use_7_196.png"
+  },
+  "70000043": {
+    "grade": 4,
+    "name": "Quick Recharge",
+    "desc": "Chance of all Cooldown times -16% when skill is used",
+    "icon": "use_7_196.png"
+  },
+  "70000044": {
+    "grade": 5,
+    "name": "Quick Recharge",
+    "desc": "Chance of all Cooldown times -20% when skill is used",
+    "icon": "use_7_196.png"
+  },
+  "70000050": {
+    "grade": 1,
+    "name": "Purify",
+    "desc": "50% chance to remove a debuff when skill is used",
+    "icon": "use_7_197.png"
+  },
+  "70000052": {
+    "grade": 3,
+    "name": "Purify",
+    "desc": "70% chance to remove a debuff when skill is used",
+    "icon": "use_7_197.png"
+  },
+  "70000053": {
+    "grade": 4,
+    "name": "Purify",
+    "desc": "80% chance to remove a debuff when skill is used",
+    "icon": "use_7_197.png"
+  },
+  "70000054": {
+    "grade": 5,
+    "name": "Purify",
+    "desc": "100% chance to remove a debuff when skill is used",
+    "icon": "use_7_197.png"
+  },
+  "70000060": {
+    "grade": 1,
+    "name": "Conviction",
+    "desc": "Has 10% chance to imbue Conviction to self for 3s when skill hits. In this state, \"Judgment\" can be activated to gain additional effect",
+    "icon": "use_7_198.png"
+  },
+  "70000061": {
+    "grade": 2,
+    "name": "Conviction",
+    "desc": "Has 20% chance to imbue Conviction to self for 3s when skill hits. In this state, \"Judgment\" can be activated to gain additional effect",
+    "icon": "use_7_198.png"
+  },
+  "70000062": {
+    "grade": 3,
+    "name": "Conviction",
+    "desc": "Has 30% chance to imbue Conviction to self for 3s when skill hits. In this state, \"Judgment\" can be activated to gain additional effect",
+    "icon": "use_7_198.png"
+  },
+  "70000063": {
+    "grade": 4,
+    "name": "Conviction",
+    "desc": "Has 40% chance to imbue Conviction to self for 3s when skill hits. In this state, \"Judgment\" can be activated to gain additional effect",
+    "icon": "use_7_198.png"
+  },
+  "70000064": {
+    "grade": 5,
+    "name": "Conviction",
+    "desc": "Has 50% chance to imbue Conviction to self for 3s when skill hits. In this state, \"Judgment\" can be activated to gain additional effect",
+    "icon": "use_7_198.png"
+  },
+  "70000074": {
+    "grade": 5,
+    "name": "Tenacity",
+    "desc": "Push Immunity while using the skill",
+    "icon": "use_7_199.png"
+  },
+  "70000080": { "grade": 1, "name": "Focus", "desc": "MP Consumption -10%", "icon": "use_7_200.png" },
+  "70000081": { "grade": 2, "name": "Focus", "desc": "MP Consumption -20%", "icon": "use_7_200.png" },
+  "70000082": { "grade": 3, "name": "Focus", "desc": "MP Consumption -30%", "icon": "use_7_200.png" },
+  "70000083": { "grade": 4, "name": "Focus", "desc": "MP Consumption -40%", "icon": "use_7_200.png" },
+  "70000084": { "grade": 5, "name": "Focus", "desc": "MP Consumption -50%", "icon": "use_7_200.png" },
+  "70000090": {
+    "grade": 1,
+    "name": "Judgment",
+    "desc": "Has 10% chance to remove \"Conviction\" from self and increase Combat Resource Recovery and reduce Skill Cooldown for 6s",
+    "icon": "use_7_201.png"
+  },
+  "70000091": {
+    "grade": 2,
+    "name": "Judgment",
+    "desc": "Has 20% chance to remove \"Conviction\" from self and increase Combat Resource Recovery and reduce Skill Cooldown for 6s",
+    "icon": "use_7_201.png"
+  },
+  "70000092": {
+    "grade": 3,
+    "name": "Judgment",
+    "desc": "Has 30% chance to remove \"Conviction\" from self and increase Combat Resource Recovery and reduce Skill Cooldown for 6s",
+    "icon": "use_7_201.png"
+  },
+  "70000093": {
+    "grade": 4,
+    "name": "Judgment",
+    "desc": "Has 40% chance to remove \"Conviction\" from self and increase Combat Resource Recovery and reduce Skill Cooldown for 6s",
+    "icon": "use_7_201.png"
+  },
+  "70000094": {
+    "grade": 5,
+    "name": "Judgment",
+    "desc": "Has 50% chance to remove \"Conviction\" from self and increase Combat Resource Recovery and reduce Skill Cooldown for 6s",
+    "icon": "use_7_201.png"
+  },
+  "70000100": {
+    "grade": 1,
+    "name": "Rage",
+    "desc": "Chance of Atk./Move Speed +4% for 6s when skill is used. ",
+    "icon": "use_7_202.png"
+  },
+  "70000101": {
+    "grade": 2,
+    "name": "Rage",
+    "desc": "Chance of Atk./Move Speed +8% for 6s when skill is used. ",
+    "icon": "use_7_202.png"
+  },
+  "70000102": {
+    "grade": 3,
+    "name": "Rage",
+    "desc": "Chance of Atk./Move Speed +12% for 6s when skill is used. ",
+    "icon": "use_7_202.png"
+  },
+  "70000103": {
+    "grade": 4,
+    "name": "Rage",
+    "desc": "Chance of Atk./Move Speed +16% for 6s when skill is used. ",
+    "icon": "use_7_202.png"
+  },
+  "70000104": {
+    "grade": 5,
+    "name": "Rage",
+    "desc": "Chance of Atk./Move Speed +20% for 6s when skill is used. ",
+    "icon": "use_7_202.png"
+  },
+  "70000110": { "grade": 1, "name": "Overwhelm", "desc": "On skill hit, Stagger Damage +5%.", "icon": "use_7_203.png" },
+  "70000111": {
+    "grade": 2,
+    "name": "Overwhelm",
+    "desc": "On skill hit, Stagger Damage +10%.",
+    "icon": "use_7_203.png"
+  },
+  "70000112": {
+    "grade": 3,
+    "name": "Overwhelm",
+    "desc": "On skill hit, Stagger Damage +20%.",
+    "icon": "use_7_203.png"
+  },
+  "70000113": {
+    "grade": 4,
+    "name": "Overwhelm",
+    "desc": "On skill hit, Stagger Damage +30%.",
+    "icon": "use_7_203.png"
+  },
+  "70000114": {
+    "grade": 5,
+    "name": "Overwhelm",
+    "desc": "On skill hit, Stagger Damage +40%.",
+    "icon": "use_7_203.png"
+  },
+  "70000120": {
+    "grade": 1,
+    "name": "Wealth",
+    "desc": "On skill hit, Specialty Meter gain +10%.",
+    "icon": "use_7_204.png"
+  },
+  "70000121": {
+    "grade": 2,
+    "name": "Wealth",
+    "desc": "On skill hit, Specialty Meter gain +20%.",
+    "icon": "use_7_204.png"
+  },
+  "70000122": {
+    "grade": 3,
+    "name": "Wealth",
+    "desc": "On skill hit, Specialty Meter gain +30%.",
+    "icon": "use_7_204.png"
+  },
+  "70000123": {
+    "grade": 4,
+    "name": "Wealth",
+    "desc": "On skill hit, Specialty Meter gain +40%.",
+    "icon": "use_7_204.png"
+  },
+  "70000124": {
+    "grade": 5,
+    "name": "Wealth",
+    "desc": "On skill hit, Specialty Meter gain +50%.",
+    "icon": "use_7_204.png"
+  },
+  "70000131": {
+    "grade": 2,
+    "name": "Protection",
+    "desc": "Gain 5% of Max HP as a shield while casting skill",
+    "icon": "use_7_205.png"
+  },
+  "70000132": {
+    "grade": 3,
+    "name": "Protection",
+    "desc": "Gain 8% of Max HP as a shield while casting skill",
+    "icon": "use_7_205.png"
+  },
+  "70000133": {
+    "grade": 4,
+    "name": "Protection",
+    "desc": "Gain 12% of Max HP as a shield while casting skill",
+    "icon": "use_7_205.png"
+  },
+  "70000134": {
+    "grade": 5,
+    "name": "Protection",
+    "desc": "Gain 20% of Max HP as a shield while casting skill",
+    "icon": "use_7_205.png"
+  },
+  "70000140": {
+    "grade": 1,
+    "name": "Bleed",
+    "desc": "On skill hit, inflicts \"Bleeding\" on your foe for 3s.",
+    "icon": "use_7_206.png"
+  },
+  "70000141": {
+    "grade": 2,
+    "name": "Bleed",
+    "desc": "On skill hit, inflicts \"Bleeding\" on your foe for 4s.",
+    "icon": "use_7_206.png"
+  },
+  "70000142": {
+    "grade": 3,
+    "name": "Bleed",
+    "desc": "On skill hit, inflicts \"Bleeding\" on your foe for 5s.",
+    "icon": "use_7_206.png"
+  },
+  "70000143": {
+    "grade": 4,
+    "name": "Bleed",
+    "desc": "On skill hit, inflicts \"Bleeding\" on your foe for 6s.",
+    "icon": "use_7_206.png"
+  },
+  "70000144": {
+    "grade": 5,
+    "name": "Bleed",
+    "desc": "On skill hit, inflicts \"Bleeding\" on your foe for 8s.",
+    "icon": "use_7_206.png"
+  }
+}
